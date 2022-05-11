@@ -30,3 +30,5 @@ Raffles Girls’ Primary School continues its great tradition of excellence unde
 Amidst the fast-evolving education landscape, Mrs Yue dedicates her focus to building people by strengthening teacher professionalism, as well as emphasizing character-building and values amongst pupils.
  
 At work and at play, teachers and pupils share a warm relationship and work together as a team. Indeed, as the school song aptly puts it,
+
+##### “Together We Shall Strive, to Build a Better Life… Together, Together, All the Way"
