@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/banner-RGPS.jpeg
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: ""
         - title: Quick Links
           description: ""
           url: ""
