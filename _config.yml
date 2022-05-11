@@ -3,7 +3,7 @@ url: ""
 favicon: /images/RGPS-Logo-2008.png
 colors:
   primary-color: "#297141"
-  secondary-color: "#ca9d00"
+  secondary-color: "#a88301"
   media-colors:
     - title: media-color-one
       color: "#49759a"
