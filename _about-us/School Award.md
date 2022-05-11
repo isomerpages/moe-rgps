@@ -17,7 +17,7 @@ description: ""
 		<td>The <strong>Best Practice Award (BPA)</strong> for Teaching & Learning recognises schools for their effective practices and systems that lead to good education outcomes in both academic and non-academic areas. There are 3 categories for the BPA—Student All-Round Development, Staff Well-Being, and Teaching and Learning. </td>
   </tr>
 	  <tr>
-    <td><img src="/images/best%20prac%20award%202.jpeg" alt=""></td>
+    <td><img src="/images/best%20prac%20award%202.jpeg" alt="" style="width:177px; height:224px;"></td>
     <td></td>
   </tr>
 	  <tr>
