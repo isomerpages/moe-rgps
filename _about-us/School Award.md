@@ -52,6 +52,6 @@ The Lotus Award is awarded to schools that showcased at least one innovative env
   </tr>
 	  <tr>
     <td><img src="https://d33wubrfki0l68.cloudfront.net/db0a5fcc795879f4ed653d1632386f66973418e2/8943b/images/picture11.jpeg" alt=""></td>
-    <td>United States</td>
+			<td>The <strong>People Developer Standard</strong> recognises organisations that invest in their people and have a comprehensive system to manage the development of their people. </td>
   </tr>
 </table>
