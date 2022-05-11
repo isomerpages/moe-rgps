@@ -25,7 +25,7 @@ description: ""
     <td></td>
   </tr>
 	  <tr>
-    <td><img src="https://d33wubrfki0l68.cloudfront.net/42beaaa64a937f4b8ac09fda3fc2ed5d95c282d1/87cf3/images/picture6.jpeg" alt=""></td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/42beaaa64a937f4b8ac09fda3fc2ed5d95c282d1/87cf3/images/picture6.jpeg" alt="" style="width:163px; height:192px;"></td>
     <td>The goal of education is to nurture the whole child, including his/her character. Character development is the teaching of values and social and emotional competencies. It is also about providing opportunities for students to demonstrate behaviour consistent with the values taught. 
 <br>
 The Development Award for Character Development recognises schools that have put in place systems and processes for the effective development of students’ character. <br>The <strong>Outstanding Development Award</strong> for Character Development recognises schools with innovative, sustainable and exemplary approaches to character development.</td>
