@@ -31,56 +31,23 @@ description: ""
 The Development Award for Character Development recognises schools that have put in place systems and processes for the effective development of students’ character. <br>The <strong>Outstanding Development Award</strong> for Character Development recognises schools with innovative, sustainable and exemplary approaches to character development.</td>
   </tr>
 	  <tr>
-    <td>John Doe</td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/b96967e6c63bdd4e9b625ebb54ceeaab207bff5b/42c18/images/picture7.jpeg" alt=""></td>
     <td>United States</td>
   </tr>
 	  <tr>
-    <td>John Doe</td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/6dc3476b739dc84d63276740773d613fd560de66/e6d5a/images/picture8.jpeg" alt=""></td>
     <td>United States</td>
   </tr>
 	  <tr>
-    <td>John Doe</td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/e4766e9d0d550a4260ac9235e1214d397b83a40c/dfa9c/images/picture9.png" alt=""></td>
     <td>United States</td>
   </tr>
 	  <tr>
-    <td>John Doe</td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/fda6e46c6a0d35e86a628ee16f90c630bbe968bb/71edd/images/picture10.jpeg" alt=""></td>
     <td>United States</td>
   </tr>
 	  <tr>
-    <td>John Doe</td>
-    <td>United States</td>
-  </tr>
-	  <tr>
-    <td>John Doe</td>
-    <td>United States</td>
-  </tr>
-	  <tr>
-    <td>John Doe</td>
-    <td>United States</td>
-  </tr>
-	  <tr>
-    <td>John Doe</td>
-    <td>United States</td>
-  </tr>
-	  <tr>
-    <td>John Doe</td>
-    <td>United States</td>
-  </tr>
-	  <tr>
-    <td>John Doe</td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/db0a5fcc795879f4ed653d1632386f66973418e2/8943b/images/picture11.jpeg" alt=""></td>
     <td>United States</td>
   </tr>
 </table>
-
-
-
-![](/images/school%20excellence%20award.jpeg)
-![](/images/best%20practice%20award.jpeg)
-![](/images/best%20prac%20award%202.jpeg)
-![](/images/Picture5.jpeg)
-![](/images/Picture6.jpeg)
-![](/images/Picture7.jpeg)
-![](/images/Picture8.jpeg)
-![](/images/Picture9.png)
-![](/images/Picture10.jpeg)
-![](/images/Picture11.jpeg)
