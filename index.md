@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Quick Links
           description: ""
-          url: ""
+          url: /quick-links
         - title: Home-based Learning
           description: ""
           url: ""
