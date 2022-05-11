@@ -15,9 +15,9 @@ sections:
         - title: Quick Links
           description: ""
           url: ""
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Home-based Learning
+          description: ""
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
