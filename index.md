@@ -19,9 +19,11 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Survey for 2021 Pri 6 Students
+      subtitle: Announcements
+      description: Dear 2021 Primary 6 students, RGPS would like to gather some
+        feedback from you through a 5 min survey. Kindly complete by 22 April,
+        thank you!
+      button: Click here
+      url: https://form.gov.sg/#!/61fcf2ce1603b90012b8affa
 ---
