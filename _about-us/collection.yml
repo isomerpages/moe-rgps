@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - RGPS Girl.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
+      - RGPS Girl.md
