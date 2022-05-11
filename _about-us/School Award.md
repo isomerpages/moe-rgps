@@ -38,7 +38,7 @@ The NE Awards recognise schools for their NE efforts. There are two levels of at
   </tr>
 	  <tr>
     <td><img src="https://d33wubrfki0l68.cloudfront.net/6dc3476b739dc84d63276740773d613fd560de66/e6d5a/images/picture8.jpeg" alt=""></td>
-    <td>United States</td>
+			<td><strong>Partner's Award (Merit)</strong>: PARTNERS Award recognises efforts made by schools in promoting and strengthening collaborative partnerships with their stakeholders such as parents, the alumni, School Advisory Committee/School Management Committee (SAC/SMC), community groups and business organisations. </td>
   </tr>
 	  <tr>
     <td><img src="https://d33wubrfki0l68.cloudfront.net/e4766e9d0d550a4260ac9235e1214d397b83a40c/dfa9c/images/picture9.png" alt=""></td>
