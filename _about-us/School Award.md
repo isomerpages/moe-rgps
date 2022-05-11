@@ -54,7 +54,8 @@ The Lotus Award is awarded to schools that showcased at least one innovative env
     <td><img src="https://d33wubrfki0l68.cloudfront.net/db0a5fcc795879f4ed653d1632386f66973418e2/8943b/images/picture11.jpeg" alt=""></td>
 			<td>The <strong>People Developer Standard</strong> recognises organisations that invest in their people and have a comprehensive system to manage the development of their people. </td>
   </tr>
+	<tr>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/89ef811abab2ec2098cff3071bb6f78ff7766f1c/0ec31/images/sqc.jpeg" alt=""></td>
+		<td><strong>Singapore Quality Class (SQC)</strong> is the certification for the overall excellence standard. The SQC provides organisations with a holistic model for managing business excellence. It has seven dimensions of excellence, namely, Leadership, Planning, Information, People, Processes, Customers and Results.</td>
+  </tr>
 </table>
-
-
-![](/images/SQC.jpeg)
