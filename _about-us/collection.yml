@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - 4Cs Song.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
       - RGPS Girl.md
       - School Song.md
+      - 4Cs Song.md
