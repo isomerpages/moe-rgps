@@ -31,4 +31,4 @@ Amidst the fast-evolving education landscape, Mrs Yue dedicates her focus to bui
  
 At work and at play, teachers and pupils share a warm relationship and work together as a team. Indeed, as the school song aptly puts it,
 
-##### “Together We Shall Strive, to Build a Better Life… Together, Together, All the Way"
+#### “Together We Shall Strive, to Build a Better Life… Together, Together, All the Way"
