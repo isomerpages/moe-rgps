@@ -31,7 +31,7 @@ description: ""
 The Development Award for Character Development recognises schools that have put in place systems and processes for the effective development of students’ character. <br>The <strong>Outstanding Development Award</strong> for Character Development recognises schools with innovative, sustainable and exemplary approaches to character development.</td>
   </tr>
 	  <tr>
-    <td><img src="https://d33wubrfki0l68.cloudfront.net/b96967e6c63bdd4e9b625ebb54ceeaab207bff5b/42c18/images/picture7.jpeg" alt=""></td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/b96967e6c63bdd4e9b625ebb54ceeaab207bff5b/42c18/images/picture7.jpeg" alt="" style="width:158px; height:207px;"></td>
     <td>National Education (NE) is an important part of the education process. It provides the knowledge, experience and tools for our students to know and understand Singapore, acquire a well-founded confidence about the Singaporean way of life, and critically think about how they can shape Singapore’s future.
 <br>
 The NE Awards recognise schools for their NE efforts. There are two levels of attainment for the NE Awards: Development Award and <strong>Outstanding Development Award</strong>. The attainment of the level of award depends on how well a school meets the evaluation criteria.  </td>
