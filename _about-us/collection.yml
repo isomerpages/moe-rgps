@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - School Song.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
       - RGPS Girl.md
+      - School Song.md
