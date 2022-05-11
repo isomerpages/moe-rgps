@@ -47,7 +47,7 @@ The NE Awards recognise schools for their NE efforts. There are two levels of at
 	  <tr>
     <td><img src="https://d33wubrfki0l68.cloudfront.net/fda6e46c6a0d35e86a628ee16f90c630bbe968bb/71edd/images/picture10.jpeg" alt=""></td>
 			<td>The <strong>Sustained Lotus Award</strong> is awarded to schools that have attained the Lotus Award three or more times consecutively.
-
+<br>
 The Lotus Award is awarded to schools that showcased at least one innovative environmental project; and participated in an external activity to promote Singapore’s sustainability. </td>
   </tr>
 	  <tr>
