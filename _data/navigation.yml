@@ -1,8 +1,14 @@
 logo: /images/RGPS-Logo-2008.png
 links:
+  - title: About Us
+    collection: collection
+  - title: Programme
+    collection: collection
   - title: Contact Us
     url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Collection
+  - title: Parents
+    collection: collection
+  - title: Staff
+    collection: collection
+  - title: Partners
     collection: collection
