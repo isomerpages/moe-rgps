@@ -21,7 +21,7 @@ description: ""
     <td></td>
   </tr>
 	  <tr>
-    <td><img src="https://d33wubrfki0l68.cloudfront.net/fd7f731013c249341b15757c32d87b78866b33d6/3ae6c/images/picture5.jpeg" alt=""></td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/fd7f731013c249341b15757c32d87b78866b33d6/3ae6c/images/picture5.jpeg" alt="" style="width:172px; height:172px;"></td>
     <td></td>
   </tr>
 	  <tr>
