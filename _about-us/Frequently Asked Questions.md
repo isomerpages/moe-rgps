@@ -19,4 +19,4 @@ description: ""
 <br>
 
 4\. **How can I contact my child’s form teacher?**
-<br>You may contact your child’s teacher via email. The form teachers email addresses can be found [here](https://rafflesgirlspri.moe.edu.sg/staff/staff-list).
+<br>You may contact your child’s teacher via email. The form teachers email addresses can be found [here](/staff/management-committee).
