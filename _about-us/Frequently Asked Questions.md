@@ -11,7 +11,7 @@ description: ""
 <br>
 
 2\. **Who should I contact to provide feedback to the school?**
-<br>You may email your feedback to [rgps@moe.edu.sg](mailto:rgps@moe.edu.sg)<br>
+<br>You may email your feedback to [rgps@moe.edu.sg](mailto:rgps@moe.edu.sg)
 <br>
 
 3\. **What should I do if I need to contact my child urgently while she is in school?**
