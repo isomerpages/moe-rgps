@@ -2,5 +2,4 @@ collections:
   parents:
     output: true
     order:
-      - Subject Departments/English.md
       - Subject Departments/.keep
