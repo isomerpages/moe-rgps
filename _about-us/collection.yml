@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Philosophy.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
@@ -13,3 +12,4 @@ collections:
       - School Rules and Regulations.md
       - Organisation Structure.md
       - Frequently Asked Questions.md
+      - School Philosophy.md
