@@ -10,13 +10,13 @@ sections:
       background: /images/banner-RGPS.jpeg
       key_highlights:
         - title: Notifications
-          description: ""
+          description: Important Updates for Pri 1-6
           url: ""
         - title: Quick Links
-          description: ""
+          description: To Access Useful  Resources
           url: /quick-links
         - title: Home-based Learning
-          description: ""
+          description: Schedule for online HBL
           url: ""
   - infobar:
       title: Survey for 2021 Pri 6 Students
