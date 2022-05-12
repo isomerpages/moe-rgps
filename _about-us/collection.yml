@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules and Regulations.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
@@ -10,3 +9,4 @@ collections:
       - School Song.md
       - 4Cs Song.md
       - School Award.md
+      - School Rules and Regulations.md
