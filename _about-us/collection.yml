@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Frequently Asked Questions.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
@@ -12,3 +11,4 @@ collections:
       - School Award.md
       - School Rules and Regulations.md
       - Organisation Structure.md
+      - Frequently Asked Questions.md
