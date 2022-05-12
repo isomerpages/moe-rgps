@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Organisation Structure.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
@@ -11,3 +10,4 @@ collections:
       - 4Cs Song.md
       - School Award.md
       - School Rules and Regulations.md
+      - Organisation Structure.md
