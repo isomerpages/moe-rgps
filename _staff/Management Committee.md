@@ -15,3 +15,9 @@ description: ""
 	<p style="color:#ac3837">Ms Kong Su May<br>
 <a href = "mailto: kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>
 <br>
+
+
+| Name | Role | Email |
+| -------- | -------- | -------- |
+| Mdm Yue Siew Poh    | Year Head P1 - 2    | yue_siew_poh@schools.gov.sg|
+| Ms Lim Pheh Fuen Elicia    | Asst. Year Head P1 - 2   | lim_pheh_fuen@schools.gov.sg|
