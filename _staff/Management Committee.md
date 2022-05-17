@@ -5,14 +5,14 @@ description: ""
 ---
 <h3>Principal
 <p style="color:#ac3837">Mrs Elaine Quek<br>
-<a href = "mailto: lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>
+	<a href = "mailto: lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a></p>
 <br>
 <h3>Vice Principal (Admin)
 	<p style="color:#ac3837">Mr Loh Yun Por<br>
-<a href = "mailto: loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>
+		<a href = "mailto: loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a></p>
 <br>
 <h3>Vice Principal
-	<p style="color:#ac3837">Ms Kong Su May<br>
+	<p style="color:#ac3837">Ms Kong Su May</p><br>
 <a href = "mailto: kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>
 <br>
 
