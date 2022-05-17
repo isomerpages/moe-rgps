@@ -8,3 +8,10 @@ description: ""
 <a href = "mailto: lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>
 <br>
 <h3>Vice Principal (Admin)
+	<p style="color:#ac3837">Mr Loh Yun Por<br>
+<a href = "mailto: loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>
+<br>
+<h3>Vice Principal
+	<p style="color:#ac3837">Ms Kong Su May<br>
+<a href = "mailto: kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>
+<br>
