@@ -21,3 +21,5 @@ description: ""
 | -------- | -------- | -------- |
 | Mdm Yue Siew Poh    | Year Head P1 - 2    | yue_siew_poh@schools.gov.sg|
 | Ms Lim Pheh Fuen Elicia    | Asst. Year Head P1 - 2   | lim_pheh_fuen@schools.gov.sg|
+|Mdm Janice Yeo    | Year Head P3 - 4  | yeo_hwei_hwei_janice@schools.gov.sg|
+|Ms Tan Li Peng    | Asst. Year Head P3 - 4  | tan_li_peng@schools.gov.sg|
