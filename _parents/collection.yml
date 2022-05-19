@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Events Calendar/.keep
       - From the Principal's Desk/2020.md
       - From the Principal's Desk/.keep
