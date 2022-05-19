@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Events Calendar/Semester 2.md
-      - Events Calendar/Semester 1.md
       - Events Calendar/.keep
+      - Events Calendar/Semester 1.md
+      - Events Calendar/Semester 2.md
       - From the Principal's Desk/2020.md
       - From the Principal's Desk/.keep
