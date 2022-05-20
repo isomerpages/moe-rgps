@@ -19,4 +19,4 @@ The General Office fax number is (65) 6469-2024.
 |[Replacement of Lost Concession](https://www.transitlink.com.sg/lost-card-replacement/)| Concession card holders can apply for a replacement card.|
 |[POSB Smart Buddy](http://www.posb.com.sg/sb-schools)| RGPS has been partnering with POSB to implement POSB Smart Buddy since 14 August 2017. With this programme, Your child / ward will be able to make payments at the school bookshop, canteen and selected merchants outside of school with the Smart Buddy watch. If the watch is faulty, students are able to have a 1-for-1 replacement at the General Office.|
 |Leave of Absence<br>[Application Form](https://go.gov.sg/rgps-loa)| For parents who are bringing their children overseas with them upon job posting and wish to retain a place in the school. The application has to be renewed yearly. Application must reach the school by 15 Dec for renewal to be effective the following year.|
-|
+|[Immersion Program](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2021/Immersion%20Form%20for%20application.pdf)|For pupils who wants to join the school for Immersion Programme.|
