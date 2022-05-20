@@ -33,5 +33,4 @@ third_nav_title: Notifications
 
 | Date | File | 
 | -------- | -------- | 
-| 25/11/2020   | Parents Gateway Broadcast: <br>[Registration of PayNow](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Parents%20Gateway%20Broadcast%20-%20PayNow%20final.docx) | 
-
+| 25/11/2020   | Parents Gateway Broadcast: <br>[Registration of PayNow](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Parents%20Gateway%20Broadcast%20-%20PayNow%20final.docx) |
