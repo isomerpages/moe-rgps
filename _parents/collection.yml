@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Notifications/.keep
       - Events Calendar/.keep
       - Events Calendar/Semester 1.md
       - Events Calendar/Semester 2.md
@@ -10,3 +9,4 @@ collections:
       - From the Principal's Desk/.keep
       - From the Principal's Desk/2020.md
       - Family Matters @ School.md
+      - Notifications/.keep
