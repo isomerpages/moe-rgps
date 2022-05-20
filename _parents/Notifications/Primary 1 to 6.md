@@ -27,3 +27,11 @@ third_nav_title: Notifications
 |4/5/2022| [2022 May Circulars](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2022/P1-6/Term%202/RGPS_N22_G_013_May%20PG%20all%20levels.pdf)|
 |17/5/2022| [Return of Exam Scripts and Issue of Report Books](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2022/P1-6/Term%202/RGPS_N22G014_Return%20of%20Exam%20Scripts%20%20Issue%20of%20Report%20Books.pdf)|
 
+# 2021 Notifications
+## Term 1
+
+
+| Date | File | 
+| -------- | -------- | 
+| 25/11/2020   | Parents Gateway Broadcast: <br>[Registration of PayNow](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Parents%20Gateway%20Broadcast%20-%20PayNow%20final.docx) | 
+
