@@ -29,4 +29,4 @@ description: ""
 66, 67, 74, 151, 154, 156, 157, 170, 174, 852, 961
 
 # Nearest MRT Station
-Tan Kah Kee MRT (Downtown Line) & Botanic Garden MRT (Circle Line & Downtown Line) 
+Tan Kah Kee MRT (Downtown Line) & Botanic Garden MRT (Circle Line & Downtown Line)
