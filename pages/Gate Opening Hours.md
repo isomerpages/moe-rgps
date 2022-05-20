@@ -30,3 +30,6 @@ description: ""
 
 # Nearest MRT Station
 Tan Kah Kee MRT (Downtown Line) & Botanic Garden MRT (Circle Line & Downtown Line)
+
+# School Code
+1073
