@@ -23,13 +23,8 @@ locations:
     title: Gate Opening Hours
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - phone: +65 6468 4377
+      - email: rgps@moe.edu.sg
+      - other: "Fax: 64692024"
+    title: General Enquiries
 ---
