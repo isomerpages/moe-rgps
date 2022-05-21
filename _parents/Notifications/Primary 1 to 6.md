@@ -85,6 +85,5 @@ third_nav_title: Notifications
 |25/7/2021|[P2 to P6 HBL](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/P2%20to%20P6%20HBL.pdf)|
 |30/7/2021|[National Day Celebrations](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_44%20National%20Day%20Celebration%202021.pdf)|
 |17/8/2021|[Teachers' Day Celebrations](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/TEACHERS%20DAY%20CELEBRATION.pdf)|
-|18/8/2021|[Letter to Parents on Further Updates](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Attachment%201%20-%20Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf) <br>to LOA and AA Policy|
+|18/8/2021|[Letter to Parents on Further Updates to LOA and AA Policy](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Attachment%201%20-%20Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf)|
 |1/9/2021|[Health Newsletter for Term 3](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Health%20Newsletter%20for%20Term%203.pdf)|
-
