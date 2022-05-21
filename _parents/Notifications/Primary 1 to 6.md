@@ -35,3 +35,10 @@ third_nav_title: Notifications
 | -------- | -------- | 
 | 25/11/2020   | Parents Gateway Broadcast: <br>[Registration of PayNow](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Parents%20Gateway%20Broadcast%20-%20PayNow%20final.docx) |
 |30/12/2020| [Welcome Back to School Letter](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G_001%20Welcome%20Back%20to%20School.pdf)|
+|5/1/2021| [Issue of Lockers Notification](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N20_G_002%20Issue%20of%20Lockers.pdf)|
+6/1/2021| [Resumption of CCA](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G003__%20Resumption%20of%20CCA.pdf)|
+|8/1/2021| [Traffic Advisory by LTA (2nd Notice)](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Traffic%20Advisory%20by%20LTA%202nd%20notice.pdf)|
+|12/1/2021| [School Matters and Calendar of Events](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G_08%20School%20matters%20and%20calender%20of%20events%202021%20Semester%201.pdf)|
+|22/1/2021| [Parent's Kit - Starting School Right](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)|
+|22/1/2021| [Traffic Sign Design Competition](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G010_Traffic%20Sign%20Design%20Competition.pdf)|
+|22/1/2021|
