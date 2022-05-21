@@ -67,3 +67,24 @@ third_nav_title: Notifications
 |25/6/2021| [Updates to Schools LOA and AA Policy](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/Updates%20to%20Schools%20LOA%20and%20AA%20Policy.pdf)|
 |25/6/2021|[Resumption of School Health and Dental Services](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RESUMPTION%20OF%20SCHOOL%20HEALTH%20AND%20DENTAL%20SERVICE.pdf)|
 
+## Term 3
+
+
+
+| Date | File | 
+| -------- | -------- |
+| 1/7/2021  | [CCA Policy Updates](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_018%20CCA%20Policy%20Updates.pdf) |
+|3/7/2021| [Traffic Advisory at Watten Drive](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_032%20Traffic%20Advisory%20at%20Watten%20Drive.pdf)<br>[Advisory with Map](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_032%20RGPS%20Advisory%20with%20map_%20June%202021.pdf)|
+|6/7/2021| [Calendar of Events (Sem 2)](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_033%20Calender%20of%20Events%20Sem%202%20-%206%20July.pdf)|
+|7/7/2021| [Arts Fest 2021](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_034%20Arts%20Fest%202021.pdf)|
+|14/7/2021| [Racial Harmony Day](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Racial%20Harmony%20Day.pdf)|
+|16/7/2021|[P1/P2 iCON Email](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/P1P2%20iCON%20EMAIL.pdf)|
+|21/7/2021| [Caring Supporting One Another](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_41%20Caring%20%20Supporting%20One%20Another.pdf)|
+|21/7/2021| [Covid-19 Enhanced Measures](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_42%20Covid-19%20Enhanced%20Measures%20-%20Health%20Risk%20Warning_Health%20Risk%20Alert.pdf)<br>(Health Risk Warning & Health Risk Alert)|
+|23/7/2021|[RGPS Library Week 2021](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_040_RGPS%20Library%20Week%202021.pdf)<br>[E-flyer for Chinese Books](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/E-flyer%20for%20Chinese%20Books.pdf)<br>[E-flyer for Malay Books](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/E-flyer%20for%20Malay%20Books.pdf)|
+|25/7/2021|[P2 to P6 HBL](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/P2%20to%20P6%20HBL.pdf)|
+|30/7/2021|[National Day Celebrations](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/RGPS_N21_G_44%20National%20Day%20Celebration%202021.pdf)|
+|17/8/2021|[Teachers' Day Celebrations](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/TEACHERS%20DAY%20CELEBRATION.pdf)|
+|18/8/2021|[Letter to Parents on Further Updates](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Attachment%201%20-%20Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf) <br>to LOA and AA Policy|
+|1/9/2021|[Health Newsletter for Term 3](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Health%20Newsletter%20for%20Term%203.pdf)|
+
