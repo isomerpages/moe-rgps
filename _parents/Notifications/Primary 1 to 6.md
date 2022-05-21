@@ -87,3 +87,24 @@ third_nav_title: Notifications
 |17/8/2021|[Teachers' Day Celebrations](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/TEACHERS%20DAY%20CELEBRATION.pdf)|
 |18/8/2021|[Letter to Parents on Further Updates to LOA and AA Policy](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Attachment%201%20-%20Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy.pdf)|
 |1/9/2021|[Health Newsletter for Term 3](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Health%20Newsletter%20for%20Term%203.pdf)|
+
+## Term 4
+
+
+
+| Date| File| 
+| -------- | -------- | 
+| 13/9/2021 | [MOE Letter to Parents on ART Kit Distribution](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/MOE%20Letter%20to%20Parents%20for%20ART%20Kit%20Distribution.pdf)|
+|16/9/2021| [Self Swab Instructions](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/RGPSN21G051%20Self%20Swab%20Instructions%20EnglishChinese.pdf) <br> (English and Chinese)| 
+|20/9/2021|[Home-Based Learning (HBL) - Other Updates](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/RGPS_N21_G52_T4%20Home-Based%20Learning%20HBL%20%20other%20updates.pdf)|
+|20/9/2021| [MOE FAS Pamphlet](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/MOE_FAS_Pamphlet_2022.pdf)<br>[MOE FAS Application Form](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/MOE%20FAS%20Application%20Form.pdf)|
+|5/10/2021| [Childrens' Day 2021](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/RGPS_N21_G056_Childrens%20Day%202021.pdf)|
+|7/10/2021|[School Arrangements for 11 to 22 October](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/RGPS_N21_G_057%20School%20Arrangements%20for%2011%20to%2022%20October.pdf)|
+|14/10/2021| [Advisory on Travel - Year End 2021](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/Advisory%20on%20Travel%20-%20Year%20End%202021.pdf)|
+|1/11/2021| [Letter to Parents - NTUC Fairprice Textbook Donation](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/Letter%20to%20parents%20NTUC%20Fairprice%20Textbook%20Donation.pdf)|
+|2/11/2021|[SCC Brochure 2022](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/RGPS_N21_G_061%20SCC%20Brochure%202022RGPS%20Final.pdf)|
+|9/11/2021|[PTC and Issue of Report Books](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/RGPS_N21_G_060%20PTC%20and%20issue%20of%20report%20books.pdf)|
+|17/11/2021|[Transport - Bus Service Info Sheet on School Bus Services](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/Transport%20-%20Bus%20service%20info%20sheet%20on%20school%20bus%20services.pdf)|
+|17/11/2021|[Joint Advisory Dec 2021](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/Joint%20Advisory%20Dec%202021.pdf)|
+|17/11/2021| [Health Newsletter (Term 4)](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%204/HEALTH%20NEWSLETTER%20T4%202021.pdf)|
+
