@@ -38,7 +38,32 @@ third_nav_title: Notifications
 |5/1/2021| [Issue of Lockers Notification](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N20_G_002%20Issue%20of%20Lockers.pdf)|
 6/1/2021| [Resumption of CCA](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G003__%20Resumption%20of%20CCA.pdf)|
 |8/1/2021| [Traffic Advisory by LTA (2nd Notice)](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Traffic%20Advisory%20by%20LTA%202nd%20notice.pdf)|
-|12/1/2021| [School Matters and Calendar of Events](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G_08%20School%20matters%20and%20calender%20of%20events%202021%20Semester%201.pdf)|
+|12/1/2021| [School Matters and Calendar of Events (Sem 1)](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G_08%20School%20matters%20and%20calender%20of%20events%202021%20Semester%201.pdf)|
 |22/1/2021| [Parent's Kit - Starting School Right](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Parent%20Kit%20-%20Starting%20School%20Right%20Jan%202020.pdf)|
-|22/1/2021| [Traffic Sign Design Competition](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G010_Traffic%20Sign%20Design%20Competition.pdf)|
-|22/1/2021|
+|22/1/2021| [Traffic Sign Design Competition Invitation Letter](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G010_Traffic%20Sign%20Design%20Competition.pdf) <br> [Traffic  Sign Design Competition Instructions](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Traffic%20Sign%20Design%20Competition.pdf)|
+|2/2/2021| [Chinese New Year Celebrations](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G013_Chinese%20New%20Year%20Celebration.pdf)|
+|1/3/2021| [Guidelines on Use of Smart Watches](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G_016%20Guidelines%20on%20Use%20of%20Smart%20Watches.pdf)|
+|16/3/2021|[Health Newsletter Team](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/Health%20Newsletter%20Term%201%202021.pdf)|
+19/3/2021|[Donation Drive for Oncology Snack Pack Programme](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%201/RGPS_N21_G_017_Donation%20Drive%20for%20Oncology%20Snack%20Pack%20Progamme.pdf)|
+
+## Term 2
+
+
+| Date |File | 
+| -------- | -------- | 
+| 7/4/2021   | [Letter to Parents](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/Letter%20to%20parents%20RGPS.pdf) | 
+|20/4/2021| [NKF Design Sticker Competition Notification](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RGPS_N21_G_021%20NKF_Sticker_Design_Competition_Notification.pdf)|
+20/4/2021| [Invitation to Participate in the 3rd Nanyang International Music Competition Singapore](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RGPS_N21_G_022%20Invitation%20to%20Participate%20in%20the%203rd%20Nanyang%20International%20Music%20Competition%20Singapore.pdf)|
+|11/5/2021| [Advisory on Travel](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/Appendix%203%20-%20Advisory%20on%20Travel.pdf)|
+|17/5/2021| [Home-Based Learning (HBL) Safe Management Measures (SMM) P6 Supplementary Lessons](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RGPS_N21_G028%20Home-Based%20Learning%20HBL%20Safe%20Management%20Measures%20SMM%20P6%20Supplementary%20Lessons.pdf)|
+|18/5/2021| [Instrumental Recital 2021](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RGPS_N21_G_026_Instrumental%20Recital%202021.pdf)|
+|19/5/2021|[HPB School Health and Dental Services](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/19%20May%202021%20HPB%20School%20Health%20and%20School%20Dental%20Services.pdf)|
+|21/5/2021| [Crime Advisory](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/Jun%202021%20crime%20advisory.pdf)|
+|27/5/2021| [Health Newsletter (Term 2)](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/HEALTH%20NEWSLETTER%20Term%202%202021.pdf)|
+|31/5/2021|[Kao International Painting Contest](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RGPS_N21_G_029%20Kao%20International%20Painting%20Contest.pdf)|
+|7/6/2021|[Cluster E Triple P Seminars](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/Cluster%20E%20Triple%20P%20Seminars.pdf)|
+|15/6/2021| [Public FAQ for Student Monthly Concession Pass Refund](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/Public%20FAQ%20for%20Student%20Monthly%20Concession%20Pass%20Refund_Final.pdf)|
+|21/6/2021|[School Reopening Letter (Term 3)](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RGPS_N21_G031_T3%20Sch%20Reopening_21Jun.pdf)|
+|25/6/2021| [Updates to Schools LOA and AA Policy](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/Updates%20to%20Schools%20LOA%20and%20AA%20Policy.pdf)|
+|25/6/2021|[Resumption of School Health and Dental Services](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%202/RESUMPTION%20OF%20SCHOOL%20HEALTH%20AND%20DENTAL%20SERVICE.pdf)|
+
