@@ -18,7 +18,6 @@ locations:
       - ""
       - ""
       - ""
-    operating_hours: []
     maps_link: /gate-opening-hours
     title: Gate Opening Hours
 contacts:
