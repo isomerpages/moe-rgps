@@ -34,4 +34,4 @@ Aims of ALP Programme:
 
 | **Purpose** | 
 | -------- | 
-| The purpose of these programmes is to:<br><ul><li>encourage students to speak clearly and expressively;</li><li>develop confidence;</li><li>expose students to different aspects of reading;</li><li>have students demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;</li><li>nurture confident and articulate speakers; </li><li>allow students to pursue creative and expressive capacities.</li></ul>|
+| The purpose of these programmes is to:<br>- encourage students to speak clearly and expressively;<br>- develop confidence;<br>- expose students to different aspects of reading;<br>- have students demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;<br>- nurture confident and articulate speakers; <br>- allow students to pursue creative and expressive capacities.</ul>|
