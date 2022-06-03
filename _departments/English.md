@@ -6,7 +6,7 @@ description: ""
 # Mission
 To equip our students with literacy skills that enable them to be linguistically competent and confident users of the English Language.
 
-Organisational Chart
+[Organisational Chart](/english/organisational-chart) 
 <br>
 Programmes
 <br>
