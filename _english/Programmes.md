@@ -59,3 +59,19 @@ The purpose of this programme are to:
 * demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;
 * nurture confident and articulate speakers; and
 * allow students to pursue creative and expressive capacities.
+
+
+| Programme | Approach | 
+| -------- | -------- | 
+| Raffles Voice (Speakers’ Corner)  | Participants are P5 and P6 students who gather to talk about a range of social, educational and trending topics. | 
+
+**Purpose**
+
+The purpose of this programme is to:
+
+* provide students a platform to express themselves clearly, with confidence and power, in a variety of speaking situations;
+* allow students to speak with poise in front of an audience;
+* allow students to express ideas in a compelling and convincingly manner;
+* provide an opportunity for students to motivate audience to influence listeners positively; and
+* allow students to share information which enhances an audience understanding of a subject.
+
