@@ -42,3 +42,10 @@ The purpose of these programmes is to:
 * have students demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;
 * nurture confident and articulate speakers; 
 * allow students to pursue creative and expressive capacities.
+
+
+
+| Programme | Approach | 
+| -------- | -------- | 
+| P5 - P6 Impromptu Speech  | Using guided lesson plans, teachers teach students how to use PREP to answer the question posed. Students will be given opportunities to speak in their groups. Every student gets to practice her oral skills, hear each other and give feedback. All students get to present to the class.<br><br>Due to social distancing measures implemented in school, the competition in 2020 took a different format. Instead of having the whole cohort in the hall to watch a competition, the participant of each class did a video recording to record their individual speech. The recorded clips were then assessed by judges. | 
+
