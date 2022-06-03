@@ -2,5 +2,6 @@ collections:
   english:
     output: true
     order:
+      - Assessment.md
       - Organisational Chart.md
       - Programmes.md
