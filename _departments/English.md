@@ -12,4 +12,4 @@ To equip our students with literacy skills that enable them to be linguistically
 <br>
 [Assessment](/english/assessment)
 <br>
-Social Studies
+[Social Studies](/english/social-studies)
