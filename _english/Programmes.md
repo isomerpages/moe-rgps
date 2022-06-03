@@ -78,5 +78,8 @@ The purpose of this programme is to:
 
 | Programme | Approach | 
 | -------- | -------- | 
-| Literature-in-Action | Teachers provide a conducive environment in which students are encouraged to speak up - discuss issues and to ask thought-provoking questions. Experiences are important in students’ oral development. Students will demonstrate visual acuity and aesthetic sensibilities and sensitivities in expressing themselves. They will also have the means of formulating and expressing ideas, perceptions and feelings. | 
+| Literature-in-Action | Teachers provide a conducive environment in which students are encouraged to speak up - discuss issues and to ask thought-provoking questions. Experiences are important in students’ oral development. Students will demonstrate visual acuity and aesthetic sensibilities and sensitivities in expressing themselves. They will also have the means of formulating and expressing ideas, perceptions and feelings. |
 
+**Purpose**
+
+Providing literature-rich programmes promotes and facilitates effective Language Arts teaching and learning. Students learn to critique and articulate different perspectives, linked to the theme, characters and plot found in literature texts.
