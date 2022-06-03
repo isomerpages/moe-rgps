@@ -83,3 +83,22 @@ The purpose of this programme is to:
 **Purpose**
 
 Providing literature-rich programmes promotes and facilitates effective Language Arts teaching and learning. Students learn to critique and articulate different perspectives, linked to the theme, characters and plot found in literature texts.
+
+
+| Programme | Approach | 
+| -------- | -------- |
+| Using Drama in EL classroom | Experiential learning to aid understanding perspectives and POVs. To understand motives and intentions of characters. | 
+
+**Purpose**
+
+Students will demonstrate their deeper understandings of synergies inherent in the exchange of ideas and information and thus communicate more effectively. They will be able to explore, reflect on, and express their own ideas, learning, perceptions and feelings, to demonstrate sensitivity and empathy where necessary in communicating various kinds of emotions and information and present information and instructions clearly, logically, concisely and accurately for a variety of purposes, audiences and contexts.
+
+## Enrichment (for selected students)
+
+| JUMUN (P5) |  | 
+| -------- | -------- |
+| Objectives | The programme aims to: <br> 1. sensitise students to global issues (social, environmental, cultural, humanitarian, economic, political etc);<br>2. instil empathy in our students as they view global issues through multiple perspectives (countries which they represent);<br>3. develop students’ critical thinking routines;<br>4. enhance students’ information search & research skills; and<br>5. enhance students’ oracy and communication skills through debates of issues.|
+| Programme Outline | JMUN is a multidisciplinary activity where participants take the roles of delegates at the United Nations and engage in constructive discussions on current global issues (social, environmental, cultural, humanitarian, economic, political etc). Participants will be introduced to the working model of the United Nations and work collaboratively in teams to debate on global issues through multiple perspectives. The programme aims to enhance students’ critical thinking, debate, diplomacy, research, writing and oracy skills.|
+
+
+
