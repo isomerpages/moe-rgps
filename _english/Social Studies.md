@@ -27,3 +27,11 @@ description: ""
 | **Primary 4** | **National Museum of Singapore (Term 2)**<br><br>The focus of the learning experience is for students to develop an understanding of:<br>1. what life was like in the past; and<br>2. the contributions of settlers to the development of Singapore.|
 | **Primary 5** | 	**Sungei Buloh Wetland Reserve (Term 2)**<br>The focus of the learning experience is for students to learn about Singapore’s first ASEAN Heritage Park. |
 | **Primary 6** | **Singapore Botanic Gardens (Term 4)**<br><br>The focus of the learning experience is for students to learn about how Singapore is connected to the rest of Southeast Asia through the Heritage Museum and the heritage trees found in the gardens. This will help pupils understand the importance of preserving our heritage sites in Southeast Asia.|
+
+## Assessment Matters
+
+**Assessment Items:**
+* Activities in Activity Books
+* Group Activities
+* Mini-Quizzes
+* Performance Tasks
