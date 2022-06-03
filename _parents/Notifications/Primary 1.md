@@ -31,7 +31,6 @@ third_nav_title: Notifications
 | 3/2/2021 | [Principals e-address to P1 parents](/files/RGPSN21P1001_Principals%20e-address%20to%20P1%20parents.pdf) |
 | 10/2/2021 | [The Food ABC Colouring Contest](/files/The%20food%20ABC%20Colouring%20Contest%20PDF_P1_P2.pdf) |
 | 18/2/2021 | [Principals e-address to P1 Parents](/files/RGPSN21P1001_Principals%20e-address%20to%20P1%20parents.pdf) |
-| 12/3/2021 | [Term 1 PAM Updates]()|
+| 12/3/2021 | [Term 1 PE, Art & Music Updates](/files/RGPS_N22_P1_005%20Term1%20PAM%20Update.pdf) |
+| 12/3/2021 | [P1 VIA Letter to Parents](/files/RGPS_N21_P1_006_P1%20VIA%20Letter%20to%20Parent_2021.pdf) |
 |  |  |
-|  |  |
-
