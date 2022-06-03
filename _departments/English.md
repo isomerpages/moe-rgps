@@ -8,7 +8,7 @@ To equip our students with literacy skills that enable them to be linguistically
 
 [Organisational Chart](/english/organisational-chart) 
 <br>
-Programmes
+[Programmes](/english/programmes)
 <br>
 Assessment
 <br>
