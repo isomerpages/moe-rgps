@@ -10,6 +10,6 @@ To equip our students with literacy skills that enable them to be linguistically
 <br>
 [Programmes](/english/programmes)
 <br>
-Assessment
+[Assessment](/english/assessment)
 <br>
 Social Studies
