@@ -41,4 +41,3 @@ The purpose of these programmes is to:
 * have students demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;
 * nurture confident and articulate speakers; 
 * allow students to pursue creative and expressive capacities.
-
