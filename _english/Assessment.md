@@ -37,6 +37,14 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 |  | Term 1 | Term 2 | Term 3 | Term 4 |
 | -------- | -------- | -------- |-------- |-------- |
 |     | -    | **Weighted Assessment 1**   | **Weighted Assessment 2**   | **End of Year Examination** | 
-|  Primary 3 & 5  | -  | Reading Comprehension | Writing  | Refer to details for EYE in the table below. | 
+|  Primary 3 & 5  | -  | Reading Comprehension | Writing  | Refer to details for EYE in the table below. |
 
+**P4 - P6 Examination**
+
+|  | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) |
+| -------- | -------- | -------- |
+| **Primary 3**  | **No MYE**<br>Only Weighted Assessment | Composition Writing<br>Language Use & Comprehension<br>Listening Comprehension<br>Oral |
+| **Primary 4**  | Composition Writing<br>Language Use & Comprehension<br>Listening<br>Comprehension | Composition Writing<br>Language Use & Comprehension<br>Listening Comprehension<br>Oral |
+| **Primary 5**  | **No MYE**<br>Only Weighted Assessment | Composition Writing<br>Language Use & Comprehension<br>Listening Comprehension<br>Oral |
+| **Primary 4**  | Composition Writing<br>Language Use & Comprehension<br>Listening Comprehension<br>Oral | Composition Writing<br>Language Use & Comprehension<br>Listening Comprehension<br>Oral |
 
