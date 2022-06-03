@@ -75,3 +75,8 @@ The purpose of this programme is to:
 * provide an opportunity for students to motivate audience to influence listeners positively; and
 * allow students to share information which enhances an audience understanding of a subject.
 
+
+| Programme | Approach | 
+| -------- | -------- | 
+| Literature-in-Action | Teachers provide a conducive environment in which students are encouraged to speak up - discuss issues and to ask thought-provoking questions. Experiences are important in students’ oral development. Students will demonstrate visual acuity and aesthetic sensibilities and sensitivities in expressing themselves. They will also have the means of formulating and expressing ideas, perceptions and feelings. | 
+
