@@ -32,6 +32,13 @@ Aims of ALP Programme:
 | Speak@Raffles/PESA | The pupils achieved good speech habits, accurate pronunciation, clear articulation, intonation. The programme provided a platform for pupils to showcase their talents in speech. They acquired the broad concepts and principles in prepared speech.<br><br>The programme culminated in an interclass competition within the level. Thereafter, winners of the interclass competitions took part in the national PESA competition. | 
 | NEWSALIVE – P4 & P5 Software Solutions for Effective Communication & Training (Newsmaker)| The Newsmaker is an innovative learning toolkit that inspires creative thinking, exposes pupils to real world video production techniques and allows them to accomplish high-quality and professional news production from Web cameras. This programme encourages pupils to speak with confidence whilst presenting a news item.<br><br>It also exposed pupils to different aspects and techniques news making. | 
 
-| **Purpose** | 
-| -------- | 
-| The purpose of these programmes is to:<br>- encourage students to speak clearly and expressively;<br>- develop confidence;<br>- expose students to different aspects of reading;<br>- have students demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;<br>- nurture confident and articulate speakers; <br>- allow students to pursue creative and expressive capacities.</ul>|
+ **Purpose** 
+
+The purpose of these programmes is to:
+
+* encourage students to speak clearly and expressively;
+* develop confidence;
+* expose students to different aspects of reading;
+* have students demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;
+* nurture confident and articulate speakers; 
+* allow students to pursue creative and expressive capacities.
