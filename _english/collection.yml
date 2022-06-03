@@ -2,7 +2,7 @@ collections:
   english:
     output: true
     order:
-      - Social Studies.md
       - Organisational Chart.md
       - Programmes.md
       - Assessment.md
+      - Social Studies.md
