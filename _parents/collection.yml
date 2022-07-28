@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - From the Principal's Desk/.keep
-      - From the Principal's Desk/From the Principal's Desk 2020.md
       - Home Based Learning.md
       - Student Icon.md
       - Student Learning Space.md
