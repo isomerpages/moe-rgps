@@ -2,9 +2,9 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs/Library Club.md
-      - Clubs/International Chess Club.md
       - Clubs/.keep
+      - Clubs/International Chess Club.md
+      - Clubs/Library Club.md
       - Performing Arts/.keep
       - Performing Arts/String Ensemble.md
       - Performing Arts/Choir.md
