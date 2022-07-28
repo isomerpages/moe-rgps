@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - From the Principal's Desk/.keep
+      - From the Principal's Desk/2020.md
       - Home Based Learning.md
       - Student Icon.md
       - Student Learning Space.md
@@ -17,5 +19,3 @@ collections:
       - Notifications/.keep
       - Notifications/Primary 1 to 6.md
       - Notifications/Primary 1.md
-      - From the Principal's Desk/.keep
-      - From the Principal's Desk/2020.md
