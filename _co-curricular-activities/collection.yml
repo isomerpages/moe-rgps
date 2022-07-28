@@ -2,14 +2,14 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniformed Group/.keep
-      - Uniformed Group/Brownie.md
-      - Uniformed Group/Girls' Brigade.md
+      - Co Curricular Activities (CCA).md
+      - 2022 CCA schedule and information(tentative).md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Basketball.md
       - Sports & Games/Softball.md
       - Sports & Games/Table Tennis.md
       - Sports & Games/Rhythmic Gymnastics.md
-      - 2022 CCA schedule and information(tentative).md
-      - Co Curricular Activities (CCA).md
+      - Uniformed Group/.keep
+      - Uniformed Group/Brownie.md
+      - Uniformed Group/Girls' Brigade.md
