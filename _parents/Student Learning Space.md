@@ -48,3 +48,7 @@ You can read the following annexes to SLS for more information.
 
 * [ RGPS_N20_G_021b INFORMATION ON ACCESS TO STUDENT LEARNING_Annex A.pdf](/files/RGPS_N20_G_021b%20INFORMATION%20ON%20ACCESS%20TO%20STUDENT%20LEARNING_Annex%20A.pdf)
 * [RGPS_N20_G_021c_Access to SLS_Guide for P2 to P6 Pupils.pdf](/files/RGPS_N20_G_021c_Access%20to%20SLS_Guide%20for%20P2%20to%20P6%20Pupils.pdf)
+
+Student guides for new SLS interface (Updated on 26 March 21)
+
+* [Students Guide for New SLS Interface.pdf](/files/Students%20Guide%20for%20New%20SLS%20Interface.pdf)
