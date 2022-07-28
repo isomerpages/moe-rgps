@@ -2,15 +2,15 @@ collections:
   parents:
     output: true
     order:
-      - Engaging Our Parents/Student Learning Space.md
-      - Engaging Our Parents/From the Principal's Desk 2020.md
-      - Engaging Our Parents/Events Calendar 2022.md
-      - Engaging Our Parents/Student Icon.md
-      - Engaging Our Parents/Family Matters @ School.md
-      - Engaging Our Parents/Forms.md
-      - Engaging Our Parents/Home Based Learning.md
-      - Engaging Our Parents/Briefing Slides.md
       - Engaging Our Parents/.keep
+      - Engaging Our Parents/Events Calendar 2022.md
+      - Engaging Our Parents/Forms.md
+      - Engaging Our Parents/Family Matters @ School.md
+      - Engaging Our Parents/From the Principal's Desk 2020.md
+      - Engaging Our Parents/Briefing Slides.md
+      - Engaging Our Parents/Student Learning Space.md
+      - Engaging Our Parents/Student Icon.md
+      - Engaging Our Parents/Home Based Learning.md
       - Notifications/.keep
       - Notifications/Primary 1 to 6.md
       - Notifications/Primary 1.md
