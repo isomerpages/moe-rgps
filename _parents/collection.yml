@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Engaging Our Parents/From the Principal's Desk 2020.md
       - Engaging Our Parents/Events Calendar 2022.md
       - Engaging Our Parents/Student Icon.md
       - Engaging Our Parents/Family Matters @ School.md
