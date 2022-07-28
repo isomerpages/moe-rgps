@@ -2,12 +2,12 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Dance.md
-      - Performing Arts/Drama.md
-      - Performing Arts/Choir.md
-      - Performing Arts/String Ensemble.md
       - Performing Arts/.keep
+      - Performing Arts/String Ensemble.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Concert Band.md
       - Co Curricular Activities (CCA).md
       - 2022 CCA schedule and information(tentative).md
       - Sports & Games/.keep
