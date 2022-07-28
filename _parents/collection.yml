@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Enrolling in RGPS/P1 Registration.md
       - Enrolling in RGPS/MOE Guidelines.md
       - Enrolling in RGPS/Enrolling in RGPS.md
       - Enrolling in RGPS/.keep
