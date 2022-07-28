@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - Briefing Slides/2020 Briefing Slides.md
-      - Briefing Slides/2021 Briefing Slides.md
-      - Briefing Slides/2022 Briefing Slides.md
       - Briefing Slides/.keep
+      - Briefing Slides/2022 Briefing Slides.md
+      - Briefing Slides/2021 Briefing Slides.md
+      - Briefing Slides/2020 Briefing Slides.md
       - Events Calendar/.keep
       - Events Calendar/Semester 1.md
       - Events Calendar/Semester 2.md
