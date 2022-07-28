@@ -2,6 +2,9 @@ collections:
   parents:
     output: true
     order:
+      - Notifications/.keep
+      - Notifications/Primary 1 to 6.md
+      - Notifications/Primary 1.md
       - Engaging Our Parents/.keep
       - Engaging Our Parents/Events Calendar 2022.md
       - Engaging Our Parents/Forms.md
@@ -11,6 +14,3 @@ collections:
       - Engaging Our Parents/Student Learning Space.md
       - Engaging Our Parents/Student Icon.md
       - Engaging Our Parents/Home Based Learning.md
-      - Notifications/.keep
-      - Notifications/Primary 1 to 6.md
-      - Notifications/Primary 1.md
