@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Briefing Slides/.keep
       - Events Calendar/.keep
       - Events Calendar/Semester 1.md
       - Events Calendar/Semester 2.md
