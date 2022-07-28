@@ -2,12 +2,12 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs/Art Club.md
-      - Clubs/New Media Club.md
-      - Clubs/EnviroLife Science Club.md
       - Clubs/.keep
       - Clubs/International Chess Club.md
       - Clubs/Library Club.md
+      - Clubs/EnviroLife Science Club.md
+      - Clubs/New Media Club.md
+      - Clubs/Art Club.md
       - Performing Arts/.keep
       - Performing Arts/String Ensemble.md
       - Performing Arts/Choir.md
