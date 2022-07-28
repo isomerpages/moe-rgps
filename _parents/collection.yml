@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Briefing Slides/2020 Briefing Slides.md
       - Briefing Slides/2021 Briefing Slides.md
       - Briefing Slides/2022 Briefing Slides.md
       - Briefing Slides/.keep
