@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Events Calendar 2022.md
       - From the Principal's Desk 2020.md
       - Home Based Learning.md
       - Student Icon.md
