@@ -76,3 +76,22 @@ Pupils to gather along the corridor leading to the canteen at 2.45pm.
   
 
 **Fees Payable:** Yes
+
+# Lower Primary Choir
+
+In our junior choir, pupils learn basic singing techniques such as adopting the right singing posture, breath control and voice projection. Through singing activities and games, pupils will also learn musical concepts such as dynamics, rhythm-beating, pitching and solfeges. The weekly practices allow pupils to explore their voices, work in groups to create music and accompanying actions; and help them develop the ability to listen to and sing with one another.  
+
+**Teachers in Charge**
+
+Mrs Amy Ng  <br>
+Mrs Angelin Chee
+
+  
+
+### Training Schedule
+
+  
+
+Monday: 3pm – 5pm (Term 1-4) <br>
+Music Room 4 (F3-06) <br>
+*Pupils will line up at the upper canteen beside the bookstore at 2.30pm to meet the teachers in charge.
