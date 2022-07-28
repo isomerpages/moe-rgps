@@ -12,12 +12,12 @@ Innovation is a vital 21st century skill and the club hopes to play a role in he
   
 Through art making, we hope our pupils will have a deeper appreciation and love for the world around them. 
 
-**Teacher in charge:**  
-Ms Cheng Sok Mung (P2 – P3)  
+**Teacher in charge:**  <br>
+Ms Cheng Sok Mung (P2 – P3)  <br>
 Ms Cassandra Quek (P4 – P6)  
 
-**Training Schedule:**  
+**Training Schedule:**  <br>
 Wednesdays, 3pm – 5pm  
 
-**Venue:**  
+**Venue:**  <br>
 Ms Art Rooms 2 and 3
