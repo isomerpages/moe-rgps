@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs/Art Club.md
       - Clubs/New Media Club.md
       - Clubs/EnviroLife Science Club.md
       - Clubs/.keep
