@@ -3,7 +3,16 @@ links:
   - title: About Us
     collection: about-us
   - title: Programme
-    collection: programme
+    url: /enriching-learning-experience
+    sublinks:
+      - title: Enriching Learning Experience
+        url: /enriching-learning-experience
+      - title: Gifted Education Programme
+        url: /programme/gifted-education-programme
+      - title: Co-Curricular Activities (CCA)
+        url: /programme/co-curricular-activities-cca/2022-cca-schedule-and-information-tentative
+      - title: Programme for Active Learning
+        url: /programme/enriching-learning-experience
   - title: Contact Us
     url: /contact-us/
   - title: Parents
@@ -14,6 +23,3 @@ links:
     collection: staff
   - title: Partners
     collection: collection
-  - title: Programme
-    url: /enriching-learning-experience
-    sublinks: []
