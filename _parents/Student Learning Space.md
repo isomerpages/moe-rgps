@@ -45,3 +45,6 @@ e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., S
 f. Approach your subject teachers for help.
 
 You can read the following annexes to SLS for more information.
+
+* [ RGPS_N20_G_021b INFORMATION ON ACCESS TO STUDENT LEARNING_Annex A.pdf](/files/RGPS_N20_G_021b%20INFORMATION%20ON%20ACCESS%20TO%20STUDENT%20LEARNING_Annex%20A.pdf)
+* [RGPS_N20_G_021c_Access to SLS_Guide for P2 to P6 Pupils.pdf](/files/RGPS_N20_G_021c_Access%20to%20SLS_Guide%20for%20P2%20to%20P6%20Pupils.pdf)
