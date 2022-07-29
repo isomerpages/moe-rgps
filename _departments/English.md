@@ -361,3 +361,129 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
   </tr>
 </tbody>
 </table>
+
+# Social Studies
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a5i5">Level</th>
+    <th class="tg-a5i5">Syllabus</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-da8v"></td>
+    <td class="tg-muqq">Discovering Self and Immediate Environment</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 1</td>
+    <td class="tg-2w19">Knowing Myself, Others and My Surroundings</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 2</td>
+    <td class="tg-2w19">Coming Together as a Nation</td>
+  </tr>
+  <tr>
+    <td class="tg-da8v"></td>
+    <td class="tg-muqq">Understanding Singapore in the Past and Present</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 3</td>
+    <td class="tg-2w19">Understanding Singapore’s Environment and Challenges</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 4</td>
+    <td class="tg-2w19">Understanding Our Past</td>
+  </tr>
+  <tr>
+    <td class="tg-da8v"></td>
+    <td class="tg-muqq">Appreciating Singapore, the Region and the World We Live In</td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 5</td>
+    <td class="tg-muqq">Part 1: Understanding Singapore’s Development as a Nation<br>Part 2: <span style="font-weight:400">Understanding Southeast Asia’s Diversity and Interconnectedness</span></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 6</td>
+    <td class="tg-2w19">Inquiring Into Our World : Southeast Asia (2021)<br>Understanding Features and Legacies of Civilisations (from 2022 onwards)</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a5i5">Level</th>
+    <th class="tg-a5i5">Field-based Learning</th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i38w">Primary 1</td>
+    <td class="tg-muqq">Neighbourhood Walk (Term 4)<br>The focus of the learning experience is for students to develop an appreciation for the places around them.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 2</td>
+    <td class="tg-muqq">National Orchid Garden (Term 4)<br>The focus of the learning experience is for students to learn about our National Symbols.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 3</td>
+    <td class="tg-muqq">Sustainable Gallery of Singapore (Term 3)<br>The focus of the learning experience is for students to develop an understanding of:<br>Singapore’s physical environment; and<br>how Singapore manages its resources to meet the needs of the country.<br></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 4</td>
+    <td class="tg-muqq">National Museum of Singapore (Term 2)<br>The focus of the learning experience is for students to develop an understanding of:<br>what life was like in the past; and<br>the contributions of settlers to the development of Singapore.<br></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 5</td>
+    <td class="tg-muqq">Sungei Buloh Wetland Reserve (Term 2)<br>The focus of the learning experience is for students to learn about Singapore’s first ASEAN Heritage Park.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 6</td>
+    <td class="tg-muqq">Singapore Botanic Gardens (Term 4)<br>The focus of the learning experience is for students to learn about how Singapore is connected to the rest of Southeast Asia through the Heritage Museum and the heritage trees found in the gardens. This will help pupils understand the importance of preserving our heritage sites in Southeast Asia.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+### **Assessment Matters**
+
+**Assessment Items:**
+
+*   Activities in Activity Books
+
+*   Group Activities
+
+*   Mini-Quizzes
+
+*   Performance Task
