@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Science.md
-      - Math.md
+      - Mathematics.md
       - English.md
