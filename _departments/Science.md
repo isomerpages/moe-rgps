@@ -203,3 +203,105 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
   </tr>
 </tbody>
 </table>
+
+# Assessment
+
+Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments. Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
+
+In RGPS, our teachers will assess students using different modes of assessment both formally and informally. A meaningful range of assessment modes and tasks are used : class discussions, classroom discourse, performance tasks, use of checklists, use of rubrics with teachers’ comments and students’ reflections.
+
+**P3 & P5:**
+
+Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The table below shows an overview.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a5i5"></th>
+    <th class="tg-a5i5">Term 1<br></th>
+    <th class="tg-a5i5">Term 2<br></th>
+    <th class="tg-a5i5">Term 3<br></th>
+    <th class="tg-a5i5">Term 4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i38w">Primary 3</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 1</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 2 (Science Practical)</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">End-of-Year Examination</span></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 4</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 1</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 2 (Science Practical)</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">End-of-Year Examination</span></td>
+  </tr>
+</tbody>
+</table>
+
+**P3 – P6 Science Assessment Weighting**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Level</span></th>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Weighted Assessment 1</span></th>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Mid Year Examination (MYE)</span></th>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Science Practical</span></th>
+    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">End of Year Examination (EYE)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i38w">Primary 3</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">70%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 4</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">30%</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">14%</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">56%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 5</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">70%</span></td>
+  </tr>
+  <tr>
+    <td class="tg-i38w">Primary 6</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">0%</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">100%</span></td>
+  </tr>
+</tbody>
+</table>
