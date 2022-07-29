@@ -1,8 +1,0 @@
-collections:
-  english:
-    output: true
-    order:
-      - Organisational Chart.md
-      - Programmes.md
-      - Assessment.md
-      - Social Studies.md
