@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Math.md
       - English.md
