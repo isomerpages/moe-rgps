@@ -153,17 +153,17 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
   </tr>
   <tr>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Biodiversity Week</span></td>
-    <td class="tg-2w19">educate students about the importance of protecting our natural environment<br>raise awareness on the flora and fauna in the school<br>encourage students to take action to care for the flora and fauna<img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/bio1.jpg" alt="bio1.jpg" width="100" height="171"><img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/bio2.jpg" alt="bio2.jpg"></td>
+    <td class="tg-2w19">educate students about the importance of protecting our natural environment<br>raise awareness on the flora and fauna in the school<br>encourage students to take action to care for the flora and fauna<img src="/images/bio1.jpeg" alt="bio1.jpg" width="100" height="171"><img src="/images/bio2.jpeg" alt="bio2.jpg"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Earth Week</span></td>
-    <td class="tg-2w19">inculcate in our students the value of living an eco-friendly lifestyle and raise awareness of how their daily actions can impact the environment at large.<br><img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/earth.jpg" alt="earth.jpg" width="100" height="202"></td>
+    <td class="tg-2w19">inculcate in our students the value of living an eco-friendly lifestyle and raise awareness of how their daily actions can impact the environment at large.<br><img src="/images/earth.jpeg" alt="earth.jpg" width="100" height="202"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">RGPS Family Science Club Programme</span><br><img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/qr_sci.png" alt="qr_sci.png" width="110" height="107"><span style="color:#222;background-color:#F2F9FF">#https://www.facebook.com/rgpsfamilyscienceclub/</span></td>
-    <td class="tg-2w19">provide RGPS family community with opportunity to enjoy exploring the science of everyday life together as a family through fun and engaging science-themed workshops which are designed collaboratively with Science Centre Singapore and our parent volunteers.<br>engage parents in further strengthening the students’ interest in Science while guiding them in discovering the real-world Science around them and to make connections to what they are learning in school.<img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/sci2.png" alt="sci2.png" width="100" height="143"><img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/sciclub1.jpg" alt="sciclub1.jpg" width="100" height="145"></td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">RGPS Family Science Club Programme</span><br><img src="/images/qr_sci.png" alt="qr_sci.png" width="110" height="107"><span style="color:#222;background-color:#F2F9FF">#https://www.facebook.com/rgpsfamilyscienceclub/</span></td>
+    <td class="tg-2w19">provide RGPS family community with opportunity to enjoy exploring the science of everyday life together as a family through fun and engaging science-themed workshops which are designed collaboratively with Science Centre Singapore and our parent volunteers.<br>engage parents in further strengthening the students’ interest in Science while guiding them in discovering the real-world Science around them and to make connections to what they are learning in school.<img src="/images/sci2.png" alt="sci2.png" width="100" height="143"><img src="/images/sciclub1.jpeg" alt="sciclub1.jpg" width="100" height="145"></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
