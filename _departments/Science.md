@@ -123,7 +123,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
   </tr>
   <tr>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">LEGO In Science</span></td>
-    <td class="tg-2w19">integrate LEGO Interaction and Energy Education product in the Science curriculum in the learning of scientific concepts on Energy and Forces. <br>develop in students the 21st century competencies such as critical and inventive thinking and effective communication skills.<br><img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/lego1.jpg" alt="lego1.jpg" width="100" height="149"></td>
+    <td class="tg-2w19">integrate LEGO Interaction and Energy Education product in the Science curriculum in the learning of scientific concepts on Energy and Forces. <br>develop in students the 21st century competencies such as critical and inventive thinking and effective communication skills.<br><img src="/images/lego1.jpeg" alt="lego1.jpg" width="100" height="149"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
