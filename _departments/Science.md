@@ -133,7 +133,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
   </tr>
   <tr>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Food Waste Management</span></td>
-    <td class="tg-2w19">increase awareness on environmental benefit of reducing waste.<br>engage our students to value the importance of composting and understand how humans and the environment interact;<br>develop and inculcate in our students responsible habits of reducing the amount of waste being landfilled;<br>engage students in recycling organic waste by composting it and using it to nourish the soil and enhance the growth of the plants in school; develop civic responsibility.<img src="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Department/sci/wastefood.jpg" alt="wastefood.jpg" width="100"></td>
+    <td class="tg-2w19">increase awareness on environmental benefit of reducing waste.<br>engage our students to value the importance of composting and understand how humans and the environment interact;<br>develop and inculcate in our students responsible habits of reducing the amount of waste being landfilled;<br>engage students in recycling organic waste by composting it and using it to nourish the soil and enhance the growth of the plants in school; develop civic responsibility.<img src="/images/wastefood.jpeg" alt="wastefood.jpg" width="100"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
