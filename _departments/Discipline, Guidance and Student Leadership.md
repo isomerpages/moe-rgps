@@ -54,3 +54,10 @@ There are teacher counsellors in our school for pupils who need assistance. Apar
 ### Special Needs Service in School
 
 There is a learning and behavioural needs specialist in the school to see to pupils with special needs. Pupils may be referred to MOE psychologists for assessment.
+
+# School Prefectorial Board
+
+
+The prefects are selected at the end of the year by their teachers. The selection is based on a criteria set by Discipline, Guidance and Student Leadership Department.
+
+![](/images/prefect.jpeg)
