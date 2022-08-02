@@ -204,9 +204,9 @@ The programmes provide students with enriching experiences in the areas of natur
 # GEP ENRICHED SUBJECTS
   
 
-### English Language
+## English Language
 
-### 1\. The Approach
+### 1. The Approach
 
   
 
@@ -219,3 +219,130 @@ c) Extensive Reading Programme (ERP) <br>
 d) Reading and Writing <br>
 e) Oral Communication <br>
 f) Poetry Appreciation
+
+### 2. Daily Work
+
+
+Materials and worksheets are designed to match students' abilities and interests as well as to encourage critical and creative thinking. Students are encouraged to participate actively in class discussions and activities as well as to work consistently through the course of the programme.
+
+  
+
+### 3. Assessment
+
+
+_**Weighted Assessments**_
+
+*   No more than 1 weighted assessment per subject per school term, on top of any mid-year or year-end exam
+*   May be conducted over a period in the term
+
+_**Non-Weighted Assessments**_
+
+*   Scores are not counted towards overall result in a subject but are important components in the GEP curriculum
+*   Conducted to check for understanding and support pupils in achieving intended learning outcomes
+
+  
+
+Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
+
+### 4\. Extensive Reading Programme (ERP)
+
+  
+
+Books offer students ideas and possibilities to ignite their imagination and a chance to escape into a different world and enter the lives of people different from them. The ERP seeks to expose students to a variety of fiction, biographies and autobiographies to complement class work. A reading list will be provided and pupils complete an ERP assignment each to develop their confidence in responding to books.  
+  
+**In P4**, the list includes the genre of animal fantasy that shares elements of make-believe that are essential to fairy tales. Many of the books also feature characters who embark on experiences that help them to discover who they are and how they relate to others in coming-of-age tales similar to the P4 literature text, A Single Shard.  
+  
+**In P5**, the list corresponds to the concept unit of mysteries in Term 1 as well as titles that relate to the genre of science fiction and fantasy, including titles that involve time travel.  
+  
+**In P6**, the list consists of titles based on actual historical events around the world. Students will learn about the characters, their responses and choices in the context of their times, how they are shaped by their societies as well as how they make an impact on others.  
+  
+
+### 5. Files 
+
+Pupils will learn to systematically categorise and file their worksheets and notes. These files and notes will be checked periodically.
+
+## Mathematics
+
+
+  
+
+### 1. Approach
+
+  
+
+The enriched Math curriculum is differentiated in terms of: 
+
+   
+
+*   Level of complexity and connectivity
+*   Depth of concepts
+*   Pacing
+*   Mathematical communication
+
+  
+Students are encouraged to communicate in mathematical language, to use various strategies for problem-solving and to appreciate the beauty of Mathematics. They are taught skills and heuristics to promote mathematical thinking and to help them in mathematical investigations.
+
+  
+
+### 2. Work / Files
+
+  
+
+Work is done on worksheets and they consist of various heuristic approaches to mastering concepts. Files are checked regularly.
+
+  
+
+### 3. Out-of-class activities
+
+  
+
+Out-of-class activities are conducted so as to reinforce the application of mathematical concepts in real-life situations (eg. a supermarket trip for the topic of decimals, a survey on traffic statistics for the topic of graphical representations etc)  
+  
+All GEP students will be invited to join classes like Advanced Mathematics Enrichment Class (AMEC). Selected students will be invited to join the Primary Mathematics Masterclass (PM2), which is organised by Gifted Education Branch.  
+  
+For PM2, students attend workshops where they are taught specific topics at advanced level.
+
+  
+
+### 4. Assessment
+
+  
+
+Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
+
+## Science
+
+
+### 1. Approach
+
+The Science curriculum is mainly enriched in the process dimension: 
+
+   
+
+*   P4 – inquiry activity  
+    
+*   P5 – inductive thinking and reference to concept  
+    
+*   P6 – question or problem driven activity  
+    
+
+  
+A variety of teaching strategies is adopted in science instruction. To encourage students to discover things for themselves, a hands-on and activity-based approach is often used. Experiments are conducted to enable students to practise observational and inferential skill and to be familiar with the use of scientific methods in solving problems. Opportunities for students to apply their critical thinking skills and to express their creativity are provided.
+
+  
+
+### 2. Materials
+
+Worksheets and activities are specially designed for students. Worksheets and reading materials given to the pupils are to be filed. Parents can help by ensuring that pupils do their filing and complete their corrections.
+
+### 3. Worksheets / Assessment
+
+Pupils are assessed through written tests and examinations. An additional practical test is given to pupils at P4 and P5 to assess their acquisition of the practical skills in Science.  
+  
+Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
+
+  
+
+### 4. Field Trips
+
+Field trips are conducted about twice a year. These trips expose students to different learning environments and allow them to acquire first-hand information.
