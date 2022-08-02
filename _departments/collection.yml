@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education.md
       - ICT.md
       - Gifted Education Programme.md
       - Mother Tongue.md
