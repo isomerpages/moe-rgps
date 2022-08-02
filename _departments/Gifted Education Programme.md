@@ -200,3 +200,22 @@ To equip our students with the competencies to navigate and thrive in an increas
 The programmes provide students with enriching experiences in the areas of nature, music and art appreciation and the opportunities to learn about teamwork, more about themselves and others through engaging activities beyond the classroom.
 
 ![](/images/GEP2.png)
+
+# GEP ENRICHED SUBJECTS
+  
+
+### English Language
+
+### 1\. The Approach
+
+  
+
+The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
+  
+
+a) Concept units <br>
+b) Study of a novel <br>
+c) Extensive Reading Programme (ERP) <br>
+d) Reading and Writing <br>
+e) Oral Communication <br>
+f) Poetry Appreciation
