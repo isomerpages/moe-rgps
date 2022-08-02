@@ -238,3 +238,6 @@ The objectives of LLP are to :
 
 <img src="/images/ceramic.png" 
      style="width:50%">
+		 
+<img src="/images/art%20fest.png" 
+     style="width:50%">
