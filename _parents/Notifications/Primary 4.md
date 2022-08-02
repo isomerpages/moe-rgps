@@ -127,3 +127,34 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+### Term 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">17/5/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G_025_P4%20P6%20PTC.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_025_P4 P6 PTC.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">27/5/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS%20N21%20P4%20014%20P4%20Term%202%20PAM%20Updates%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS N21 P4 014 P4 Term 2 PAM Updates 2021.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
