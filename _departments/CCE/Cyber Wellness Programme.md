@@ -93,4 +93,4 @@ To complement the CW curriculum in schools, parents can set a good example at ho
 
 Tips for parents (click on link below):
 
-* [DEVELOPING YOUR CHILD TO BE A POSITIVE PEER INFLUENCE ONLINE](/files/3B%202018%20T1%20Parents%20Tip%20Sheet_pdf%20(2).pdf)
+* [DEVELOPING YOUR CHILD TO BE A POSITIVE PEER INFLUENCE ONLINE](/files/3B)%202018%20T1%20Parents%20Tip%20Sheet_pdf%20(2).pdf)
