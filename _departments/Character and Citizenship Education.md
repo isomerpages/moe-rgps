@@ -108,3 +108,26 @@ Each pupil will be given an opportunity to be involved in community work. She wi
   </tr>
 </tbody>
 </table>
+
+# Character and Citizenship Education
+
+
+**Objectives:**
+
+1.      To inculcate the 6 core values (R3ICH)
+
+The goal of CCE is to inculcate values and build competencies in our pupils to develop them to be good individuals and useful citizens. The core values are:
+
+a.       Respect
+
+b.      Responsibility
+
+c.       Resilience
+
+d.      Integrity
+
+e.       Care
+
+f.       Harmony
+
+2.      To equip our pupils with the ability to make responsible decisions and become more aware of their roles in the society.
