@@ -29,7 +29,7 @@ Students need to:
 
 * make wise and healthy choices (e.g. maintain a healthy balance of their online and offline activities)
 
-3) Positive Peer Influence 
+3) Positive Peer Influence  (B)
 
 Students need to:
 
