@@ -221,3 +221,59 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+# 2020 Notifications 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">2/1/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P2_002_Parent-Teacher%20Meeting.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P2_002_Parent-Teacher Meeting.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">17/3/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P2_005_P2%20Term%201%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P2_005_P2 Term 1 PAM Updates 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">23/3/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P2_004%20P2%20VIA%20notification.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P2_004 P2 VIA notification.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">27/7/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P2_008_GIVE%20Launch_PG%20Notification%20to%20Parents_P2.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P2_008_GIVE Launch_PG Notification to Parents_P2.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/8/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P2_009_SCCCI_Lantern%20Painting%20Contest_Notification.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P2_009_SCCCI_Lantern Painting Contest_Notification.pdf</span></a><span style="color:#222;background-color:#FBFFFA">  </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_G_066_RGPS%20Got%20Talent%20P1%20and%20P2%20Showcase%20(1).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_G_066_RGPS Got Talent P1 and P2 Showcase.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P2_010_P2%20Term%203%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P2_010_P2 Term 3 PAM Updates 2020.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/11/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P2_013%20Updates%20on%20PE,%20Art%20&%20Music%20P2%20(Term%204).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P2_013 Updates on PE, Art &amp; Music P2 (Term 4).pdf</span></a> </td>
+  </tr>
+</tbody>
+</table>
+
