@@ -111,20 +111,19 @@ third_nav_title: Notifications
   </tr>
   <tr>
     <td class="tg-pk3b">18/2/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/RGPS_N21_P4_005%20e-Briefing%20Session%20on%20Subject-Based%20Banding.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_005 e-Briefing Session on Subject-Based Banding.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P4_005%20e-Briefing%20Session%20on%20Subject-Based%20Banding.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_005 e-Briefing Session on Subject-Based Banding.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">5/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/RGPS_N21_P4_006_Draw%20My%20Stamp%20Story%20Art%20Competition%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_006_Draw My Stamp Story Art Competition 2021.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P4_006_Draw%20My%20Stamp%20Story%20Art%20Competition%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_006_Draw My Stamp Story Art Competition 2021.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">8/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/RGPS_N21_P4_007_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_007_MYE.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P4_007_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_007_MYE.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">12/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/RGPS_N21_P4_010_P4%20PAM%20Term%201%20update%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_010_P4 PAM Term 1 update 2021.pdf</span></a></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P4_010_P4%20PAM%20Term%201%20update%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_010_P4 PAM Term 1 update 2021.pdf</span></a></td>
   </tr>
 </tbody>
 </table>
-
