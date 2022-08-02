@@ -346,3 +346,83 @@ Detailed breakdown and weightings of assessments throughout the course of the ye
 ### 4. Field Trips
 
 Field trips are conducted about twice a year. These trips expose students to different learning environments and allow them to acquire first-hand information.
+
+Social Studies
+--------------
+
+  
+
+"Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  
+  
+Social Studies draws its content primarily from the Social Sciences \[History Geography, basic Economics and Sociology\]. The syllabus covers these aspects with regard to Singapore and our Southeast Asian neighbours.  
+  
+Social Studies is non-examinable. However, it is an enriched subject and based on the mainstream syllabus but appropriately differentiated for gifted and high-ability learners. For example, in P6, students will learn about Southeast Asia and ASEAN, allowing them to find out more about the region we live in.
+
+  
+
+### 1.Materials/Syllabus
+
+  
+
+The basic syllabus of the mainstream is enriched with materials from various sources. The resource materials, notes and worksheets provided will be sufficient to meet the needs of students.
+
+  
+
+### 2\. The Approach
+
+  
+
+Pupils will be exposed to concepts such as Causes and Consequences, and Change and Continuity. They will also appreciate the importance of Diversity and Interdependence.  
+  
+Pupils will also have opportunities to develop critical thinking and exercise creativity. They will learn to make inferences, compare and contrast evidence, and develop well-reasoned explanations.  
+  
+Social Studies will require students to consider varying points of view, thus learning to respect perspectives different from their own and developing important values such as empathy. 
+
+  
+Students will also be required to work collaboratively with others, in pairs or in groups. 
+
+   
+Learning activities emphasise four basic categories:
+
+   
+
+*   knowledge and information based on current affairs and the social sciences
+*   **Skills**
+
+	*   higher level thinking skills such as reflective reasoning, analytical thinking and critical judgement, study skills and
+	*   work habits such as note-taking, note-making, observation and independent learning as well as interpersonal and group process skills
+
+*   **attitudes and values** 
+
+	*   topics on affective education are included to raise students' awareness of ethical and moral issues
+
+*   **social participation**
+
+	*   to mould students into citizens who are civic-conscious and able to contribute to society
+
+  
+
+### 3\. Field Trips 
+
+  
+
+Field trips are of immense educational value to Social Studies as they provide students with first-hand experiences on what they have heard, read and learnt.
+
+  
+
+### 4. Files
+
+  
+
+Worksheets and resource materials given by the teacher as well as collected by students are kept in files that will be checked periodically.
+
+  
+
+### 5. Assessment
+
+  
+
+There will be graded tasks as well as quizzes, spread throughout the year to find out how well students have acquired the knowledge and skills and to identify learning gaps.  
+  
+Graded tasks allow students to demonstrate their understanding in a variety of ways, carried out individually, in pairs or groups. Examples of graded tasks include map-work, creative assignments and skits.
+
