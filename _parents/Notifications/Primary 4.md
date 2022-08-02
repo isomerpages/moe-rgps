@@ -181,7 +181,7 @@ third_nav_title: Notifications
 <tbody>
   <tr>
     <td class="tg-pk3b">3/7/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/Term%203/RGPS_N21_P4_015%20P4%20Science%20Assessment%20Term%203.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_015 P4 Science Assessment Term 3.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P4_015%20P4%20Science%20Assessment%20Term%203.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_015 P4 Science Assessment Term 3.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">19/7/2021</td>
