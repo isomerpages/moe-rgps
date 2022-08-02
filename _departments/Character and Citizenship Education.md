@@ -136,40 +136,6 @@ f.       Harmony
 
 ### National Education (NE) Core Events
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-nxbe{background-color:#EAEAEA;color:#49875C;text-align:left;vertical-align:top}
-.tg .tg-7jzj{background-color:#EAEAEA;color:#AC3838;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7jzj">NE Core Events</th>
-    <th class="tg-7jzj">Date of commemoration in School</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-nxbe">Total Defence Day 2018 (15 February 2018)<br>Theme: Together We Keep Singapore Strong<br>Background<br>Total Defence Day is commemorated annually to mark Singapore’s fall to the Japanese in 1942. Total Defence Day serves to remind our pupils that Singapore is defensible and is worth defending, and we ourselves must defend Singapore. The five pillars of Total Defence are Military Defence, Economic Defence, Social Defence, Psychological Defence and Civil Defence.<br>The theme for Total Defence Day (TDD) is Together We Keep Singapore Strong. Singapore has remained safe and peaceful over the past 52 years because of the efforts of all Singaporeans. This is essentially Total Defence. Total Defence remains relevant because the threats faced today require all Singaporeans to step up and play their part. Our youth are encouraged to put Total Defence into action in their daily lives by reaching out to one another, forging new relationships and strengthening existing ones to keep Singapore strong and resilient because our greatest strength lies in the unity and resilience of our people.<br>Pupils will learn about the five aspects of Total Defence and how they can play a part in each aspect. They will be aware that even at their age, their participation in Total Defence is important. The message is that everyone can (and should) play a part in defending our country.</td>
-    <td class="tg-y7qa">Monday, 12 February 2018</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">International Friendship Day 2018<br>Theme: Celebrating the ASEAN Community<br>Background<br>International Friendship Day is a day dedicated to the understanding of Singapore’s relations with neighbouring countries and beyond. It aims to sensitise our children to the geo-political realities inherent in Singapore, as well as nurture in our students the spirit of friendship and collaboration among different people.<br>This year, the theme for International Friendship Day (IFD) is Celebrating the ASEAN Community. With chairmanship of ASEAN and our leading of the milestone celebration beyond ASEAN’s 50th anniversary, we celebrate our shared successes and the growth and resilience of the ASEAN people in our journey thus far. Through greater openness and mutual inter-dependence, we hope to inspire our young to play an active role in fostering economic and people-to-people ties, reinforcing our sense of togetherness and strengthening our ASEAN identity.<br>  As a member of ASEAN, our pupils need to learn from the different backgrounds and experiences of people in our neighbouring countries and continue maintaining our good relations with them.</td>
-    <td class="tg-y7qa">To be confirmed</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">Racial Harmony Day 2018<br>Theme: Diversity Our Strength<br>Background<br>Racial Harmony Day is commemorated on 21 July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind our pupils that social division cost us dearly and that race and religion are potential fault lines in Singapore society. It is a day for schools to reflect on, and celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritages.<br>This year, the theme for Racial Harmony Day (RHD) is Diversity Our Strength. Since the founding of modern Singapore in 1819, we have always been an immigrant community that has tapped on the strengths of our differences in the pursuit of a common goal to make Singapore our home. These narratives of our forefathers that reflect a strong sense of purpose and drive remain relevant to us today as we celebrate our diversity.<br></td>
-    <td class="tg-y7qa">To be confirmed</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">National Day 2018 (Thursday, 9 August 2018)<br>Theme for 2018 (to be confirmed)</td>
-    <td class="tg-y7qa">NE Show (P5) : To be confirmed</td>
-  </tr>
-</tbody>
-</table>
+![](/images/NE1.png)
+![](/images/NE2.png)
+![](/images/NE3.png)
