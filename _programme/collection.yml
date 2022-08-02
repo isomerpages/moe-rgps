@@ -2,6 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Programme for Active Learning.md
-      - Gifted Education Programme.md
       - Enriching Learning Experience.md
+      - Gifted Education Programme.md
+      - Programme for Active Learning.md
