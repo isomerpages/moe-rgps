@@ -3,10 +3,10 @@ links:
   - title: About Us
     collection: about-us
   - title: Programme
-    url: /enriching-learning-experience
+    url: /programme/enriching-learning-experience
     sublinks:
       - title: Enriching Learning Experience
-        url: /enriching-learning-experience
+        url: /programme/enriching-learning-experience
       - title: Gifted Education Programme
         url: /programme/gifted-education-programme
       - title: Co-Curricular Activities (CCA)
