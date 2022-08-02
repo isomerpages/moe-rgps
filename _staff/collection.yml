@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - P4 Form Teachers.md
       - P3 Form Teachers.md
       - P2 Form Teachers.md
       - P1 Form Teachers.md
