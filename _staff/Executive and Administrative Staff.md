@@ -32,12 +32,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-baqh">Mr Loh Chin Boon</td>
-    <td class="tg-0lax">Operations Manager</td>
+    <td class="tg-baqh">Operations Manager</td>
     <td class="tg-0lax">loh_chin_boon@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-baqh">Ms Carinn Sim</td>
-    <td class="tg-0lax">ICT Manager</td>
+    <td class="tg-baqh">ICT Manager</td>
     <td class="tg-0lax">sim_kai_lin_carinn@schools.gov.sg</td>
   </tr>
   <tr>
@@ -47,17 +47,17 @@ description: ""
   </tr>
   <tr>
     <td class="tg-baqh">Mdm Priscilla Myrtle Olsen</td>
-    <td class="tg-0lax">Corporate Support Officer</td>
+    <td class="tg-baqh">Corporate Support Officer</td>
     <td class="tg-0lax">priscilla_myrtle_olsen@schools.gov.sg  </td>
   </tr>
   <tr>
     <td class="tg-baqh">Mdm Fetty Irdawaty Osman</td>
-    <td class="tg-0lax">Corporate Support Officer</td>
+    <td class="tg-baqh">Corporate Support Officer</td>
     <td class="tg-baqh">fetty_irdawaty_Osman@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-baqh">Mdm Tan Kim Geok</td>
-    <td class="tg-0lax">Corporate Support Officer</td>
+    <td class="tg-baqh">Corporate Support Officer</td>
     <td class="tg-baqh">tan_kim_geok@schools.gov.sg</td>
   </tr>
 </tbody>
