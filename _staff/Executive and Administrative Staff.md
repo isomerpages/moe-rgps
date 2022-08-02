@@ -53,12 +53,12 @@ description: ""
   <tr>
     <td class="tg-baqh">Mdm Fetty Irdawaty Osman</td>
     <td class="tg-baqh">Corporate Support Officer</td>
-    <td class="tg-baqh">fetty_irdawaty_Osman@schools.gov.sg</td>
+    <td class="tg-0lax">fetty_irdawaty_Osman@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-baqh">Mdm Tan Kim Geok</td>
     <td class="tg-baqh">Corporate Support Officer</td>
-    <td class="tg-baqh">tan_kim_geok@schools.gov.sg</td>
+    <td class="tg-0lax">tan_kim_geok@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
