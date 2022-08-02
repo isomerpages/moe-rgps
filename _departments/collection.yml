@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
-      - CCE/Cyber Wellness Programme.md
-      - CCE/CCE Approach.md
-      - CCE/MOE Sexuality Education.md
-      - CCE/National Education.md
-      - CCE/Values in Action.md
-      - CCE/Character and Citizenship Education.md
       - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Values in Action.md
+      - CCE/National Education.md
+      - CCE/MOE Sexuality Education.md
+      - CCE/CCE Approach.md
+      - CCE/Cyber Wellness Programme.md
       - Media Resource Library.md
       - Discipline, Guidance and Student Leadership.md
       - Aesthetics.md
