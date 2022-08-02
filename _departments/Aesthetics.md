@@ -237,7 +237,10 @@ The objectives of LLP are to :
 ### **Showcase of Student Works**
 
 <img src="/images/ceramic.png" 
-     style="width:50%">
+     style="width:60%">
 		 
 <img src="/images/art%20fest.png" 
-     style="width:50%">
+     style="width:60%">
+
+<img src="/images/talenttime.png" 
+     style="width:60%">
