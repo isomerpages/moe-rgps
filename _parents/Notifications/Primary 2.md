@@ -182,3 +182,42 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+### Term 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">22/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G_055_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P1%20and%20P2%20Term%204%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_055_Invitation for Video Submission of RGPS Got Talent for P1 and P2 Term 4 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G_053_P2%20to%20P5%20CCA_Registration%20for%202022.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_053_P2 to P5 CCA_Registration for 2022.docx.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">15/11/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P2_013_RGPS%20Got%20Talent%202021%20P2%20Online%20Showcase%20Term%204%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P2_013_RGPS Got Talent 2021 P2 Online Showcase Term 4 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">19/11/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS%20N21%20P2_014%20P2%20Term%204%20PAM%20updates%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS N21 P2_014 P2 Term 4 PAM updates 2021.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
