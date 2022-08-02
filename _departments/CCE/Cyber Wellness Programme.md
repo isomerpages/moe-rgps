@@ -13,7 +13,7 @@ MOE uses the CW framework to develop the child’s instinct to protect and empow
 
 **Principles**
 
-1. Respect for Self and Others
+1.  Respect for Self and Others
 
 Students need to:
 
@@ -21,7 +21,7 @@ Students need to:
 
 * respect other people online (e.g. put themselves in others’ shoes, accept diverse views and opinions, give credit when using other people’s work and seek permission where necessary, avoid sharing hurtful materials).
 
-2.  Safe and Responsible Use
+2. Safe and Responsible Use
 
 Students need to:
 
