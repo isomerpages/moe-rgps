@@ -15,11 +15,11 @@ links:
         url: /programme/enriching-learning-experience
   - title: Contact Us
     url: /contact-us/
-  - title: Parents
-    collection: parents
   - title: Departments
     collection: departments
   - title: Staff
     collection: staff
+  - title: Parents
+    collection: parents
   - title: Partners
     collection: collection
