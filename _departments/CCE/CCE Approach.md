@@ -4,8 +4,6 @@ permalink: /departments/CCE/CCE-approach
 description: ""
 third_nav_title: CCE
 ---
-# CCE Approach
-
 The CCE acronym **MAGICAL** (motivating all to grow in character and love) guides the planning and implementation of the CCE Programme in the school. We strive to motivate the pupils through bringing about their awareness of values and social and emotional competencies by explicit teaching (Head), engaging their love for self, family, peers, community and country (Heart) and lastly, contributing back to the society by providing service for the School or external community (Hands). CCE approach in RGPS also takes into consideration the alignment between the School values and CCE core values (Respect, Responsibility, Resilience, Integrity, Care and Harmony). Upon completion of the education in RGPS, we would nurture the RGPS Girl who is a Creative Thinker, a Life-long Learner and a Value-based Leader.
 
 The explicit teaching of the School values, CCE Core values and social and emotional competencies is carried out through
