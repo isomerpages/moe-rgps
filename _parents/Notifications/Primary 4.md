@@ -158,3 +158,50 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+### Term 3
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">3/7/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/Term%203/RGPS_N21_P4_015%20P4%20Science%20Assessment%20Term%203.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_015 P4 Science Assessment Term 3.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">19/7/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P3/Term%203/RGPS_N21_G039_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P3%20and%20P4.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G039_Invitation for Video Submission of RGPS Got Talent for P3 and P4.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">28/7/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P3/Term%203/RGPS_N21_G_043_Extension%20of%20deadline%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P3%20and%20P4Term%203%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_043_Extension of deadline for Video Submission of RGPS Got Talent for P3 and P4Term 3 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">26/8/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P1-6/Term%203/Appreciate%20your%20coaches.pdf"><span style="font-weight:400;color:#49875C">Appreciate your coaches.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">31/8/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/Term%203/RGPSN21P4017%20Primary%204%20End-of-Year%20Examination%202021.pdf"><span style="font-weight:400;color:#49875C">RGPSN21P4017 Primary 4 End-of-Year Examination 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">2/9/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P4/Term%203/RGPS_N21_P4_018_RGPS%20Got%20Talent%202021%20P4%20Online%20Showcase%20Term%203%202021.doc.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_018_RGPS Got Talent 2021 P4 Online Showcase Term 3 2021.doc.pdf</span></a><br></td>
+  </tr>
+</tbody>
+</table>
