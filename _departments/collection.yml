@@ -2,6 +2,17 @@ collections:
   departments:
     output: true
     order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Gifted Education Programme.md
+      - ICT.md
+      - Physical Education.md
+      - Programme for Active Learning (PAL).md
+      - Aesthetics.md
+      - Discipline, Guidance and Student Leadership.md
+      - Media Resource Library.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Values in Action.md
@@ -9,14 +20,3 @@ collections:
       - CCE/MOE Sexuality Education.md
       - CCE/CCE Approach.md
       - CCE/Cyber Wellness Programme.md
-      - Media Resource Library.md
-      - Discipline, Guidance and Student Leadership.md
-      - Aesthetics.md
-      - Programme for Active Learning (PAL).md
-      - Physical Education.md
-      - ICT.md
-      - Gifted Education Programme.md
-      - Mother Tongue.md
-      - English.md
-      - Mathematics.md
-      - Science.md
