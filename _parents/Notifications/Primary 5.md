@@ -408,3 +408,123 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+# 2020 Notifications
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">20/12/2019<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_002%20(P5%20SS%20FbL).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_002 (P5 SS FbL).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">2/1/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPSN20P5003P5%20ParentTeacherMeeting.pdf"><span style="font-weight:400;color:#49875C">RGPSN20P5003P5 ParentTeacherMeeting.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">3/1/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_004_P5%20SCS_Diversity%20of%20Cells.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_004_P5 SCS_Diversity of Cells.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">10/2/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_010_Cleanliness%20in%20Canteen.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_010_Cleanliness in Canteen.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/2/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_012_The%20Better%20Internet%20Campaign_Notification.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_012_The Better Internet Campaign_Notification.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">9/3/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_011%20P5%20Weighted%20assessment.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_011 P5 Weighted assessment.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">17/3/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_013_P5%20Term%201%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_013_P5 Term 1 PAM Updates 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/4/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_014_SG75_Singapore%20Our%20Home%20Competition_P5.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_014_SG75_Singapore Our Home Competition_P5.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">15/6/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_016_Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P5%20(Term%203%202020).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_016_Video Submission of RGPS Got Talent for P5 (Term 3 2020).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">16/6/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_011%20P5%20Weighted%20assessment%20.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_011 P5 Weighted assessment.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">29/6/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_018_P5%20Purchase%20of%20Electrical%20kits.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_018_P5 Purchase of Electrical kits.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">27/7/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_019_GIVE%20Launch_PG%20Notification%20to%20Parents_P5.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_019_GIVE Launch_PG Notification to Parents_P5.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">30/7/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_020%20Survey%20Request%20Letter%20to%20Parent%20for%202021%20PSLE%20Accommodations.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_020 Survey Request Letter to Parent for 2021 PSLE Accommodations.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/8/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_021_SCCCI_Lantern%20Painting%20Contest_Notification.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_021_SCCCI_Lantern Painting Contest_Notification.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">31/8/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_022%20Primary%205%20End-Year%20Examination%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_022 Primary 5 End-Year Examination 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_023_RGPS%20Got%20Talent%20P5%20Online%20Showcase.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_023_RGPS Got Talent P5 Online Showcase.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_024_P5%20Term%203%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_024_P5 Term 3 PAM Updates 2020.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">21/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_025%20P5%20Raffles%20Experience%20Day%20Notification%20(2020).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_025 P5 Raffles Experience Day Notification (2020).pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">13/10/2020</td>
+    <td class="tg-gbal"><a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Manage%20Examination%20Stress!.pdf"><span style="font-weight:400;color:#49875C">Resource Kit - Parent Kit - Manage Examination Stress!.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">2/11/2020</td>
+    <td class="tg-gbal"><a href="[](/files/RGPS_N20_P5_026%20eBriefing%20Session%20on%20Direct%20School%20Admission%20Matters%20by%20the%20Principal.pdf)"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_026 eBriefing Session on Direct School Admission Matters by the Principal.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">5/11/2020</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/RGPS_N20_P4_027%20OPTION%20ON%20SUBJECT%20COMBINATION%20AT%20PRIMARY%205.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_027 OPTION ON SUBJECT COMBINATION AT PRIMARY 5.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">9/11/2020</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/Infographic.pdf"><span style="font-weight:400;color:#49875C">Infographic.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">11/11/2020</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/My%20SkillsFuture%20(Student%20Portal).pdf"><span style="font-weight:400;color:#49875C">My SkillsFuture (Student Portal).pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/11/2020</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/RGPS_N20_P5_032%20Updates%20on%20PE,%20Art%20&%20Music%20P5%20(Term%204).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_032 Updates on PE, Art &amp; Music P5 (Term 4).pdf</span></a> </td>
+  </tr>
+</tbody>
+</table>
+
