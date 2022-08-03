@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Notifications/Primary 6.md
       - Notifications/Primary 5.md
       - Notifications/Primary 4.md
       - Notifications/Primary 3.md
