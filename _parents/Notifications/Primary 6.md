@@ -327,3 +327,153 @@ third_nav_title: Notifications
 
 ### Term 3
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">1/7/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G031_School%20Health%20Visit.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G031_School Health Visit.pdf</span></a><br><a href="/files/Phase3%20HA%20Resumption%20of%20Services.pdf"><span style="font-weight:400;color:#49875C">Phase3 HA Resumption of Services.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">3/7/2021</td>
+    <td class="tg-gbal"><a href="/files/2021%20P6%20Science%20Assessment%20info%20_Revised%20June%202021.pdf"><span style="font-weight:400;color:#49875C">2021 P6 Science Assessment info _Revised June 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">3/7/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P5_016%20Survey%20Request%20Letter%20to%20Parent%20for%202022%20PSLE%20Accommodations%20(1).pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P5_016 Survey Request Letter to Parent for 2022 PSLE Accommodations.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/8/2021</td>
+    <td class="tg-gbal"><a href="/files/Online%20ordering%20and%20payment%20of%20P6%20class%20photos.pdf"><span style="font-weight:400;color:#49875C">Online ordering and payment of P6 class photos.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">23/8/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_035%20P6%20September%20Supplementary%20Lessons.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_035 P6 September Supplementary Lessons.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">26/8/2021</td>
+    <td class="tg-gbal"><a href="/files/Appreciate%20your%20coaches.pdf"><span style="font-weight:400;color:#49875C">Appreciate your coaches.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">1/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPSN21P6037%20Return%20of%20Preliminary%20Exam%20Scripts.pdf"><span style="font-weight:400;color:#49875C">RGPSN21P6037 Return of Preliminary Exam Scripts.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_038%20P6%20PAM%20Term%203%20Update%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_038 P6 PAM Term 3 Update 2021.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### Term 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">14/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_039%20Purchase%20of%20P6%20Graduation%20Year%20Book%20and%20Class%20T-shirt.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_039 Purchase of P6 Graduation Year Book and Class T-shirt.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">2/11/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_045%20%20%20P6%20Graduation%20%20Prize%20Giving%20Ceremony%20%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_045 P6 Graduation Prize Giving Ceremony 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">15/11/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_046%202021%20Primary%20School%20Leaving%20Examination%20PSLE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_046 2021 Primary School Leaving Examination PSLE.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">19/11/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS%20N21%20P6_048%20P6%20Term%204%20PAM%20updates%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS N21 P6_048 P6 Term 4 PAM updates 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">19/11/2021</td>
+    <td class="tg-gbal"><a href="/files/School%20Notification%20on%20PSLE%20Results%20Release.pdf"><span style="font-weight:400;color:#49875C">School Notification on PSLE Results Release.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">19/11/2021</td>
+    <td class="tg-gbal"><a href="/files/Conversation%20Guide.pdf"><span style="font-weight:400;color:#49875C">Conversation Guide.pdf</span></a><br></td>
+  </tr>
+</tbody>
+</table>
+
+### Term 1 (GEP)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">5/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_002%20Primary%205%20Gifted%20Education%20Programme%20(1).pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_002 Primary 5 Gifted Education Programme.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">8/1/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P5/GEP/RGPS_N21_GEP_007_P5%20Purchase%20of%20Electrical%20kits.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_007_P5 Purchase of Electrical kits.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">12/1/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/GEP/RGPS_N21_GEP_010%20Math%20Olympiad%20Training%20Course%20for%20Primary%206%20Pupils.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_010 Math Olympiad Training Course for Primary 6 Pupils.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">25/1/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/GEP/RGPS_N21_GEP_013%20P6%20GEP%20Letter%20on%20Weighted%20Assessment%20Schedule%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_013 P6 GEP Letter on Weighted Assessment Schedule 2021.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">8/3/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/GEP/RGPS_N21_P6_GEP_017_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_GEP_017_MYE.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">12/3/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/2021%20Open%20House%20Dates%20for%20IP%20Schools_11%20Mar.pdf"><span style="font-weight:400;color:#49875C">2021 Open House Dates for IP Schools_11 Mar.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">16/4/2021</td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/Term%202/NUSHS%20eOpen%20House.jpg"><span style="font-weight:400;color:#49875C">NUSHS eOpen House</span></a></td>
+  </tr>
+</tbody>
+</table>
