@@ -4,6 +4,8 @@ permalink: /parents/Notifications/primary-5
 description: ""
 third_nav_title: Notifications
 ---
+# 2022 Notifications
+
 ### Term 1
 
 <style type="text/css">
@@ -46,3 +48,71 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+### Term 3 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">1/7/2022</td>
+    <td class="tg-gbal"><a href="/files/RGPS_PG_NE%20show%202022.pdf"><span style="font-weight:400;color:#49875C">RGPS_PG_NE show 2022.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">15/7/2022</td>
+    <td class="tg-gbal"><a href="/files/Preparation%20for%20NE%20Show_Things%20to%20Note_PG.pdf"><span style="font-weight:400;color:#49875C">Preparation for NE Show_Things to Note_PG.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### GEP Term 1
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">6/1/2022</td>
+    <td class="tg-gbal"><a href="/files/P5%20GEP%202022_N22_GEP_002%20Primary%205%20Gifted%20Education%20Programme.pdf"><span style="font-weight:400;color:#49875C">P5 GEP 2022_N22_GEP_002 Primary 5 Gifted Education Programme.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">21/1/2022</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N22_P5%20GEP014.pdf"><span style="font-weight:400;color:#49875C">RGPS_N22_P5 GEP014.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/1/2022</td>
+    <td class="tg-gbal"><a href="[](/files/RGPS_N22_P5%20GEP_006.pdf)"><span style="font-weight:400;color:#49875C">RGPS_N22_P5 GEP_006.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+# 2021 Notifications
