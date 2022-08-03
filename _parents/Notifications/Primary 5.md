@@ -305,3 +305,106 @@ third_nav_title: Notifications
 </table>
 
 ### Term 1 (GEP)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">5/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_002%20Primary%205%20Gifted%20Education%20Programme.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_002 Primary 5 Gifted Education Programme.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">8/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_007_P5%20Purchase%20of%20Electrical%20kits.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_007_P5 Purchase of Electrical kits.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">12/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_009%20Math%20Olympiad%20Training%20Course%20for%20Primary%205%20Pupils.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_009 Math Olympiad Training Course for Primary 5 Pupils.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">25/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_012%20P5%20GEP%20Letter%20on%20Weighted%20Assessment%20Schedule%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_012 P5 GEP Letter on Weighted Assessment Schedule 2021.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/2/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P5_003%20Weighted%20Assessment_Mother%20Tongue%20Language%20GEP.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P5_003 Weighted Assessment_Mother Tongue Language GEP.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### Term 3 (GEP)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">5/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPSN21GEP027%20Primary%205%20End-of-Year%20Examination%202021%20GEP.pdf"><span style="font-weight:400;color:#49875C">RGPSN21GEP027 Primary 5 End-of-Year Examination 2021 GEP.pdf</span></a><br></td>
+  </tr>
+</tbody>
+</table>
+
+### Term 4 (GEP)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">22/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_029_P5_EL%20Oral%20Exam%20.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_029_P5_EL Oral Exam.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G_053_P2%20to%20P5%20CCA_Registration%20for%202022.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_053_P2 to P5 CCA_Registration for 2022.docx.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">7/10/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_029_P5_EL%20Oral%20Exam%20.pdf)"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_029_P5_EL Oral Exam.pdf</span></a><br></td>
+  </tr>
+</tbody>
+</table>
