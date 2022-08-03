@@ -205,48 +205,125 @@ third_nav_title: Notifications
 <tbody>
   <tr>
     <td class="tg-pk3b">12/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_003%20Math%20Olympiad%20Training%20Course%20for%20Primary%206%20Pupils.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_003 Math Olympiad Training Course for Primary 6 Pupils.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_003%20Math%20Olympiad%20Training%20Course%20for%20Primary%206%20Pupils.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_003 Math Olympiad Training Course for Primary 6 Pupils.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">21/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_004%20e-Briefing%20Session%20on%20New%20PSLE%20Scoring%20and%20Sec%201%20Posting%20Changes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_004 e-Briefing Session on New PSLE Scoring and Sec 1 Posting Changes.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_004%20e-Briefing%20Session%20on%20New%20PSLE%20Scoring%20and%20Sec%201%20Posting%20Changes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_004 e-Briefing Session on New PSLE Scoring and Sec 1 Posting Changes.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">25/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_G_012_The%20Growing%20Years%20Programme.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_012_The Growing Years Programme.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G_012_The%20Growing%20Years%20Programme%20(1).pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_012_The Growing Years Programme.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">27/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P5/RGPS_N21_G011_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P5%20and%20P6.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G011_Invitation for Video Submission of RGPS Got Talent for P5 and P6.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G011_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P5%20and%20P6%20(1).pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G011_Invitation for Video Submission of RGPS Got Talent for P5 and P6.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">29/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_005%20Information%20Sheet%20for%20P6.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_005 Information Sheet for P6.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_005%20Information%20Sheet%20for%20P6.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_005 Information Sheet for P6.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">4/2/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_004%20e-Briefing%20Session%20on%20New%20PSLE%20Scoring%20and%20Sec%201%20Posting%20Changes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_004 e-Briefing Session on New PSLE Scoring and Sec 1 Posting Changes.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_004%20e-Briefing%20Session%20on%20New%20PSLE%20Scoring%20and%20Sec%201%20Posting%20Changes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_004 e-Briefing Session on New PSLE Scoring and Sec 1 Posting Changes.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">8/2/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_009%20Invitation%20to%20participate%20in%20talentime%20for%20P6.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_009 Invitation to participate in talentime for P6.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_009%20Invitation%20to%20participate%20in%20talentime%20for%20P6.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_009 Invitation to participate in talentime for P6.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">8/2/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_007%20Webinar%20Link%20for%20e-Briefing%20Session%20on%20New%20PSLE%20Scoring%20and%20Sec%201%20Posting%20Changes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_007 Webinar Link for e-Briefing Session on New PSLE Scoring and Sec 1 Posting Changes.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_007%20Link%20for%20e-Briefing%20Session%20on%20New%20PSLE%20Scoring%20and%20Sec%201%20Posting%20Changes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_007 Webinar Link for e-Briefing Session on New PSLE Scoring and Sec 1 Posting Changes.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">5/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_012_Draw%20My%20Stamp%20Story%20Art%20Competition%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_012_Draw My Stamp Story Art Competition 2021.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_012_Draw%20My%20Stamp%20Story%20Art%20Competition%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_012_Draw My Stamp Story Art Competition 2021.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">8/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_013_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_013_MYE.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_013_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_013_MYE.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">12/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/RGPS_N21_P6_014_P6%20PAM%20Term%201%20Update%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_014_P6 PAM Term 1 Update 2021.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_014_P6%20PAM%20Term%201%20Update%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_014_P6 PAM Term 1 Update 2021.pdf</span></a><br></td>
   </tr>
 </tbody>
 </table>
+
+### Term 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">25/3/2021</td>
+    <td class="tg-gbal"><a href="/files/MGS%20E-OPEN%20HOUSE.pdf"><span style="font-weight:400;color:#49875C">MGS E-OPEN HOUSE.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">25/3/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_018%202021%20P6%20Science%20Assessment%20info%20updated%2024%20Mar%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_018 2021 P6 Science Assessment info updated 24 Mar 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">28/4/2021</td>
+    <td class="tg-gbal"><a href="/files/Annex%20A-Info%20Sheet%20on%202021%20DSA-Sec%20for%20Primary%206%20Students.pdf"><span style="font-weight:400;color:#49875C">Annex A-Info Sheet on 2021 DSA-Sec for Primary 6 Students.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/5/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_022%20e-Briefing%20Session%20on%20Secondary%20School%20Choices.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_022 e-Briefing Session on Secondary School Choices.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">17/5/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G_025_P4%20P6%20PTC.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_025_P4 P6 PTC.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">19/5/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_023%20Raffles%20Girls%20School%20Virtual%20Open%20House%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_023 Raffles Girls School Virtual Open House 2021.pdf</span></a><br><a href="/files/Attached%20Annexes.pdf"><span style="font-weight:400;color:#49875C">Attached Annexes.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">20/5/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_024%20e-Briefing%20Session%20by%20Principal%20on%20Making%20Informed%20School%20Choices.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_024 e-Briefing Session by Principal on Making Informed School Choices.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">21/5/2021</td>
+    <td class="tg-gbal"><a href="/files/Parent%20Kit%20Choosing%20a%20Sec%20Sch%206.pdf"><span style="font-weight:400;color:#49875C">Parent Kit Choosing a Sec Sch 6.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">27/5/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS%20N21%20P6%20026%20P6%20Term%202%20PAM%20Updates%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS N21 P6 026 P6 Term 2 PAM Updates 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">28/5/2021</td>
+    <td class="tg-gbal"><a href="/files/e-Briefing%20Session%20on%20Direct%20School%20Admission%20DSA%20Matters.pdf"><span style="font-weight:400;color:#49875C">e-Briefing Session on Direct School Admission DSA Matters.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">15/6/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_027_P6%20Supplementary%20Classes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_027_P6 Supplementary Classes.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">23/6/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_028_P6%20Prelims%2022%20June.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_028_P6 Prelims 22 June.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/6/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_029_DSA%20letter%20to%20P6%20parents_edited.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_029_DSA letter to P6 parents_edited.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### Term 3
 
