@@ -369,8 +369,106 @@ third_nav_title: Notifications
   </tr>
   <tr>
     <td class="tg-pk3b">14/10/2021</td>
-    <td class="tg-gbal"><a href="[](/files/RGPS_N21_GEP_034_P4_Updates%20on%20assessment%20matters.pdf)"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_034_P4_Updates on assessment matters.pdf</span></a></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_034_P4_Updates%20on%20assessment%20matters.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_034_P4_Updates on assessment matters.pdf</span></a></td>
   </tr>
 </tbody>
 </table>
 
+# 2020 Notifications 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">8/1/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_G008_Co-payment%20of%20Transport%20for%20Learning%20Journeys.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_G008_Co-payment of Transport for Learning Journeys.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">9/1/2020</td>
+    <td class="tg-gbal"><a href="/files/P4%20Museum-based%20learning%20journey%202020%20on%209%20jan%202020.pdf"><span style="font-weight:400;color:#49875C">P4 Museum-based learning journey 2020 on 9 jan 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">10/1/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_004%20Primary%204%20%20Road%20Safety%20Education%20–%20Traffic%20Games%20at%20Road%20Safety%20Community%20Park.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_004 Primary 4 Road Safety Education – Traffic Games at Road SafetY Community Park.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">4/2/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_011%20Postponement%20of%20Museum%20Based%20Learning.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_011 Postponement of Museum Based Learning.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">4/2/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_010%20JSA%20Parent%20Nomination.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_010 JSA Parent Nomination.pdf</span></a><span style="color:#222;background-color:#FBFFFA">  </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">9/3/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_012_The%20Better%20Internet%20Campaign_Notification.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_012_The Better Internet Campaign_Notification.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">12/3/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_013%20P4%20Science%20Assessment%20information%20for%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_013 P4 Science Assessment information for 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">17/3/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_014_P4%20Term%201%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_014_P4 Term 1 PAM Updates 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/4/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_015_SG75_Singapore%20Our%20Home%20Competition_P4.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_015_SG75_Singapore Our Home Competition_P4.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">4/5/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_017%20Code%20for%20Fun%20Programme%20(Online%20Learning).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_017 Code for Fun Programme (Online Learning).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">22/6/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_019_Weighted%20Assessment%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_019_Weighted Assessment 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">27/7/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_020_GIVE%20Launch_PG%20Notification%20to%20Parents_P4.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_020_GIVE Launch_PG Notification to Parents_P4.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/8/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_021_SCCCI_Lantern%20Painting%20Contest_Notification.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_021_SCCCI_Lantern Painting Contest_Notification.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">31/8/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_022%20Primary%204%20End-Year%20Examination%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_022 Primary 4 End-Year Examination 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_G_067_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P3%20and%20P4.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_G_067_Invitation for Video Submission of RGPS Got Talent for P3 and P4.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_023_P4%20Term%203%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_023_P4 Term 3 PAM Updates 2020.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">13/10/2020</td>
+    <td class="tg-gbal"><a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Manage%20Examination%20Stress!.pdf"><span style="font-weight:400;color:#49875C">Resource Kit - Parent Kit - Manage Examination Stress!.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/11/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_030_RGPS%20Got%20Talent%20P4%20Online%20Showcase.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_030_RGPS Got Talent P4 Online Showcase.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/11/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_032%20Updates%20on%20PE,%20Art%20&%20Music%20P4%20(Term%204).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_032 Updates on PE, Art &amp; Music P4 (Term 4).pdf</span></a> </td>
+  </tr>
+</tbody>
+</table>
