@@ -507,24 +507,66 @@ third_nav_title: Notifications
   </tr>
   <tr>
     <td class="tg-pk3b">2/11/2020</td>
-    <td class="tg-gbal"><a href="[](/files/RGPS_N20_P5_026%20eBriefing%20Session%20on%20Direct%20School%20Admission%20Matters%20by%20the%20Principal.pdf)"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_026 eBriefing Session on Direct School Admission Matters by the Principal.pdf</span></a> <br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_026%20eBriefing%20Session%20on%20Direct%20School%20Admission%20Matters%20by%20the%20Principal.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_026 eBriefing Session on Direct School Admission Matters by the Principal.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">5/11/2020</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/RGPS_N20_P4_027%20OPTION%20ON%20SUBJECT%20COMBINATION%20AT%20PRIMARY%205.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_027 OPTION ON SUBJECT COMBINATION AT PRIMARY 5.pdf</span></a> <br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P4_027%20OPTION%20ON%20SUBJECT%20COMBINATION%20AT%20PRIMARY%205.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P4_027 OPTION ON SUBJECT COMBINATION AT PRIMARY 5.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">9/11/2020</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/Infographic.pdf"><span style="font-weight:400;color:#49875C">Infographic.pdf</span></a> <br></td>
+    <td class="tg-gbal"><a href="/files/Infographic.pdf"><span style="font-weight:400;color:#49875C">Infographic.pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">11/11/2020</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/My%20SkillsFuture%20(Student%20Portal).pdf"><span style="font-weight:400;color:#49875C">My SkillsFuture (Student Portal).pdf</span></a> <br></td>
+    <td class="tg-gbal"><a href="/files/My%20SkillsFuture%20(Student%20Portal).pdf"><span style="font-weight:400;color:#49875C">My SkillsFuture (Student Portal).pdf</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">18/11/2020</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P5/RGPS_N20_P5_032%20Updates%20on%20PE,%20Art%20&%20Music%20P5%20(Term%204).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_032 Updates on PE, Art &amp; Music P5 (Term 4).pdf</span></a> </td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_032%20Updates%20on%20PE,%20Art%20&%20Music%20P5%20(Term%204).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_032 Updates on PE, Art &amp; Music P5 (Term 4).pdf</span></a> </td>
   </tr>
 </tbody>
 </table>
 
+### GEP
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">2/1/202</td>
+    <td class="tg-gbal"><a href="/files/P5%20GEP%201st%20LETTER%201-2%20Jan%202020.pdf"><span style="font-weight:400;color:#49875C">P5 GEP 1st LETTER 1-2 Jan 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">2/1/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_GEP_005_P5GEP%20Parents%20Briefing_1%20Jan.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_GEP_005_P5GEP Parents Briefing_1 Jan.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">3/1/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_GEP_011_Purchase%20of%20electricity%20kits%20for%20P5%20GE%20pupils%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_GEP_011_Purchase of electricity kits for P5 GE pupils 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/1/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_GEP_010_P5%20CEP%20letter%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_GEP_010_P5 CEP letter 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">4/6/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPSN20GEP020_P5%20GEP%20Curr%20Matters%20&%20Revised%20Assessmt%20Plan%202020.pdf"><span style="font-weight:400;color:#49875C">RGPSN20GEP020_P5 GEP Curr Matters &amp; Revised Assessmt Plan 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+  </tr>
+</tbody>
+</table>
