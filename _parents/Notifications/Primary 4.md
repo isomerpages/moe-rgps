@@ -252,3 +252,46 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+### Term 1 (GEP)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">5/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_001%20Primary%204%20Gifted%20Education%20Programme.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_001 Primary 4 Gifted Education Programme.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">12/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_008%20Math%20Olympiad%20Training%20Course%20for%20Primary%204%20Pupils.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_008 Math Olympiad Training Course for Primary 4 Pupils.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">25/1/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_011%20P4%20GEP%20Letter%20on%20Weighted%20Assessment%20Schedule%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_011 P4 GEP Letter on Weighted Assessment Schedule 2021.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/2/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_016%20e-Briefing%20for%20Primary%204%20GEP%20Higher%20Mother%20Tongue%20HMT%20and%20School%20Programmes.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_016 e-Briefing for Primary 4 GEP Higher Mother Tongue HMT and School Programmes.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">8/3/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P4_GEP_016_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_GEP_016_MYE.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
