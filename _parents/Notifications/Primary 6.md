@@ -84,3 +84,99 @@ third_nav_title: Notifications
 </tbody>
 </table>
 
+### Term 3
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">30/6/2022</td>
+    <td class="tg-gbal"><a href="/files/P1%20P2%20Library%20Week%20Workshop%20Attachment.pdf"><span style="font-weight:400;color:#49875C">P1 P2 Library Week Workshop Attachment.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### GEP Term 1
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">6/1/2022</td>
+    <td class="tg-gbal"><a href="/files/P6%20GEP%202022_N22_GEP_003%20Primary%206%20Gifted%20Education%20Programme.pdf"><span style="font-weight:400;color:#49875C">P6 GEP 2022_N22_GEP_003 Primary 6 Gifted Education Programme.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/1/2022</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N22_P6_003%20Payment%20for%20Learning%20Resources%20and%20Materials.pdf"><span style="font-weight:400;color:#49875C">RGPS_N22_P6_003 Payment for Learning Resources and Materials.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">21/1/2022</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N22_P6%20GEP013.pdf"><span style="font-weight:400;color:#49875C">RGPS_N22_P6 GEP013.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/1/2022</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N22_P6%20GEP_011.pdf"><span style="font-weight:400;color:#49875C">RGPS_N22_P6 GEP_011.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/1/2022</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N22_P6%20GEP_007.pdf"><span style="font-weight:400;color:#49875C">RGPS_N22_P6 GEP_007.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### GEP Term 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">30/3/2022</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N22_GEP_017.pdf"><span style="font-weight:400;color:#49875C">RGPS_N22_GEP_017.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
