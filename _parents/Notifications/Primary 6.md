@@ -4,7 +4,7 @@ permalink: /parents/Notifications/primary-6
 description: ""
 third_nav_title: Notifications
 ---
-# 2020 Notifications 
+# 2022 Notifications 
 
 ### Term 1
 
@@ -505,6 +505,137 @@ third_nav_title: Notifications
   <tr>
     <td class="tg-pk3b">15/11/2021</td>
     <td class="tg-gbal"><a href="/files/RGPS_N21_P6_046%202021%20Primary%20School%20Leaving%20Examination%20PSLE%20(1).pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_046 2021 Primary School Leaving Examination PSLE.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+# 2020 Notifications 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">18/12/2019</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_002%20(P6%20SS%20FbL).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_002 (P6 SS FbL).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">2/1/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPSN20P6003%20P6%20Parent%20Teacher%20Meeting.pdf"><span style="font-weight:400;color:#49875C">RGPSN20P6003 P6 Parent Teacher Meeting.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">10/2/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_009_Cleanliness%20in%20Canteen.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_009_Cleanliness in Canteen.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">9/3/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_010_The%20Better%20Internet%20Campaign_Notification.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_010_The Better Internet Campaign_Notification.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">12/3/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_%20P6_011%20P6%20Science%20Assessment%20information%20for%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_ P6_011 P6 Science Assessment information for 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">17/3/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_012_P6%20Term%201%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_012_P6 Term 1 PAM Updates 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/4/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P5_014_SG75_Singapore%20Our%20Home%20Competition_P5.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P5_014_SG75_Singapore Our Home Competition_P5.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">4/5/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_016%20Updates%20on%20P6%20Matters%20&%20Thank%20You%20Message.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_016 Updates on P6 Matters &amp; Thank You Message.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">11/5/2020</td>
+    <td class="tg-gbal"><a href="/files/Annex%20A%20Info%20Sheet%20on%202020%20DSA-Sec%20for%20Primary%206%20Students.pdf"><span style="font-weight:400;color:#49875C">Annex A Info Sheet on 2020 DSA-Sec for Primary 6 Students.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">8/6/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_023_P6%20Preliminary%20Examination%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_023_P6 Preliminary Examination 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">22/6/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_024%20Updated%20-%20P6%20Science%20Assessment%20information%20for%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_024 Updated - P6 Science Assessment information for 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">25/6/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_024%20DSA%20Selection%20Exercise%20at%20RGPS%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_024 DSA Selection Exercise at RGPS 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">5/8/2020</td>
+    <td class="tg-gbal"><a href="/files/Instructions%20to%20School%20Candidates%20for%20PSLE%20Oral%20Exam.pdf"><span style="font-weight:400;color:#49875C">Instructions to School Candidates for PSLE Oral Exam.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">21/8/2020</td>
+    <td class="tg-gbal"><a href="/files/PSLE%20Instructions%20to%20Sch%20Candidates.pdf"><span style="font-weight:400;color:#49875C">PSLE Instructions to Sch Candidates.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/8/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_026%20Primary%206%20Supplementary%20Lessons%20(7%20&%208%20September).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_026 Primary 6 Supplementary Lessons (7 &amp; 8 September).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">26/8/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_027_Study%20Break.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_027_Study Break.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">2/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_028%20Information%20for%20PSLE%20Listening%20Comprehension%20and%20Written%20Examination.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_028 Information for PSLE Listening Comprehension and Written Examination.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/9/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_030_P6%20Term%203%20PAM%20Updates%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_030_P6 Term 3 PAM Updates 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">1/10/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPSN20%20P6_031%20P6%20Graduation%20(Year%20book%20and%20T-shirt).pdf"><span style="font-weight:400;color:#49875C">RGPSN20 P6_031 P6 Graduation (Year book and T-shirt).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">5/10/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_032_Consent%20for%20use%20of%20photos%20and%20videos%20for%20P6%20Grad%20Ceremony%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_032_Consent for use of photos and videos for P6 Grad Ceremony 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/10/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_033%20Information%20Booklet.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_033 Information Booklet.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">28/10/2020</td>
+    <td class="tg-gbal"><a href="/files/PSLE%20Results%20Release%20(for%20primary%20schools).pdf"><span style="font-weight:400;color:#49875C">PSLE Results Release (for primary schools).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">10/11/2020</td>
+    <td class="tg-gbal"><a href="/files/Art%20and%20Music%20Special%20Programmes%20(Secondary).pdf"><span style="font-weight:400;color:#49875C">Art and Music Special Programmes (Secondary).pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">10/11/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P5_030%20SOTA%20P6%20Art%20Competition%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P5_030 SOTA P6 Art Competition 2021.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">18/11/2020</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_P6_034%20Updates%20on%20PE,%20Art%20&%20Music%20P6%20(Term%204).pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_P6_034 Updates on PE, Art &amp; Music P6 (Term 4).pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">23/11/2020</td>
+    <td class="tg-gbal"><a href="/files/HPB-Online%20consent%20dental%20Secondary%20P6.pdf"><span style="font-weight:400;color:#49875C">HPB-Online consent dental Secondary P6.pdf</span></a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">23/11/2020</td>
+    <td class="tg-gbal"><a href="[](/files/Online%20Consent%20for%20Dental%20Services%20Secondary%20School%20Dental%20Programme.pdf)"><span style="font-weight:400;color:#49875C">Online Consent for Dental Services Secondary School Dental Programme.pdf</span></a> </td>
   </tr>
 </tbody>
 </table>
