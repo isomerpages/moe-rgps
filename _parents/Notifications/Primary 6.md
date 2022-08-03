@@ -477,3 +477,34 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+### Term 2 (GEP)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">13/4/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_021_P6_EL%20Oral%20Exam.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_021_P6_EL Oral Exam.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">15/11/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_046%202021%20Primary%20School%20Leaving%20Examination%20PSLE%20(1).pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_046 2021 Primary School Leaving Examination PSLE.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
