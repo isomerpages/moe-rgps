@@ -453,27 +453,27 @@ third_nav_title: Notifications
   </tr>
   <tr>
     <td class="tg-pk3b">8/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P5/GEP/RGPS_N21_GEP_007_P5%20Purchase%20of%20Electrical%20kits.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_007_P5 Purchase of Electrical kits.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_007_P5%20Purchase%20of%20Electrical%20kits.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_007_P5 Purchase of Electrical kits.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">12/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/GEP/RGPS_N21_GEP_010%20Math%20Olympiad%20Training%20Course%20for%20Primary%206%20Pupils.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_010 Math Olympiad Training Course for Primary 6 Pupils.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_010%20Math%20Olympiad%20Training%20Course%20for%20Primary%206%20Pupils.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_010 Math Olympiad Training Course for Primary 6 Pupils.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">25/1/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/GEP/RGPS_N21_GEP_013%20P6%20GEP%20Letter%20on%20Weighted%20Assessment%20Schedule%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_013 P6 GEP Letter on Weighted Assessment Schedule 2021.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_013%20P6%20GEP%20Letter%20on%20Weighted%20Assessment%20Schedule%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_013 P6 GEP Letter on Weighted Assessment Schedule 2021.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">8/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/GEP/RGPS_N21_P6_GEP_017_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_GEP_017_MYE.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P6_GEP_017_MYE.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P6_GEP_017_MYE.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">12/3/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/2021%20Open%20House%20Dates%20for%20IP%20Schools_11%20Mar.pdf"><span style="font-weight:400;color:#49875C">2021 Open House Dates for IP Schools_11 Mar.pdf</span></a><br></td>
+    <td class="tg-gbal"><a href="/files/2021%20Open%20House%20Dates%20for%20IP%20Schools_11%20Mar.pdf"><span style="font-weight:400;color:#49875C">2021 Open House Dates for IP Schools_11 Mar.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-pk3b">16/4/2021</td>
-    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2021/P6/Term%202/NUSHS%20eOpen%20House.jpg"><span style="font-weight:400;color:#49875C">NUSHS eOpen House</span></a></td>
+    <td class="tg-gbal"><a href="/images/NUSHS%20eOpen%20House.jpeg"><span style="font-weight:400;color:#49875C">NUSHS eOpen House</span></a></td>
   </tr>
 </tbody>
 </table>
