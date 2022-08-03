@@ -330,3 +330,47 @@ third_nav_title: Notifications
   </tr>
 </tbody>
 </table>
+
+### Term 4 (GEP)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date  </th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">14/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_028_P4_EL%20Oral%20Exam.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_028_P4_EL Oral Exam.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">22/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_P4_GEP%20Revised%20Primary%204%20End-of-Year%20Examination%202021.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_P4_GEP Revised Primary 4 End-of-Year Examination 2021.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">22/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_GEP_030_P4_P4%20GEP%20Revised%20Assessment%20Schedule.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_030_P4_P4 GEP Revised Assessment Schedule.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">24/9/2021</td>
+    <td class="tg-gbal"><a href="/files/RGPS_N21_G_053_P2%20to%20P5%20CCA_Registration%20for%202022.pdf"><span style="font-weight:400;color:#49875C">RGPS_N21_G_053_P2 to P5 CCA_Registration for 2022.docx.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/10/2021</td>
+    <td class="tg-gbal"><a href="[](/files/RGPS_N21_GEP_034_P4_Updates%20on%20assessment%20matters.pdf)"><span style="font-weight:400;color:#49875C">RGPS_N21_GEP_034_P4_Updates on assessment matters.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
+
