@@ -635,7 +635,46 @@ third_nav_title: Notifications
   </tr>
   <tr>
     <td class="tg-pk3b">23/11/2020</td>
-    <td class="tg-gbal"><a href="[](/files/Online%20Consent%20for%20Dental%20Services%20Secondary%20School%20Dental%20Programme.pdf)"><span style="font-weight:400;color:#49875C">Online Consent for Dental Services Secondary School Dental Programme.pdf</span></a> </td>
+    <td class="tg-gbal"><a href="/files/Online%20Consent%20for%20Dental%20Services%20Secondary%20School%20Dental%20Programme.pdf"><span style="font-weight:400;color:#49875C">Online Consent for Dental Services Secondary School Dental Programme.pdf</span></a> </td>
+  </tr>
+</tbody>
+</table>
+
+### GEP
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pk3b{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-1h0n{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gbal{background-color:#FBFFFA;color:#49875C;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Date</th>
+    <th class="tg-1h0n">File</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pk3b">2/1/2020<br></td>
+    <td class="tg-gbal"><a href="/files/P6%20GEP%201st%20LETTER%201-2%20Jan%202020.pdf"><span style="font-weight:400;color:#49875C">P6 GEP 1st LETTER 1-2 Jan 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">6/5/2020<br></td>
+    <td class="tg-gbal"><a href="/files/RGPS_N20_GEP_021_P6%20GEP%20Curr%20Matters%20&%20Revised%20Assessment%20Plan%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_GEP_021_P6 GEP Curr Matters &amp; Revised Assessment Plan 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">14/10/2020<br></td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2020/RGPS_N20_GEP_028%20P6%20GEP%20Parents/'%20Survey%202020.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_GEP_028 P6 GEP Parents' Survey 2020.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-pk3b">10/11/2020<br></td>
+    <td class="tg-gbal"><a href="https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Notifications/2020/P6/GEP/RGPS_N20_GEP_032%20Reminder%20on%20P6GEP%20Parents/'%20Survey.pdf"><span style="font-weight:400;color:#49875C">RGPS_N20_GEP_032 Reminder on P6GEP Parents' Survey.pdf</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
 </tbody>
 </table>
