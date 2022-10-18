@@ -10,8 +10,11 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7am - 5.30pm
-        description: (During School Term)
+        time: 7.00 a.m. - 5.30 p.m.
+        description: (School Term)
+      - days: Mon - Fri
+        time: 8.00 a.m to 5.00 p.m
+        description: (Term Break)
     maps_link: ""
     title: Address
   - address:
