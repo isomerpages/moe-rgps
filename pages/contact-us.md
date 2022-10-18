@@ -6,18 +6,19 @@ agency_name: Raffles Girls' Primary School
 locations:
   - address:
       - 21 Hillcrest Road
-      - "  Singapore 289072"
+      - Singapore 289072
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8am - 5.30pm
-        description: ""
+        time: 7am - 5.30pm
+        description: (During School Term)
     maps_link: ""
     title: Address
   - address:
       - ""
       - ""
       - ""
+    operating_hours: []
     maps_link: /gate-opening-hours
     title: Gate Opening Hours
 contacts:
