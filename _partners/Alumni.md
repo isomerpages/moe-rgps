@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /partners/alumni
+permalink: /partners/alumni/
 description: ""
 ---
 ### **RGPS CARES – Circle of Alumnae to Reach out, Exchange and Support!**
