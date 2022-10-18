@@ -17,17 +17,15 @@ locations:
         description: (Term Break)
     maps_link: ""
     title: Address
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: /gate-opening-hours
-    title: Gate Opening Hours
 contacts:
   - content:
       - phone: +65 6468 4377
       - email: rgps@moe.edu.sg
       - other: "Fax: 64692024"
     title: General Enquiries
+  - content:
+      - phone: +65 9816 1671
+      - email: rafflesgirlsscc@knowledgepark.com.sg
+      - other: ""
+    title: Student Care Centre
 ---
