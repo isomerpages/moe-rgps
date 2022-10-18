@@ -1,6 +1,6 @@
 ---
 title: Parent Volunteer
-permalink: /partners/parent-volunteer
+permalink: /partners/parent-volunteer/
 description: ""
 ---
 Click [here](http://www.rgpspvg.org/) to access RGPS PVG website. 
