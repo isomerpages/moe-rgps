@@ -124,5 +124,3 @@ CCAs  are conducted from Mondays to Thursdays for P3 to P6 pupils. Please refer
   </tr>
 </tbody>
 </table>
-
-
