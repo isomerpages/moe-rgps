@@ -2,9 +2,9 @@ collections:
   programme:
     output: true
     order:
-      - Environmental Education.md
       - Active Learning Programme (ALP).md
       - Co Curricular Activities (CCA).md
       - Enriching Learning Experience.md
+      - Environmental Education.md
       - Gifted Education Programme.md
       - Programme for Active Learning.md
