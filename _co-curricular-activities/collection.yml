@@ -2,8 +2,13 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - 2022 CCA schedule and information(tentative).md
       - Co Curricular Activities (CCA).md
+      - Clubs/.keep
+      - Clubs/International Chess Club.md
+      - Clubs/Library Club.md
+      - Clubs/EnviroLife Science Club.md
+      - Clubs/New Media Club.md
+      - Clubs/Art Club.md
       - Performing Arts/.keep
       - Performing Arts/String Ensemble.md
       - Performing Arts/Choir.md
@@ -19,9 +24,4 @@ collections:
       - Uniformed Group/.keep
       - Uniformed Group/Brownie.md
       - Uniformed Group/Girls' Brigade.md
-      - Clubs/.keep
-      - Clubs/International Chess Club.md
-      - Clubs/Library Club.md
-      - Clubs/EnviroLife Science Club.md
-      - Clubs/New Media Club.md
-      - Clubs/Art Club.md
+      - 2022 CCA schedule and information(tentative).md
