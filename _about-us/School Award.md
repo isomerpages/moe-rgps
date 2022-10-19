@@ -47,7 +47,7 @@ The Lotus Award is awarded to schools that showcased at least one innovative env
 		<td><strong>Singapore Quality Class (SQC)</strong> is the certification for the overall excellence standard. The SQC provides organisations with a holistic model for managing business excellence. It has seven dimensions of excellence, namely, Leadership, Planning, Information, People, Processes, Customers and Results.</td>
   </tr>
 	<tr>
-    <td><img src="/images/best%20practice%20award.jpeg" alt="" style="width:137px; height:230px;"><br><img src=/images/BestPractice_Student.jpg style="width:177px; height:224px;"><br><img src="/images/best%20prac%20award%202.jpeg" alt="" style="width:177px; height:224px;"></td>
+    <td><img src="/images/BestPractice_TL.jpg" alt="" style="width:137px; height:230px;"><br><img src=/images/BestPractice_Student.jpg style="width:177px; height:224px;"><br><img src="/images/BestPractice_staff.jpg" alt="" style="width:177px; height:224px;"></td>
 		<td>The <strong>Best Practice Award (BPA)</strong> for Teaching & Learning recognises schools for their effective practices and systems that lead to good education outcomes in both academic and non-academic areas. There are 3 categories for the BPA—Student All-Round Development, Staff Well-Being, and Teaching and Learning. </td>
   </tr>
 </table>
