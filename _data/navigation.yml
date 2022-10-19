@@ -3,7 +3,7 @@ links:
   - title: About Us
     collection: about-us
   - title: Programme
-    url: /programme/enriching-learning-experience
+    url: /programme/ALP
     sublinks:
       - title: Active Learning Programme
         url: /Programme/alp
