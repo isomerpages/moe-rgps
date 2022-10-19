@@ -1,6 +1,6 @@
 ---
 title: Allied Educator
-permalink: /staff/allied-educator
+permalink: /staff/allied-educator/
 description: ""
 ---
 <style type="text/css">
@@ -34,9 +34,14 @@ description: ""
     <td class="tg-baqh">Counsellor</td>
     <td class="tg-baqh">Hui_Yoke_Cheng@schools.gov.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-baqh">Ms Nur Insyirah Mohd Hashim</td>
+    <td class="tg-baqh">SEN Officer</td>
+    <td class="tg-baqh">Nur_Insyirah_Mohd_Hashim@schools.gov.sg</td>
+  </tr>
   <tr>
     <td class="tg-baqh">Ms Chow Suet Ling</td>
-    <td class="tg-baqh">LBS</td>
+    <td class="tg-baqh">SEN Officer (FAJT)</td>
     <td class="tg-baqh">chow_suet_ling@schools.gov.sg</td>
   </tr>
 </tbody>
