@@ -3,8 +3,6 @@ title: Active Learning Programme (ALP)
 permalink: /programme/ALP/
 description: ""
 ---
-
-
 # Programmes
 
 ### ALP@RAFFLES - Nurturing Confident Communicators 
