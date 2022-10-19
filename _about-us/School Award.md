@@ -12,19 +12,6 @@ description: ""
     <td><img src="/images/school%20excellence%20award.jpeg" alt="" style="width:168px; height:184px;"></td>
 		<td>The <strong>School Excellence Award</strong> recognises schools for their excellence in both education processes and outcomes. It serves as a mark of distinction for schools that have sustained achievements in a wide spectrum of student development processes.</td>
   </tr>
-  <tr>
-    <td><img src="/images/best%20practice%20award.jpeg" alt="" style="width:137px; height:230px;"></td>
-		<td rowspan="3">The <strong>Best Practice Award (BPA)</strong> for Teaching & Learning recognises schools for their effective practices and systems that lead to good education outcomes in both academic and non-academic areas. There are 3 categories for the BPA—Student All-Round Development, Staff Well-Being, and Teaching and Learning. </td>
-  </tr>
-	  <tr>
-    <td><img src="/images/best%20prac%20award%202.jpeg" alt="" style="width:177px; height:224px;"></td>
-    <td></td>
-		
-  </tr>
-	  <tr>
-    <td><img src="https://d33wubrfki0l68.cloudfront.net/fd7f731013c249341b15757c32d87b78866b33d6/3ae6c/images/picture5.jpeg" alt="" style="width:172px; height:172px;"></td>
-    <td></td>
-  </tr>
 	  <tr>
     <td><img src="https://d33wubrfki0l68.cloudfront.net/42beaaa64a937f4b8ac09fda3fc2ed5d95c282d1/87cf3/images/picture6.jpeg" alt="" style="width:163px; height:192px;"></td>
     <td>The goal of education is to nurture the whole child, including his/her character. Character development is the teaching of values and social and emotional competencies. It is also about providing opportunities for students to demonstrate behaviour consistent with the values taught. 
@@ -58,5 +45,18 @@ The Lotus Award is awarded to schools that showcased at least one innovative env
 	<tr>
     <td><img src="https://d33wubrfki0l68.cloudfront.net/89ef811abab2ec2098cff3071bb6f78ff7766f1c/0ec31/images/sqc.jpeg" alt=""></td>
 		<td><strong>Singapore Quality Class (SQC)</strong> is the certification for the overall excellence standard. The SQC provides organisations with a holistic model for managing business excellence. It has seven dimensions of excellence, namely, Leadership, Planning, Information, People, Processes, Customers and Results.</td>
+  </tr>
+	<tr>
+    <td><img src="/images/best%20practice%20award.jpeg" alt="" style="width:137px; height:230px;"></td>
+		<td>The <strong>Best Practice Award (BPA)</strong> for Teaching & Learning recognises schools for their effective practices and systems that lead to good education outcomes in both academic and non-academic areas. There are 3 categories for the BPA—Student All-Round Development, Staff Well-Being, and Teaching and Learning. </td>
+  </tr>
+	  <tr border="0">
+    <td border="0"><img src="/images/best%20prac%20award%202.jpeg" alt="" style="width:177px; height:224px;"></td>
+    <td></td>
+		
+  </tr>
+	  <tr border="0">
+    <td border="0"><img src="https://d33wubrfki0l68.cloudfront.net/fd7f731013c249341b15757c32d87b78866b33d6/3ae6c/images/picture5.jpeg" alt="" style="width:172px; height:172px;"></td>
+    <td></td>
   </tr>
 </table>
