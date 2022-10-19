@@ -5,12 +5,18 @@ links:
   - title: Programme
     url: /programme/enriching-learning-experience
     sublinks:
-      - title: Enriching Learning Experience
-        url: /programme/enriching-learning-experience
-      - title: Gifted Education Programme
-        url: /programme/gifted-education-programme
+      - title: Active Learning Programme
+        url: programme/alp/
       - title: Co-Curricular Activities (CCA)
         url: /programme/co-curricular-activities-cca/2022-cca-schedule-and-information-tentative
+      - title: Enriching Learning Experience
+        url: /programme/enriching-learning-experience
+      - title: Environmental Education
+        url: programme/enviroedu/
+      - title: Gifted Education Programme
+        url: /programme/gifted-education-programme
+      - title: Learning For Life Programme
+        url: programme/llp/
       - title: Programme for Active Learning
         url: /programme/enriching-learning-experience
   - title: Departments
