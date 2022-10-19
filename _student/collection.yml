@@ -2,4 +2,5 @@ collections:
   student:
     output: true
     order:
+      - Student Icon.md
       - Media Resource Library.md
