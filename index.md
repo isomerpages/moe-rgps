@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Raffles Girls' Primary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -24,3 +24,4 @@ sections:
       description: P1 School Term starts from 3 January 2023 , P2-P6 School Term start
         from  4 January 2023
 ---
+
