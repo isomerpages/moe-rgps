@@ -1,6 +1,6 @@
 ---
 title: Management Committee
-permalink: /staff/management-committee
+permalink: /staff/management-committee/
 description: ""
 ---
 ### Principal
