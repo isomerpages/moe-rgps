@@ -1,6 +1,6 @@
 ---
 title: Executive and Administrative Staff
-permalink: /staff/executive-and-administrative-staff
+permalink: /staff/executive-and-administrative-staff/
 description: ""
 ---
 <style type="text/css">
@@ -30,6 +30,11 @@ description: ""
     <td class="tg-baqh">Administration Manager</td>
     <td class="tg-0lax">eng_kai_ling@schools.gov.sg</td>
   </tr>
+	<tr>
+    <td class="tg-baqh">Mr Ang Ying Hin</td>
+    <td class="tg-baqh">Administartion Manager</td>
+    <td class="tg-0lax">ang_ying_hin@schools.gov.sg</td>
+  </tr>
   <tr>
     <td class="tg-baqh">Mr Loh Chin Boon</td>
     <td class="tg-baqh">Operations Manager</td>
@@ -39,11 +44,6 @@ description: ""
     <td class="tg-baqh">Ms Carinn Sim</td>
     <td class="tg-baqh">ICT Manager</td>
     <td class="tg-0lax">sim_kai_lin_carinn@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Mdm Nur Iliana Binte Abdul Rahim</td>
-    <td class="tg-baqh">Corporate Support Officer</td>
-    <td class="tg-0lax">nur_iliana_abdul_rahim@schools.gov.sg </td>
   </tr>
   <tr>
     <td class="tg-baqh">Mdm Priscilla Myrtle Olsen</td>
