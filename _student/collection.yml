@@ -2,5 +2,6 @@ collections:
   student:
     output: true
     order:
+      - Student Learning Space.md
       - Student Icon.md
       - Media Resource Library.md
