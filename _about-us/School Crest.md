@@ -1,6 +1,6 @@
 ---
 title: School Crest
-permalink: /about-us/school-crest
+permalink: /about-us/school-crest/
 description: ""
 ---
 # Represents
@@ -10,7 +10,7 @@ description: ""
 <table border="0" align="center">
 
   <tr>
-    <td><img src="https://d33wubrfki0l68.cloudfront.net/52a6ee366b244de23b8b1a2d8a70c25ef7ea1f1d/f37b7/images/rgps-logo-2008.png" alt=""></td>
+    <td><img src="/images/RGPS%20School%20Crest%20(no%20background).png" alt=""></td>
 		<td><br><br><br><strong>Green</strong> for youth, vitality and growth <br><br><strong>White</strong> for Sincerity and purity in the young<br><br><strong>Black</strong> for Perseverance to strive with diligence<br><br>The three torches represent Knowledge, Progress and Success</td>
   </tr>
 </table>
