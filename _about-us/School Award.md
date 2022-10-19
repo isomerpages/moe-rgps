@@ -1,6 +1,6 @@
 ---
 title: School Award
-permalink: /about-us/school-award
+permalink: /about-us/school-award/
 description: ""
 ---
 <table border="0" align="center">
@@ -13,7 +13,7 @@ description: ""
 		<td>The <strong>School Excellence Award</strong> recognises schools for their excellence in both education processes and outcomes. It serves as a mark of distinction for schools that have sustained achievements in a wide spectrum of student development processes.</td>
   </tr>
   <tr>
-    <td><img src="/images/best%20practice%20award.jpeg" alt="" style="width:137px; height:230px;"></td>
+    <td rowspan="3"><img src="/images/best%20practice%20award.jpeg" alt="" style="width:137px; height:230px;"></td>
 		<td>The <strong>Best Practice Award (BPA)</strong> for Teaching & Learning recognises schools for their effective practices and systems that lead to good education outcomes in both academic and non-academic areas. There are 3 categories for the BPA—Student All-Round Development, Staff Well-Being, and Teaching and Learning. </td>
   </tr>
 	  <tr>
