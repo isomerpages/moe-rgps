@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - Active Learning Programme.md
       - Enriching Learning Experience.md
       - Gifted Education Programme.md
