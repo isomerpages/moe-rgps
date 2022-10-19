@@ -2,10 +2,10 @@ collections:
   programme:
     output: true
     order:
-      - Learning For Life Programme (LLP).md
       - Active Learning Programme (ALP).md
       - Co Curricular Activities (CCA).md
       - Enriching Learning Experience.md
       - Environmental Education.md
       - Gifted Education Programme.md
+      - Learning For Life Programme (LLP).md
       - Programme for Active Learning.md
