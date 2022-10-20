@@ -11,6 +11,14 @@ There are 4 PAL modules - Sports and Games, Visual Arts, Outdoor Education and P
   
 During Non-Pal weeks, Life skills, social skills and character development programmes are conducted to ensure students are equipped with the right skills and values to be future ready.
 
+
+
+| Level | Term 1 | Term 2 | Term 3 | Term 4|
+| -------- | -------- | -------- | -------- | -------- |
+| P1 | Performing Arts (PA) Life Skills  | Visual Arts (VA)  Social Skills | Sports & Games (SG) Social Skills | Social Skills Character Development Programme | <br><br>|P2 | Sports & Games (SG) Life Skills  | Outdoor Education (OE)  Social Skills | Performing Arts (PA) Social Skills | Social Skills Character Development Programme |
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
