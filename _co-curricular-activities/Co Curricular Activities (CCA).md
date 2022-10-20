@@ -36,6 +36,17 @@ CCAs  are conducted from Mondays to Thursdays for P3 to P6 pupils. Please refer
 
 ### **CCA for P3-P6**
 
+
+
+| Clubs | Performing Arts | Sports & Games | Uniformed Group 
+| -------- | -------- | -------- | -------- | 
+| Art Club | Choir | Badmintion | Brownies|
+| Enviro-Life Science Club | Concert Band | Basketball | Girls Brigade |
+| International Chess Club | Dance | Rhythmic Gymnastics |
+| Library Club | Drama | Softball | |
+| New Media | Strings Ensemble | Table Tennis | |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
