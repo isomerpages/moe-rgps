@@ -19,7 +19,7 @@ CCA is strongly encouraged for upper primary students (P4 to P6)
 
 
 
-| Activity | Term | 
+| Activity | Term 
 | -------- | -------- |
 |P5 CCA Leaders Training| Term 2 & Term 3 |
 |CCA Value Package | Term 3 |
