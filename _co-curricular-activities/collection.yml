@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA).md
+      - CCA Schedule and Information.md
       - Clubs/.keep
       - Clubs/International Chess Club.md
       - Clubs/Library Club.md
@@ -24,4 +25,3 @@ collections:
       - Uniformed Group/.keep
       - Uniformed Group/Brownie.md
       - Uniformed Group/Girls' Brigade.md
-      - CCA Schedule and Information.md
