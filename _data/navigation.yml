@@ -23,6 +23,8 @@ links:
     collection: departments
   - title: Staff
     collection: staff
+  - title: Student
+    collection: student
   - title: Parents
     collection: parents
   - title: Partners
