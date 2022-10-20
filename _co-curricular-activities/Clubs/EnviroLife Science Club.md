@@ -1,6 +1,6 @@
 ---
 title: EnviroLife Science Club
-permalink: /programme/co-curricular-activities-cca/clubs/enviro-life-science-club
+permalink: /programme/co-curricular-activities-cca/clubs/enviro-life-science-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -14,7 +14,7 @@ Besides learning about the environmental issues, this club enables pupils to tak
 
 ### Teachers in Charge
 
-Ms Luo Zhiqing / Mrs Christina Lim (Enviro-Life Sc Club for P4-6)
+Mrs Christina Lim (Enviro-Life Sc Club for P4-6)
 
 ### Training Schedule
 
