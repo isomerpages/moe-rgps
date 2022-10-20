@@ -1,6 +1,6 @@
 ---
 title: Library Club
-permalink: /programme/co-curricular-activities-cca/clubs/library-club
+permalink: /programme/co-curricular-activities-cca/clubs/library-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -29,9 +29,7 @@ Over the course of the year, the student librarians will develop their leadershi
 *   Mdm Wong Wei Yuan 
 
   
-
 ### Training Schedule
 
   
-
 Every Monday: 3 to 5pm
