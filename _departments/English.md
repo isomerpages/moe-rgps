@@ -210,7 +210,7 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 |Primary 3 | Understanding Singapore’s Environment and Challenges |
 |Primary 4 | Understanding Our Past |
 ||**Appreciating Singapore, the Region and the World We Live In**|
-|Primary 5 | ***Part 1:*** Understanding Singapore’s Development as a Nation <Br>***Part 2:*** Understanding Southeast Asia’s Diversity and Interconnectedness|
+|Primary 5 | ***Part 1:*** Understanding Singapore’s Development as a Nation <Br>***Part 2:*** Understanding Southeast Asia’s Diversity and Interconnectedness |
 |Primary 6 | Understanding Features and Legacies of Civilisations |
 
 | Level | Field-based Learning |
