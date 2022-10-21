@@ -184,10 +184,10 @@ Although there is no mid-year examination, students’ learning will continue to
 
 Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3. The table below shows an overview.
 
-| | Term 2 | Term 3 | Term 4 |
-| -------- | -------- | -------- | -------- | 
-|| **Weighted Assessment 1** | **Weighted Assessment 2**| **End-of-Year Examination** |
-| Primary 3 & 5 | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
+|               |Term 1    | Term 2 | Term 3 | Term 4 |
+| -------- | -------- | -------- | -------- | -------- |
+|               | -             | **Weighted Assessment 1** | **Weighted Assessment 2**| **End-of-Year Examination** |
+| Primary 3 & 5 | - | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
 
 <br><br>
 
