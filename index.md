@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner-RGPS.jpeg
+      background: /images/CLOCKTOWER.png
       key_highlights:
         - title: Notifications
           description: Important Updates for Pri 1-6
