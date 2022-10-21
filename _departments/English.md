@@ -212,6 +212,7 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 | |**Appreciating Singapore, the Region and the World We Live In**|
 |Primary 5 | ***Part 1:*** Understanding Singapore’s Development as a Nation <Br>***Part 2:*** Understanding Southeast Asia’s Diversity and Interconnectedness |
 |Primary 6 | Understanding Features and Legacies of Civilisations |
+<br>
 
 | Level | Field-based Learning |
 | -------- | -------- |
