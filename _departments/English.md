@@ -214,64 +214,6 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 |Primary 6 | Understanding Features and Legacies of Civilisations |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a5i5">Level</th>
-    <th class="tg-a5i5">Syllabus</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-da8v"></td>
-    <td class="tg-muqq">Discovering Self and Immediate Environment</td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 1</td>
-    <td class="tg-2w19">Knowing Myself, Others and My Surroundings</td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 2</td>
-    <td class="tg-2w19">Coming Together as a Nation</td>
-  </tr>
-  <tr>
-    <td class="tg-da8v"></td>
-    <td class="tg-muqq">Understanding Singapore in the Past and Present</td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 3</td>
-    <td class="tg-2w19">Understanding Singapore’s Environment and Challenges</td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 4</td>
-    <td class="tg-2w19">Understanding Our Past</td>
-  </tr>
-  <tr>
-    <td class="tg-da8v"></td>
-    <td class="tg-muqq">Appreciating Singapore, the Region and the World We Live In</td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 5</td>
-    <td class="tg-muqq">Part 1: Understanding Singapore’s Development as a Nation<br>Part 2: <span style="font-weight:400">Understanding Southeast Asia’s Diversity and Interconnectedness</span></td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 6</td>
-    <td class="tg-2w19">Inquiring Into Our World : Southeast Asia (2021)<br>Understanding Features and Legacies of Civilisations (from 2022 onwards)</td>
-  </tr>
-</tbody>
-</table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
