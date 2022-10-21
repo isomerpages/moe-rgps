@@ -201,6 +201,18 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 
 
 # Social Studies
+| Level | Syllabus |
+| -------- | -------- |
+| | **Discovering Self and Immediate Environment** |
+|Primary 1 | Knowing Myself, Others and My Surroundings |
+|Primary 2 | Coming Together as a Nation |
+| |**Understanding Singapore in the Past and Present**|
+|Primary 3 | Understanding Singapore’s Environment and Challenges |
+|Primary 4 | Understanding Our Past |
+||**Appreciating Singapore, the Region and the World We Live In**|
+|Primary 5 | ***Part 1:*** Understanding Singapore’s Development as a Nation <Br>***Part 2:*** Understanding Southeast Asia’s Diversity and Interconnectedness|
+|Primary 6 | Understanding Features and Legacies of Civilisations |
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
