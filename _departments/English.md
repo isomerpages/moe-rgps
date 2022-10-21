@@ -172,11 +172,11 @@ Teachers will assess students using different modes of assessment both formally 
 * use of checklists, rubrics with teachers’ comments and students’ reflections
 * visual/multi-media productions, audio recordings which record students’ achievements.
 
-**P1 - P2**
+
+### P1 – P2 <br>
 There are **no weighted assessments, mid-year examination and end-of-year examination** for the students in the year.
 
-### P3 – P6
-
+### P3 – P6<br>
 **P3 & 5 Weighted Assessment**<br>
 In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school <u>will not have any mid-year examination for P3</u>. This will also provide our students with more time to adjust to the transition and adapt to the new demands of the level.
 
