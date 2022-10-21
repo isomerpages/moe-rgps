@@ -191,12 +191,12 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 
 <br><br>
 
-| | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) | 
-| ----------- | -------- | -------- |
-|Primary 3 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension <br>Listening Comprehension <br> Oral |
-|Primary 4 | Composition Writing Language Use & Comprehension<br> Listening Comprehension  | Composition Writing Language Use & Comprehension<br> Listening Comprehension<br> Oral |
-|Primary 5 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension<br>Listening Comprehension<br> Oral |
-|Primary 6  | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral |
+|  | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) | 
+| ----------- | ---------- | ---------- |
+| Primary 3 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension <br>Listening Comprehension <br> Oral |
+| Primary 4 | Composition Writing Language Use & Comprehension<br> Listening Comprehension  | Composition Writing Language Use & Comprehension<br> Listening Comprehension<br> Oral |
+| Primary 5 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension<br>Listening Comprehension<br> Oral |
+| Primary 6  | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral |
 
 
 
