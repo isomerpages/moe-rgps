@@ -3,7 +3,7 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-# **Mission**
+# Mission
 To equip our students with literacy skills that enable them to be linguistically competent and confident users of the English Language.
 
 # Organisational Chart
@@ -186,7 +186,17 @@ Although there is no mid-year examination, students’ learning will continue to
 
 Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3. The table below shows an overview.
 
+| | Term 1 | Term 2 | Term 3 | Term 4 |
+| -------- | -------- | -------- | -------- | -------- | 
+|| - | **Weighted Assessment 1** | **Weighted Assessment 2**| **End-of-Year Examination** |
+| Primary 3 & 5 | - | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
 
+| | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) | 
+| -------- | -------- | -------- |
+|Primary 3 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension Listening Comprehension Oral |
+|Primary 4 | Composition Writing Language Use & Comprehension Listening Comprehension  | Composition Writing Language Use & Comprehension Listening Comprehension Oral |
+|Primary 5 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension Listening Comprehension Oral |
+|Primary 6  | Situational & Continuous Writing Language Use & Comprehension Listening Comprehension Oral |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
