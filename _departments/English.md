@@ -213,7 +213,12 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 |Primary 5 | ***Part 1:*** Understanding Singapore’s Development as a Nation <Br>***Part 2:*** Understanding Southeast Asia’s Diversity and Interconnectedness|
 |Primary 6 | Understanding Features and Legacies of Civilisations |
 
-
+| Level | Field-based Learning |
+| -------- | -------- |
+| Primary 1 | ***Neighbourhood Walk (Term 4)*** <br>The focus of the learning experience is for students to develop an appreciation for the places around them.|
+| Primary 2 | ***National Orchid Garden (Term 4)***<br>The focus of the learning experience is for students to learn about our National Symbols.|
+| Primary 3 | ***Sustainable Gallery of Singapore (Term 3)*** <br>The focus of the learning experience is for students to develop an understanding of: Singapore’s physical environment; and how Singapore manages its resources to meet the needs of the country.|
+| Primary 4 | ***National Museum of Singapore (Term 2)*** <br>The focus of the learning experience is for students to develop an understanding of: what life was like in the past; and  the contributions of settlers to the development of Singapore.|
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
