@@ -191,96 +191,15 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 || - | **Weighted Assessment 1** | **Weighted Assessment 2**| **End-of-Year Examination** |
 | Primary 3 & 5 | - | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
 
+
 | | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) | 
 | -------- | -------- | -------- |
-|Primary 3 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension Listening Comprehension Oral |
-|Primary 4 | Composition Writing Language Use & Comprehension Listening Comprehension  | Composition Writing Language Use & Comprehension Listening Comprehension Oral |
-|Primary 5 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension Listening Comprehension Oral |
-|Primary 6  | Situational & Continuous Writing Language Use & Comprehension Listening Comprehension Oral |
+|Primary 3 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension <br>Listening Comprehension <br> Oral |
+|Primary 4 | Composition Writing Language Use & Comprehension<br> Listening Comprehension  | Composition Writing Language Use & Comprehension<br> Listening Comprehension<br> Oral |
+|Primary 5 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension<br>Listening Comprehension<br> Oral |
+|Primary 6  | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-ztbg{background-color:#1F8CE4;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-kvej{background-color:#1f8ce4;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-96cw{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-kvej"></th>
-    <th class="tg-ztbg">Term 1</th>
-    <th class="tg-ztbg">Term 2<br></th>
-    <th class="tg-ztbg">Term 3<br></th>
-    <th class="tg-ztbg">Term 4</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-i38w">-</td>
-    <td class="tg-i38w">Weighted Assessment 1</td>
-    <td class="tg-i38w">Weighted Assessment 2</td>
-    <td class="tg-i38w">End-of-Year Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Primary 3 &amp; 5</td>
-    <td class="tg-96cw"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Reading Comprehension</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Writing</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Refer to details for EYE in the table below.</span></td>
-  </tr>
-</tbody>
-</table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-riw6{background-color:#1F8CE4;border-color:inherit;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j34p{background-color:#F2F9FF;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-38mi{background-color:#F2F9FF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
-.tg .tg-nc7a{background-color:#1F8CE4;border-color:inherit;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-k9xk{background-color:#F2F9FF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-nc7a"></th>
-    <th class="tg-riw6"><span style="color:#F2F9FF;background-color:#1F8CE4">Mid-Year Examination (MYE)</span></th>
-    <th class="tg-riw6"><span style="color:#F2F9FF;background-color:#1F8CE4">End-of-Year Examination (EYE)</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-j34p">Primary 3</td>
-    <td class="tg-j34p">No MYE<br> Only Weighted Assesment</td>
-    <td class="tg-k9xk">Composition Writing<br>Language Use &amp; Comprehension<br>Listening Comprehension<br>Oral</td>
-  </tr>
-  <tr>
-    <td class="tg-j34p">Primary 4</td>
-    <td class="tg-k9xk">Composition Writing<br>Language Use &amp; Comprehension<br>Listening Comprehension</td>
-    <td class="tg-k9xk">Composition Writing<br>Language Use &amp; Comprehension<br>Listening Comprehension<br>Oral</td>
-  </tr>
-  <tr>
-    <td class="tg-j34p">Primary 5</td>
-    <td class="tg-j34p">No MYE<br> Only Weighted Assessment</td>
-    <td class="tg-k9xk">Composition Writing<br>Language Use &amp; Comprehension<br>Listening Comprehension<br>Oral</td>
-  </tr>
-  <tr>
-    <td class="tg-j34p"> Primary 6</td>
-    <td class="tg-38mi" colspan="2">Situational &amp; Continuous Writing<br>Language Use &amp; Comprehension<br>Listening Comprehension<br>Oral</td>
-  </tr>
-</tbody>
-</table>
 
 # Social Studies
 
