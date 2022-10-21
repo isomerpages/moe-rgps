@@ -4,7 +4,7 @@ permalink: /partners/parent-volunteer/
 description: ""
 ---
 # To access RGPS PVG website
-Click [here](http://www.rgpspvg.org/) 
+[Click Here](https://rgpspvg.org/)
 
 ### Phase 2B Parent Volunteer Application
 
