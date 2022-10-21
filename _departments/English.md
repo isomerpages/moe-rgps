@@ -219,6 +219,7 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 | Primary 2 | ***National Orchid Garden (Term 4)***<br>The focus of the learning experience is for students to learn about our National Symbols.|
 | Primary 3 | ***Sustainable Gallery of Singapore (Term 3)*** <br>The focus of the learning experience is for students to develop an understanding of: Singapore’s physical environment; and how Singapore manages its resources to meet the needs of the country.|
 | Primary 4 | ***National Museum of Singapore (Term 2)*** <br>The focus of the learning experience is for students to develop an understanding of: what life was like in the past; and  the contributions of settlers to the development of Singapore.|
+| Primary 5 | ***National Museum of Singapore (Term 2)*** <br>The focus of the learning experience is for students to develop an understanding of: what life was like in the past; and  the contributions of settlers to the development of Singapore.|
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -278,9 +279,6 @@ Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3.
 **Assessment Items:**
 
 *   Activities in Activity Books
-
 *   Group Activities
-
 *   Mini-Quizzes
-
 *   Performance Task
