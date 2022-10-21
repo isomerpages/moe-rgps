@@ -3,8 +3,10 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
-# Mission of asthetics department:
+# Mission 
 To nurture creativity and inculcate a lifelong appreciation and participation in Visual and Performing Arts (VPA)
+
+# Organisation Chart
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -220,4 +222,3 @@ Assessment done at the end of every module. Each module typically lasts one term
   </tr>
 </tbody>
 </table>
-
