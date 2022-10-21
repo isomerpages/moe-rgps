@@ -18,6 +18,8 @@ sections:
         - title: Home-based Learning
           description: Schedule for online HBL
           url: ""
+      title: RAFFLES GIRLS' PRIMARY SCHOOL
+      subtitle: CREATIVITY...GRACIOUSNESS...GRATITUDE...INTEGRITY...RESPONSIBILITY...RESILIENCE
   - infobar:
       title: "2023 School Reporting "
       subtitle: Important Announcements
