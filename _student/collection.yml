@@ -1,0 +1,8 @@
+collections:
+  student:
+    output: true
+    order:
+      - Home Based Learning.md
+      - Student Learning Space.md
+      - Student Icon.md
+      - Media Resource Library.md

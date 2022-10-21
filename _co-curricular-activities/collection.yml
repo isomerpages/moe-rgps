@@ -1,0 +1,27 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Co Curricular Activities (CCA).md
+      - CCA Schedule and Information.md
+      - Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/EnviroLife Science Club.md
+      - Clubs/International Chess Club.md
+      - Clubs/Library Club.md
+      - Clubs/New Media Club.md
+      - Performing Arts/.keep
+      - Performing Arts/String Ensemble.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Concert Band.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Softball.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Rhythmic Gymnastics.md
+      - Uniformed Group/.keep
+      - Uniformed Group/Brownie.md
+      - Uniformed Group/Girls' Brigade.md

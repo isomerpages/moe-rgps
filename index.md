@@ -1,32 +1,26 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Raffles Girls' Primary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/banner-RGPS.jpeg
+      key_highlights:
+        - title: Notifications
+          description: Important Updates for Pri 1-6
+          url: parents/notifications/primary-1-6
+        - title: Quick Links
+          description: To Access Useful  Resources
+          url: /quick-links
+        - title: Home-based Learning
+          description: Schedule for online HBL
+          url: ""
+  - infobar:
+      title: "2023 School Reporting "
+      subtitle: Important Announcements
+      description: P1 School Term starts from 3 January 2023 , P2-P6 School Term start
+        from  4 January 2023
 ---
-
