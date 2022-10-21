@@ -122,6 +122,13 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 
 ### **Enrichment Programmes (selected students only)**
 
+|Programme | This  programme aims to: |
+| ----------- | ---------- |
+|Funthematics <br>(Primary 3)| * Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.  
+* Equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge.  
+* Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving. |
+|Math E2K <br>(Primary 4 – Primary 5) |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -189,4 +196,3 @@ Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The
 |Primary 4 | Mid-Year Examination |  End-of-Year Examination |
 |Primary 5 | No MYE<br>Only Weighted Assessment |  End-of-Year Examination |
 |Primary 6 | Mid-Year Examination |  End-of-Year Examination |
-
