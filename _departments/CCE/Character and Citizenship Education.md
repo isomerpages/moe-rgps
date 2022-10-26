@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /departments/CCE
+permalink: /departments/CCE/
 description: ""
 third_nav_title: CCE
 ---
@@ -37,7 +37,7 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
     <td class="tg-ktyi">Mdm Wang Huiwen</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Subject Head (Well-Being) -Designate</td>
+    <td class="tg-dgl5">Subject Head (Well-Being) </td>
     <td class="tg-ktyi">Ms Noor Farhani</td>
   </tr>
   <tr>
