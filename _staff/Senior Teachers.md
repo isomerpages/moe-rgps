@@ -17,12 +17,11 @@ description: ""
 | **Mrs Heng Meng Tee**    |     | <a href="heng_meng_tee@schools.gov.sg">heng_meng_tee@schools.gov.sg</a>     |
 | **Mdm Foo Hwa Ming**    |     | <a href="foo_hwa_ming@schools.gov.sg">foo_hwa_ming@schools.gov.sg</a>     |
 
-### Mother Tongue
+### Math
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Mrs Heng Meng Tee**    |     | <a href="heng_meng_tee@schools.gov.sg">heng_meng_tee@schools.gov.sg</a>     |
-| **Mdm Foo Hwa Ming**    |     | <a href="foo_hwa_ming@schools.gov.sg">foo_hwa_ming@schools.gov.sg</a>     |
+| **Ms Yan Ying Ling**    |     | <a href="yan_ying_ling@schools.gov.sg">yan_ying_ling@schools.gov.sg</a>     |
 
 
 <style type="text/css">
