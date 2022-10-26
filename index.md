@@ -19,7 +19,7 @@ sections:
           description: Schedule for online HBL
           url: ""
       title: RAFFLES GIRLS' PRIMARY SCHOOL
-      subtitle: CREATIVITY...GRACIOUSNESS...GRATITUDE...INTEGRITY...RESPONSIBILITY...RESILIENCE
+      subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infobar:
       title: "2023 School Reporting "
       subtitle: Important Announcements
