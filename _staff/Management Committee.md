@@ -101,6 +101,22 @@ description: ""
 | **Mr Seah Nam Sin** | Subject Head - Data Management   | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
 | **Ms Ang Kai Mei** | Subject Head - ICT   | <a href="ang_kai_mei@schools.gov.sg">ang_kai_mei@schools.gov.sg</a>     |
 
+### CCE Department
+
+| |  |  | 
+| -------- | -------- | -------- |
+| **Mdm Wang Huiwen** | HOD CCE   | <a href="wang_huiwen@schools.gov.sg">wang_huiwen@schools.gov.sg</a>     |
+| **Mdm Cassandra Quek Sock Cheng** | Subject Head - CCE   | <a href="quek_sock_cheng@schools.gov.sg">quek_sock_cheng@schools.gov.sg</a>     |
+| **Ms Farhani** | Subject Head - Student Well-Being   | <a href="noor_farhani_hanafi@schools.gov.sg">noor_farhani_hanafi@schools.gov.sg</a>     |
+
+### Discipline, Guidance and Student Leadership Department
+
+| |  |  | 
+| -------- | -------- | -------- |
+| **Mdm Woon Wei Yien, Jane** | HOD - Discipline, Guidance and Leadership   | <a href="woon_wei_yien_jane@schools.gov.sg">woon_wei_yien_jane@schools.gov.sg</a>     |
+| **Mdm Goh E-Lynn** | Subject Head - Student Leadership   | <a href="goh_e-lynn@schools.gov.sg">goh_e-lynn@schools.gov.sg</a>     |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
