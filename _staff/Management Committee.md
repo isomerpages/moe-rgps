@@ -7,23 +7,30 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Mrs Elaine Quek** | Email    | <a href="lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>     |
+| **Mrs Elaine Quek** |    | <a href="lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>     |
 
 ### Vice Principal 
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Ms Kong Su May** | Email    | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
+| **Ms Kong Su May** |   | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
 
 ### Vice Principal Admin
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Mr Loh Yuh Por** | Email    | <a href="loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>     |
+| **Mr Loh Yuh Por** |    | <a href="loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>     |
 
 
 
+### Year Head/Asst. Year Head
 
+|  |  |  | 
+| -------- | -------- | -------- |
+| **Mdm Yue Siew Poh** | Year Head P1 - 2   | <a href="yue_siew_poh@schools.gov.sg">yue_siew_poh@schools.gov.sg</a>     |
+| **Ms Lim Pheh Fuen Elicia** | Asst. Year Head P1 - 2   | <a href="lim_pheh_fuen@schools.gov.sg">lim_pheh_fuen@schools.gov.sg</a>     |
+| **Mdm Janice Yeo** | Year Head P3 - 4   | <a href="yeo_hwei_hwei_janice@schools.gov.sg">yeo_hwei_hwei_janice@schools.gov.sg</a>     |
+| **Ms Tan Li Peng** | Asst. Year Head P3 - 4    | <a href="tan_li_peng@schools.gov.sg">tan_li_peng@schools.gov.sg</a>     |
 
 
 
