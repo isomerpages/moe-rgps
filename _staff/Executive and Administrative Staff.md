@@ -18,9 +18,10 @@ description: ""
 
 ### ICT Manager
 
-| |  |  | 
+|  |  |  |
 | -------- | -------- | -------- |
-| **Ms Carinn Sim** |   | <a href="sim_kai_lin_carinn@schools.gov.sg">sim_kai_lin_carinn@schools.gov.sg</a> |
+| **Ms Carinn Sim**    |     | <a href="sim_kai_lin_carinn@schools.gov.sg">sim_kai_lin_carinn@schools.gov.sg</a>     |
+
 
 ### Corporate Support Officer
 
