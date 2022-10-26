@@ -21,6 +21,12 @@ description: ""
 | -------- | -------- | -------- |
 | **Mr Loh Yuh Por** |    | <a href="loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>     |
 
+### School Staff Developer
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Mr Chia Chee Sheong Vincent** |    | <a href="chia_chee_sheong_vincent@schools.gov.sg">chia_chee_sheong_vincent@schools.gov.sg</a>     |
+
 
 
 ### Year Head/Asst. Year Head
