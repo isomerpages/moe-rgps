@@ -62,6 +62,25 @@ description: ""
 | **Ms Lim Sok Yen** | Subject Head - Science   | <a href="lim_sok_yen@schools.gov.sg">lim_sok_yen@schools.gov.sg</a>     |
 | **Mdm Guo Fengling** | Subject Head - Science   | <a href="guo_fengling@schools.gov.sg">guo_fengling@schools.gov.sg</a>     |
 
+### GEP Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Mrs Chong Mee Lan, Elaine** | HOD - GEP  
+(Languages and SS)   | <a href="chong_mee_lan_elaine@schools.gov.sg">chong_mee_lan_elaine@schools.gov.sg</a>     |
+| **Mr Phan Wai Mun** | HOD - GEP  
+(Math & Science)   | <a href="phan_wai_mun@schools.gov.sg">phan_wai_mun@schools.gov.sg</a>     |
+
+### PE Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Mdm Sharifah Maznah** | HOD - PE & CCA   | <a href="sharifah_maznah_salim_bamasri@schools.gov.sg">sharifah_maznah_salim_bamasri@schools.gov.sg</a>     |
+| **Mdm Claresta Wong** | Subject Head - PE   | <a href="claresta_wong@schools.gov.sg">claresta_wong@schools.gov.sg</a>     |
+
+### Aesthetics Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Mdm Chan Yuen Ling, Serene** | HOD - Aesthetics   | <a href="chan_yuen_ling_serene@schools.gov.sg">chan_yuen_ling_serene@schools.gov.sg</a>     |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
