@@ -20,7 +20,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Ms Carinn Sim**    |     | <a href="sim_kai_lin_carinn@schools.gov.sg">sim_kai_lin_carinn@schools.gov.sg</a>     |
+| **Ms Sim Kai Lin Carinn**    |     | <a href="sim_kai_lin_carinn@schools.gov.sg">sim_kai_lin_carinn@schools.gov.sg</a>     |
 
 
 ### Corporate Support Officer
