@@ -4,25 +4,21 @@ permalink: /staff/management-committee/
 description: ""
 ---
 ### Principal 
-
 |  |  |  |
 | -------- | -------- | -------- |
 | **Mrs Elaine Quek** |    | <a href="lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>     |
 
 ### Vice Principal 
-
 |  |  |  |
 | -------- | -------- | -------- |
 | **Ms Kong Su May** |   | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
 
 ### Vice Principal Admin
-
 |  |  |  |
 | -------- | -------- | -------- |
 | **Mr Loh Yuh Por** |    | <a href="loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>     |
 
 ### School Staff Developer
-
 |  |  |  |
 | -------- | -------- | -------- |
 | **Mr Chia Chee Sheong Vincent** |    | <a href="chia_chee_sheong_vincent@schools.gov.sg">chia_chee_sheong_vincent@schools.gov.sg</a>     |
@@ -30,7 +26,6 @@ description: ""
 
 
 ### Year Head/Asst. Year Head
-
 |  |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Yue Siew Poh** | Year Head P1 - 2   | <a href="yue_siew_poh@schools.gov.sg">yue_siew_poh@schools.gov.sg</a>     |
