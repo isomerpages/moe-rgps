@@ -23,6 +23,13 @@ description: ""
 | -------- | -------- | -------- |
 | **Ms Yan Ying Ling**    |     | <a href="yan_ying_ling@schools.gov.sg">yan_ying_ling@schools.gov.sg</a>     |
 
+### Science
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Ms Santha Selva Raju**    |     | <a href="santha_selva_raju@schools.gov.sg">santha_selva_raju@schools.gov.sg</a>     |
+| **Mdm Aishah Aris**    |     | <a href="aishah_aris@schools.gov.sg">aishah_aris@schools.gov.sg</a>     |
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
