@@ -29,9 +29,3 @@ description: ""
 | **Mdm Priscilla Myrtle Olsen** |   | <a href="priscilla_myrtle_olsen@schools.gov.sg">priscilla_myrtle_olsen@schools.gov.sg</a>     |
 | **Mdm Fetty Irdawaty Osman** |   | <a href="fetty_irdawaty_Osman@schools.gov.sg">fetty_irdawaty_Osman@schools.gov.sg</a>     |
 | **Mdm Tan Kim Geok** |   | <a href="tan_kim_geok@schools.gov.sg">tan_kim_geok@schools.gov.sg</a>     |
-
-
-
-
-
-
