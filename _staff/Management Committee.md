@@ -81,6 +81,13 @@ description: ""
 | -------- | -------- | -------- |
 | **Mdm Chan Yuen Ling, Serene** | HOD - Aesthetics   | <a href="chan_yuen_ling_serene@schools.gov.sg">chan_yuen_ling_serene@schools.gov.sg</a>     |
 
+### ICT Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Ms S Thivyaa Tharrshini** | HOD ICT   | <a href="S_thivyaa_tharrshini@schools.gov.sg">S_thivyaa_tharrshini@schools.gov.sg</a>     |
+| **Mr Seah Nam Sin** | Subject Head - Data Management   | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
+| **Ms Ang Kai Mei** | Subject Head - ICT   | <a href="ang_kai_mei@schools.gov.sg">ang_kai_mei@schools.gov.sg</a>     |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
