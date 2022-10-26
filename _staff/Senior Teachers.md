@@ -1,8 +1,30 @@
 ---
 title: Senior Teachers
-permalink: /staff/senior-teachers
+permalink: /staff/senior-teachers/
 description: ""
 ---
+### English
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Mdm Tan Hwee Hoon**    |     | <a href="tan_hwee_hoon_a@schools.gov.sg">tan_hwee_hoon_a@schools.gov.sg</a>     |
+| **Ms Lee Mei**    |     | <a href="lee_mei@schools.gov.sg">lee_mei@schools.gov.sg</a>     |
+
+### Mother Tongue
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Mrs Heng Meng Tee**    |     | <a href="heng_meng_tee@schools.gov.sg">heng_meng_tee@schools.gov.sg</a>     |
+| **Mdm Foo Hwa Ming**    |     | <a href="foo_hwa_ming@schools.gov.sg">foo_hwa_ming@schools.gov.sg</a>     |
+
+### Mother Tongue
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Mrs Heng Meng Tee**    |     | <a href="heng_meng_tee@schools.gov.sg">heng_meng_tee@schools.gov.sg</a>     |
+| **Mdm Foo Hwa Ming**    |     | <a href="foo_hwa_ming@schools.gov.sg">foo_hwa_ming@schools.gov.sg</a>     |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
