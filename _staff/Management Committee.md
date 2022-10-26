@@ -60,8 +60,8 @@ description: ""
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mdm Yap Fang Ying** | Subject Head - CL   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
-| **Mr Guo Jiguang** | Subject Head - CL   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
+| **Mdm Yap Fang Ying** | Subject Head - Chinese Language   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
+| **Mr Guo Jiguang** | Subject Head - Chinese Language   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
 
 ### Science Department
 
@@ -96,8 +96,9 @@ description: ""
 | |  |  | 
 | -------- | -------- | -------- |
 | **Ms S Thivyaa Tharrshini** | HOD ICT   | <a href="S_thivyaa_tharrshini@schools.gov.sg">S_thivyaa_tharrshini@schools.gov.sg</a>     |
-| **Mr Seah Nam Sin** | Subject Head - Data Management   | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
 | **Ms Ang Kai Mei** | Subject Head - ICT   | <a href="ang_kai_mei@schools.gov.sg">ang_kai_mei@schools.gov.sg</a>     |
+| **Mr Seah Nam Sin** | Subject Head - Data Management   | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
+
 
 ### CCE Department
 
@@ -113,5 +114,3 @@ description: ""
 | -------- | -------- | -------- |
 | **Mdm Woon Wei Yien, Jane** | HOD - Discipline, Guidance and Leadership   | <a href="woon_wei_yien_jane@schools.gov.sg">woon_wei_yien_jane@schools.gov.sg</a>     |
 | **Mdm Goh E-Lynn** | Subject Head - Student Leadership   | <a href="goh_e-lynn@schools.gov.sg">goh_e-lynn@schools.gov.sg</a>     |
-
-
