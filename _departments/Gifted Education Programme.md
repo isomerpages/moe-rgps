@@ -505,4 +505,3 @@ Worksheets and resource materials given by the teacher as well as collected by s
 There will be graded tasks as well as quizzes, spread throughout the year to find out how well students have acquired the knowledge and skills and to identify learning gaps.  
   
 Graded tasks allow students to demonstrate their understanding in a variety of ways, carried out individually, in pairs or groups. Examples of graded tasks include map-work, creative assignments and skits.
-
