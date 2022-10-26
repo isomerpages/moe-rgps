@@ -31,6 +31,8 @@ description: ""
 | **Ms Lim Pheh Fuen Elicia** | Asst. Year Head P1 - 2   | <a href="lim_pheh_fuen@schools.gov.sg">lim_pheh_fuen@schools.gov.sg</a>     |
 | **Mdm Janice Yeo** | Year Head P3 - 4   | <a href="yeo_hwei_hwei_janice@schools.gov.sg">yeo_hwei_hwei_janice@schools.gov.sg</a>     |
 | **Ms Tan Li Peng** | Asst. Year Head P3 - 4    | <a href="tan_li_peng@schools.gov.sg">tan_li_peng@schools.gov.sg</a>     |
+| **Mdm Wong Liang Min** | Year Head P5 - 6   | <a href="wong_liang_min@schools.gov.sg">wong_liang_min@schools.gov.sg</a>     |
+| **Mrs Lo Kaur Kheng** | Asst. Year Head P5 - 6    | <a href="goh_kaur_kheng@schools.gov.s">goh_kaur_kheng@schools.gov.sg</a>     |
 
 
 
