@@ -3,25 +3,29 @@ title: Management Committee
 permalink: /staff/management-committee/
 description: ""
 ---
-### Principal
+### Principal 
 
-**Mrs Elaine Quek**
-
-<a href="lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>
-
-
-### Vice Principal Admin
-
-**Mr Loh Yuh Por**
-
-<a href="loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>
+|  |  |  |
+| -------- | -------- | -------- |
+| **Mrs Elaine Quek** | Email    | <a href="lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>     |
 
 ### Vice Principal 
 
-**Ms Kong Su May**
+|  |  |  |
+| -------- | -------- | -------- |
+| **Ms Kong Su May** | Email    | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
+
+### Vice Principal Admin
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Mr Loh Yuh Por** | Email    | <a href="loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>     |
 
 
-<a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>
+
+
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
