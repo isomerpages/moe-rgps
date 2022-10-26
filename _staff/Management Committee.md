@@ -40,7 +40,7 @@ description: ""
 | -------- | -------- | -------- |
 | **Mdm Luwena Goh Hui May** | HOD - English   | <a href="goh_hui_may_luwena@schools.gov.sg">goh_hui_may_luwena@schools.gov.sg</a>     |
 | **Ms Pek Xueyan** | Subject Head - English   | <a href="pek_xueyan@schools.gov.sg">pek_xueyan@schools.gov.sg</a>     |
-| **Mdm Chiang Ying Ying** | Subject Head - English   | <a href="pek_xueyan@schools.gov.sg">chiang_yingying@schools.gov.sg</a>     |
+| **Mdm Chiang Ying Ying** | Subject Head - English   | <a href="chiang_yingying@schools.gov.sg">chiang_yingying@schools.gov.sg</a>     |
 | **Mdm Zairinah** | Subject Head - Social Studies & Partnership   | <a href="zairinah_faizal@schools.gov.sg">zairinah_faizal@schools.gov.sg</a>     |
 
 ### Math Department
@@ -54,6 +54,13 @@ description: ""
 | -------- | -------- | -------- |
 | **Mdm Yap Fang Ying** | Subject Head - CL   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
 | **Mr Guo Jiguang** | Subject Head - CL   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
+
+### Science Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Ms Loo Ching Yee** | HOD - Science   | <a href="loo_ching_yee@schools.gov.sg">loo_ching_yee@schools.gov.sg</a>     |
+| **Ms Lim Sok Yen** | Subject Head - Science   | <a href="lim_sok_yen@schools.gov.sg">lim_sok_yen@schools.gov.sg</a>     |
+| **Mdm Guo Fengling** | Subject Head - Science   | <a href="guo_fengling@schools.gov.sg">guo_fengling@schools.gov.sg</a>     |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
