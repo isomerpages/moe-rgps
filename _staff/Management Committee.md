@@ -4,21 +4,25 @@ permalink: /staff/management-committee/
 description: ""
 ---
 ### Principal 
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Mrs Elaine Quek** |    | <a href="lim_hwee_bin@schools.gov.sg">lim_hwee_bin@schools.gov.sg</a>     |
 
 ### Vice Principal 
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Ms Kong Su May** |   | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
 
 ### Vice Principal Admin
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Mr Loh Yuh Por** |    | <a href="loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>     |
 
 ### School Staff Developer
+
 |  |  |  |
 | -------- | -------- | -------- |
 | **Mr Chia Chee Sheong Vincent** |    | <a href="chia_chee_sheong_vincent@schools.gov.sg">chia_chee_sheong_vincent@schools.gov.sg</a>     |
@@ -26,6 +30,7 @@ description: ""
 
 
 ### Year Head/Asst. Year Head
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Yue Siew Poh** | Year Head P1 - 2   | <a href="yue_siew_poh@schools.gov.sg">yue_siew_poh@schools.gov.sg</a>     |
@@ -36,6 +41,7 @@ description: ""
 | **Mrs Lo Kaur Kheng** | Asst. Year Head P5 - 6    | <a href="goh_kaur_kheng@schools.gov.s">goh_kaur_kheng@schools.gov.sg</a>     |
 
 ### English Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Luwena Goh Hui May** | HOD - English   | <a href="goh_hui_may_luwena@schools.gov.sg">goh_hui_may_luwena@schools.gov.sg</a>     |
@@ -44,18 +50,21 @@ description: ""
 | **Mdm Zairinah** | Subject Head - Social Studies & Partnership   | <a href="zairinah_faizal@schools.gov.sg">zairinah_faizal@schools.gov.sg</a>     |
 
 ### Math Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Ms Chong Jieqi** | HOD - Math   | <a href="chong_jieqi@schools.gov.sg">chong_jieqi@schools.gov.sg</a>     |
 | **Miss Shannalyn Ng Jia Yun** | Subject Head - Math   | <a href="shannalyn_ng@schools.gov.sg">shannalyn_ng@schools.gov.sg</a>     |
 
 ### Mother Tongue Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Yap Fang Ying** | Subject Head - CL   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
 | **Mr Guo Jiguang** | Subject Head - CL   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
 
 ### Science Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Ms Loo Ching Yee** | HOD - Science   | <a href="loo_ching_yee@schools.gov.sg">loo_ching_yee@schools.gov.sg</a>     |
@@ -63,6 +72,7 @@ description: ""
 | **Mdm Guo Fengling** | Subject Head - Science   | <a href="guo_fengling@schools.gov.sg">guo_fengling@schools.gov.sg</a>     |
 
 ### GEP Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mrs Chong Mee Lan, Elaine** | HOD - GEP  
@@ -71,17 +81,20 @@ description: ""
 (Math & Science)   | <a href="phan_wai_mun@schools.gov.sg">phan_wai_mun@schools.gov.sg</a>     |
 
 ### PE Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Sharifah Maznah** | HOD - PE & CCA   | <a href="sharifah_maznah_salim_bamasri@schools.gov.sg">sharifah_maznah_salim_bamasri@schools.gov.sg</a>     |
 | **Mdm Claresta Wong** | Subject Head - PE   | <a href="claresta_wong@schools.gov.sg">claresta_wong@schools.gov.sg</a>     |
 
 ### Aesthetics Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Chan Yuen Ling, Serene** | HOD - Aesthetics   | <a href="chan_yuen_ling_serene@schools.gov.sg">chan_yuen_ling_serene@schools.gov.sg</a>     |
 
 ### ICT Department
+
 | |  |  | 
 | -------- | -------- | -------- |
 | **Ms S Thivyaa Tharrshini** | HOD ICT   | <a href="S_thivyaa_tharrshini@schools.gov.sg">S_thivyaa_tharrshini@schools.gov.sg</a>     |
