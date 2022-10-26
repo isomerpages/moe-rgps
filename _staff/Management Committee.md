@@ -26,7 +26,7 @@ description: ""
 
 
 ### Year Head/Asst. Year Head
-|  |  |  | 
+| |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Yue Siew Poh** | Year Head P1 - 2   | <a href="yue_siew_poh@schools.gov.sg">yue_siew_poh@schools.gov.sg</a>     |
 | **Ms Lim Pheh Fuen Elicia** | Asst. Year Head P1 - 2   | <a href="lim_pheh_fuen@schools.gov.sg">lim_pheh_fuen@schools.gov.sg</a>     |
@@ -35,7 +35,25 @@ description: ""
 | **Mdm Wong Liang Min** | Year Head P5 - 6   | <a href="wong_liang_min@schools.gov.sg">wong_liang_min@schools.gov.sg</a>     |
 | **Mrs Lo Kaur Kheng** | Asst. Year Head P5 - 6    | <a href="goh_kaur_kheng@schools.gov.s">goh_kaur_kheng@schools.gov.sg</a>     |
 
+### English Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Mdm Luwena Goh Hui May** | HOD - English   | <a href="goh_hui_may_luwena@schools.gov.sg">goh_hui_may_luwena@schools.gov.sg</a>     |
+| **Ms Pek Xueyan** | Subject Head - English   | <a href="pek_xueyan@schools.gov.sg">pek_xueyan@schools.gov.sg</a>     |
+| **Mdm Chiang Ying Ying** | Subject Head - English   | <a href="pek_xueyan@schools.gov.sg">chiang_yingying@schools.gov.sg</a>     |
+| **Mdm Zairinah** | Subject Head - Social Studies & Partnership   | <a href="zairinah_faizal@schools.gov.sg">zairinah_faizal@schools.gov.sg</a>     |
 
+### Math Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Ms Chong Jieqi** | HOD - Math   | <a href="chong_jieqi@schools.gov.sg">chong_jieqi@schools.gov.sg</a>     |
+| **Miss Shannalyn Ng Jia Yun** | Subject Head - Math   | <a href="shannalyn_ng@schools.gov.sg">shannalyn_ng@schools.gov.sg</a>     |
+
+### Mother Tongue Department
+| |  |  | 
+| -------- | -------- | -------- |
+| **Mdm Yap Fang Ying** | Subject Head - CL   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
+| **Mr Guo Jiguang** | Subject Head - CL   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -54,62 +72,8 @@ description: ""
     <th class="tg-n348">Email</th>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-nrix">Mdm Yue Siew Poh </td>
-    <td class="tg-nrix">Year Head P1 - 2</td>
-    <td class="tg-nrix">yue_siew_poh@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Ms Lim Pheh Fuen Elicia </td>
-    <td class="tg-nrix">Asst. Year Head P1 - 2</td>
-    <td class="tg-nrix">lim_pheh_fuen@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Janice Yeo</td>
-    <td class="tg-nrix">Year Head P3 - 4</td>
-    <td class="tg-nrix">yeo_hwei_hwei_janice@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Ms Tan Li Peng</td>
-    <td class="tg-nrix">Asst. Year Head P3 - 4</td>
-    <td class="tg-nrix">tan_li_peng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Wong Liang Min</td>
-    <td class="tg-nrix">Year Head P5 - 6</td>
-    <td class="tg-nrix">wong_liang_min@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mrs Lo Kaur Kheng</td>
-    <td class="tg-nrix">Asst. Year Head P5 - 6</td>
-    <td class="tg-nrix">goh_kaur_kheng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mr Chia Chee Sheong Vincent </td>
-    <td class="tg-nrix">School Staff Developer</td>
-    <td class="tg-nrix">chia_chee_sheong_vincent@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Luwena Goh Hui May</td>
-    <td class="tg-nrix">HOD - English</td>
-    <td class="tg-nrix">goh_hui_may_luwena@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Ms Pek Xueyan </td>
-    <td class="tg-nrix">Subject Head - English</td>
-    <td class="tg-nrix">pek_xueyan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Chiang Ying Ying</td>
-    <td class="tg-nrix">Subject Head - English</td>
-    <td class="tg-nrix">chiang_yingying@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Mdm Zairinah</td>
-    <td class="tg-nrix">Subject Head - Social Studies &amp; Partnership</td>
-    <td class="tg-nrix">zairinah_faizal@schools.gov.sg</td>
-  </tr>
+<tbody> 
+ 
   <tr>
     <td class="tg-nrix">Mdm Yap Fang Ying </td>
     <td class="tg-nrix">Subject Head - CL </td>
