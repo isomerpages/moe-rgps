@@ -4,15 +4,14 @@ permalink: /parents/forms/
 description: ""
 third_nav_title: Engaging Our Parents
 ---
-Parents can print and complete these forms from home. Upon completion of the forms, you may fax them to us. 
-The General Office fax number is (65) 6469-2024.
+Parents can print and complete these forms from home. Upon completion of the forms, you may email us at [rgps@moe.edu.sg](rgps@moe.edu.sg) 
 
 
 
 | Forms    | Descriptions |
 | -------- | ------------- |
-|  **Updating of Student's address** &nbsp; &nbsp; <br> [Form C (Address Updates)](/files/Form%20C%20(Address%20Updates).pdf) |  For change of address and contact numbers. Please submit the completed form together with a copy of the NRIC reflecting the updated address.   |
-| **RGPS Uniform and Name Tag Order Form (2022)** <br><br> [School Uniform](/files/Forms/School%20Uniform%20-%20RGPS%20NameTag%202022%20Bibi%20%20Baba.pdf)<br> [Name Tag](/files/Forms/School%20Uniform%20-%20RGPS%20NameTag%202022%20Bibi%20%20Baba.pdf))| For purchase of uniform.<br><br>BIBI & BABA PTE LTD.<br>Tel : 6732 7022 <br>Fax : 6835 4979 |
+|  **Updating of Student's address** |  For change of address and contact numbers. Please submit the completed form together with a copy of the NRIC reflecting the updated address. <br>[Address Update](/files/Forms/Form%20C%20(Address%20Updates).pdf)  |
+| **RGPS Uniform and Name Tag Order Form (2022)** | For purchase of uniform.<br><br>***Bibi&Baba Private Limited***<br>545 Orchard Road, #02-28<br>Far East Shopping Centre<br>Singapore (238882)<br>Tel : 6732 7022 <br>Fax : 6835 4979<br><br>***Opening Hours***<br>Mon -Sat: 10am to 7pm<br>Sun: 10am to 6pm |
 | **Booklist 2022** <br>[Primary 1](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS_P1.pdf)<br>[Primary 2](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P2.pdf)<br>[Primary 3](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P3.pdf) <br>[Primary 4](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P4.pdf)<br>[Primary 4 GEP](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P4%20GEP.pdf)<br>[Primary 5](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P5.pdf)<br>[Primary 5 Foundation](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P5%20FDN.pdf)<br>[Primary 5 GEP](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P5%20GEP.pdf)<br>[Primary 6](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P6%20GEP.pdf)<br>[Primary 6 Foundation](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P6%20FDN.pdf)<br>[Primary 6 GEP](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2022/RGPS%20P6%20GEP.pdf)| Please click on the required level to open / download the booklist.|
 |**RGPS School Bus Registration**|Please contact Singapore School Transport Association (SSTA) for further enquiries to register your child for school bus services.<br><br>Tel : 6747 7246 / Fax : 6743 8243|
 |[RGPS Drive-through Car Decal Application](https://go.gov.sg/rgps-car-decal)| All vehicles entering the schools are required to display a “Drive-through” car decal. <br><br>Each household is given a 1st time complimentary car decal. Any additional decal required can be purchased at $10 each from the General Office.|
