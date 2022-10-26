@@ -1,6 +1,6 @@
 ---
 title: Gifted Education Programme
-permalink: /departments/gifted-education-programme
+permalink: /departments/gifted-education-programme/
 description: ""
 ---
 # **MISSION**
@@ -10,7 +10,87 @@ To provide leadership in the education of the intellectually gifted.
 
 We are committed to nurturing gifted individuals to their fullest potential for the fulfilment of self and for the betterment of society.
 
-  
+# Organisation Chart
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm" colspan="2">Gifted Education Department</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dgl5">HOD Gifted Education</td>
+    <td class="tg-ktyi">Mrs Elaine Chong</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">HOD Gifted Education</td>
+    <td class="tg-ktyi">Mr Phan Wai Mun</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5">Teacher</td>
+    <td class="tg-ktyi">Mdm Chong Lay Khim</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Dou Ping</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Ee Bee Yian</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Goh E-Lynn</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Grace Tan Yong Ying </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Janice Lim (Mrs Low)</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Kavitha</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Kimie Sng</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Lim Chiat Hwee</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Lim Sheau Tyan Audrey</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Liu Chunyan</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Rayhanah </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mr Seah Nam Sin</td>
+  </tr>
+</tbody>
+</table>
 
 ### GOALS OF GEP
 
@@ -426,84 +506,3 @@ There will be graded tasks as well as quizzes, spread throughout the year to fin
   
 Graded tasks allow students to demonstrate their understanding in a variety of ways, carried out individually, in pairs or groups. Examples of graded tasks include map-work, creative assignments and skits.
 
-# Organisation Chart
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm" colspan="2">Gifted Education Department</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5">HOD Gifted Education</td>
-    <td class="tg-ktyi">Mrs Elaine Chong</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">HOD Gifted Education</td>
-    <td class="tg-ktyi">Mr Phan Wai Mun</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Teacher</td>
-    <td class="tg-ktyi">Mdm Chong Lay Khim</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Dou Ping</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Ee Bee Yian</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Goh E-Lynn</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Grace Tan Yong Ying </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Janice Lim (Mrs Low)</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Kavitha</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Kimie Sng</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Lim Chiat Hwee</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Lim Sheau Tyan Audrey</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Liu Chunyan</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Rayhanah </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mr Seah Nam Sin</td>
-  </tr>
-</tbody>
-</table>
