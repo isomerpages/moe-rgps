@@ -38,4 +38,14 @@ contacts:
       - email: ""
       - other: ""
     title: School Bookshop
+  - content:
+      - phone: +65 6747 7246
+      - email: ""
+      - other: ""
+    title: School Bus Operator
+  - content:
+      - phone: +65 6732 7022
+      - email: ""
+      - other: ""
+    title: School Uniform Supplier
 ---
