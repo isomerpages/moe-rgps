@@ -3,16 +3,16 @@ title: Getting Here
 permalink: /contact-us/gettinghere/
 description: ""
 ---
-#### Address
+### Address
 21 Hillcrest Road, Singapore 289072
 
-#### Bus Services
+### Bus Services
 66, 67, 74, 151, 154, 156, 157, 170, 174, 852, 961
 
-#### Nearest MRT Station
+### Nearest MRT Station
 Tan Kah Kee MRT (Downtown Line)
 
-#### Gate Opening Hours
+### Gate Opening Hours
 
 ##### **Gate 1:** *Main Gate near Guard Post*
 * Gate Opening Hours: 6:30 a.m. to 6.30 p.m.
@@ -30,7 +30,7 @@ Tan Kah Kee MRT (Downtown Line)
 * Gate is Closed from 1:15 p.m. to 1:40 p.m.
 * School buses are allowed to start moving at 1:40 p.m.
 
-#### Traffic Matters
+### Traffic Matters
 Please take note of the following traffic matters. Your cooperation and consideration will help to make arrival and dismissal safe and smooth for all.
 
 ***Students Walking to School***<br>
