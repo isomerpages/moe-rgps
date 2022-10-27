@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Contact Information.md
-      - Getting Here.md
       - Gate Opening Hours.md
+      - Getting Here.md
