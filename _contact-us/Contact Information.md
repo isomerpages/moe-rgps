@@ -10,7 +10,7 @@ description: ""
 | *Email*    | rgps@moe.edu.sg     | 
 | *Opening Hours* |   ***Term Time***<br>Mon - Fri: 7.00 a.m. to 5.30 p.m.<br><br>***Term Break***<br>Mon - Fri: 8.00 a.m. to 5.00 p.m.  | 
 |  | <br><br> | 
-|**School Library**| Tel: 6462 5185 <br><br>***Opening hours during school term***<br>Mon-Fri: 7.30 a.m. to 5 p.m. |
+|**School Library**| Tel: 6462 5185 <br><br>***Opening hours during school term***<br>Mon-Fri: 7.30 a.m. to 5.00 p.m. |
 |**School Dental Clinic**| Tel: 8909 5312 <br><br>***Opening hours during school term***<br>Mon-Fri: 1.30 p.m. to 7.00 p.m. |
 |**Student Care Center**| ***Knowledge Park Educare***<br>For enquiries, please write to rafflesgirlsscc@knowledgepark.com.sg.<br>Tel : 9816 16471 / 9638 6393<br><br>***Opening hours***<br>Mon-Fri: 1.30 p.m. to 7.00 p.m. |
 | **School Bookshop** | ***Pacific Bookstores Pte Ltd***<br>Website: www.pacificbookstores.com<br>Tel: 6467 1692<br><br>***Opening hours***<br>Mon- Fri: 7.30 a.m. to 3.00 p.m. (during school term)<br><br>*Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.*|
