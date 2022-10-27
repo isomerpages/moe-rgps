@@ -24,4 +24,4 @@ Cars are allowed into the school for pick-ups at 1.40pm after the school buses l
 
 ***Indiscriminate Parking***<br>
 Please do not park your cars indiscriminately along Hillcrest Road and Watten Rise during school dismissal. Indiscriminate parking makes traffic impassable and has resulted in a few near misses. LTA deploys officers to carry out ground enforcement of traffic rules and will
-issue summons to drivers who infringe the rules. Please refer to the attached advisory notice from LTA for more information.
+issue summons to drivers who infringe the rules. Please click here to read the attached advisory notice from LTA for more information.
