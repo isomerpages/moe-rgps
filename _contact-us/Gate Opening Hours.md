@@ -3,7 +3,6 @@ title: Gate Opening Hours
 permalink: /gate-opening-hours/
 description: ""
 ---
-
 # Gate 1
 ## Main Gate near Guard Post
 
@@ -26,11 +25,5 @@ description: ""
 * Gate is Closed from 1:15pm to 1:40pm
 * School buses are allowed to start moving at 1:40pm
 
-# Bus Services
-66, 67, 74, 151, 154, 156, 157, 170, 174, 852, 961
 
-# Nearest MRT Station
-Tan Kah Kee MRT (Downtown Line) & Botanic Garden MRT (Circle Line & Downtown Line)
 
-# School Code
-1073
