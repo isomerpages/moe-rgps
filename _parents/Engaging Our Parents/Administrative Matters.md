@@ -11,6 +11,9 @@ Parents can print and complete these forms from home. Upon completion of the for
 | Forms    | Descriptions |
 | -------- | ------------- |
 |  **Updating of Student's address** |  For change of address and contact numbers. Please submit the completed form together with a copy of the NRIC reflecting the updated address. <br>[Address Update](/files/Forms/Form%20C%20(Address%20Updates).pdf)  |
+|**Smart Phone/Watch Application**||
+|**Student Insurance**||
+|**Finance Assistant**|The MOE Financial Assistance Scheme (MOE FAS) application for 2023 is now open. Please read the attached MOE FAS letter for the eligibility criteria and application process. <br><br>Students who do not meet the criteria for MOE FAS may consider applying for school-based FAS. You may contact the school at 6468 4377 or email [rgps@moe.edu.sg](mailto:rgps@moe.edu.sg) if you have any further queries.|
 | **RGPS Uniform and Name Tag Order** |***Bibi&Baba Private Limited***<br><br> There is no sale of uniforms in the school. <br><br>Parents may purchase them at ***Bibi&Baba Private Limited*** outlet or via their [website](https://www.schooluniforms.sg/raffles-girls-primary-school).|
 | **School Bookshop** | ***Pacific Bookstores Pte Ltd***<br>Website: www.pacificbookstores.com<br><br>*Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.*<br><br>Please click on the required leve l to open / download the booklist.|
 |**RGPS School Bus**|Please contact Singapore School Transport Association (SSTA) for further enquiries to register your child for school bus services.<br><br>Tel : 6747 7246 / Fax : 6743 8243|
