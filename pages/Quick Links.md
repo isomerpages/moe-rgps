@@ -9,6 +9,7 @@ description: ""
 * [School Library (OPAC)](https://schoolibrary.moe.edu.sg/rafflesgirlspri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [Request for Password Reset](https://forms.gle/bbn3nT9ePEY6pdDb8)
 * [My Skills future (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+* [Direct School Admission (DSA) For P6 only](https://www.moe.gov.sg/secondary/dsa)
 
 <br><br>
 ### For Staff
