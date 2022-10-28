@@ -77,6 +77,10 @@ We are committed to nurturing gifted individuals to their fullest potential for 
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Lim Sheau Tyan Audrey</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Lim Sok Yen</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Liu Chunyan</td>
@@ -88,6 +92,14 @@ We are committed to nurturing gifted individuals to their fullest potential for 
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mr Seah Nam Sin</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Tan Hwee Hoon</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Zairinah</td>
   </tr>
 </tbody>
 </table>
@@ -261,17 +273,21 @@ Our 3-year VIA Programme covers the building of content knowledge, developing af
 
 ![](/images/GEP1.png)
 
-### 3. Computer Enrichment Programme (CEP)
+### 3. Computing Enrichment Programme (CEP)
 
   
 
-To equip our students with the competencies to navigate and thrive in an increasing complex, digital world, CEP aims to nurture students to use technology in safe, responsible and ethical ways. CEP is compulsory for all P4 students. These are the modules covered:  
+To equip our students with the competencies to navigate and thrive in an increasing complex, digital world, CEP aims to nurture students to use technology in safe, responsible and ethical ways. CEP is compulsory for all P4 and P5 students. These are the modules covered:  
   
 
 * Module 1: Introduction to Foundations of Coding
 * Module 2: Basic Coding
 * Module 3: Physical Computing
 * Module 4: Digital Rights and Responsibilities
+* Module 5: Advanced Coding and Physical Computing
+* Module 6: Robotics and Automation
+* Module 7: Introduction to Artificial Intelligence
+* Module 8: Online Safety and Cybersecurity
 
   
 
@@ -324,7 +340,7 @@ _**Non-Weighted Assessments**_
 
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-### 4\. Extensive Reading Programme (ERP)
+### 4. Extensive Reading Programme (ERP)
 
   
 
@@ -359,8 +375,9 @@ The enriched Math curriculum is differentiated in terms of: 
 *   Pacing
 *   Mathematical communication
 
-  
-Students are encouraged to communicate in mathematical language, to use various strategies for problem-solving and to appreciate the beauty of Mathematics. They are taught skills and heuristics to promote mathematical thinking and to help them in mathematical investigations.
+Students are encouraged to communicate in mathematical language and appreciate the beauty of mathematics.  They will spend more time in exploring mathematical concepts. They will be expected to have deeper understanding of mathematical definitions. 
+
+Students are taught skills and heuristics to promote mathematical thinking and to help them in mathematical investigations.  There will be more complex and challenging mathematical problems that will require more time and persistence. They are expected to engage actively in sharing their mathematical ideas, asking questions and offering solutions.
 
   
 
@@ -378,10 +395,9 @@ Work is done on worksheets and they consist of various heuristic approaches to m
 
 Out-of-class activities are conducted so as to reinforce the application of mathematical concepts in real-life situations (eg. a supermarket trip for the topic of decimals, a survey on traffic statistics for the topic of graphical representations etc)  
   
-All GEP students will be invited to join classes like Advanced Mathematics Enrichment Class (AMEC). Selected students will be invited to join the Primary Mathematics Masterclass (PM2), which is organised by Gifted Education Branch.  
-  
-For PM2, students attend workshops where they are taught specific topics at advanced level.
+GEP students with strong aptitude in Mathematics will be invited to join classes like Advanced Mathematics Enrichment Class (AMEC). AMEC aims to impart process and visual thinking skills that are required to solve Math Olympiad-like problems to the participants.
 
+The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for selected Primary 4 and 5 students identified based on their performance in the PM2 selection test.  PM2 aims to challenge students who are talented in Mathematics beyond the Primary Mathematics curriculum.  Participants will be exposed to advanced Mathematical concepts.
   
 
 ### 4. Assessment
