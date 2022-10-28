@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CLOCKTOWER.png
+      background: /images/clocktower2.jpg
       key_highlights:
         - title: Notifications
           description: Important Updates for Pri 1-6
