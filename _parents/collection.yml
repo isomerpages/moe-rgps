@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Events Calendar.md
+      - Calendar of Events.md
       - Briefing Slides.md
       - Notifications/.keep
       - Notifications/Primary 1 to 6.md
