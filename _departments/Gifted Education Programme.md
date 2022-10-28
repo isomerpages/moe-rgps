@@ -402,8 +402,6 @@ The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for 
 
 ### 4. Assessment
 
-  
-
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
 ## Science
