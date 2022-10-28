@@ -13,8 +13,6 @@ description: ""
 <br><br>
 ### For Parents
 * [MOE](https://www.moe.gov.sg/)
-* [Parent Gateway](https://pg.moe.edu.sg/)
-* 
 
 <br><br>
 ### For Staff
@@ -23,6 +21,7 @@ description: ""
 * [SC Mobile](https://scmobile.moe.edu.sg/login)
 * [Resource Booking Service (RBS)](https://rbs.avero-tech.com/)
 * [School Cockpit](http://schoolcockpit.moe.gov.sg/)
+* [Parent Gateway](https://pg.moe.edu.sg/)
 * [Outlook](https://schools.gov.sg/owa)
 * [RGPS GIRL MATRIX](http://10.169.132.10/Account/Login?ReturnUrl=%2F)
 * [All Ears Form Builder](https://forms.moe.edu.sg/)
