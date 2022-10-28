@@ -10,7 +10,7 @@ description: ""
 * [Request for Password Reset](https://forms.gle/bbn3nT9ePEY6pdDb8)
 * [My Skills future (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
-<br>
+<br><br>
 ### For Staff
 * [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
