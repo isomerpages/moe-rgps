@@ -41,7 +41,7 @@ Students coming from the direction of the MRT station or Dunearn Road should ent
 
 ***Drop-off & Pick-Up by Private Cars***<br>
 Students can alight along the whole stretch from the canteen to the basketball court. This stretch can accommodate at least 10 cars at any one point, when parents ***drive forward as far as possible***. Students can also alight at Car Park C (see map below) and use the link bridge to access the hall and classrooms directly. Please ensure that your child/ward is ready to alight promptly when your car stops. Parents should not disembark from the car.<br><br>
-Cars are allowed into the school for pick-ups at 1.40 p.m. after the school buses leave. Cars are not allowed to wait outside the school before 1.35 p.m.***Please do not come too early and note that partial one-way traffic along Hillcrest Road operates from 1.00 p.m. – 2.00 p.m. and 4.30 p.m. – 5.30 p.m. for CCAs.*** For school dismissal pick-ups, P1 to P4 parents should drive to the canteen pick-up point, while P5 and P6 parents should drive to the basketball court where the students gather to wait.<br><br>
+Cars are allowed into the school for pick-ups at 1.40 p.m. after the school buses leave. Cars are not allowed to wait outside the school before 1.35 p.m.***Please do not come too early and note that partial one-way traffic along Hillcrest Road operates from 1.00 p.m. – 2.00 p.m. and 4.30 p.m. – 5.30 p.m. for CCAs.*** <br><br>For school dismissal pick-ups, P1 to P4 parents should drive to the canteen pick-up point, while P5 and P6 parents should drive to the basketball court where the students gather to wait.<br><br>
 
 ![](/images/rgpsmap_final.png)<br>
 ***Indiscriminate Parking***<br>
