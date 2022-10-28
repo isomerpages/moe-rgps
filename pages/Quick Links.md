@@ -11,10 +11,6 @@ description: ""
 * [My Skills future (Primary)](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
 <br>
-### For Parents
-* [MOE](https://www.moe.gov.sg/)
-
-<br>
 ### For Staff
 * [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
