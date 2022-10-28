@@ -7,4 +7,4 @@ third_nav_title: Enrolling in RGPS
 ### Waitlist Form for Pupils Seeking Transfer
 
 
- [Rgps waitlist application](https://go.gov.sg/rgps-waitlist-application)  
+ [Rgps waitlist application](https://go.gov.sg/rgps-waitlist-application)
