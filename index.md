@@ -15,8 +15,8 @@ sections:
         - title: Quick Links
           description: To Access Useful  Resources
           url: /quick-links
-        - title: Home-based Learning
-          description: Schedule for online HBL
+        - title: SLS & Student ICON
+          description: Login Info
           url: ""
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
