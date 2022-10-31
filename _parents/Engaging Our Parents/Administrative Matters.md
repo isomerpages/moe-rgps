@@ -4,7 +4,7 @@ permalink: /parents/Engaging-Our-Parents/administrative-matters/
 description: ""
 third_nav_title: Engaging Our Parents
 ---
-Parents can print and complete these forms from home. Upon completion of the forms, you may email us at [rgps@moe.edu.sg](rgps@moe.edu.sg) 
+Parents can complete these forms from home. Upon completion of the forms, you may [email](rgps@moe.edu.sg) us. 
 
 | Forms    | Descriptions |
 | -------- | ------------- |
