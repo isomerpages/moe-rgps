@@ -39,7 +39,7 @@ The NE Awards recognise schools for their NE efforts. There are two levels of at
 The Lotus Award is awarded to schools that showcased at least one innovative environmental project; and participated in an external activity to promote Singapore’s sustainability. </td>
   </tr>
 	  <tr>
-    <td><img src="https://d33wubrfki0l68.cloudfront.net/db0a5fcc795879f4ed653d1632386f66973418e2/8943b/images/picture11.jpeg" alt="" style="width:232px; height:85px;"></td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/db0a5fcc795879f4ed653d1632386f66973418e2/8943b/images/picture11.jpeg" alt="" style="width:10vw; aspect-ratio: 1/1"></td>
 			<td>The <strong>People Developer Standard</strong> recognises organisations that invest in their people and have a comprehensive system to manage the development of their people. </td>
   </tr>
 	<tr>
