@@ -9,7 +9,7 @@ description: ""
     <th>Description of Award</th>
   </tr>
   <tr>
-    <td><img src="/images/school%20excellence%20award.jpeg" alt="" style="width:168px; height:184px;"></td>
+    <td><img src="/images/school%20excellence%20award.jpeg" alt="" style="width:10vw; aspect-ratio: 1/1"></td>
 		<td>The <strong>School Excellence Award</strong> recognises schools for their excellence in both education processes and outcomes. It serves as a mark of distinction for schools that have sustained achievements in a wide spectrum of student development processes.</td>
   </tr>
 	  <tr>
