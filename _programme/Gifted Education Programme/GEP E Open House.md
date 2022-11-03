@@ -20,7 +20,8 @@ third_nav_title: Gifted Education Programme
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Rx3Dcn4ZXWY"></iframe></th><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/t5eEzEfbY4c"></iframe></th></tr></thead><tbody><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ytryWx9UKHg"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xos9NV1oO1o"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/s1Tb6h_mUII"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Kj_dTwN91zc"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Character &amp; Citizenship Education</td></tr></tbody></table>
 <br/>
-<img style="width: 100px; align: center" src="/images/top.png">
+<a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
 	<br>
 </div>
 
@@ -31,7 +32,8 @@ third_nav_title: Gifted Education Programme
 
 <table><thead><tr><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OBJqz5SfUfc"></iframe></th><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hJ6kwFp-87I"></iframe></th></tr></thead><tbody><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TcnSVTOyj2w"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AYjOmi0cK68"></iframe></td></tr></tbody></table>
 <br/>
-<img style="width: 100px; align: center" src="/images/top.png">
+<a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
 <br>
 </div>
 
@@ -42,6 +44,9 @@ third_nav_title: Gifted Education Programme
 Debate</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Individualised Research Study (IRS)</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/m5AhuvE_FMs"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pS8LIPUmwHU"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Innovation Programme (IvP)</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Pupil Development</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cHID7N6kKGE"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/H6P50GxIMVY"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Computer Enrichment Programme (CEP)</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Values-In-Action
  (VIA)</td></tr></tbody></table>
 <br>
+<a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
+<br>
 </div>
 
 <div id="p4orientation">
@@ -49,9 +54,15 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <br>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/p4PLvbzwx5E" height="315" width="560"></iframe></center>
 <br>
+<a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
+<br>
 </div>
 <div id="spaces">
 <img style="width:40vw; align: center" src="/images/spaces.png">
+<br>
+<a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
 <br>
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OvReZhBisYA" height="315" width="560"></iframe></center>
@@ -63,4 +74,8 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <center>
 <iframe allowfullscreen="true" height="315" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX3aEVjkphZ-EyDejOHWUDOExkiwhjL-kou0U_rg_nN_FhJYLP4f_U9hSsur1bqQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </center>
+<br>
+<a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
+<br>
 </div>
