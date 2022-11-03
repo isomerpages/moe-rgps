@@ -10,6 +10,10 @@ third_nav_title: Gifted Education Programme
 
 <img src="/images/intro.png" style="align: center">
 
+Video
+
+Back to top
+
 <img src="/images/subjects.png" style="align: center">
 
 **English****Mathematics**  
