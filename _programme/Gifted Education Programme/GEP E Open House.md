@@ -7,6 +7,7 @@ third_nav_title: Gifted Education Programme
 <img style="align: center" src="/images/title.png">
 
 <table><thead><tr><th style="border-color:white;"><a href="#introduction"><img src="/images/sb_intro2.png"></a></th><th style="border-color:white;" rowspan="3"><div id="top"><img src="/images/rgpsgepgirl_2.png"></div></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img src="/images/sb_grad2.png"></a></th><th style="border-color:white;"><a href="#programmes"><img src="/images/sb_program2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img src="/images/sb_P4Orient.png"></a></th><th style="border-color:white;"><a href="#spaces"><img src="/images/sb_spaces2.png"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img src="/images/sb_faq2.png"></a></td><td></td></tr></tbody></table>
+<br>
 <div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
 <br/>
@@ -61,11 +62,10 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <div id="spaces">
 <img style="width:40vw; align: center" src="/images/spaces.png">
 <br>
-<a href="#top">
-<img style="width: 100px; align: center" src="/images/top.png"></a>
-<br>
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OvReZhBisYA" height="385" width="640"></iframe></center>
+<a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
 <br>
 </div>
 <div id="faq">
@@ -74,7 +74,6 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <center>
 <iframe allowfullscreen="true" height="385" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX3aEVjkphZ-EyDejOHWUDOExkiwhjL-kou0U_rg_nN_FhJYLP4f_U9hSsur1bqQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </center>
-<br>
 <a href="#top">
 <img style="width: 100px; align: center" src="/images/top.png"></a>
 <br>
