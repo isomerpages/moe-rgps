@@ -22,5 +22,7 @@ The pictures below show how the pupils get green and love Earth.
 #### **Biodiversity Week**
 ||||
 | -------- | -------- | -------- |
+||||
 |What are they looking at|Meet Pearl, she belongs to Singapore's last remaining wildcat species, the Leopard Cat|What can we do to help Leopard Cats? Find out more click [here](https://www.swagcat.org/Saving-our-Last-Wildcat)|
+||||
 |A student writing letters to Dr. Jane Goodall|Every individual matters. Every individual has a role to play. Every individual makes a difference. - Dr. Jane Goodall||
