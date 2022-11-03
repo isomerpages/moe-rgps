@@ -10,14 +10,13 @@ At Raffles Girls’ Primary School, our goal is to nurture every pupil to become
 The pictures below show how the pupils get green and love Earth.
 
 
-
 #### **Earth Week**
 ||||
 | -------- | -------- | -------- |
 | ![](/images/Enviro%20Edu/Why%20is%20the%20Earth%20sad.jpg) | ![](/images/Enviro%20Edu/Is%20it%20because%20our%20oceans%20are%20polluted%20with%20plastic%20trash.jpg) | ![](/images/Enviro%20Edu/Or%20is%20it%20because%20we%20are%20mindless%20about%20our%20plastic%20consumption.jpg) |
 | Why is the Earth sad    | Is it because our oceans are polluted with plastic trash     | Or is it because we are mindless about our plastic consumption     |
 |![](/images/Enviro%20Edu/When%20will%20you%20start%20doing%20something%20about%20it.jpg)|![](/images/Enviro%20Edu/Can%20we%20change%20anything%20about%20our%20habits.jpg)||
-|When will you start doing something about it |Can we change anything about our habits|
+|When will you start doing something about it |Can we change anything about our habits||
 
 #### **Biodiversity Week**
 ||||
@@ -34,7 +33,6 @@ The pictures below show how the pupils get green and love Earth.
 |A hive of Black Dwarf Honey Bees chose our pollinator-friendly garden as their home!|As we want the bees to live in a more conducive environment, we got a beehive relocation professional to bring the bees to their new home.|
 |![](/images/Enviro%20Edu/the%20bees%20are%20getting%20placed%20in%20a%20cardboard%20box.jpg)|![](/images/Enviro%20Edu/Goodbye%20bees.jpg)|
 |The bees are getting placed in a cardboard box, ready to be transported to their new home.|Goodbye, bees! Thank you for all your hard work making sure we have a healthy eco-system. With you around, life is so much more colourful.|
-
 
 At RGPS, our goal is to nurture every RGPS pupil to become a steward of the environment. We believe that part of making life better for others is to take a proactive approach to protecting the environment for current and future generations. Through the various projects and initiatives implemented throughout RGPS, we aim to meet these 3 objectives:
 
