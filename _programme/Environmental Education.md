@@ -11,7 +11,7 @@ The pictures below show how the pupils get green and love Earth.
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| ![](/images/Enviro%20Edu/Why%20is%20the%20Earth%20sad.jpg) | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Why is the Earth sad    | Is it because our oceans are polluted with plastic trash     | Or is it because we are mindless about our plastic consumption     |
 ||||
