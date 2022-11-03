@@ -18,21 +18,7 @@ The pictures below show how the pupils get green and love Earth.
 |![](/images/Enviro%20Edu/When%20will%20you%20start%20doing%20something%20about%20it.jpg)|![](/images/Enviro%20Edu/Can%20we%20change%20anything%20about%20our%20habits.jpg)||
 |When will you start doing something about it |Can we change anything about our habits||
 
-#### **Biodiversity Week**
-||||
-| -------- | -------- | -------- |
-|![](/images/Enviro%20Edu/What%20are%20they%20looking%20at.jpg)|![](/images/Enviro%20Edu/Meet%20Pearl,%20she%20belongs%20to%20Singapore's%20last%20remaining%20wildcat%20species,%20the%20Leopard%20Cat.jpg)|![](/images/Enviro%20Edu/What%20can%20we%20do%20to%20help%20Leopard%20Cats.jpg)|
-|What are they looking at|Meet Pearl, she belongs to Singapore's last remaining wildcat species, the Leopard Cat|What can we do to help Leopard Cats? Find out more click [here](https://www.swagcat.org/Saving-our-Last-Wildcat)|
-|![](/images/Enviro%20Edu/A%20student%20writing%20letters%20to%20Dr%20Jane%20Goodall.jpg)|![](/images/Enviro%20Edu/Every%20individual%20matters.jpeg)||
-|A student writing letters to Dr. Jane Goodall|Every individual matters. Every individual has a role to play. Every individual makes a difference. - Dr. Jane Goodall||
 
-#### **Bees are friends, not pest!**
-|||
-| -------- | -------- |
-|![](/images/Enviro%20Edu/A%20hive%20of%20Black%20Dwarf%20Honey%20Bees.jpg)|![](/images/Enviro%20Edu/As%20we%20want%20the%20bees%20to%20live%20in%20a%20more%20conducive%20environment.jpg)|
-|A hive of Black Dwarf Honey Bees chose our pollinator-friendly garden as their home!|As we want the bees to live in a more conducive environment, we got a beehive relocation professional to bring the bees to their new home.|
-|![](/images/Enviro%20Edu/the%20bees%20are%20getting%20placed%20in%20a%20cardboard%20box.jpg)|![](/images/Enviro%20Edu/Goodbye%20bees.jpg)|
-|The bees are getting placed in a cardboard box, ready to be transported to their new home.|Goodbye, bees! Thank you for all your hard work making sure we have a healthy eco-system. With you around, life is so much more colourful.|
 
 At RGPS, our goal is to nurture every RGPS pupil to become a steward of the environment. We believe that part of making life better for others is to take a proactive approach to protecting the environment for current and future generations. Through the various projects and initiatives implemented throughout RGPS, we aim to meet these 3 objectives:
 
