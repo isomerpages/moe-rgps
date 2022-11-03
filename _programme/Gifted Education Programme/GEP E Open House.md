@@ -16,7 +16,7 @@ third_nav_title: Gifted Education Programme
 
 <br>
 
-<img src="/images/top.png" style="align: center">
+<img src="/images/top.png" style="width: 200px; align: center">
 
 <img src="/images/subjects.png" style="align: center">
 
