@@ -32,5 +32,5 @@ The pictures below show how the pupils get green and love Earth.
 | -------- | -------- |
 |![](/images/Enviro%20Edu/A%20hive%20of%20Black%20Dwarf%20Honey%20Bees.jpg)|![](/images/Enviro%20Edu/As%20we%20want%20the%20bees%20to%20live%20in%20a%20more%20conducive%20environment.jpg)|
 |A hive of Black Dwarf Honey Bees chose our pollinator-friendly garden as their home!|As we want the bees to live in a more conducive environment, we got a beehive relocation professional to bring the bees to their new home.|
-||![](/images/Enviro%20Edu/Goodbye%20bees.jpg)|
+|![](/images/Enviro%20Edu/the%20bees%20are%20getting%20placed%20in%20a%20cardboard%20box.jpg)|![](/images/Enviro%20Edu/Goodbye%20bees.jpg)|
 |The bees are getting placed in a cardboard box, ready to be transported to their new home.|Goodbye, bees! Thank you for all your hard work making sure we have a healthy eco-system. With you around, life is so much more colourful.|
