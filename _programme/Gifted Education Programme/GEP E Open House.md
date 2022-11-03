@@ -34,22 +34,29 @@ third_nav_title: Gifted Education Programme
 <img style="width: 100px; align: center" src="/images/top.png">
 <br>
 </div>
+
+<div id="programmes">
 <img style="width:50%; align: center" src="/images/program.png">
 <br>
-
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LYaCTB3cOqA"></iframe></th><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KjTlTp4RMD4"></iframe></th></tr></thead><tbody><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Future Problem Solving Program<br>Junior Model United Nations
 Debate</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Individualised Research Study (IRS)</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/m5AhuvE_FMs"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pS8LIPUmwHU"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Innovation Programme (IvP)</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Pupil Development</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cHID7N6kKGE"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/H6P50GxIMVY"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Computer Enrichment Programme (CEP)</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Values-In-Action
  (VIA)</td></tr></tbody></table>
 <br>
+</div>
+
+<div id="p4orientation">
 <img style="width:40vw; align: center" src="/images/p4orientation.png">
 <br>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/p4PLvbzwx5E" height="315" width="560"></iframe></center>
 <br>
+</div>
+<div id="spaces">
 <img style="width:50vw; align: center" src="/images/spaces.png">
 <br>
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OvReZhBisYA" height="315" width="560"></iframe></center>
 <br>
+</div>
 <img style="background-colour:yellow; width:50vw; align: center" src="/images/FAQ.png">
 
 <center>
