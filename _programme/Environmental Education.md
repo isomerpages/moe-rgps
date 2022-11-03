@@ -11,6 +11,7 @@ The pictures below show how the pupils get green and love Earth.
 
 
 #### **Earth Week**
+
 ||||
 | -------- | -------- | -------- |
 | ![](/images/Enviro%20Edu/Why%20is%20the%20Earth%20sad.jpg) | ![](/images/Enviro%20Edu/Is%20it%20because%20our%20oceans%20are%20polluted%20with%20plastic%20trash.jpg) | ![](/images/Enviro%20Edu/Or%20is%20it%20because%20we%20are%20mindless%20about%20our%20plastic%20consumption.jpg) |
@@ -19,6 +20,7 @@ The pictures below show how the pupils get green and love Earth.
 |When will you start doing something about it |Can we change anything about our habits||
 
 #### **Biodiversity Week**
+
 ||||
 | -------- | -------- | -------- |
 |![](/images/Enviro%20Edu/What%20are%20they%20looking%20at.jpg)|![](/images/Enviro%20Edu/Meet%20Pearl,%20she%20belongs%20to%20Singapore's%20last%20remaining%20wildcat%20species,%20the%20Leopard%20Cat.jpg)|![](/images/Enviro%20Edu/What%20can%20we%20do%20to%20help%20Leopard%20Cats.jpg)|
@@ -27,6 +29,7 @@ The pictures below show how the pupils get green and love Earth.
 |A student writing letters to Dr. Jane Goodall|Every individual matters. Every individual has a role to play. Every individual makes a difference. - Dr. Jane Goodall||
 
 #### **Bees are friends, not pest!**
+
 |||
 | -------- | -------- |
 |![](/images/Enviro%20Edu/A%20hive%20of%20Black%20Dwarf%20Honey%20Bees.jpg)|![](/images/Enviro%20Edu/As%20we%20want%20the%20bees%20to%20live%20in%20a%20more%20conducive%20environment.jpg)|
