@@ -34,3 +34,16 @@ The pictures below show how the pupils get green and love Earth.
 |A hive of Black Dwarf Honey Bees chose our pollinator-friendly garden as their home!|As we want the bees to live in a more conducive environment, we got a beehive relocation professional to bring the bees to their new home.|
 |![](/images/Enviro%20Edu/the%20bees%20are%20getting%20placed%20in%20a%20cardboard%20box.jpg)|![](/images/Enviro%20Edu/Goodbye%20bees.jpg)|
 |The bees are getting placed in a cardboard box, ready to be transported to their new home.|Goodbye, bees! Thank you for all your hard work making sure we have a healthy eco-system. With you around, life is so much more colourful.|
+
+<br><br>
+At RGPS, our goal is to nurture every RGPS pupil to become a steward of the environment. We believe that part of making life better for others is to take a proactive approach to protecting the environment for current and future generations. Through the various projects and initiatives implemented throughout RGPS, we aim to meet these 3 objectives:
+
+1.    To increase awareness of environmental issues among pupils and staff
+
+2.    To maximise recycling
+
+3.    To minimise the use of non-renewable resources
+
+To achieve these objectives, RGPS adopts a multi-pronged approach. Firstly, the teachers infuse environmental topics into the curriculum by teaching about it explicitly. Second, there are a variety of structures in place to ensure consistency and sustainability of our environmental efforts. Third, we engage stakeholders to build an RGPS community that champions sustainability. Fourth, RGPS sets Key Performance Indicators to ensure the efficient and optimal utilisation of resources.
+
+The pictures below provide a glimpse into the various approaches that RGPS takes.
