@@ -39,7 +39,7 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <br>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/p4PLvbzwx5E" height="315" width="560"></iframe></center>
 <br>
-<img style="width:50%; align: center" src="/images/spaces.png">
+<img style="width:50vw; align: center" src="/images/spaces.png">
 <br>
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OvReZhBisYA" height="315" width="560"></iframe></center>
