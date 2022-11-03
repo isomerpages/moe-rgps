@@ -26,7 +26,7 @@ The pictures below show how the pupils get green and love Earth.
 |![](/images/Enviro%20Edu/What%20are%20they%20looking%20at.jpg)|![](/images/Enviro%20Edu/Meet%20Pearl,%20she%20belongs%20to%20Singapore's%20last%20remaining%20wildcat%20species,%20the%20Leopard%20Cat.jpg)|![](/images/Enviro%20Edu/What%20can%20we%20do%20to%20help%20Leopard%20Cats.jpg)|
 |What are they looking at?|Meet Pearl, she belongs to Singapore's last remaining wildcat species, the Leopard Cat.|What can we do to help Leopard Cats?  Find out more click [here](https://www.swagcat.org/Saving-our-Last-Wildcat)|
 |![](/images/Enviro%20Edu/A%20student%20writing%20letters%20to%20Dr%20Jane%20Goodall.jpg)|![](/images/Enviro%20Edu/Every%20individual%20matters.jpeg)||
-|A student writing letters to Dr. Jane Goodall.|Every individual matters. <br>Every individual has a role to play. Every individual makes a difference. - Dr. Jane Goodall||
+|A student writing letters to Dr. Jane Goodall.|Every individual matters. <br>Every individual has a role to play. Every individual makes a difference. - Dr. Jane Goodall.||
 
 #### **Bees are friends, not Pests!**
 
