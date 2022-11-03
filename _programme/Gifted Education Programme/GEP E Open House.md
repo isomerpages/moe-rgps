@@ -6,7 +6,7 @@ third_nav_title: Gifted Education Programme
 ---
 <img style="align: center" src="/images/title.png">
 
-<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img src="/images/sb_intro2.png"></a></th><th style="border-color:white;" rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><img src="/images/sb_grad2.png"></th><th style="border-color:white;"><img src="/images/sb_program2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_P4Orient.png"></th><th style="border-color:white;"><img src="/images/sb_spaces2.png"></th></tr></thead><tbody><tr><td></td><td><img src="/images/sb_faq2.png"></td><td></td></tr></tbody></table>
+<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img src="/images/sb_intro2.png"></a></th><th style="border-color:white;" rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img src="/images/sb_grad2.png"></a></th><th style="border-color:white;"><a href="#programmes"><img src="/images/sb_program2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img src="/images/sb_P4Orient.png"></a></th><th style="border-color:white;"><a href="#spaces"><img src="/images/sb_spaces2.png"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img src="/images/sb_faq2.png"></a></td><td></td></tr></tbody></table>
 <div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
 <br/>
@@ -57,8 +57,10 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OvReZhBisYA" height="315" width="560"></iframe></center>
 <br>
 </div>
+<div id="faq">
 <img style="background-colour:yellow; width:50vw; align: center" src="/images/FAQ.png">
 
 <center>
 <iframe allowfullscreen="true" height="315" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX3aEVjkphZ-EyDejOHWUDOExkiwhjL-kou0U_rg_nN_FhJYLP4f_U9hSsur1bqQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </center>
+	</div>
