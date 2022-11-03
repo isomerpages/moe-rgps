@@ -60,5 +60,5 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <img style="background-colour:yellow; width:50vw; align: center" src="/images/FAQ.png">
 
 <center>
-<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX3aEVjkphZ-EyDejOHWUDOExkiwhjL-kou0U_rg_nN_FhJYLP4f_U9hSsur1bqQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="315" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX3aEVjkphZ-EyDejOHWUDOExkiwhjL-kou0U_rg_nN_FhJYLP4f_U9hSsur1bqQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </center>
