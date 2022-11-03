@@ -10,7 +10,7 @@ third_nav_title: Gifted Education Programme
 <div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
 <br/>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nzFl7DkRwj4" height="505" width="853"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nzFl7DkRwj4" height="385" width="640"></iframe></center>
 <br/><a href="#top">
 <img style="width: 100px; align: center" src="/images/top.png"></a>
 <br/></div>
@@ -65,14 +65,14 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <img style="width: 100px; align: center" src="/images/top.png"></a>
 <br>
 <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OvReZhBisYA" height="315" width="560"></iframe></center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OvReZhBisYA" height="385" width="640"></iframe></center>
 <br>
 </div>
 <div id="faq">
 <img style="background-colour:yellow; width:50vw; align: center" src="/images/FAQ.png">
 
 <center>
-<iframe allowfullscreen="true" height="315" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX3aEVjkphZ-EyDejOHWUDOExkiwhjL-kou0U_rg_nN_FhJYLP4f_U9hSsur1bqQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="385" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX3aEVjkphZ-EyDejOHWUDOExkiwhjL-kou0U_rg_nN_FhJYLP4f_U9hSsur1bqQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </center>
 <br>
 <a href="#top">
