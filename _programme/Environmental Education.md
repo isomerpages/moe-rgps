@@ -9,7 +9,6 @@ At Raffles Girls’ Primary School, our goal is to nurture every pupil to become
 
 The pictures below show how the pupils get green and love Earth.
 
-
 #### **Earth Week**
 ||||
 | -------- | -------- | -------- |
