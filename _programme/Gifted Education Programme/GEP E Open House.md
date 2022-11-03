@@ -7,27 +7,33 @@ third_nav_title: Gifted Education Programme
 <img style="align: center" src="/images/title.png">
 
 <table><thead><tr><th style="border-color:white;"><img src="/images/sb_intro2.png"></th><th style="border-color:white;" rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><img src="/images/sb_subjects2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_grad2.png"></th><th style="border-color:white;"><img src="/images/sb_program2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_P4Orient.png"></th><th style="border-color:white;"><img src="/images/sb_spaces2.png"></th></tr></thead><tbody><tr><td></td><td><img src="/images/sb_faq2.png"></td><td></td></tr></tbody></table>
-
+<div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
 <br/>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nzFl7DkRwj4" height="315" width="560"></iframe></center>
 <br/>
 <img style="width: 100px; align: center" src="/images/top.png">
-<br/>
+<br/></div>
+
+<div id="subjects">
 <img style="width:20vw; align: center" src="/images/subjects.png">
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Rx3Dcn4ZXWY"></iframe></th><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/t5eEzEfbY4c"></iframe></th></tr></thead><tbody><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">English</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mathematics</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ytryWx9UKHg"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xos9NV1oO1o"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mother Tongue</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Science</td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/s1Tb6h_mUII"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Kj_dTwN91zc"></iframe></td></tr><tr><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Social Studies</td><td style="border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Character &amp; Citizenship Education</td></tr></tbody></table>
+<br/>
+<img style="width: 100px; align: center" src="/images/top.png">
+	<br>
+</div>
 
-<br>
-
+<div id="reflections">
 <img style="width:40vw; align: center" src="/images/reflection1.png">
 <br>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/edwfueHzpfI" height="315" width="560"></iframe></center>
 
 <table><thead><tr><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OBJqz5SfUfc"></iframe></th><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/hJ6kwFp-87I"></iframe></th></tr></thead><tbody><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TcnSVTOyj2w"></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AYjOmi0cK68"></iframe></td></tr></tbody></table>
-
+<br/>
+<img style="width: 100px; align: center" src="/images/top.png">
 <br>
-
+</div>
 <img style="width:50%; align: center" src="/images/program.png">
 <br>
 
