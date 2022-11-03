@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Awards Test.md
       - History.md
       - School Crest.md
       - School Vision, Mission, Values.md
       - RGPS Girl.md
       - School Song.md
       - 4Cs Song.md
+      - School Awards Test.md
       - School Rules and Regulations.md
