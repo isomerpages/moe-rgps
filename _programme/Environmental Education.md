@@ -26,3 +26,11 @@ The pictures below show how the pupils get green and love Earth.
 |What are they looking at|Meet Pearl, she belongs to Singapore's last remaining wildcat species, the Leopard Cat|What can we do to help Leopard Cats? Find out more click [here](https://www.swagcat.org/Saving-our-Last-Wildcat)|
 |![](/images/Enviro%20Edu/A%20student%20writing%20letters%20to%20Dr%20Jane%20Goodall.jpg)|![](/images/Enviro%20Edu/Every%20individual%20matters.jpeg)||
 |A student writing letters to Dr. Jane Goodall|Every individual matters. Every individual has a role to play. Every individual makes a difference. - Dr. Jane Goodall||
+
+#### **Bees are friends, not pest!**
+|||
+| -------- | -------- |
+|||
+|A hive of Black Dwarf Honey Bees chose our pollinator-friendly garden as their home!|As we want the bees to live in a more conducive environment, we got a beehive relocation professional to bring the bees to their new home.|
+|||
+|The bees are getting placed in a cardboard box, ready to be transported to their new home.|Goodbye, bees! Thank you for all your hard work making sure we have a healthy eco-system. With you around, life is so much more colourful.|
