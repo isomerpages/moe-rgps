@@ -8,7 +8,7 @@ third_nav_title: Gifted Education Programme
 
 <table><thead><tr><th style="border-color:white;"><img src="/images/sb_intro2.png"></th><th style="border-color:white;" rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><img src="/images/sb_subjects2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_grad2.png"></th><th style="border-color:white;"><img src="/images/sb_program2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_P4Orient.png"></th><th style="border-color:white;"><img src="/images/sb_spaces2.png"></th></tr></thead><tbody><tr><td></td><td><img src="/images/sb_faq2.png"></td><td></td></tr></tbody></table>
 
-<img style="width:10vw; align: center" src="/images/intro.png">
+<img style="width:20vw; align: center" src="/images/intro.png">
 <br>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nzFl7DkRwj4" height="315" width="560"></iframe></center>
 <br>
