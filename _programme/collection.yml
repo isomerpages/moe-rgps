@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Gifted Education Programme/GEP E Open House.md
       - Gifted Education Programme/Gifted Education Programme.md
       - Gifted Education Programme/.keep
       - Active Learning Programme (ALP).md
