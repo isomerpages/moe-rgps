@@ -18,11 +18,11 @@ third_nav_title: Gifted Education Programme
 
 | <iframe width="187" height="105" src="https://www.youtube.com/embed/Rx3Dcn4ZXWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | <iframe width="187" height="105" src="https://www.youtube.com/embed/t5eEzEfbY4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 |:---:|:---:|
-| English | Mathematics |
+| **English** | **Mathematics** |
 | <iframe width="187" height="105" src="https://www.youtube.com/embed/ytryWx9UKHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | <iframe width="187" height="105" src="https://www.youtube.com/embed/Xos9NV1oO1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-| Mother Tongue | Science |
+| **Mother Tongue** | **Science** |
 | <iframe width="187" height="105" src="https://www.youtube.com/embed/s1Tb6h_mUII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | <iframe width="187" height="105" src="https://www.youtube.com/embed/Kj_dTwN91zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
-| Social Studies | Character & Citizenship Education |
+| **Social Studies** | **Character & Citizenship Education** |
 
 
 
