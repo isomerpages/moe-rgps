@@ -11,8 +11,16 @@ The pictures below show how the pupils get green and love Earth.
 
 
 
-| ![](/images/Enviro%20Edu/Why%20is%20the%20Earth%20sad.jpg) | ![](/images/Enviro%20Edu/Is%20it%20because%20our%20oceans%20are%20polluted%20with%20plastic%20trash.jpg) | ![](/images/Enviro%20Edu/Or%20is%20it%20because%20we%20are%20mindless%20about%20our%20plastic%20consumption.jpg) |
+#### **Earth Week**
+||||
 | -------- | -------- | -------- |
+| ![](/images/Enviro%20Edu/Why%20is%20the%20Earth%20sad.jpg) | ![](/images/Enviro%20Edu/Is%20it%20because%20our%20oceans%20are%20polluted%20with%20plastic%20trash.jpg) | ![](/images/Enviro%20Edu/Or%20is%20it%20because%20we%20are%20mindless%20about%20our%20plastic%20consumption.jpg) |
 | Why is the Earth sad    | Is it because our oceans are polluted with plastic trash     | Or is it because we are mindless about our plastic consumption     |
 |![](/images/Enviro%20Edu/When%20will%20you%20start%20doing%20something%20about%20it.jpg)|![](/images/Enviro%20Edu/Can%20we%20change%20anything%20about%20our%20habits.jpg)||
-|When will you start doing something about it |Can we change anything about our habits
+|When will you start doing something about it |Can we change anything about our habits|
+
+#### **Biodiversity Week**
+||||
+| -------- | -------- | -------- |
+|What are they looking at|Meet Pearl, she belongs to Singapore's last remaining wildcat species, the Leopard Cat|What can we do to help Leopard Cats? Find out more click [here](https://www.swagcat.org/Saving-our-Last-Wildcat)|
+|A student writing letters to Dr. Jane Goodall|Every individual matters. Every individual has a role to play. Every individual makes a difference. - Dr. Jane Goodall||
