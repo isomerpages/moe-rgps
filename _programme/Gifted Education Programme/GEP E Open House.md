@@ -9,8 +9,9 @@ third_nav_title: Gifted Education Programme
 <table><thead><tr><th><img src="/images/sb_intro2.png"></th><th rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th><img src="/images/sb_subjects2.png"></th></tr><tr><th><img src="/images/sb_grad2.png"></th><th><img src="/images/sb_program2.png"></th></tr><tr><th><img src="/images/sb_P4Orient.png"></th><th><img src="/images/sb_spaces2.png"></th></tr></thead><tbody><tr><td></td><td><img src="/images/sb_faq2.png"></td><td></td></tr></tbody></table>
 
 <img src="/images/intro.png" style="align: center">
+<br>
 
-Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nzFl7DkRwj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Back to top
 
