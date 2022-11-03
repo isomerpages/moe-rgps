@@ -52,7 +52,7 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <div id="p4orientation">
 <img style="width:40vw; align: center" src="/images/p4orientation.png">
 <br>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/p4PLvbzwx5E" height="315" width="560"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/p4PLvbzwx5E" height="385" width="640"></iframe></center>
 <br>
 <a href="#top">
 <img style="width: 100px; align: center" src="/images/top.png"></a>
