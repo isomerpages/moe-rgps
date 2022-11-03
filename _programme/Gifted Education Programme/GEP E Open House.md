@@ -6,7 +6,7 @@ third_nav_title: Gifted Education Programme
 ---
 <img style="align: center" src="/images/title.png">
 
-<table><thead><tr><th style="border-color:white;"><img src="/images/sb_intro2.png"></th><th style="border-color:white;" rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><img src="/images/sb_subjects2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_grad2.png"></th><th style="border-color:white;"><img src="/images/sb_program2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_P4Orient.png"></th><th style="border-color:white;"><img src="/images/sb_spaces2.png"></th></tr></thead><tbody><tr><td></td><td><img src="/images/sb_faq2.png"></td><td></td></tr></tbody></table>
+<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img src="/images/sb_intro2.png"></a></th><th style="border-color:white;" rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><img src="/images/sb_grad2.png"></th><th style="border-color:white;"><img src="/images/sb_program2.png"></th></tr><tr><th style="border-color:white;"><img src="/images/sb_P4Orient.png"></th><th style="border-color:white;"><img src="/images/sb_spaces2.png"></th></tr></thead><tbody><tr><td></td><td><img src="/images/sb_faq2.png"></td><td></td></tr></tbody></table>
 <div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
 <br/>
