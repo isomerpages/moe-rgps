@@ -21,8 +21,8 @@ Tan Kah Kee MRT (Downtown Line)
 ##### **Gate 2A** 
 ***Gate near entrance of Storage Lane***
 * Gate Opening Hours : 
- * 6.30 a.m.  to 7.30 a.m.
- * 1:30 p.m. to 2:00 p.m.
+  * 6.30 a.m.  to 7.30 a.m.
+  * 1:30 p.m. to 2:00 p.m.
 
 #### **Gate 3** 
 ***Rear Gate to NJC Drive***
