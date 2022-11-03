@@ -10,7 +10,7 @@ third_nav_title: Gifted Education Programme
 <div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
 <br/>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nzFl7DkRwj4" height="315" width="560"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nzFl7DkRwj4" height="505" width="853"></iframe></center>
 <br/><a href="#top">
 <img style="width: 100px; align: center" src="/images/top.png"></a>
 <br/></div>
