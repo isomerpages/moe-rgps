@@ -4,9 +4,8 @@ permalink: /programme/Gifted-Education-Programme/gepeopenhouse/
 description: ""
 third_nav_title: Gifted Education Programme
 ---
-<img style="align: center" src="/images/title.png">
-
-<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img src="/images/sb_intro2.png"></a></th><th style="border-color:white;" rowspan="3"><div id="top"><img src="/images/rgpsgepgirl_2.png"></div></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img src="/images/sb_grad2.png"></a></th><th style="border-color:white;"><a href="#programmes"><img src="/images/sb_program2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img src="/images/sb_P4Orient.png"></a></th><th style="border-color:white;"><a href="#spaces"><img src="/images/sb_spaces2.png"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img src="/images/sb_faq2.png"></a></td><td></td></tr></tbody></table>
+<a href="#introduction"><img style="align: center; width:80%;" src="/images/title.png"></a>
+<table><thead><tr><th style="border-color:white;"><img src="/images/sb_intro2.png" style="width:80%;"></th><th style="border-color:white;" rowspan="3"><div id="top"><img src="/images/rgpsgepgirl_2.png" style="width:80%;"></div></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png" style="width:80%;"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img src="/images/sb_grad2.png" style="width:80%;"></a></th><th style="border-color:white;"><a href="#programmes"><img src="/images/sb_program2.png" style="width:80%;"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img src="/images/sb_P4Orient.png" style="width:80%;"></a></th><th style="border-color:white;"><a href="#spaces"><img src="/images/sb_spaces2.png" style="width:80%;"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img src="/images/sb_faq2.png" style="width:80%;"></a></td><td></td></tr></tbody></table>
 <br>
 <div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
