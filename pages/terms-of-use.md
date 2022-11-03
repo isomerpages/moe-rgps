@@ -16,7 +16,7 @@ Thank you for visiting Raffles Girls’ Primary School’s website. By accessing
 
 #### **Privacy Policy**
 
-4. Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
+4. Click here to review this website [Privacy Statement](/privacy/).
 
 #### **Restrictions on use of Materials**
 
@@ -61,4 +61,3 @@ Thank you for visiting Raffles Girls’ Primary School’s website. By accessing
 #### **Governing Law**
 
 18. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
-
