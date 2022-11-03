@@ -17,21 +17,18 @@ Tan Kah Kee MRT (Downtown Line)
 ##### **Gate 1** 
 ***Main Gate near Guard Post***
 * Gate Opening Hours: 6:30 a.m. to 6.30 p.m.
-* Drop Off: 6:30 a.m. to 7:20 a.m.
-* Pick Up: Mon to Fri, 1:50 p.m. to 4:30 p.m.
-* For CCA days: Mon to Thurs, 5:15 p.m.to 6:30 p.m.
 
-##### **Gate 2** 
+##### **Gate 2A** 
 ***Gate near entrance of Storage Lane***
-* Pick Up: Mon to Fri, 1:50 p.m. to 2:30 p.m.
+* Gate Opening Hours : 
+ * 6.30 a.m.  to 7.30 a.m.
+ * 1:30 p.m. to 2:00 p.m.
 
 #### **Gate 3** 
 ***Rear Gate to NJC Drive***
 *  Gate Opening Hours:
 	*  6:30 a.m. to 8:30 a.m.
-	*  1:40 p.m. to 6:30 p.m.
-* Gate is Closed from 1:15 p.m. to 1:40 p.m.
-* School buses are allowed to start moving at 1:40 p.m.
+	*  12:00 p.m. to 5:30 p.m.
 
 ### Traffic Matters
 Please take note of the following traffic matters. Your cooperation and consideration will help to make arrival and dismissal safe and smooth for all.
