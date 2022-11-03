@@ -6,13 +6,13 @@ third_nav_title: Gifted Education Programme
 ---
 <img style="align: center" src="/images/title.png">
 
-<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img src="/images/sb_intro2.png"></a></th><th style="border-color:white;" rowspan="3"><img src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img src="/images/sb_grad2.png"></a></th><th style="border-color:white;"><a href="#programmes"><img src="/images/sb_program2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img src="/images/sb_P4Orient.png"></a></th><th style="border-color:white;"><a href="#spaces"><img src="/images/sb_spaces2.png"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img src="/images/sb_faq2.png"></a></td><td></td></tr></tbody></table>
+<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img src="/images/sb_intro2.png"></a></th><th style="border-color:white;" rowspan="3"><div id="top"><img src="/images/rgpsgepgirl_2.png"></div></th><th style="border-color:white;"><a href="#subjects"><img src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img src="/images/sb_grad2.png"></a></th><th style="border-color:white;"><a href="#programmes"><img src="/images/sb_program2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img src="/images/sb_P4Orient.png"></a></th><th style="border-color:white;"><a href="#spaces"><img src="/images/sb_spaces2.png"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img src="/images/sb_faq2.png"></a></td><td></td></tr></tbody></table>
 <div id="introduction">
 <img style="width:20vw; align: center" src="/images/intro.png">
 <br/>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nzFl7DkRwj4" height="315" width="560"></iframe></center>
-<br/>
-<img style="width: 100px; align: center" src="/images/top.png">
+<br/><a href="#top">
+<img style="width: 100px; align: center" src="/images/top.png"></a>
 <br/></div>
 
 <div id="subjects">
