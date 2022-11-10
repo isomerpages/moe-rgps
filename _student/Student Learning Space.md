@@ -3,8 +3,6 @@ title: Student Learning Space
 permalink: /parents/engaging-our-parents/student-learning-space/
 description: ""
 ---
-
-
 Dear Students,  
   
 As part of Ministry of Education’s (MOE) commitment to nurture future-ready learners, an online learning platform known as the Student Learning Space (SLS) has been developed and rolled out in 2018 by MOE.  
@@ -46,11 +44,6 @@ e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., S
 
 f. Approach your subject teachers for help.
 
-You can read the following annexes to SLS for more information.
+You can read the following annexes to SLS for more information. <br><br>
+[SLS Updated Login - For  Parents and Student](/files/SLS%20Updated%20Login_Poster_For%20Parents%20and%20Students.pdf)
 
-* [ RGPS_N20_G_021b INFORMATION ON ACCESS TO STUDENT LEARNING_Annex A.pdf](/files/RGPS_N20_G_021b%20INFORMATION%20ON%20ACCESS%20TO%20STUDENT%20LEARNING_Annex%20A.pdf)
-* [RGPS_N20_G_021c_Access to SLS_Guide for P2 to P6 Pupils.pdf](/files/RGPS_N20_G_021c_Access%20to%20SLS_Guide%20for%20P2%20to%20P6%20Pupils.pdf)
-
-Student guides for new SLS interface (Updated on 26 March 21)
-
-* [Students Guide for New SLS Interface.pdf](/files/Students%20Guide%20for%20New%20SLS%20Interface.pdf)
