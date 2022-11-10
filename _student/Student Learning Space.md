@@ -29,6 +29,8 @@ SLS can be accessed from [https://vle.learning.moe.edu.sg/login](https://vle.le
 
 Your username is first five letters of your name and last five characters of your ID.  <br>
 Your password had been given to you through your teacher.
+<br>or<br>Use your MIMS or Student iCON username (e.g. tan_weiling@students.edu.sg) and MIMS password.
+
 
 If you have forgotten your password, you could:  
 
@@ -40,7 +42,7 @@ c. Submit a password reset request form [here](https://forms.gle/bbn3nT9ePEY6pdD
 
 d. School-based Helpdesk at [sim_kai_lin_carinn@moe.edu.sg](sim_kai_lin_carinn@moe.edu.sg) or 64699513 (Mondays- Fridays: 8:00 a.m. to 4.00 p.m.) 
 
-e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., Saturdays: 9:00 a.m. - 3:00 p.m.) *Closed on Sundays & Public Holidays Call SLS helpdesk at 67026513 or email helpdesk@sls.ufinity.com (When emailing the SLS helpdesk, please include student full name, name of school and form class.) 
+e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., Saturdays: 9:00 a.m. - 3:00 p.m.) *Closed on Sundays & Public Holidays Call SLS helpdesk at 67026513 or email [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com) (When emailing the SLS helpdesk, please include student full name, name of school and form class.) 
 
 f. Approach your subject teachers for help.
 
