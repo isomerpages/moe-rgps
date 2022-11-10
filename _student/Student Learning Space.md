@@ -36,9 +36,9 @@ a. Reset via email if you have entered an email address during your first setup.
 
 b. Reset via answering security questions; or 
 
-c. Submit a password reset request form (https://forms.gle/bbn3nT9ePEY6pdDb8); or 
+c. Submit a password reset request form [here](https://forms.gle/bbn3nT9ePEY6pdDb8); or 
 
-d. School-based Helpdesk at sim_kai_lin_carinn@moe.edu.sg or 64699513 (Mondays- Fridays: 8:00 a.m. to 4.00 p.m.) 
+d. School-based Helpdesk at [sim_kai_lin_carinn@moe.edu.sg](sim_kai_lin_carinn@moe.edu.sg) or 64699513 (Mondays- Fridays: 8:00 a.m. to 4.00 p.m.) 
 
 e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., Saturdays: 9:00 a.m. - 3:00 p.m.) *Closed on Sundays & Public Holidays Call SLS helpdesk at 67026513 or email helpdesk@sls.ufinity.com (When emailing the SLS helpdesk, please include student full name, name of school and form class.) 
 
@@ -46,4 +46,3 @@ f. Approach your subject teachers for help.
 
 You can read the following annexes to SLS for more information. <br><br>
 [SLS Updated Login - For  Parents and Student](/files/SLS%20Updated%20Login_Poster_For%20Parents%20and%20Students.pdf)
-
