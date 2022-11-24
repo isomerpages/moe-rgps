@@ -25,4 +25,12 @@ sections:
       subtitle: Important Announcements
       description: P1 School Term starts from 3 January 2023 , P2-P6 School Term start
         from  4 January 2023
+  - infopic:
+      title: Calendar of Events
+      subtitle: "2023"
+      url: '<iframe
+        src="https://calendar.google.com/calendar/embed?src=c_dspt8om7pqp9e38qj8eial46nk%40group.calendar.google.com&ctz=Asia%2FSingapore"
+        style="border: 0" width="800" height="600" frameborder="0"
+        scrolling="no"></iframe>'
+      alt: Image alt text
 ---
