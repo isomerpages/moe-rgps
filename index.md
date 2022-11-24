@@ -28,9 +28,5 @@ sections:
   - infopic:
       title: Calendar of Events
       subtitle: "2023"
-      url: '<iframe
-        src="https://calendar.google.com/calendar/embed?src=c_dspt8om7pqp9e38qj8eial46nk%40group.calendar.google.com&ctz=Asia%2FSingapore"
-        style="border: 0" width="800" height="600" frameborder="0"
-        scrolling="no"></iframe>'
       alt: Image alt text
 ---
