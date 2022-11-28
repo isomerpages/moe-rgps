@@ -25,8 +25,4 @@ sections:
       subtitle: Important Announcements
       description: P1 School Term starts from 3 January 2023 , P2-P6 School Term start
         from  4 January 2023
-  - infopic:
-      title: Calendar of Events
-      subtitle: "2023"
-      alt: Image alt text
 ---
