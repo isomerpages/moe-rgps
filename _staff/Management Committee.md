@@ -96,7 +96,7 @@ description: ""
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Ms S Thivyaa Tharrshini** | HOD ICT   | <a href="S_thivyaa_tharrshini@schools.gov.sg">S_thivyaa_tharrshini@schools.gov.sg</a>     |
+| **Ms S Thivyaa Tharrshini** | HOD ICT & Data Management   | <a href="S_thivyaa_tharrshini@schools.gov.sg">S_thivyaa_tharrshini@schools.gov.sg</a>     |
 | **Ms Ang Kai Mei** | Subject Head - ICT   | <a href="ang_kai_mei@schools.gov.sg">ang_kai_mei@schools.gov.sg</a>     |
 | **Mr Seah Nam Sin** | Subject Head - Data Management   | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
 
