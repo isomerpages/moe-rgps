@@ -26,7 +26,7 @@ To develop our pupils to be proficient and pervasive users of the Language
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">HOD MTL</td>
+    <td class="tg-dgl5">HOD Mother Tongue</td>
     <td class="tg-ktyi">Mdm Yap Fang Ying</td>
   </tr>
 	<tr>
@@ -221,5 +221,3 @@ Bite-sized forms of weighted assessments are conducted in Term 1, Term 2 and Ter
 | Primary 4 | - | Oral | Language Use & Comprehension | Language Use & Comprehension |
 | Primary 5 | - | Language Use & Comprehension | Writing | Listening Comprehension |
 | Primary 6 | Oral  | Language Use & Comprehension |  | Oral |
-
-
