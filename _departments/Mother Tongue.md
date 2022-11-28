@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /departments/mother-tongue
+permalink: /departments/mother-tongue/
 description: ""
 ---
 # **Mission**
@@ -26,8 +26,12 @@ To develop our pupils to be proficient and pervasive users of the Language
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">Subject Head Chinese Language</td>
+    <td class="tg-dgl5">HOD MTL</td>
     <td class="tg-ktyi">Mdm Yap Fang Ying</td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Subject Head Chinese Language</td>
+    <td class="tg-ktyi">Mr Guo Jiguang</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Senior Teacher Chinese Language</td>
@@ -39,7 +43,7 @@ To develop our pupils to be proficient and pervasive users of the Language
   </tr>
   <tr>
     <td class="tg-dgl5">TL Coordinator</td>
-    <td class="tg-ktyi">Mrs Tanabal</td>
+    <td class="tg-ktyi">Mrs Kalamani Tanabal</td>
   </tr>
   <tr>
     <td class="tg-dgl5">ML Coordinator</td>
@@ -55,7 +59,7 @@ To develop our pupils to be proficient and pervasive users of the Language
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Chiam Lee Lee</td>
+    <td class="tg-ktyi">Ms Chew Sok Tien</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -77,9 +81,17 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Eng Lik Boon</td>
   </tr>
+	  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Gao Jingru</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Khoo Wai Ling</td>
+  </tr>
+	  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Lau Lu Ying</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -132,14 +144,6 @@ To develop our pupils to be proficient and pervasive users of the Language
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Toh Dea Beng</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Veronica Teo</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Wang Huiwen</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
