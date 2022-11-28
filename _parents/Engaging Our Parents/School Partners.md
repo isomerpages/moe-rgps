@@ -19,3 +19,12 @@ third_nav_title: Engaging Our Parents
 |[P1](/files/Booklist/RGPS%20P1.pdf)| [P2](/files/Booklist/RGPS%20P2.pdf)| [P3](/files/Booklist/RGPS%20P3.pdf)|[P4](/files/Booklist/RGPS%20P4.pdf)| [P5](/files/Booklist/RGPS%20P5.pdf)| [P6](/files/Booklist/RGPS%20P6.pdf)|
 ||||[P4 GEP](/files/Booklist/RGPS%20P4%20GEP.pdf)|[P5 GEP](/files/Booklist/RGPS%20P5%20GEP.pdf)|[P6 GEP](/files/Booklist/RGPS%20P6%20GEP.pdf)|
 |||||[P5 FDN](/files/Booklist/RGPS%20P5%20FDN.pdf)|[P6 FDN](/files/Booklist/RGPS%20P6%20FDN.pdf)|
+
+| **Level** |**Main Stream** | **GEP** | **Foundation** |
+| -------- | -------- | -------- | -------- |
+|**Primary 1**|[Primary 1](/files/Booklist/RGPS%20P1.pdf)| ||
+|**Primary 2**|[Primary 2](/files/Booklist/RGPS%20P2.pdf)|||
+|**Primary 3**|[Primary 3](/files/Booklist/RGPS%20P3.pdf)|||
+|**Primary 4**|[Primary 4](/files/Booklist/RGPS%20P4.pdf)| [Primary 4 - GEP](/files/Booklist/RGPS%20P4%20GEP.pdf)| |
+|**Primary 5**|[Primary 5](/files/Booklist/RGPS%20P5.pdf)| [Primary 5 - GEP](/files/Booklist/RGPS%20P5%20GEP.pdf)| [Primary 5 - Foundation](/files/Booklist/RGPS%20P6%20FDN.pdf)|
+|**Priamry 6**|[Primary 6](/files/Booklist/RGPS%20P6.pdf)|[Primary 6 - GEP](/files/Booklist/RGPS%20P6%20GEP.pdf)|[Primary 6 - Foundation](/files/Booklist/RGPS%20P6%20FDN.pdf)|
