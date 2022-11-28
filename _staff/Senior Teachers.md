@@ -65,3 +65,9 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | **Mdm Eng Lee Na**    |     | <a href="eng_lee_na@schools.gov.sg">eng_lee_na@schools.gov.sg</a>     |
+
+### Art
+
+|  |  |  |
+| -------- | -------- | -------- |
+| **Mdm Haryana Bte Md Dom**    |     | <a href="haryana_md_dom@schools.gov.sg">haryana_md_dom@schools.gov.sg</a>     |
