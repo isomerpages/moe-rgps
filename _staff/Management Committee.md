@@ -60,7 +60,7 @@ description: ""
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mdm Yap Fang Ying** | Subject Head - Chinese Language   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
+| **Mdm Yap Fang Ying** | HOD - Mother Tongue   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
 | **Mr Guo Jiguang** | Subject Head - Chinese Language   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
 
 ### Science Department
@@ -104,7 +104,6 @@ description: ""
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mdm Wang Huiwen** | HOD CCE   | <a href="wang_huiwen@schools.gov.sg">wang_huiwen@schools.gov.sg</a>     |
 | **Mdm Cassandra Quek Sock Cheng** | Subject Head - CCE   | <a href="quek_sock_cheng@schools.gov.sg">quek_sock_cheng@schools.gov.sg</a>     |
 | **Ms Farhani** | Subject Head - Student Well-Being   | <a href="noor_farhani_hanafi@schools.gov.sg">noor_farhani_hanafi@schools.gov.sg</a>     |
 
