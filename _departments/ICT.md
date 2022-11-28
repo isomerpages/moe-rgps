@@ -26,7 +26,7 @@ To develop the capability and build capacity of teachers and pupils in the use o
 </thead>
 <tbody>
 	 <tr>
-    <td class="tg-1wig">HOD ICT</td>
+    <td class="tg-1wig">HOD ICT & Data Management</td>
     <td class="tg-0lax">Ms S Thivyaa Tharrshini</td>
   </tr>
   <tr>
