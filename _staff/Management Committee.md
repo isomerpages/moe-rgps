@@ -55,6 +55,7 @@ description: ""
 | -------- | -------- | -------- |
 | **Ms Chong Jieqi** | HOD - Math   | <a href="chong_jieqi@schools.gov.sg">chong_jieqi@schools.gov.sg</a>     |
 | **Miss Shannalyn Ng Jia Yun** | Subject Head - Math   | <a href="shannalyn_ng@schools.gov.sg">shannalyn_ng@schools.gov.sg</a>     |
+| **Mdm Chau Soo Eng June** | Subject Head - Math   | <a href="chau_soo_eng_june@schools.gov.sg">chau_soo_eng_june@schools.gov.sg</a>     |
 
 ### Mother Tongue Department
 
