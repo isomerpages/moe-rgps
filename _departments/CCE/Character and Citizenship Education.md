@@ -32,10 +32,7 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-dgl5">HOD CCE</td>
-    <td class="tg-ktyi">Mdm Wang Huiwen</td>
-  </tr>
+ 
   <tr>
     <td class="tg-dgl5">Subject Head (Well-Being) </td>
     <td class="tg-ktyi">Ms Noor Farhani</td>
