@@ -157,14 +157,24 @@ At Primary 5, the AWE programme engages students in writing creative narratives 
 Students will need to purchase the book ‘Where The Mountain Meets The Moon’ by Grace Lin on their own. They will learn to explore the elements in the text by examining the plot, themes and character development. This will help them to develop a greater awareness and sensitivity to the context and the writer’s craft.
 
 
-| Debate<br>(P5/P6) |  | 
-| -------- | -------- |
-| Objectives | This programme aims to:<br>1. introduce students to the structure and art of debating;<br>2. train students with rebuttal skills using logic and deal with elements of debating;<br>3. guide students prepare materials for debate competition; and<br>4. teach students to comprehend the meaningful values of working together and derive positive learning experience from participating in debates. |
-| Programme Outline | In the Debate Enrichment Programme, students will be exposed to the art of debating and be equipped with oral confidence skills when addressing an audience. During the training, students will learn strategies to overcome nervousness, correct speech, debate structure, points of information, voice projection, confident body language, fallacies of arguments, rebuttal skills and appropriate register.|
+#### **Debate (P5/P6)**
 
-# Assessment 
+##### Objectives
+This programme aims to:<br>
+* introduce students to the structure and art of debating;<br>
+* train students with rebuttal skills using logic and deal with elements of debating;<br>
+* guide students prepare materials for debate competition; and<br>
+* teach students to comprehend the meaningful values of working together and derive positive learning experience from participating in debates. 
+
+##### Programme Outline
+In the Debate Enrichment Programme, students will be exposed to the art of debating and be equipped with oral confidence skills when addressing an audience. During the training, students will learn strategies to overcome nervousness, correct speech, debate structure, points of information, voice projection, confident body language, fallacies of arguments, rebuttal skills and appropriate register.
+
+### Assessment 
 
 Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
+In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school will not hold any mid-year examination for all levels. Students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
+
+Bite-sized forms of weighted assessments will be conducted in different terms. The table below shows an overview:
 
 In promoting students’ learning and developing a wide range of skills, learner strategies, attitudes and behavior, teachers will align assessment with the aims and learning outcomes in the syllabus by encouraging students to:
 
@@ -185,27 +195,27 @@ There are **no weighted assessments, mid-year examination and end-of-year examin
 
 ### P3 – P6<br>
 **P3 & 5 Weighted Assessment**<br>
-In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school <u>will not have any mid-year examination for P3</u>. This will also provide our students with more time to adjust to the transition and adapt to the new demands of the level.
+In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school will not hold any mid-year examination for **all levels**. Students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
 
-Although there is no mid-year examination, students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
+Bite-sized forms of weighted assessments will be conducted in different terms. The table below shows an overview:
 
-Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3. The table below shows an overview.
 
 |               |Term 1    | Term 2 | Term 3 | Term 4 |
 | -------- | -------- | -------- | -------- | -------- |
 |               | -             | **Weighted Assessment 1** | **Weighted Assessment 2**| **End-of-Year Examination** |
-| Primary 3 & 5 | - | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
+| Primary 3 | - | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
+| Primary 4 | - | Oral (Stimulus-based Conversation) | Language Use | Refer to details for EYE in the table below. |
+| Primary 5 | - | Reading Comprehension | Situational Writing | Refer to details for EYE in the table below. |
+| Primary 6 | Language Use | Oral (Stimulus-based Conversation) |  | Refer to details for EYE in the table below. |
 
 <br><br>
 
 |  | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) | 
 | ----------- | ---------- | ---------- |
-| Primary 3 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension <br>Listening Comprehension <br> Oral |
-| Primary 4 | Composition Writing Language Use & Comprehension<br> Listening Comprehension  | Composition Writing Language Use & Comprehension<br> Listening Comprehension<br> Oral |
-| Primary 5 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension<br>Listening Comprehension<br> Oral |
-| Primary 6  | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral |
-
-
+| Primary 3 | No MYE | * Composition Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 4 | No MYE | * Composition Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 5 | No MYE | * Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 6 | No MYE |* Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
 
 # Social Studies
 
