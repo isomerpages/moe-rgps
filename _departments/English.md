@@ -114,15 +114,23 @@ To equip our students with literacy skills that enable them to be linguistically
 
 ## Enrichment (for selected students)
 
-| JUMUN (P5) |  | 
-| -------- | -------- |
-| Objectives | The programme aims to: <br> 1. sensitise students to global issues (social, environmental, cultural, humanitarian, economic, political etc);<br>2. instil empathy in our students as they view global issues through multiple perspectives (countries which they represent);<br>3. develop students’ critical thinking routines;<br>4. enhance students’ information search & research skills; and<br>5. enhance students’ oracy and communication skills through debates of issues.|
-| Programme Outline | JMUN is a multidisciplinary activity where participants take the roles of delegates at the United Nations and engage in constructive discussions on current global issues (social, environmental, cultural, humanitarian, economic, political etc). Participants will be introduced to the working model of the United Nations and work collaboratively in teams to debate on global issues through multiple perspectives. The programme aims to enhance students’ critical thinking, debate, diplomacy, research, writing and oracy skills.|
+#### **Junior Model United Nations (JUMUN) Programme (P5)**
 
+##### Objectives<br>
+The programme aims to: <br>
+* sensitise students to global issues (social, environmental, cultural, humanitarian, economic, political etc);<br>
+* instil empathy in our students as they view global issues through multiple perspectives (countries which they represent);<br>
+* develop students’ critical thinking routines;<br>
+* enhance students’ information search & research skills; and<br>
+* enhance students’ oracy and communication skills through debates of issues.
 
-| AWE <br>(P3 – P4) |  | 
-| -------- | -------- |
-| Objectives | This programme aims to teach students to:<br>1. explore various poetic forms and structures;<br>2. appreciate and respond to poetry through listening to poetry, reading and writing poetry;<br>3. examine how poets manipulate words for their quality of sound, e.g. rhythm, rhyme, assonance; for their connotations; and for multiple layers of meaning, e.g. through figurative language, ambiguity, etc.;<br>4. analyse how feelings, mood messages and attitudes are conveyed in poetry; and<br>5. demonstrate oral presentation skills through presentation of poems to the class. |
+##### Programme Outline <br>
+JMUN is a multidisciplinary activity where participants take the roles of delegates at the United Nations and engage in constructive discussions on current global issues (social, environmental, cultural, humanitarian, economic, political etc). Participants will be introduced to the working model of the United Nations and work collaboratively in teams to debate on global issues through multiple perspectives. The programme aims to enhance students’ critical thinking, debate, diplomacy, research, writing and oracy skills.
+
+#### **Aspiring Writers in English (AWE) (P4)**
+
+##### Objectives<br>
+This programme aims to teach students to: <br>* provide students the opportunity to write creatively outside of their usual composition format;<br>* nurture creative thinking when students are encouraged to exaggerate a particular incident to create a tall tale; <br>* develop critical thinking skills when students are asked to reflect on the contrast between life in the past and life today, and how it is likely to be in the future;<br>* encourage students to develop characters in stories by providing reasons for action and solving a problem;<br>* teach students to develop plots by describing actions and emotions of characters, using story elements. |
 | Programme Outline | Students will explore together the many possibilities for writing and responding to poems. They will be taught poetry vocabulary and skills for reading, appreciating and producing poetry. We will also examine the use of literary devices in poetry such as rhyme, repetition, assonance, etc. Various types of poems will be introduced. Some examples are haiku, diamonte, shape poems, etc. The aim is to get students playing with words and excited about poems. We recognise that the possibilities for connecting through language are endless!|
 
 | AWE (P5) |  | 
