@@ -3,10 +3,10 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-#### Mission
+#### **Mission**
 To equip our students with literacy skills that enable them to be linguistically competent and confident users of the English Language.
 
-#### Organisational Chart
+#### **Organisational Chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -112,11 +112,11 @@ To equip our students with literacy skills that enable them to be linguistically
 </tbody>
 </table>
 
-## Enrichment (for selected students)
+#### **Enrichment (for selected students)**
 
-#### **Junior Model United Nations (JUMUN) Programme (P5)**
+#### Junior Model United Nations (JUMUN) Programme (P5)
 
-##### Objectives<br>
+**Objectives**<br>
 The programme aims to: <br>
 * sensitise students to global issues (social, environmental, cultural, humanitarian, economic, political etc);<br>
 * instil empathy in our students as they view global issues through multiple perspectives (countries which they represent);<br>
@@ -124,12 +124,12 @@ The programme aims to: <br>
 * enhance students’ information search & research skills; and<br>
 * enhance students’ oracy and communication skills through debates of issues.
 
-##### Programme Outline <br>
+**Programme Outline** <br>
 JMUN is a multidisciplinary activity where participants take the roles of delegates at the United Nations and engage in constructive discussions on current global issues (social, environmental, cultural, humanitarian, economic, political etc). Participants will be introduced to the working model of the United Nations and work collaboratively in teams to debate on global issues through multiple perspectives. The programme aims to enhance students’ critical thinking, debate, diplomacy, research, writing and oracy skills.
 
 #### **Aspiring Writers in English (AWE) (P4)**
 
-##### Objectives<br>
+**Objectives**<br>
 This programme aims to teach students to: <br>
 * provide students the opportunity to write creatively outside of their usual composition format;<br>
 * nurture creative thinking when students are encouraged to exaggerate a particular incident to create a tall tale; <br>
@@ -137,8 +137,8 @@ This programme aims to teach students to: <br>
 * encourage students to develop characters in stories by providing reasons for action and solving a problem;<br>
 * teach students to develop plots by describing actions and emotions of characters, using story elements.
 
-##### Programme Outline 
-At Primary 4, students will learn to write tall tales which are exaggerated stories, using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded.  Students will learn to develop and describe characters in great detail. <br><br>
+**Programme Outline **
+<br>At Primary 4, students will learn to write tall tales which are exaggerated stories, using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded.  Students will learn to develop and describe characters in great detail. <br><br>
 The contrast between fact and fiction in tall tales is enhanced by giving the story a realistic framework and by a deadpan storytelling style.  Characters in tall tales were often created from a combination of historical fact and vivid imagination.  Over a period of time, as these stories were told around campfires and on steamboats, the true details of their lives were exaggerated and revised until they became folk heroes as well as historical figures. 
 
 #### **Aspiring Writers in English (AWE) (P5)**
