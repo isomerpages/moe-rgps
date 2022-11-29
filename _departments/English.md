@@ -169,7 +169,7 @@ This programme aims to:<br>
 ##### Programme Outline
 In the Debate Enrichment Programme, students will be exposed to the art of debating and be equipped with oral confidence skills when addressing an audience. During the training, students will learn strategies to overcome nervousness, correct speech, debate structure, points of information, voice projection, confident body language, fallacies of arguments, rebuttal skills and appropriate register.
 
-### Assessment 
+**### Assessment **
 
 Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
 In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school will not hold any mid-year examination for all levels. Students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
