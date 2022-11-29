@@ -159,7 +159,7 @@ Students will need to purchase the book ‘Where The Mountain Meets The Moon’ 
 
 #### **Debate (P5/P6)**
 
-**Objectives**
+**Objectives**<br>
 This programme aims to:<br>
 * introduce students to the structure and art of debating;<br>
 * train students with rebuttal skills using logic and deal with elements of debating;<br>
