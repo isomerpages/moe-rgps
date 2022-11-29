@@ -76,8 +76,6 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
 
 In addition to the MOE Art Syllabus, our students also enjoy the following art programmes:
 
-
-
 | Level | Special Art Programmes | 
 | -------- | -------- |
 |Primary 1-6|**Little Sketchers**<br>Students can showcase their talent/passion in drawing, doodling or sketching by participating in different level-based activities throughout the year.|
@@ -89,50 +87,8 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 
 | Level | Art Programmes | 
 | -------- | -------- |
-|Primary 1 - 2| **GREAT (Grooming Early Art Talents)**
-To further nurture young talents in art. Students are given the opportunities to work with varied mediums to discover their strengths and to acquire additional techniques and skills in working with them.|
-|
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Level</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Special Art Programmes</span></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 1 - 2</span></td>
-    <td class="tg-muqq">GREAT (Grooming Early Art Talents)<br>To further nurture young talents in art. Students are given the opportunities to work with varied mediums to discover their strengths and to acquire additional techniques and skills in working with them.</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 3 - 5</span></td>
-    <td class="tg-muqq">ACE (Art Curriculum Enrichment)<br>To further develop and expose our pupils to a variety of art activities and projects that will enhance their skills in areas like drawing and painting, graphic design, art discussion and ceramics</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-
-#### Art programme for leisure
-
-
-**Little Sketchers**<br>
-Students can showcase their talent/passion in drawing, doodling or sketching by participating in different level-based activities throughout the year.
-
-  
+|Primary 1 - 2| **GREAT (Grooming Early Art Talents)** <br>To further nurture young talents in art. Students are given the opportunities to work with varied mediums to discover their strengths and to acquire additional techniques and skills in working with them.|
+|Primary 3 - 5|**ACE (Art Curriculum Enrichment)** <br>To further develop and expose our pupils to a variety of art activities and projects that will enhance their skills in areas like drawing and painting, graphic design, art discussion and ceramics.|
 
 #### Special Music Programmes (within curriculum)
 
