@@ -92,30 +92,9 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 
 #### Special Music Programmes (within curriculum)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Level</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Special Music Programmes</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 4</span></td>
-    <td class="tg-muqq">Ukulele<br><br>Students learn the basics of strumming and the 4 basic chords to play a repertoire of songs. Each class then put up an item for the whole level</td>
-  </tr>
-</tbody>
-</table>
+| Level | Special Music Programmes | 
+| -------- | -------- |
+|Primary 4|**Ukulele**<br>Students learn the basics of strumming and the 4 basic chords to play a repertoire of songs. Each class then put up an item for the whole level|
 
 #### **Assessment Matters**
 
@@ -123,39 +102,11 @@ Assessment done at the end of every module. Each module typically lasts one term
 
 #### Events
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r129"><span style="color:#222;background-color:#F2F9FF">RGPS Got Talent</span></th>
-    <th class="tg-2w19">Any student or teacher who wishes to display their talents can submit their videos. Selected videos will be put up on SLS on a termly basis according to different levels. </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> Talentime</span></td>
-    <td class="tg-2w19">Annual competition whereby our best singers and dancers pit their talents against one another  </td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Lunchtime jamming concerts </span></td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Students have the option to sign up and come together after school to make music together and perform in the canteen during lunch once a month</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Biennial Arts Fest</span></td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">3-day arts-filled event whereby students learn more about various art forms and have the option to take part in parent-child bonding arts-related activities</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Biennial Fantasia</span></td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">A ticketed concert where all participating SYF performing arts groups and other performing arts CCAs come together to showcase their talents </span></td>
-  </tr>
-</tbody>
-</table>
+| Level | Events | 
+| -------- | -------- |
+|Primary 1 - 6|**RGPS Got Talent**<br>Watch out for our termly PG notifications on calls to submit a video of any talent you want to showcase|
+|Primary 3 - 6|**Talentime**<br>Our annual competition whereby our best singers and dancers pit their talents against one another|
+|Primary 1 - 6|**Lunchtime jamming concerts**<br>Students have the option to sign up and come together after school to make music together and perform in the canteen during lunch once a month|
+|Primary 1 - 6|**Biennial Arts Fest**<br>3-day arts-filled event whereby students learn more about various art forms and have the option to take part in parent-child bonding arts-related activities|
+|Primary 3 - 6|**Biennial Fantasia**<br>School concert where all participating SYF performing arts groups come together to showcase their talents|
+
