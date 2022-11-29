@@ -79,7 +79,7 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:25%">Level</th>
+<th style="width:20%">Level</th>
 <th>Special Art Programmes</th>
 </tr>
 </thead>
@@ -109,7 +109,7 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:25%">Level</th>
+<th style="width:20%">Level</th>
 <th>Art Programmes</th>
 </tr>
 </thead>
@@ -131,7 +131,7 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:25%">Level</th>
+<th style="width:20%">Level</th>
 <th>Special Music Programmes</th>
 </tr>
 </thead>
@@ -152,7 +152,7 @@ Assessment done at the end of every module. Each module typically lasts one term
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:25%">Level</th>
+<th style="width:20%">Level</th>
 <th>Events</th>
 </tr>
 </thead>
