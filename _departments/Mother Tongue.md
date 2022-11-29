@@ -3,10 +3,10 @@ title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
 ---
-# **Mission**
+#### **Mission**
 To develop our pupils to be proficient and pervasive users of the Language
 
-# Organisation Chart
+#### **Organisation Chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -160,34 +160,34 @@ To develop our pupils to be proficient and pervasive users of the Language
 </tbody>
 </table>
 
-# Programmes
+#### **Programmes**
 
-**MTL Reading Programme**
+#### MTL Reading Programme
 
 MTL department’s reading programme aims to raise the awareness and importance of reading MTL story books and to encourage active reading among our students. Students can look forward to a series of fun and interactive reading activities, both within and outside curriculum.
 
-**MTL Fortnight and Cultural Camp**
+#### MTL Fortnight and Cultural Camp
 
 The CL/ML/TL Fortnight programme aims to create an immersive environment for the learning of MTL. A wide range of activities related to CL/ML/TL language and culture are conducted.
 
 The Language and Cultural Camp provides an immersive environment for students to learn and use MTL in a more in-depth manner, and to appreciate their respective MTL cultures through hands-on tasks such as drama, performances and/or storytelling.
 
-**Cultural Performance Exposure Scheme (CPES)**
+#### Cultural Performance Exposure Scheme (CPES)
 
 The Cultural Performance Exposure Scheme (CPES) is a MOE  initiative that aims to engage students in Chinese dramas and Chinese-Language related performances by local and overseas arts groups. Students can look forward to curated Chinese-Language related performances.
 
-**Conversational Chinese and Malay (CCM) Programme**
+#### Conversational Chinese and Malay (CCM) Programme
 
 Conversational Chinese and Malay Programme aims to strengthen Singapore's multi-racial compact and to enable students to have some grounding of the language so that they could more easily pick up the language should they need it for economic or other reasons in adult life. 
 
-**CL Oracy Enrichment Programme_(selected students only_)**
+#### CL Oracy Enrichment Programme (Selected Students Only)
 
-The objectives of the programme are to:
+**The objectives of the programme are to:**
 
 a) develop creative thinkers: the students are taught how to be creative in their oral presentation.  
 b) nurture confident communicators: the students are equipped with skills and given opportunities to grow their confidence in their written and oral communication.   
 
-The programme will cover:
+**The programme will cover:**
 
 1.  ways to improve public speaking skills through activities such as recitation and storytelling
 2.  steps to craft a script for public speaking
@@ -195,9 +195,9 @@ The programme will cover:
 
 ![](/images/MT1.png)
 
-# Assessment
+#### **Assessment**
 
-Our beliefs are:
+**Our beliefs are:**
 
 *   Assessment must be aligned to the intended learning outcomes, content and pedagogy.
 *   Assessment facilitates meaningful learning, is learner-centric and has a formative effect on our students’ learning.
@@ -205,12 +205,12 @@ Our beliefs are:
 
 Assessment is an on-going and iterative process of monitoring one's learning. It provides students with feedback that not only demonstrates understanding, but also affords opportunities for reflection that improves the inquiry process.
 
-**P1 & P2** :
+#### P1 & P2
 
 *   Assessments are non-weighted.
 *   Teachers use a variety of checklists and mini performance tasks to monitor students’ progress and learning. Subject-specific Learning Outcomes (LOs) are used for the purpose of reporting students’ learning progress.
 
-**P3 & P6** :
+#### P3 & P6
 
 Bite-sized forms of weighted assessments are conducted in Term 1, Term 2 and Term 3. End-of-year examination is conducted in Term 4. The table below shows an overview.
 
