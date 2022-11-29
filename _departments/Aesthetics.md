@@ -76,8 +76,8 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
 
 In addition to the MOE Art Syllabus, our students also enjoy the following art programmes:
 
-| Level | Special Art Programmes | 
-| -------- | -------- |
+| Level      | Special Art Programmes  | 
+| --------  | --------                              |
 |Primary 1-6|**Little Sketchers**<br>Students can showcase their talent/passion in drawing, doodling or sketching by participating in different level-based activities throughout the year.|
 |Primary 3| **Claymation**  <br>Students learn how to use a storyboard and raw materials like plasticine to create scenes for a video. They also learn how to use ipad app – Stop motion to create frame-by-frame video and finally edit the video using Filmora |
 |Primary 4|**Museum Based Learning**<br>Students go on art trails to the National Gallery to learn more about our pioneer artists|
@@ -92,8 +92,8 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 
 #### Special Music Programmes (within curriculum)
 
-| Level | Special Music Programmes | 
-| -------- | -------- |
+| Level      | Special Music Programmes | 
+| -------- | --------                                  |
 |Primary 4|**Ukulele**<br>Students learn the basics of strumming and the 4 basic chords to play a repertoire of songs. Each class then put up an item for the whole level|
 
 #### **Assessment Matters**
@@ -102,8 +102,8 @@ Assessment done at the end of every module. Each module typically lasts one term
 
 #### Events
 
-| Level | Events | 
-| -------- | -------- |
+| Level       | Events   | 
+| --------   | -------- |
 |Primary 1 - 6|**RGPS Got Talent**<br>Watch out for our termly PG notifications on calls to submit a video of any talent you want to showcase|
 |Primary 3 - 6|**Talentime**<br>Our annual competition whereby our best singers and dancers pit their talents against one another|
 |Primary 1 - 6|**Lunchtime jamming concerts**<br>Students have the option to sign up and come together after school to make music together and perform in the canteen during lunch once a month|
