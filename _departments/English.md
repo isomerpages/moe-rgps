@@ -130,8 +130,16 @@ JMUN is a multidisciplinary activity where participants take the roles of delega
 #### **Aspiring Writers in English (AWE) (P4)**
 
 ##### Objectives<br>
-This programme aims to teach students to: <br>* provide students the opportunity to write creatively outside of their usual composition format;<br>* nurture creative thinking when students are encouraged to exaggerate a particular incident to create a tall tale; <br>* develop critical thinking skills when students are asked to reflect on the contrast between life in the past and life today, and how it is likely to be in the future;<br>* encourage students to develop characters in stories by providing reasons for action and solving a problem;<br>* teach students to develop plots by describing actions and emotions of characters, using story elements. |
-| Programme Outline | Students will explore together the many possibilities for writing and responding to poems. They will be taught poetry vocabulary and skills for reading, appreciating and producing poetry. We will also examine the use of literary devices in poetry such as rhyme, repetition, assonance, etc. Various types of poems will be introduced. Some examples are haiku, diamonte, shape poems, etc. The aim is to get students playing with words and excited about poems. We recognise that the possibilities for connecting through language are endless!|
+This programme aims to teach students to: <br>
+* provide students the opportunity to write creatively outside of their usual composition format;<br>
+* nurture creative thinking when students are encouraged to exaggerate a particular incident to create a tall tale; <br>
+* develop critical thinking skills when students are asked to reflect on the contrast between life in the past and life today, and how it is likely to be in the future;<br>
+* encourage students to develop characters in stories by providing reasons for action and solving a problem;<br>
+* teach students to develop plots by describing actions and emotions of characters, using story elements.
+
+##### Programme Outline 
+At Primary 4, students will learn to write tall tales which are exaggerated stories, using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded.  Students will learn to develop and describe characters in great detail. <br><br>
+The contrast between fact and fiction in tall tales is enhanced by giving the story a realistic framework and by a deadpan storytelling style.  Characters in tall tales were often created from a combination of historical fact and vivid imagination.  Over a period of time, as these stories were told around campfires and on steamboats, the true details of their lives were exaggerated and revised until they became folk heroes as well as historical figures. 
 
 | AWE (P5) |  | 
 | -------- | -------- |
