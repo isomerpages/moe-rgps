@@ -141,10 +141,21 @@ This programme aims to teach students to: <br>
 At Primary 4, students will learn to write tall tales which are exaggerated stories, using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded.  Students will learn to develop and describe characters in great detail. <br><br>
 The contrast between fact and fiction in tall tales is enhanced by giving the story a realistic framework and by a deadpan storytelling style.  Characters in tall tales were often created from a combination of historical fact and vivid imagination.  Over a period of time, as these stories were told around campfires and on steamboats, the true details of their lives were exaggerated and revised until they became folk heroes as well as historical figures. 
 
-| AWE (P5) |  | 
-| -------- | -------- |
-| Objectives | This programme aims to teach students to:<br>1. write creatively outside of the usual composition format;<br>2. develop a character in a story by providing reasons for action and solving a problem;<br>3. develop a plot by describing actions and emotions of characters and using story elements of dialogue, how a character feels, descriptive details; and<br>4. build on a story idea by extending or changing the storyline. |
-| Programme Outline | At Primary 5, we will be working with students to write a tall tale which is an exaggerated story. The contrast between fact and fiction in tall tales is enhanced by giving the story a realistic framework and by a deadpan storytelling style. Characters in tall tales were often born from a combination of historical fact and vivid imagination. Pupils will learn how to write in this style of storytelling and in so doing develop their vocabulary and ability to develop a character that is over-the-top and larger than life.<br><br>In this programme, selected P5 students will learn to write a tall tale using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded. Students will learn to develop characters and describe characters in great detail. Learning how to write a tall tale is useful for nurturing creative thinking where students are encouraged to exaggerate a particular incident to create a tall tale. Critical thinking is also nurtured when students are asked to reflect on the contrast between life in the past and life today, and how it is likely to be in the future.|
+#### **Aspiring Writers in English (AWE) (P5)**
+
+##### Objectives<br>
+This programme aims to:<br>
+* provide students the opportunity to write creatively outside of the usual composition format;<br>
+* develop students’ confidence in characterisation by providing reasons for actions and solving problems;<br>
+* develop students’ personal responses to stories, characters and ideas within the book;<br>
+* develop students’ empathy for differing viewpoints so that they are able to take on a person’s viewpoint and understand his/her feelings and motivations;<br>
+* allow students to make connections and relate what they have read from the book to their own experiences and the issues in the real world.
+
+##### Programme Outline 
+At Primary 5, the AWE programme engages students in writing creative narratives through reading circles. Reading circles allows the students to have a community of inquiry where they can ask questions, give their viewpoints and benefit from listening to the opinions of others. It moves them beyond the initial impressions through the use of activities, discussions, and tasks to gain a deeper understanding of the concepts in the book. Plots and characters in narratives are often born from a combination of personal experiences, known facts and vivid imagination.  Students will learn how to write creatively using various writing techniques. The transfer of these techniques to their writing will help them to develop narratives that interest readers. Critical thinking is also nurtured when students are asked to summarise, evaluate and reflect on the contrast between texts, between self and text and between fiction and reality. 
+<br><br>
+Students will need to purchase the book ‘Where The Mountain Meets The Moon’ by Grace Lin on their own. They will learn to explore the elements in the text by examining the plot, themes and character development. This will help them to develop a greater awareness and sensitivity to the context and the writer’s craft.
+
 
 | Debate<br>(P5/P6) |  | 
 | -------- | -------- |
