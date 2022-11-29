@@ -76,19 +76,55 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
 
 In addition to the MOE Art Syllabus, our students also enjoy the following art programmes:
 
-| Level      | Special Art Programmes  | 
-| --------  | --------                              |
-|Primary 1-6|**Little Sketchers**<br>Students can showcase their talent/passion in drawing, doodling or sketching by participating in different level-based activities throughout the year.|
-|Primary 3| **Claymation**  <br>Students learn how to use a storyboard and raw materials like plasticine to create scenes for a video. They also learn how to use ipad app – Stop motion to create frame-by-frame video and finally edit the video using Filmora |
-|Primary 4|**Museum Based Learning**<br>Students go on art trails to the National Gallery to learn more about our pioneer artists|
-|Primary 4 - 6|**Ceramics**<br>Students learn the basics of pottery which include joining, pinching and coiling techniques. Final product will be glazed as well.|
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:25%">Level</th>
+<th>Special Art Programmes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary 1-6</td>
+<td><strong>Little Sketchers</strong><br>Students can showcase their talent/passion in drawing, doodling or sketching by participating in different level-based activities throughout the year.</td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td><strong>Claymation</strong>  <br>Students learn how to use a storyboard and raw materials like plasticine to create scenes for a video. They also learn how to use ipad app – Stop motion to create frame-by-frame video and finally edit the video using Filmora</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td><strong>Museum Based Learning</strong><br>Students go on art trails to the National Gallery to learn more about our pioneer artists</td>
+</tr>
+<tr>
+<td>Primary 4 - 6</td>
+<td><strong>Ceramics</strong><br>Students learn the basics of pottery which include joining, pinching and coiling techniques. Final product will be glazed as well.</td>
+</tr>
+</tbody>
+</table>
+
 
 #### Art Programmes (for selected students)
 
-| Level      | Art Programmes | 
-| --------  | --------               |
-|Primary 1 - 2| **GREAT (Grooming Early Art Talents)** <br>To further nurture young talents in art. Students are given the opportunities to work with varied mediums to discover their strengths and to acquire additional techniques and skills in working with them.|
-|Primary 3 - 5|**ACE (Art Curriculum Enrichment)** <br>To further develop and expose our pupils to a variety of art activities and projects that will enhance their skills in areas like drawing and painting, graphic design, art discussion and ceramics.|
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:25%">Level</th>
+<th>Art Programmes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary 1 - 2</td>
+<td><strong>GREAT (Grooming Early Art Talents)</strong> <br>To further nurture young talents in art. Students are given the opportunities to work with varied mediums to discover their strengths and to acquire additional techniques and skills in working with them.</td>
+</tr>
+<tr>
+<td>Primary 3 - 5</td>
+<td><strong>ACE (Art Curriculum Enrichment)</strong> <br>To further develop and expose our pupils to a variety of art activities and projects that will enhance their skills in areas like drawing and painting, graphic design, art discussion and ceramics.</td>
+</tr>
+</tbody>
+</table>
+
 
 #### Special Music Programmes (within curriculum)
 
