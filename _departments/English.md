@@ -87,15 +87,7 @@ To equip our students with literacy skills that enable them to be linguistically
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Serene Leong</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Lim See Peng</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mrs Catherine Chen</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
@@ -107,19 +99,7 @@ To equip our students with literacy skills that enable them to be linguistically
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Cheng Hui Qi Sarah</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Carolina Tan Siew Yin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mr Vincent Chia Chee Sheong</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Vivian Sim</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
