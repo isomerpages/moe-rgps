@@ -85,8 +85,8 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 
 #### Art Programmes (for selected students)
 
-| Level | Art Programmes | 
-| -------- | -------- |
+| Level      | Art Programmes | 
+| --------  | --------               |
 |Primary 1 - 2| **GREAT (Grooming Early Art Talents)** <br>To further nurture young talents in art. Students are given the opportunities to work with varied mediums to discover their strengths and to acquire additional techniques and skills in working with them.|
 |Primary 3 - 5|**ACE (Art Curriculum Enrichment)** <br>To further develop and expose our pupils to a variety of art activities and projects that will enhance their skills in areas like drawing and painting, graphic design, art discussion and ceramics.|
 
@@ -109,4 +109,3 @@ Assessment done at the end of every module. Each module typically lasts one term
 |Primary 1 - 6|**Lunchtime jamming concerts**<br>Students have the option to sign up and come together after school to make music together and perform in the canteen during lunch once a month|
 |Primary 1 - 6|**Biennial Arts Fest**<br>3-day arts-filled event whereby students learn more about various art forms and have the option to take part in parent-child bonding arts-related activities|
 |Primary 3 - 6|**Biennial Fantasia**<br>School concert where all participating SYF performing arts groups come together to showcase their talents|
-
