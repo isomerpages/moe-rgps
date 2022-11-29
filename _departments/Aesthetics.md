@@ -34,6 +34,10 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
     <td class="tg-dgl5">Senior Teacher (Music) </td>
     <td class="tg-ktyi">Mdm Amy Kwek Gek Li (Mrs Ng)</td>
   </tr>
+	<tr>
+    <td class="tg-dgl5">Senior Teacher (Art) </td>
+    <td class="tg-ktyi">Mdm Haryana Bte Md Dom</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Teacher</td>
     <td class="tg-ktyi">Mdm Angelin Yeo (Mrs Chee)</td>
