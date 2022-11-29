@@ -137,13 +137,14 @@ This programme aims to teach students to: <br>
 * encourage students to develop characters in stories by providing reasons for action and solving a problem;<br>
 * teach students to develop plots by describing actions and emotions of characters, using story elements.
 
-**Programme Outline **
-<br>At Primary 4, students will learn to write tall tales which are exaggerated stories, using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded.  Students will learn to develop and describe characters in great detail. <br><br>
+**Programme Outline **<br>
+
+At Primary 4, students will learn to write tall tales which are exaggerated stories, using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded.  Students will learn to develop and describe characters in great detail. <br><br>
 The contrast between fact and fiction in tall tales is enhanced by giving the story a realistic framework and by a deadpan storytelling style.  Characters in tall tales were often created from a combination of historical fact and vivid imagination.  Over a period of time, as these stories were told around campfires and on steamboats, the true details of their lives were exaggerated and revised until they became folk heroes as well as historical figures. 
 
 #### **Aspiring Writers in English (AWE) (P5)**
 
-##### Objectives<br>
+**Objectives**<br>
 This programme aims to:<br>
 * provide students the opportunity to write creatively outside of the usual composition format;<br>
 * develop students’ confidence in characterisation by providing reasons for actions and solving problems;<br>
@@ -151,7 +152,8 @@ This programme aims to:<br>
 * develop students’ empathy for differing viewpoints so that they are able to take on a person’s viewpoint and understand his/her feelings and motivations;<br>
 * allow students to make connections and relate what they have read from the book to their own experiences and the issues in the real world.
 
-##### Programme Outline 
+**Programme Outline **<br>
+
 At Primary 5, the AWE programme engages students in writing creative narratives through reading circles. Reading circles allows the students to have a community of inquiry where they can ask questions, give their viewpoints and benefit from listening to the opinions of others. It moves them beyond the initial impressions through the use of activities, discussions, and tasks to gain a deeper understanding of the concepts in the book. Plots and characters in narratives are often born from a combination of personal experiences, known facts and vivid imagination.  Students will learn how to write creatively using various writing techniques. The transfer of these techniques to their writing will help them to develop narratives that interest readers. Critical thinking is also nurtured when students are asked to summarise, evaluate and reflect on the contrast between texts, between self and text and between fiction and reality. 
 <br><br>
 Students will need to purchase the book ‘Where The Mountain Meets The Moon’ by Grace Lin on their own. They will learn to explore the elements in the text by examining the plot, themes and character development. This will help them to develop a greater awareness and sensitivity to the context and the writer’s craft.
@@ -159,14 +161,14 @@ Students will need to purchase the book ‘Where The Mountain Meets The Moon’ 
 
 #### **Debate (P5/P6)**
 
-##### Objectives
+**Objectives**
 This programme aims to:<br>
 * introduce students to the structure and art of debating;<br>
 * train students with rebuttal skills using logic and deal with elements of debating;<br>
 * guide students prepare materials for debate competition; and<br>
 * teach students to comprehend the meaningful values of working together and derive positive learning experience from participating in debates. 
 
-##### Programme Outline
+**Programme Outline**
 In the Debate Enrichment Programme, students will be exposed to the art of debating and be equipped with oral confidence skills when addressing an audience. During the training, students will learn strategies to overcome nervousness, correct speech, debate structure, points of information, voice projection, confident body language, fallacies of arguments, rebuttal skills and appropriate register.
 
 
@@ -218,8 +220,7 @@ Bite-sized forms of weighted assessments will be conducted in different terms. T
 | Primary 5 | No MYE | * Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
 | Primary 6 | No MYE |* Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
 
-# Social Studies
-
+#### **Social Studies**
 
 |Level | Syllabus |
 | ----------- | ---------- |
