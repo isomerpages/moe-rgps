@@ -1,13 +1,13 @@
 ---
 title: Science
-permalink: /departments/science
+permalink: /departments/science/
 description: ""
 ---
-# **Mission**
-
+#### **Mission**
 
 To equip the pupils with an inquiring mind, science process skills and knowledge to face the challenges of the future.
 
+#### **Organisation Chart**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -84,11 +84,10 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
 </tbody>
 </table>
 
-# Programmes
+#### **Programmes**
 
-#### **Science Department**
+#### Science Department
 
-  
 To develop lifelong learners with inquiring minds and spirit of inquiry through acquisition of scientific knowledge, conceptual understanding and inquiry skills, to help them explore and understand their natural and physical world, solve problems and make informed decisions in scientific and other real-life contexts.
 
 <style type="text/css">
@@ -169,7 +168,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
 </tbody>
 </table>
 
-### **Enrichment Programmes (for selected students)**
+#### **Enrichment Programmes (for selected students)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
