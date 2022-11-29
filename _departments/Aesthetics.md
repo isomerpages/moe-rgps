@@ -87,6 +87,12 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 
 #### Art Programmes (for selected students)
 
+| Level | Art Programmes | 
+| -------- | -------- |
+|Primary 1 - 2| **GREAT (Grooming Early Art Talents)**
+To further nurture young talents in art. Students are given the opportunities to work with varied mediums to discover their strengths and to acquire additional techniques and skills in working with them.|
+|
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
