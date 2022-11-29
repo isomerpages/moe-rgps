@@ -92,20 +92,54 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 
 #### Special Music Programmes (within curriculum)
 
-| Level      | Special Music Programmes | 
-| -------- | --------                                  |
-|Primary 4|**Ukulele**<br>Students learn the basics of strumming and the 4 basic chords to play a repertoire of songs. Each class then put up an item for the whole level|
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:25%">Level</th>
+<th>Special Music Programmes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary 4</td>
+<td><strong>Ukulele</strong><br>Students learn the basics of strumming and the 4 basic chords to play a repertoire of songs. Each class then put up an item for the whole level</td>
+</tr>
+</tbody>
+</table>
+
 
 #### **Assessment Matters**
 
 Assessment done at the end of every module. Each module typically lasts one term.
 
 #### Events
-
-| Level       | Events   | 
-| --------   | -------- |
-|Primary 1 - 6|**RGPS Got Talent**<br>Watch out for our termly PG notifications on calls to submit a video of any talent you want to showcase|
-|Primary 3 - 6|**Talentime**<br>Our annual competition whereby our best singers and dancers pit their talents against one another|
-|Primary 1 - 6|**Lunchtime jamming concerts**<br>Students have the option to sign up and come together after school to make music together and perform in the canteen during lunch once a month|
-|Primary 1 - 6|**Biennial Arts Fest**<br>3-day arts-filled event whereby students learn more about various art forms and have the option to take part in parent-child bonding arts-related activities|
-|Primary 3 - 6|**Biennial Fantasia**<br>School concert where all participating SYF performing arts groups come together to showcase their talents|
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:25%">Level</th>
+<th>Events</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary 1 - 6</td>
+<td><strong>RGPS Got Talent</strong><br>Watch out for our termly PG notifications on calls to submit a video of any talent you want to showcase</td>
+</tr>
+<tr>
+<td>Primary 3 - 6</td>
+<td><strong>Talentime</strong><br>Our annual competition whereby our best singers and dancers pit their talents against one another</td>
+</tr>
+<tr>
+<td>Primary 1 - 6</td>
+<td><strong>Lunchtime jamming concerts</strong><br>Students have the option to sign up and come together after school to make music together and perform in the canteen during lunch once a month</td>
+</tr>
+<tr>
+<td>Primary 1 - 6</td>
+<td><strong>Biennial Arts Fest</strong><br>3-day arts-filled event whereby students learn more about various art forms and have the option to take part in parent-child bonding arts-related activities</td>
+</tr>
+<tr>
+<td>Primary 3 - 6</td>
+<td><strong>Biennial Fantasia</strong><br>School concert where all participating SYF performing arts groups come together to showcase their talents</td>
+</tr>
+</tbody>
+</table>
