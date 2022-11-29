@@ -35,15 +35,20 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
     <td class="tg-ktyi">Mdm Amy Kwek Gek Li (Mrs Ng)</td>
   </tr>
 	<tr>
-    <td class="tg-dgl5">Senior Teacher (Art) </td>
-    <td class="tg-ktyi">Mdm Haryana Bte Md Dom</td>
-  </tr>
-  <tr>
     <td class="tg-dgl5">Teacher</td>
     <td class="tg-ktyi">Mdm Angelin Yeo (Mrs Chee)</td>
   </tr>
-  <tr>
+	 <tr>
     <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Ng Beiyu</td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Senior Teacher (Art) </td>
+    <td class="tg-ktyi">Mdm Haryana Bte Md Dom</td>
+  </tr>
+  
+  <tr>
+    <td class="tg-dgl5">Teacher</td>
     <td class="tg-ktyi">Mdm Cassandra Quek Sock Cheng</td>
   </tr>
   <tr>
@@ -60,10 +65,6 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Ng Beiyu</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Ho Soo Peng</td>
   </tr>
 </tbody>
@@ -74,6 +75,14 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
 #### Special Art Programmes (within curriculum)
 
 In addition to the MOE Art Syllabus, our students also enjoy the following art programmes:
+
+
+
+| Level | Special Art Programmes | 
+| -------- | -------- | 
+| Primary 3   | **Claymation**  <br>Students learn how to use a storyboard and raw materials like plasticine to create scenes for a video. They also learn how to use ipad app – Stop motion to create frame-by-frame video and finally edit the video using Filmora) | 
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
