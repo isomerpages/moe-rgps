@@ -191,10 +191,10 @@ Teachers will assess students using different modes of assessment both formally 
 * visual/multi-media productions, audio recordings which record students’ achievements.
 
 
-### P1 – P2 <br>
+#### P1 – P2 <br>
 There are **no weighted assessments, mid-year examination and end-of-year examination** for the students in the year.
 
-### P3 – P6<br>
+#### P3 – P6<br>
 **P3 & 5 Weighted Assessment**<br>
 In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school will not hold any mid-year examination for **all levels**. Students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
 
