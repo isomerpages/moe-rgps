@@ -79,8 +79,11 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 
 
 | Level | Special Art Programmes | 
-| -------- | -------- | 
-| Primary 3   | **Claymation**  <br>Students learn how to use a storyboard and raw materials like plasticine to create scenes for a video. They also learn how to use ipad app – Stop motion to create frame-by-frame video and finally edit the video using Filmora) | 
+| -------- | -------- |
+|Primary 1-6|**Little Sketchers**<br>Students can showcase their talent/passion in drawing, doodling or sketching by participating in different level-based activities throughout the year.|
+|Primary 3| **Claymation**  <br>Students learn how to use a storyboard and raw materials like plasticine to create scenes for a video. They also learn how to use ipad app – Stop motion to create frame-by-frame video and finally edit the video using Filmora |
+|Primary 4|**Museum Based Learning**<br>Students go on art trails to the National Gallery to learn more about our pioneer artists|
+|Primary 4 - 6|**Ceramics**<br>Students learn the basics of pottery which include joining, pinching and coiling techniques. Final product will be glazed as well.|
 
 
 
