@@ -3,10 +3,11 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
-# Mission 
+#### **Mission**
+
 To nurture creativity and inculcate a lifelong appreciation and participation in Visual and Performing Arts (VPA)
 
-# Organisation Chart
+#### **Organisation Chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,11 +65,9 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
 </tbody>
 </table>
 
-# Programmes
+#### **Programmes**
 
 #### Special Art Programmes (within curriculum)
-
-  
 
 In addition to the MOE Art Syllabus, our students also enjoy the following art programmes:
 
@@ -110,7 +109,7 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 </tbody>
 </table>
 
-### Art Programmes (for selected students)
+#### Art Programmes (for selected students)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -145,15 +144,15 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 </tbody>
 </table>
 
-### Art programme for leisure
+#### Art programme for leisure
 
 
-**Little Sketchers**  <br>
+**Little Sketchers**<br>
 Students can showcase their talent/passion in drawing, doodling or sketching by participating in different level-based activities throughout the year.
 
   
 
-### Special Music Programmes (within curriculum)
+#### Special Music Programmes (within curriculum)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -180,11 +179,11 @@ Students can showcase their talent/passion in drawing, doodling or sketching by 
 </tbody>
 </table>
 
-# Assessment Matters
+#### **Assessment Matters**
 
 Assessment done at the end of every module. Each module typically lasts one term.
 
-### Events
+#### Events
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
