@@ -232,9 +232,9 @@ The programmes provide students with enriching experiences in the areas of natur
 
 #### **GEP Enriched Subjects**
   
-##### **English Language**
+#### English Language
 
-#### 1. The Approach
+##### **1. The Approach**
 The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
   
 a) Concept units <br>
@@ -244,10 +244,10 @@ d) Reading and Writing <br>
 e) Oral Communication <br>
 f) Poetry Appreciation
 
-#### 2. Daily Work
+##### **2. Daily Work**
 Materials and worksheets are designed to match students' abilities and interests as well as to encourage critical and creative thinking. Students are encouraged to participate actively in class discussions and activities as well as to work consistently through the course of the programme.
 
-#### 3. Assessment
+##### **3. Assessment**
 **Weighted Assessments**
 *   No more than 1 weighted assessment per subject per school term, on top of any mid-year or year-end exam
 *   May be conducted over a period in the term
@@ -258,7 +258,7 @@ Materials and worksheets are designed to match students' abilities and interests
 
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-#### 4. Extensive Reading Programme (ERP)
+##### **4. Extensive Reading Programme (ERP)**
 Books offer students ideas and possibilities to ignite their imagination and a chance to escape into a different world and enter the lives of people different from them. The ERP seeks to expose students to a variety of fiction, biographies and autobiographies to complement class work. A reading list will be provided and pupils complete an ERP assignment each to develop their confidence in responding to books.  
   
 **In P4**, the list includes the genre of animal fantasy that shares elements of make-believe that are essential to fairy tales. Many of the books also feature characters who embark on experiences that help them to discover who they are and how they relate to others in coming-of-age tales similar to the P4 literature text, A Single Shard.  
@@ -267,12 +267,12 @@ Books offer students ideas and possibilities to ignite their imagination and a c
   
 **In P6**, the list consists of titles based on actual historical events around the world. Students will learn about the characters, their responses and choices in the context of their times, how they are shaped by their societies as well as how they make an impact on others.  
   
-#### 5. Files 
+##### ** 5. Files **
 Pupils will learn to systematically categorise and file their worksheets and notes. These files and notes will be checked periodically.
 
-##### **Mathematics**
+#### Mathematics
 
-#### 1. Approach
+##### **1. Approach**
 The enriched Math curriculum is differentiated in terms of: 
 *   Level of complexity and connectivity
 *   Depth of concepts
@@ -283,22 +283,22 @@ Students are encouraged to communicate in mathematical language and appreciate t
 
 Students are taught skills and heuristics to promote mathematical thinking and to help them in mathematical investigations.  There will be more complex and challenging mathematical problems that will require more time and persistence. They are expected to engage actively in sharing their mathematical ideas, asking questions and offering solutions.
 
-#### 2. Work / Files
+##### **2. Work / Files**
 Work is done on worksheets and they consist of various heuristic approaches to mastering concepts. Files are checked regularly.
 
-#### 3. Out-of-class activities
+##### **3. Out-of-class activities**
 Out-of-class activities are conducted so as to reinforce the application of mathematical concepts in real-life situations (eg. a supermarket trip for the topic of decimals, a survey on traffic statistics for the topic of graphical representations etc)  
   
 GEP students with strong aptitude in Mathematics will be invited to join classes like Advanced Mathematics Enrichment Class (AMEC). AMEC aims to impart process and visual thinking skills that are required to solve Math Olympiad-like problems to the participants.
 
 The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for selected Primary 4 and 5 students identified based on their performance in the PM2 selection test.  PM2 aims to challenge students who are talented in Mathematics beyond the Primary Mathematics curriculum.  Participants will be exposed to advanced Mathematical concepts.
   
-#### 4. Assessment
+##### **4. Assessment**
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-##### **Science**
+#### Science
 
-#### 1. Approach
+##### **1. Approach**
 The Science curriculum is mainly enriched in the process dimension: 
 *   **P4** – inquiry activity  
 *   **P5** – inductive thinking and reference to concept  
@@ -306,28 +306,28 @@ The Science curriculum is mainly enriched in the process dimension: 
     
 A variety of teaching strategies is adopted in science instruction. To encourage students to discover things for themselves, a hands-on and activity-based approach is often used. Experiments are conducted to enable students to practise observational and inferential skill and to be familiar with the use of scientific methods in solving problems. Opportunities for students to apply their critical thinking skills and to express their creativity are provided.
 
-#### 2. Materials
+##### **2. Materials**
 Worksheets and activities are specially designed for students. Worksheets and reading materials given to the pupils are to be filed. Parents can help by ensuring that pupils do their filing and complete their corrections.
 
-#### 3. Worksheets / Assessment
+##### **3. Worksheets / Assessment**
 Pupils are assessed through written tests and examinations. An additional practical test is given to pupils at P4 and P5 to assess their acquisition of the practical skills in Science.  
   
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-#### 4. Field Trips
+##### **4. Field Trips**
 Field trips are conducted about twice a year. These trips expose students to different learning environments and allow them to acquire first-hand information.
 
-##### **Social Studies**
+#### Social Studies
 
-"Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  
-Social Studies draws its content primarily from the Social Sciences \[History Geography, basic Economics and Sociology\]. The syllabus covers these aspects with regard to Singapore and our Southeast Asian neighbours.  
-  
+"Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  <br>
+Social Studies draws its content primarily from the Social Sciences [History Geography, basic Economics and Sociology]. The syllabus covers these aspects with regard to Singapore and our Southeast Asian neighbours.  
+  <br>
 Social Studies is non-examinable. However, it is an enriched subject and based on the mainstream syllabus but appropriately differentiated for gifted and high-ability learners. For example, in P6, students will learn about Southeast Asia and ASEAN, allowing them to find out more about the region we live in.
 
-#### 1. Materials/Syllabus
+##### **1. Materials/Syllabus**
 The basic syllabus of the mainstream is enriched with materials from various sources. The resource materials, notes and worksheets provided will be sufficient to meet the needs of students.
 
-#### 2. The Approach
+##### **2. The Approach**
 Pupils will be exposed to concepts such as Causes and Consequences, and Change and Continuity. They will also appreciate the importance of Diversity and Interdependence.  
   
 Pupils will also have opportunities to develop critical thinking and exercise creativity. They will learn to make inferences, compare and contrast evidence, and develop well-reasoned explanations.  
@@ -346,13 +346,13 @@ Learning activities emphasise four basic categories:
 *   *Social participation*
 	*   to mould students into citizens who are civic-conscious and able to contribute to society
 
-#### 3. Field Trips 
+##### **3. Field Trips**
 Field trips are of immense educational value to Social Studies as they provide students with first-hand experiences on what they have heard, read and learnt.
 
-#### 4. Files
+##### **4. Files**
 Worksheets and resource materials given by the teacher as well as collected by students are kept in files that will be checked periodically.
 
-#### 5. Assessment
+##### **5. Assessment**
 There will be graded tasks as well as quizzes, spread throughout the year to find out how well students have acquired the knowledge and skills and to identify learning gaps.  
   
 Graded tasks allow students to demonstrate their understanding in a variety of ways, carried out individually, in pairs or groups. Examples of graded tasks include map-work, creative assignments and skits.
