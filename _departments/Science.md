@@ -181,7 +181,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:25%">Programmes</th>
+<th style="width:20%">Programmes</th>
 <th>Programme Aims</th>
 </tr>
 </thead>
