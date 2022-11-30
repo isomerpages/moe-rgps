@@ -112,14 +112,17 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:30%">Programme</th>
+<th style="width:25%">Programme</th>
 <th>This programme aims to:</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Funthematics</strong> <br>(Primary 3)</td>
-<td>Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.<br>Equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. <br>Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.</td>
+<td>
+* Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.<br>
+* Equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. <br>
+* Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.</td>
 </tr>
 <tr>
 <td><strong>Math E2K</strong> <br>(Primary 4 – Primary 5)</td>
