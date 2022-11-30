@@ -120,16 +120,16 @@ The aim of GEP is to develop intellectual rigour, humane values and creativity i
 </tbody>
 </table>
 
-### **The GEP Enrichment Model**
+#### **The GEP Enrichment Model**
 
 The Gifted Education Programme (GEP) curriculum is designed to meet the needs of intellectually gifted students through an enriched curriculum. The GEP curriculum focuses on enrichment and not acceleration.
 
 The enriched curriculum is built on the regular curriculum and differentiated in these 4 areas:
 
-#### 1. Content enrichment
+##### **1. Content enrichment**
 <ul><li>Extends beyond the basic syllabus in depth and breadth</li><li>Covers more advanced topics where appropriate</li><li>Makes interdisciplinary connections</li><li>Encourages the investigation of real-life problems</li><li>Promotes the examination of affective issues in the various subject areas</li></ul>
 	
-#### 2. Process enrichment
+##### **2. Process enrichment**
 <ul><li>Develops higher level thinking skills</li>  
 <li>Provides opportunities for discovery and experiential learning</li>  
 <li>Provides for open-ended problem solving</li>  
@@ -137,15 +137,15 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 <li>Uses varied teaching strategies to cater to different learning styles</li>  
 <li>Provides for small group activities</li></ul>
 
-#### 3. Product enrichment
+##### **3. Product enrichment**
 <ul><li>Encourages other forms of products beyond traditional assignments</li><li>Provides for creative expression</li><li>Reflects real-world variety</li><li>Promotes authentic learning</li></ul>
 
-####  4. Learning environment
+#####  **4. Learning environment**
 <ul><li>Provides a stimulating, supportive and learner-centred environment</li><li>Supports risk-taking</li><li>Provides out-of-school learning experiences, for example, math trails and visits to parks and museums</li><li>Provides out-of-school extensions, for example, mentorship attachments in collaboration with tertiary institutions</li></ul>
 
 #### **Distinctive Gifted Education Programmes at RGPS**
 
-#### 1. Individualised Study Options (ISO)
+##### **1. Individualised Study Options (ISO)**
 ISO refers to the wide range of project work options available to GEP students. Each ISO emphasises a slightly different set of skills, ranging from research, information technology, inventive thinking to problem-solving skills.  
   
 Students will be taught core research skills during the Inquiry Skills lessons in Primary 4 to prepare them for the various ISOs in Primary 5. These skills include:
@@ -156,7 +156,7 @@ Students will be taught core research skills during the Inquiry Skills lessons i
 *   Data analysis
 *   Presentation of findings
 
-In Primary 5, students will choose from a range of project options including:
+**In Primary 5**, students will choose from a range of project options including:
 
 *   Individualised Research Study (IRS)
 *   Innovation Programme (IvP)
@@ -177,7 +177,7 @@ IvP exposes students to critical thinking, ideas generation, development of prot
 **c) Future Problem Solving Programme (FPSP)**<br>
 FPSP exposes students to critical and creative thinking skills, problem-solving strategies, team work and leadership skills. It encourages students to develop a vision for the future. They conduct research on a series of global topics and learn a six-step creative problem-solving process, culminating in an Action Plan presentation.  
   
-#### 2. Values-In-Action (VIA) Programme
+##### **2. Values-In-Action (VIA) Programme**
 Our 3-year VIA Programme covers the building of content knowledge, developing affective depth and contributing to society and personal growth.
 
 <table style="width:100%">
@@ -213,7 +213,7 @@ Our 3-year VIA Programme covers the building of content knowledge, developing af
 
 ![](/images/GEP1.png)
 
-#### 3. Computing Enrichment Programme (CEP)
+##### **3. Computing Enrichment Programme (CEP)**
 To equip our students with the competencies to navigate and thrive in an increasing complex, digital world, CEP aims to nurture students to use technology in safe, responsible and ethical ways. CEP is compulsory for all P4 and P5 students. These are the modules covered:  
   
 * **Module 1:** Introduction to Foundations of Coding
@@ -225,14 +225,14 @@ To equip our students with the competencies to navigate and thrive in an increas
 * **Module 7:** Introduction to Artificial Intelligence
 * **Module 8:** Online Safety and Cybersecurity
 
-#### 4. Pupil Development Programme
+##### **4. Pupil Development Programme**
 The programmes provide students with enriching experiences in the areas of nature, music and art appreciation and the opportunities to learn about teamwork, more about themselves and others through engaging activities beyond the classroom.
 
 ![](/images/GEP2.png)
 
 #### **GEP Enriched Subjects**
   
-#### English Language
+## English Language
 
 ##### **1. The Approach**
 The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
@@ -270,7 +270,7 @@ Books offer students ideas and possibilities to ignite their imagination and a c
 ##### ** 5. Files **
 Pupils will learn to systematically categorise and file their worksheets and notes. These files and notes will be checked periodically.
 
-#### Mathematics
+## Mathematics
 
 ##### **1. Approach**
 The enriched Math curriculum is differentiated in terms of: 
@@ -296,7 +296,7 @@ The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for 
 ##### **4. Assessment**
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-#### Science
+## Science
 
 ##### **1. Approach**
 The Science curriculum is mainly enriched in the process dimension: 
@@ -317,11 +317,11 @@ Detailed breakdown and weightings of assessments throughout the course of the ye
 ##### **4. Field Trips**
 Field trips are conducted about twice a year. These trips expose students to different learning environments and allow them to acquire first-hand information.
 
-#### Social Studies
+## Social Studies
 
-"Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  <br>
+"Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  <br><br>
 Social Studies draws its content primarily from the Social Sciences [History Geography, basic Economics and Sociology]. The syllabus covers these aspects with regard to Singapore and our Southeast Asian neighbours.  
-  <br>
+<br>
 Social Studies is non-examinable. However, it is an enriched subject and based on the mainstream syllabus but appropriately differentiated for gifted and high-ability learners. For example, in P6, students will learn about Southeast Asia and ASEAN, allowing them to find out more about the region we live in.
 
 ##### **1. Materials/Syllabus**
