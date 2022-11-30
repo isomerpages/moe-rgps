@@ -101,7 +101,7 @@ We are committed to nurturing gifted individuals to their fullest potential for 
 </tbody>
 </table>
 
-### GOALS OF GEP
+#### GOALS OF GEP
 
   
 The aim of GEP is to develop intellectual rigour, humane values and creativity in gifted youths to prepare them for responsible leadership and service to country and society.
@@ -177,11 +177,11 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 </tbody>
 </table>
 
-# **DISTINCTIVE GIFTED EDUCATION PROGRAMMES AT RGPS**
+#### **DISTINCTIVE GIFTED EDUCATION PROGRAMMES AT RGPS**
 
   
 
-### 1. Individualised Study Options (ISO)
+#### 1. Individualised Study Options (ISO)
 
   
 
@@ -223,7 +223,7 @@ _**c) Future Problem Solving Programme (FPSP)**_  <br>
 FPSP exposes students to critical and creative thinking skills, problem-solving strategies, team work and leadership skills. It encourages students to develop a vision for the future. They conduct research on a series of global topics and learn a six-step creative problem-solving process, culminating in an Action Plan presentation.  
   
 
-### 2. Values-In-Action (VIA) Programme
+#### 2. Values-In-Action (VIA) Programme
 
 
 Our 3-year VIA Programme covers the building of content knowledge, developing affective depth and contributing to society and personal growth.
@@ -270,13 +270,10 @@ Our 3-year VIA Programme covers the building of content knowledge, developing af
 
 ![](/images/GEP1.png)
 
-### 3. Computing Enrichment Programme (CEP)
-
-  
+#### 3. Computing Enrichment Programme (CEP)
 
 To equip our students with the competencies to navigate and thrive in an increasing complex, digital world, CEP aims to nurture students to use technology in safe, responsible and ethical ways. CEP is compulsory for all P4 and P5 students. These are the modules covered:  
   
-
 * Module 1: Introduction to Foundations of Coding
 * Module 2: Basic Coding
 * Module 3: Physical Computing
@@ -288,24 +285,19 @@ To equip our students with the competencies to navigate and thrive in an increas
 
   
 
-### 4. Pupil Development Programme
+#### 4. Pupil Development Programme
 
 The programmes provide students with enriching experiences in the areas of nature, music and art appreciation and the opportunities to learn about teamwork, more about themselves and others through engaging activities beyond the classroom.
 
 ![](/images/GEP2.png)
 
-# GEP ENRICHED SUBJECTS
+#### **GEP ENRICHED SUBJECTS**
   
+#### English Language
 
-## English Language
-
-### 1. The Approach
-
-  
-
+**1. The Approach**
 The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
   
-
 a) Concept units <br>
 b) Study of a novel <br>
 c) Extensive Reading Programme (ERP) <br>
@@ -313,33 +305,24 @@ d) Reading and Writing <br>
 e) Oral Communication <br>
 f) Poetry Appreciation
 
-### 2. Daily Work
-
-
+**2. Daily Work**
 Materials and worksheets are designed to match students' abilities and interests as well as to encourage critical and creative thinking. Students are encouraged to participate actively in class discussions and activities as well as to work consistently through the course of the programme.
 
-  
+**3. Assessment**
 
-### 3. Assessment
-
-
-_**Weighted Assessments**_
+**Weighted Assessments**
 
 *   No more than 1 weighted assessment per subject per school term, on top of any mid-year or year-end exam
 *   May be conducted over a period in the term
 
-_**Non-Weighted Assessments**_
+**Non-Weighted Assessments**
 
 *   Scores are not counted towards overall result in a subject but are important components in the GEP curriculum
 *   Conducted to check for understanding and support pupils in achieving intended learning outcomes
 
-  
-
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-### 4. Extensive Reading Programme (ERP)
-
-  
+#### 4. Extensive Reading Programme (ERP)
 
 Books offer students ideas and possibilities to ignite their imagination and a chance to escape into a different world and enter the lives of people different from them. The ERP seeks to expose students to a variety of fiction, biographies and autobiographies to complement class work. A reading list will be provided and pupils complete an ERP assignment each to develop their confidence in responding to books.  
   
@@ -349,15 +332,10 @@ Books offer students ideas and possibilities to ignite their imagination and a c
   
 **In P6**, the list consists of titles based on actual historical events around the world. Students will learn about the characters, their responses and choices in the context of their times, how they are shaped by their societies as well as how they make an impact on others.  
   
-
-### 5. Files 
-
+#### 5. Files 
 Pupils will learn to systematically categorise and file their worksheets and notes. These files and notes will be checked periodically.
 
 ## Mathematics
-
-
-  
 
 ### 1. Approach
 
