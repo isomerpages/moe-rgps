@@ -1,9 +1,9 @@
 ---
 title: School Rules and Regulations
-permalink: /about-us/rules-and-regulations
+permalink: /about-us/rules-and-regulations/
 description: ""
 ---
-# School Rules and Regulations
+#### **School Rules and Regulations**
 
 #### All RGPS pupils are expected to abide by the school rules and to be well behaved at all times. 
 
