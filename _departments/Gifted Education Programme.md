@@ -235,9 +235,9 @@ The programmes provide students with enriching experiences in the areas of natur
 
 ![](/images/GEP2.png)
 
-#### **GEP Enriched Subjects**
+## GEP Enriched Subjects
   
-## English Language
+#### **English Language**
 
 ##### **1. The Approach**
 The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
@@ -275,7 +275,7 @@ Books offer students ideas and possibilities to ignite their imagination and a c
 ##### **5. Files**
 Pupils will learn to systematically categorise and file their worksheets and notes. These files and notes will be checked periodically.
 
-## Mathematics
+#### **Mathematics**
 
 ##### **1. Approach**
 The enriched Math curriculum is differentiated in terms of: 
@@ -301,7 +301,7 @@ The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for 
 ##### **4. Assessment**
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-## Science
+#### **Science**
 
 ##### **1. Approach**
 The Science curriculum is mainly enriched in the process dimension: 
@@ -322,7 +322,7 @@ Detailed breakdown and weightings of assessments throughout the course of the ye
 ##### **4. Field Trips**
 Field trips are conducted about twice a year. These trips expose students to different learning environments and allow them to acquire first-hand information.
 
-## Social Studies
+#### **Social Studies**
 
 "Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  <br><br>
 Social Studies draws its content primarily from the Social Sciences [History Geography, basic Economics and Sociology]. The syllabus covers these aspects with regard to Singapore and our Southeast Asian neighbours.  
@@ -342,26 +342,15 @@ Social Studies will require students to consider varying points of view, thus le
 Students will also be required to work collaboratively with others, in pairs or in groups. 
    
 Learning activities emphasise four basic categories:
-<ul>
-  <li>knowledge and information based on current affairs and the social sciences</li>
-  <li>Skills
-    <ul>
-      <li>higher level thinking skills such as reflective reasoning, analytical thinking and critical judgement, study skills and</li>
-      <li>work habits such as note-taking, note-making, observation and independent learning as well as interpersonal and group process skills</li>
-    </ul>
-  </li>
-  <li>Attitudes and values
-    <ul>
-      <li>topics on affective education are included to raise students' awareness of ethical and moral issues</li>
-    </ul>
-  </li>
-  <li>Social participation
-    <ul>
-      <li>to mould students into citizens who are civic-conscious and able to contribute to society</li>
-    </ul>
-  </li>
-</ul>
-
+*   knowledge and information based on current affairs and the social sciences
+*   **Skills**
+    *   higher level thinking skills such as reflective reasoning, analytical thinking and critical judgement, study skills and
+    *   work habits such as note-taking, note-making, observation and independent learning as well as interpersonal and group process skills
+*   **Attitudes and values**
+    *   topics on affective education are included to raise students' awareness of ethical and moral issues
+*   **Social participation**
+    *   to mould students into citizens who are civic-conscious and able to contribute to society
+    
 ##### **3. Field Trips**
 Field trips are of immense educational value to Social Studies as they provide students with first-hand experiences on what they have heard, read and learnt.
 
