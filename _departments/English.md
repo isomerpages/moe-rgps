@@ -234,14 +234,41 @@ Bite-sized forms of weighted assessments will be conducted in different terms. T
 
 <br>
 
-| Level | Field-based Learning |
-| -------- | -------- |
-| Primary 1 | ***Neighbourhood Walk (Term 4)*** <br>The focus of the learning experience is for students to develop an appreciation for the places around them.|
-| Primary 2 | ***National Orchid Garden (Term 4)***<br>The focus of the learning experience is for students to learn about our National Symbols.|
-| Primary 3 | ***Sustainable Gallery of Singapore (Term 3)*** <br>The focus of the learning experience is for students to develop an understanding of: Singapore’s physical environment; and how Singapore manages its resources to meet the needs of the country.|
-| Primary 4 | ***National Museum of Singapore (Term 2)*** <br>The focus of the learning experience is for students to develop an understanding of: what life was like in the past; and  the contributions of settlers to the development of Singapore.|
-| Primary 5 | ***Sungei Buloh Wetland Reserve (Term 4)*** <br>The focus of the learning experience is for students to learn about Singapore’s first ASEAN Heritage Park.|
-| Primary 6 | ***Singapore Botanic Gardens (Term 4)***<br>The focus of the learning experience is for students to learn about how Singapore is connected to the rest of Southeast Asia through the Heritage Museum and the heritage trees found in the gardens. This will help pupils understand the importance of preserving our heritage sites in Southeast Asia.|
+<table style="100%">
+<thead>
+<tr>
+<th style="15%">Level</th>
+<th>Field-based Learning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary 1</td>
+<td><strong><em>Neighbourhood Walk (Term 4)</em></strong> <br>The focus of the learning experience is for students to develop an appreciation for the places around them.</td>
+</tr>
+<tr>
+<td>Primary 2</td>
+<td><strong><em>National Orchid Garden (Term 4)</em></strong><br>The focus of the learning experience is for students to learn about our National Symbols.</td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td><strong><em>Sustainable Gallery of Singapore (Term 3)</em></strong> <br>The focus of the learning experience is for students to develop an understanding of: Singapore’s physical environment; and how Singapore manages its resources to meet the needs of the country.</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td><strong><em>National Museum of Singapore (Term 2)</em></strong> <br>The focus of the learning experience is for students to develop an understanding of: what life was like in the past; and  the contributions of settlers to the development of Singapore.</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td><strong><em>Sungei Buloh Wetland Reserve (Term 4)</em></strong> <br>The focus of the learning experience is for students to learn about Singapore’s first ASEAN Heritage Park.</td>
+</tr>
+<tr>
+<td>Primary 6</td>
+<td><strong><em>Singapore Botanic Gardens (Term 4)</em></strong><br>The focus of the learning experience is for students to learn about how Singapore is connected to the rest of Southeast Asia through the Heritage Museum and the heritage trees found in the gardens. This will help pupils understand the importance of preserving our heritage sites in Southeast Asia.</td>
+</tr>
+</tbody>
+</table>
+
 
 ### **Assessment Matters**
 
