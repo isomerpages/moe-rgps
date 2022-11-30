@@ -3,12 +3,11 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-# Mission
-
+#### **Mission**
 
 To develop our pupils with mathematical concepts and skills for everyday life and to equip them with process skills to solve mathematical problems.
 
-# Organisation Chart
+#### **Organisation Chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -118,9 +117,9 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 </tbody>
 </table>
 
-# Programmes
+#### **Programmes**
 
-### **Enrichment Programmes (selected students only)**
+#### Enrichment Programmes (selected students only)
 
 |Programme | This  programme aims to: |
 | ----------- | ---------- |
@@ -128,48 +127,9 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 |Math E2K <br>(Primary 4 – Primary 5) |foster independence in mathematical thinking skills.<br>challenge students to think out of the box and develop resilience when face with challenges.<br>generate a greater interest in Mathematics.<br>reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.|
 |Math Olympiad<br>(Primary 4 – Primary 6)| impart process and visual thinking skills that are required to solve Math Olympiad-like problems.<br>provide opportunities for suitable students to take on challenges in handling non-routine problems<br>stimulate and develop students’ creative thinking and problem-solving abilities<br>allow students to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork.|
 
+#### **Assessment**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Programme</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">This programme aims to:</span></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-da8v">Funthematics (Primary 3)</td>
-    <td class="tg-2w19">- engage students in exploring the Mathematics around them and instil the spirit of learning through discovery. <br>- equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. <br>- build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.<br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-da8v">Math E2K (Primary 4 – Primary 5)</td>
-    <td class="tg-2w19">- foster independence in mathematical thinking skills. <br>- challenge students to think out of the box and develop resilience when face with challenges. <br>- generate a greater interest in Mathematics. <br>- reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.<br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-da8v">Math Olympiad (Primary 4 – Primary 6)</td>
-    <td class="tg-2w19">- impart process and visual thinking skills that are required to solve Math Olympiad-like problems <br>- provide opportunities for suitable students to take on challenges in handling non-routine problems <br>- stimulate and develop students’ creative thinking and problem-solving abilities <br>- allow students to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork.<br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-
-# Assessment
-
-### **Assessment Matters**
+#### Assessment Matters
 
 Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments. Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
 
