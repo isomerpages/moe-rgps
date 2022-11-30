@@ -142,9 +142,6 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 
 ####  4. Learning environment
 <ul><li>Provides a stimulating, supportive and learner-centred environment</li><li>Supports risk-taking</li><li>Provides out-of-school learning experiences, for example, math trails and visits to parks and museums</li><li>Provides out-of-school extensions, for example, mentorship attachments in collaboration with tertiary institutions</li></ul>
-  </tr>
-</tbody>
-</table>
 
 #### **DISTINCTIVE GIFTED EDUCATION PROGRAMMES AT RGPS**
 
@@ -188,9 +185,9 @@ Our 3-year VIA Programme covers the building of content knowledge, developing af
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:10%">Level</th>
+<th style="width:15%">Level</th>
 <th style="width:30%">Focus Area</th>
-<th style="width:30%">Partners</th>
+<th style="width:25%">Partners</th>
 <th style="width:30%">Outreach</th>
 </tr>
 </thead>
