@@ -31,11 +31,11 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
   </tr>
   <tr>
     <td class="tg-dgl5">Subject Head Science</td>
-    <td class="tg-ktyi">Mdm Lim Sok Yen</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Subject Head Science</td>
     <td class="tg-ktyi">Mdm Guo Fengling</td>
+  </tr>
+	<tr>
+    <td class="tg-dgl5">Subject Head Science (GEP)</td>
+    <td class="tg-ktyi">Mdm Lim Sok Yen</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Senior Teacher Science</td>
@@ -51,7 +51,7 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Denise Pang</td>
+    <td class="tg-ktyi">Mdm Ho Shwu Huey</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -61,6 +61,10 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Kandoth Shaheena</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Pamela Zheng YiQuan</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Roziyana Rahmat</td>
@@ -68,6 +72,10 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Santha Selva Raju</td>
+  </tr>
+	 <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Shaheena Kandoth</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
