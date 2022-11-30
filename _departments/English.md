@@ -204,11 +204,11 @@ Bite-sized forms of weighted assessments will be conducted in different terms. T
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:10%"></th>
-<th style="width:15%">Term 1</th>
-<th style="width:25%">Term 2</th>
-<th style="width:25%">Term 3</th>
-<th style="width:25%">Term 4</th>
+<th style="width:15%"></th>
+<th style="width:18%">Term 1</th>
+<th style="width:24%">Term 2</th>
+<th style="width:20%">Term 3</th>
+<th style="width:24%">Term 4</th>
 </tr>
 </thead>
 <tbody>
