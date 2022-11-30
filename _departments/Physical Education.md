@@ -6,7 +6,7 @@ description: ""
 #### **Mission**
 RGPS PE Curriculum aims to develop students' knowledge, skills and disposition in sports. We aim to nurture physically fit students with healthy habits who will value the enjoyment of maintaining a healthy life-style.
 
-*The aim of the physical education (PE) programme is to develop* Physical, intellectual,  social and emotional skills,  21st century competencies & core values like fair play, responsibility, sportsmanship and  resilience through the RGPS Girl Matrix
+The aim of the physical education (PE) programme is to develop Physical, intellectual,  social and emotional skills,  21st century competencies & core values like fair play, responsibility, sportsmanship and  resilience through the RGPS Girl Matrix
 
 **Guiding Philosophy of PE Dept is to :**
 
