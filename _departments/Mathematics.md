@@ -120,17 +120,17 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 <tr>
 <td><strong>Funthematics</strong> <br>(Primary 3)</td>
 <td>
-<li>Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.</li>
+<ul><li>Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.</li>
 <li>Equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. </li>
-<li>Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.</li></td>
+<li>Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Math E2K</strong> <br>(Primary 4 – Primary 5)</td>
-	<td><li>Foster independence in mathematical thinking skills.</li><li>Challenge students to think out of the box and develop resilience when face with challenges.</li><li>Generate a greater interest in Mathematics.</li><li>Reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</li></td>
+	<td><ul><li>Foster independence in mathematical thinking skills.</li><li>Challenge students to think out of the box and develop resilience when face with challenges.</li><li>Generate a greater interest in Mathematics.</li><li>Reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</li></ul></td>
 </tr>
 <tr>
 <td><strong>Math Olympiad</strong><br>(Primary 4 – Primary 6)</td>
-<td><li>Impart process and visual thinking skills that are required to solve Math Olympiad-like problems.</li><li>Provide opportunities for suitable students to take on challenges in handling non-routine problems</li><li>Stimulate and develop students’ creative thinking and problem-solving abilities</li><li>Allow students to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork.</li></td>
+<td><ul><li>Impart process and visual thinking skills that are required to solve Math Olympiad-like problems.</li><li>Provide opportunities for suitable students to take on challenges in handling non-routine problems</li><li>Stimulate and develop students’ creative thinking and problem-solving abilities</li><li>Allow students to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork.</li></ul></td>
 </tr>
 </tbody>
 </table>
