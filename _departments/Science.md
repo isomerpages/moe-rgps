@@ -221,6 +221,13 @@ In RGPS, our teachers will assess students using different modes of assessment b
 
 Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The table below shows an overview.
 
+
+|Level|Term 1|Term 2|Term 3|Term 4|
+|---|---|---|---|---|
+|Primary 3|-|Weighted Assessment 1|Weighted Assessment 2 (Science Practical)|End of Year Examination (EYE)|
+|Primary 4|-|Weighted Assessment 1|Weighted Assessment 2 (Science Practical)|End of Year Examination (EYE)|
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -302,4 +309,3 @@ Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The
 </tr>
 </tbody>
 </table>
-
