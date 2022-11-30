@@ -138,7 +138,7 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 <li>Provides for small group activities</li></ul>
 
 #### 3. Product enrichment
-<ul><li>Encourages other forms of products beyond traditional assignments</li><li>Provides for creative expression</li></li><li>Reflects real-world variety</li><li>Promotes authentic learning</li></ul>
+<ul><li>Encourages other forms of products beyond traditional assignments</li><li>Provides for creative expression</li><li>Reflects real-world variety</li><li>Promotes authentic learning</li></ul>
 
 ####  4. Learning environment
 <ul><li>Provides a stimulating, supportive and learner-centred environment</li><li>Supports risk-taking</li><li>Provides out-of-school learning experiences, for example, math trails and visits to parks and museums</li><li>Provides out-of-school extensions, for example, mentorship attachments in collaboration with tertiary institutions</li></ul>
@@ -146,7 +146,6 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 #### **DISTINCTIVE GIFTED EDUCATION PROGRAMMES AT RGPS**
 
 #### 1. Individualised Study Options (ISO)
-
 ISO refers to the wide range of project work options available to GEP students. Each ISO emphasises a slightly different set of skills, ranging from research, information technology, inventive thinking to problem-solving skills.  
   
 Students will be taught core research skills during the Inquiry Skills lessons in Primary 4 to prepare them for the various ISOs in Primary 5. These skills include:
@@ -163,7 +162,7 @@ In Primary 5, students will choose from a range of project options including:
 *   Innovation Programme (IvP)
 *   Future-Problem Solving Programme (FPSP)
 
-**a) Individualised Research Study (IRS)** <br>
+**a) Individualised Research Study (IRS)**<br>
 The IRS has been a cornerstone of the GEP enriched curriculum for many years. It aims to prepare GEP students to become independent learners and to give them opportunities to explore specific areas of talent and interest in greater depth. The research and presentation skills GEP students acquire as they work on their IRS are invaluable in preparing them for more advanced research work at secondary and tertiary levels. Students who choose IRS as an ISO in P5 will work on a research project based on their personal interests.  
   
 In the implementation of ISO, a teacher-mentor supervises a small number of students and provides monitoring and feedback to encourage and guide the students as they complete their projects. Parents can also help by providing support, encouragement and practical assistance such as discussing the project with their child, and helping her get appropriate resources.  
@@ -172,14 +171,13 @@ ISO projects will not be graded in the report book. Various platforms are availa
   
 IRS nurtures students to set individual research goals, plan strategies and self-critique the progress and quality of their work. They learn competencies and dispositions to be independent learners. They also learn to be effective communicators to facilitate their quest for knowledge through exploring ideas with others and communicating their findings and perspectives.  
   
-**b) Innovation Programme (IvP)**  <br>
+**b) Innovation Programme (IvP)**<br>
 IvP exposes students to critical thinking, ideas generation, development of prototypes, problem-solving and knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.  
   
 **c) Future Problem Solving Programme (FPSP)**<br>
 FPSP exposes students to critical and creative thinking skills, problem-solving strategies, team work and leadership skills. It encourages students to develop a vision for the future. They conduct research on a series of global topics and learn a six-step creative problem-solving process, culminating in an Action Plan presentation.  
   
 #### 2. Values-In-Action (VIA) Programme
-
 Our 3-year VIA Programme covers the building of content knowledge, developing affective depth and contributing to society and personal growth.
 
 <table style="width:100%">
@@ -216,7 +214,6 @@ Our 3-year VIA Programme covers the building of content knowledge, developing af
 ![](/images/GEP1.png)
 
 #### 3. Computing Enrichment Programme (CEP)
-
 To equip our students with the competencies to navigate and thrive in an increasing complex, digital world, CEP aims to nurture students to use technology in safe, responsible and ethical ways. CEP is compulsory for all P4 and P5 students. These are the modules covered:  
   
 * **Module 1:** Introduction to Foundations of Coding
@@ -229,16 +226,15 @@ To equip our students with the competencies to navigate and thrive in an increas
 * **Module 8:** Online Safety and Cybersecurity
 
 #### 4. Pupil Development Programme
-
 The programmes provide students with enriching experiences in the areas of nature, music and art appreciation and the opportunities to learn about teamwork, more about themselves and others through engaging activities beyond the classroom.
 
 ![](/images/GEP2.png)
 
 #### **GEP ENRICHED SUBJECTS**
   
-### English Language
+##### **English Language**
 
-#### 1. The Approach<br>
+#### 1. The Approach
 The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
   
 a) Concept units <br>
@@ -248,11 +244,10 @@ d) Reading and Writing <br>
 e) Oral Communication <br>
 f) Poetry Appreciation
 
-#### 2. Daily Work<br>
+#### 2. Daily Work
 Materials and worksheets are designed to match students' abilities and interests as well as to encourage critical and creative thinking. Students are encouraged to participate actively in class discussions and activities as well as to work consistently through the course of the programme.
 
 #### 3. Assessment
-
 **Weighted Assessments**
 *   No more than 1 weighted assessment per subject per school term, on top of any mid-year or year-end exam
 *   May be conducted over a period in the term
@@ -264,7 +259,6 @@ Materials and worksheets are designed to match students' abilities and interests
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
 #### 4. Extensive Reading Programme (ERP)
-
 Books offer students ideas and possibilities to ignite their imagination and a chance to escape into a different world and enter the lives of people different from them. The ERP seeks to expose students to a variety of fiction, biographies and autobiographies to complement class work. A reading list will be provided and pupils complete an ERP assignment each to develop their confidence in responding to books.  
   
 **In P4**, the list includes the genre of animal fantasy that shares elements of make-believe that are essential to fairy tales. Many of the books also feature characters who embark on experiences that help them to discover who they are and how they relate to others in coming-of-age tales similar to the P4 literature text, A Single Shard.  
@@ -276,7 +270,7 @@ Books offer students ideas and possibilities to ignite their imagination and a c
 #### 5. Files 
 Pupils will learn to systematically categorise and file their worksheets and notes. These files and notes will be checked periodically.
 
-### Mathematics
+##### **Mathematics**
 
 #### 1. Approach
 The enriched Math curriculum is differentiated in terms of: 
@@ -300,10 +294,9 @@ GEP students with strong aptitude in Mathematics will be invited to join classes
 The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for selected Primary 4 and 5 students identified based on their performance in the PM2 selection test.  PM2 aims to challenge students who are talented in Mathematics beyond the Primary Mathematics curriculum.  Participants will be exposed to advanced Mathematical concepts.
   
 #### 4. Assessment
-
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-### Science
+##### **Science**
 
 #### 1. Approach
 The Science curriculum is mainly enriched in the process dimension: 
@@ -324,17 +317,17 @@ Detailed breakdown and weightings of assessments throughout the course of the ye
 #### 4. Field Trips
 Field trips are conducted about twice a year. These trips expose students to different learning environments and allow them to acquire first-hand information.
 
-### Social Studies
+##### **Social Studies**
 
 "Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  
 Social Studies draws its content primarily from the Social Sciences \[History Geography, basic Economics and Sociology\]. The syllabus covers these aspects with regard to Singapore and our Southeast Asian neighbours.  
   
 Social Studies is non-examinable. However, it is an enriched subject and based on the mainstream syllabus but appropriately differentiated for gifted and high-ability learners. For example, in P6, students will learn about Southeast Asia and ASEAN, allowing them to find out more about the region we live in.
 
-#### 1.Materials/Syllabus
+#### 1. Materials/Syllabus
 The basic syllabus of the mainstream is enriched with materials from various sources. The resource materials, notes and worksheets provided will be sufficient to meet the needs of students.
 
-#### 2.The Approach
+#### 2. The Approach
 Pupils will be exposed to concepts such as Causes and Consequences, and Change and Continuity. They will also appreciate the importance of Diversity and Interdependence.  
   
 Pupils will also have opportunities to develop critical thinking and exercise creativity. They will learn to make inferences, compare and contrast evidence, and develop well-reasoned explanations.  
@@ -359,7 +352,7 @@ Field trips are of immense educational value to Social Studies as they provide s
 #### 4. Files
 Worksheets and resource materials given by the teacher as well as collected by students are kept in files that will be checked periodically.
 
-### 5. Assessment
+#### 5. Assessment
 There will be graded tasks as well as quizzes, spread throughout the year to find out how well students have acquired the knowledge and skills and to identify learning gaps.  
   
 Graded tasks allow students to demonstrate their understanding in a variety of ways, carried out individually, in pairs or groups. Examples of graded tasks include map-work, creative assignments and skits.
