@@ -126,42 +126,22 @@ The Gifted Education Programme (GEP) curriculum is designed to meet the needs of
 
 The enriched curriculum is built on the regular curriculum and differentiated in these 4 areas:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-yfrq{background-color:#D3D3D3;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-yfrq">1. Content enrichment</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh"><br>The GEP curriculum:<br><br>Extends beyond the basic syllabus in depth and breadth<br>Covers more advanced topics where appropriate<br>Makes interdisciplinary connections<br>Encourages the investigation of real-life problems<br>Promotes the examination of affective issues in the various subject areas<br></td>
-  </tr>
-  <tr>
-    <td class="tg-yfrq">2. Process enrichment</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><br>The GEP curriculum:<br><br>Develops higher level thinking skills<br>Provides opportunities for discovery and experiential learning<br>Provides for open-ended problem solving<br>Teaches research skills for independent study<br>Uses varied teaching strategies to cater to different learning styles<br>Provides for small group activities<br></td>
-  </tr>
-  <tr>
-    <td class="tg-yfrq">3. Product enrichment</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><br>The GEP curriculum:<br><br>Encourages other forms of products beyond traditional assignments<br>Provides for creative expression<br>Reflects real-world variety<br>Promotes authentic learning<br></td>
-  </tr>
-  <tr>
-    <td class="tg-yfrq">4. Learning environment</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><br>The GEP curriculum:<br><br>Provides a stimulating, supportive and learner-centred environment<br>Supports risk-taking<br>Provides out-of-school learning experiences, for example, math trails and visits to parks and museums<br>Provides out-of-school extensions, for example, mentorship attachments in collaboration with tertiary institutions<br></td>
+#### 1. Content enrichment
+<ul><li>Extends beyond the basic syllabus in depth and breadth</li><li>Covers more advanced topics where appropriate</li><li>Makes interdisciplinary connections</li><li>Encourages the investigation of real-life problems</li><li>Promotes the examination of affective issues in the various subject areas</li></ul>
+	
+#### 2. Process enrichment
+<ul><li>Develops higher level thinking skills</li>  
+<li>Provides opportunities for discovery and experiential learning</li>  
+<li>Provides for open-ended problem solving</li>  
+<li>Teaches research skills for independent study</li>  
+<li>Uses varied teaching strategies to cater to different learning styles</li>  
+<li>Provides for small group activities</li></ul>
+
+#### 3. Product enrichment
+<ul><li>Encourages other forms of products beyond traditional assignments</li><li>Provides for creative expression</li></li><li>Reflects real-world variety</li><li>Promotes authentic learning</li></ul>
+
+####  4. Learning environment
+<ul><li>Provides a stimulating, supportive and learner-centred environment</li><li>Supports risk-taking</li><li>Provides out-of-school learning experiences, for example, math trails and visits to parks and museums</li><li>Provides out-of-school extensions, for example, mentorship attachments in collaboration with tertiary institutions</li></ul>
   </tr>
 </tbody>
 </table>
@@ -170,13 +150,9 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 
 #### 1. Individualised Study Options (ISO)
 
-  
-
 ISO refers to the wide range of project work options available to GEP students. Each ISO emphasises a slightly different set of skills, ranging from research, information technology, inventive thinking to problem-solving skills.  
   
 Students will be taught core research skills during the Inquiry Skills lessons in Primary 4 to prepare them for the various ISOs in Primary 5. These skills include:
-
-  
 
 *   Research scoping
 *   Information sourcing
@@ -186,15 +162,11 @@ Students will be taught core research skills during the Inquiry Skills lessons i
 
 In Primary 5, students will choose from a range of project options including:
 
-  
-
 *   Individualised Research Study (IRS)
 *   Innovation Programme (IvP)
 *   Future-Problem Solving Programme (FPSP)
 
-  
-
-_**a) Individualised Research Study (IRS)**_   <br>
+**a) Individualised Research Study (IRS)** <br>
 The IRS has been a cornerstone of the GEP enriched curriculum for many years. It aims to prepare GEP students to become independent learners and to give them opportunities to explore specific areas of talent and interest in greater depth. The research and presentation skills GEP students acquire as they work on their IRS are invaluable in preparing them for more advanced research work at secondary and tertiary levels. Students who choose IRS as an ISO in P5 will work on a research project based on their personal interests.  
   
 In the implementation of ISO, a teacher-mentor supervises a small number of students and provides monitoring and feedback to encourage and guide the students as they complete their projects. Parents can also help by providing support, encouragement and practical assistance such as discussing the project with their child, and helping her get appropriate resources.  
@@ -206,12 +178,10 @@ IRS nurtures students to set individual research goals, plan strategies and self
 **b) Innovation Programme (IvP)**  <br>
 IvP exposes students to critical thinking, ideas generation, development of prototypes, problem-solving and knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.  
   
-_**c) Future Problem Solving Programme (FPSP)**_  <br>
+**c) Future Problem Solving Programme (FPSP)**<br>
 FPSP exposes students to critical and creative thinking skills, problem-solving strategies, team work and leadership skills. It encourages students to develop a vision for the future. They conduct research on a series of global topics and learn a six-step creative problem-solving process, culminating in an Action Plan presentation.  
   
-
 #### 2. Values-In-Action (VIA) Programme
-
 
 Our 3-year VIA Programme covers the building of content knowledge, developing affective depth and contributing to society and personal growth.
 
