@@ -109,16 +109,10 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 
 #### Enrichment Programmes (selected students only)
 
-|Programme | This  programme aims to: |
-| ----------- | ---------- |
-|**Funthematics** <br>(Primary 3)| Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.<br>Equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. <br>Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving. |
-|**Math E2K** <br>(Primary 4 – Primary 5) |foster independence in mathematical thinking skills.<br>challenge students to think out of the box and develop resilience when face with challenges.<br>generate a greater interest in Mathematics.<br>reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.|
-|**Math Olympiad**<br>(Primary 4 – Primary 6)| impart process and visual thinking skills that are required to solve Math Olympiad-like problems.<br>provide opportunities for suitable students to take on challenges in handling non-routine problems<br>stimulate and develop students’ creative thinking and problem-solving abilities<br>allow students to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork.|
-
 <table style="width:100%">
 <thead>
 <tr>
-<th>Programme</th>
+<th style="width:30%">Programme</th>
 <th>This programme aims to:</th>
 </tr>
 </thead>
