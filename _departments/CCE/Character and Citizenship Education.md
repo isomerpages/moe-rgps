@@ -4,16 +4,15 @@ permalink: /departments/CCE/
 description: ""
 third_nav_title: CCE
 ---
-# CCE Vision 
+#### **Vision** 
 
 A Vibrant Community of Value-based Thinkers, Learners and Leaders
 
-# CCE Mission
-
+#### **Mission**
 
 Nurturing Women of Character Excellence, Leaders of Character and Service
 
-# Organisation chart
+#### **Organisation chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -47,25 +46,22 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
 </tbody>
 </table>
 
-# Character and Citizenship Education
+#### **Character and Citizenship Education**
 
 
-**Objectives:**
+#### Objectives:
 
 1.      To inculcate the 6 core values (R3ICH)
 
 The goal of CCE is to inculcate values and build competencies in our pupils to develop them to be good individuals and useful citizens. The core values are:
 
-a.       Respect
-
-b.      Responsibility
-
-c.       Resilience
-
-d.      Integrity
-
-e.       Care
-
-f.       Harmony
+<ol type="a">
+	<li>Respect</li>
+	<li>Responsibility</li>
+	<li>Resilience</li>
+	<li>Integrity</li>
+	<li>Care</li>
+	<li>Harmony</li>
+	</ol>
 
 2.      To equip our pupils with the ability to make responsible decisions and become more aware of their roles in the society.
