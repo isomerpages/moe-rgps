@@ -240,7 +240,7 @@ The programmes provide students with enriching experiences in the areas of natur
   
 #### English Language
 
-**1. The Approach**
+**1. The Approach**<br>
 The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
   
 a) Concept units <br>
@@ -250,24 +250,22 @@ d) Reading and Writing <br>
 e) Oral Communication <br>
 f) Poetry Appreciation
 
-**2. Daily Work**
+**2. Daily Work**<br>
 Materials and worksheets are designed to match students' abilities and interests as well as to encourage critical and creative thinking. Students are encouraged to participate actively in class discussions and activities as well as to work consistently through the course of the programme.
 
 **3. Assessment**
 
-**Weighted Assessments**
-
+#### Weighted Assessments
 *   No more than 1 weighted assessment per subject per school term, on top of any mid-year or year-end exam
 *   May be conducted over a period in the term
 
-**Non-Weighted Assessments**
-
+#### Non-Weighted Assessments
 *   Scores are not counted towards overall result in a subject but are important components in the GEP curriculum
 *   Conducted to check for understanding and support pupils in achieving intended learning outcomes
 
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-#### 4. Extensive Reading Programme (ERP)
+**4. Extensive Reading Programme (ERP)**
 
 Books offer students ideas and possibilities to ignite their imagination and a chance to escape into a different world and enter the lives of people different from them. The ERP seeks to expose students to a variety of fiction, biographies and autobiographies to complement class work. A reading list will be provided and pupils complete an ERP assignment each to develop their confidence in responding to books.  
   
