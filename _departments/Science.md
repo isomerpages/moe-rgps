@@ -178,38 +178,35 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
 
 #### **Enrichment Programmes (for selected students)**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Programmes</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Programme aims</span></th>
-    <th class="tg-0lax"></th>
-  </tr>
+<tr>
+<th>Programmes</th>
+<th>Programme Aims</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">E2K Science (Primary 4 – 5)</span></td>
-    <td class="tg-2w19">provide opportunity for students to engage in scientific investigation to discover and deepen their understanding of advanced science concepts through inquiry approach.<br>engage students in scientific inquiry that will help them to develop the habits, attitudes and disposition scientists possess<br>develop in students the 21st century competencies such resilience and resourcefulness, critical and inventive thinking, and effective communication skills.</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">IvP (Primary 5)</span></td>
-    <td class="tg-2w19">provide opportunity for students to develop their problem solving , thinking and inventive skills.<br>expose pupil to Design Thinking framework which provide scaffolds for young innovators to help students think critically about existing problems, to create innovative ideas or products, to develop prototypes to test and improve their ideas.<br>expose students to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations</td>
-    <td class="tg-0lax"></td>
-  </tr>
+<tr>
+<td><strong>E2K Science</strong><br>(Primary 4 – 5)</td>
+<td><ul><li>Provide opportunity for students to engage in scientific investigation to discover and deepen their understanding of advanced science concepts through inquiry approach. </li>
+<li>Engage students in scientific inquiry that will help them to develop the habits, attitudes and disposition scientists possess<br>develop in students the 21st century competencies such resilience and resourcefulness, critical and inventive thinking, and effective communication skills.</li></ul></td></tr><tr><td>
+	<strong>IvP</strong> <br>(Primary 5)</td>
+	<td><ul><li>Provide opportunity for students to develop their problem solving , thinking and inventive skills. </li>
+<li>Expose pupil to Design Thinking framework which provide scaffolds for young innovators to help students think critically about existing problems, to create innovative ideas or products, to develop prototypes to test and improve their ideas. </li>
+<li>Expose students to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.</li></ul>
+</td>
+</tr>
 </tbody>
 </table>
+
+|Programmes|Programme Aims|
+|---|---|
+|**E2K Science**<br>(Primary 4 – 5)|<ul><li>Provide opportunity for students to engage in scientific investigation to discover and deepen their understanding of advanced science concepts through inquiry approach. </li>
+<li>Engage students in scientific inquiry that will help them to develop the habits, attitudes and disposition scientists possess  
+develop in students the 21st century competencies such resilience and resourcefulness, critical and inventive thinking, and effective communication skills.</li></ul>|
+|**IvP** <br>(Primary 5)|<ul><li>Provide opportunity for students to develop their problem solving , thinking and inventive skills.  </li>
+<li>Expose pupil to Design Thinking framework which provide scaffolds for young innovators to help students think critically about existing problems, to create innovative ideas or products, to develop prototypes to test and improve their ideas. </li> 
+<li>Expose students to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.</li></ul>|
 
 #### **Assessment**
 
