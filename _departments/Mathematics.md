@@ -30,6 +30,10 @@ To develop our pupils with mathematical concepts and skills for everyday life an
     <td class="tg-1wig">HOD Mathematics -Designate</td>
     <td class="tg-0lax">Ms Chong Jieqi</td>
   </tr>
+	  <tr>
+    <td class="tg-1wig">Subject Head Mathematics</td>
+    <td class="tg-0lax">Mdm Chau Soo Eng June</td>
+  </tr>
   <tr>
     <td class="tg-1wig">Subject Head Mathematics</td>
     <td class="tg-0lax">Mdm Shannalyn Ng</td>
@@ -40,10 +44,6 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
   <tr>
     <td class="tg-1wig">Teacher</td>
-    <td class="tg-0lax">Ms Anna Tay Hwee Ann</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Celia Lee</td>
   </tr>
   <tr>
@@ -88,23 +88,11 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Lim Hoa Lin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Low Woon Mei</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Sam Choi Yoke</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Teng Mui Noi</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Wirda Sukor</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
