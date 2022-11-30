@@ -127,9 +127,11 @@ The Gifted Education Programme (GEP) curriculum is designed to meet the needs of
 The enriched curriculum is built on the regular curriculum and differentiated in these 4 areas:
 
 ##### **1. Content enrichment**
+
 <ul><li>Extends beyond the basic syllabus in depth and breadth</li><li>Covers more advanced topics where appropriate</li><li>Makes interdisciplinary connections</li><li>Encourages the investigation of real-life problems</li><li>Promotes the examination of affective issues in the various subject areas</li></ul>
 	
 ##### **2. Process enrichment**
+
 <ul><li>Develops higher level thinking skills</li>  
 <li>Provides opportunities for discovery and experiential learning</li>  
 <li>Provides for open-ended problem solving</li>  
@@ -138,14 +140,17 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 <li>Provides for small group activities</li></ul>
 
 ##### **3. Product enrichment**
+
 <ul><li>Encourages other forms of products beyond traditional assignments</li><li>Provides for creative expression</li><li>Reflects real-world variety</li><li>Promotes authentic learning</li></ul>
 
 #####  **4. Learning environment**
+
 <ul><li>Provides a stimulating, supportive and learner-centred environment</li><li>Supports risk-taking</li><li>Provides out-of-school learning experiences, for example, math trails and visits to parks and museums</li><li>Provides out-of-school extensions, for example, mentorship attachments in collaboration with tertiary institutions</li></ul>
 
 #### **Distinctive Gifted Education Programmes at RGPS**
 
 ##### **1. Individualised Study Options (ISO)**
+
 ISO refers to the wide range of project work options available to GEP students. Each ISO emphasises a slightly different set of skills, ranging from research, information technology, inventive thinking to problem-solving skills.  
   
 Students will be taught core research skills during the Inquiry Skills lessons in Primary 4 to prepare them for the various ISOs in Primary 5. These skills include:
