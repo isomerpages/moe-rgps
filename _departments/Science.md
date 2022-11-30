@@ -261,54 +261,45 @@ Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The
 
 **P3 – P6 Science Assessment Weighting**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Level</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Weighted Assessment 1</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Mid Year Examination (MYE)</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Science Practical</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">End of Year Examination (EYE)</span></th>
-  </tr>
+<tr>
+<th style="width:16%">Level</th>
+<th style="width:21%">Weighted Assessment 1</th>
+<th style="width:21%">Mid Year Examination (MYE)</th>
+<th style="width:21%">Science Practical</th>
+<th style="width:21%">End of Year Examination (EYE)</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-i38w">Primary 3</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">70%</span></td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 4</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">30%</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">14%</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">56%</span></td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 5</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">15%</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">70%</span></td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 6</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">0%</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">100%</span></td>
-  </tr>
+<tr>
+<td>Primary 3</td>
+<td>15%</td>
+<td>-</td>
+<td>15%</td>
+<td>70%</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td>-</td>
+<td>30%</td>
+<td>14%</td>
+<td>56%</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td>15%</td>
+<td>-</td>
+<td>15%</td>
+<td>70%</td>
+</tr>
+<tr>
+<td>Primary 6</td>
+<td>-</td>
+<td>0%</td>
+<td>-</td>
+<td>100%</td>
+</tr>
 </tbody>
 </table>
+
