@@ -219,14 +219,14 @@ Our 3-year VIA Programme covers the building of content knowledge, developing af
 
 To equip our students with the competencies to navigate and thrive in an increasing complex, digital world, CEP aims to nurture students to use technology in safe, responsible and ethical ways. CEP is compulsory for all P4 and P5 students. These are the modules covered:  
   
-* Module 1: Introduction to Foundations of Coding
-* Module 2: Basic Coding
-* Module 3: Physical Computing
-* Module 4: Digital Rights and Responsibilities
-* Module 5: Advanced Coding and Physical Computing
-* Module 6: Robotics and Automation
-* Module 7: Introduction to Artificial Intelligence
-* Module 8: Online Safety and Cybersecurity
+* **Module 1:** Introduction to Foundations of Coding
+* **Module 2:** Basic Coding
+* **Module 3:** Physical Computing
+* **Module 4:** Digital Rights and Responsibilities
+* **Module 5:** Advanced Coding and Physical Computing
+* **Module 6:** Robotics and Automation
+* **Module 7:** Introduction to Artificial Intelligence
+* **Module 8:** Online Safety and Cybersecurity
 
   
 
