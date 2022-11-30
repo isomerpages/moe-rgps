@@ -105,28 +105,18 @@ We are committed to nurturing gifted individuals to their fullest potential for 
 
 The aim of GEP is to develop intellectual rigour, humane values and creativity in gifted youths to prepare them for responsible leadership and service to country and society.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n348{background-color:#D3D3D3;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-n348">Cognitive Goals</th>
-    <th class="tg-n348">Affective Goals</th>
-  </tr>
+<tr>
+<th style="width:50%">Cognitive Goals</th>
+<th style="width:50%">Affective Goals</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-7yig">- To develop intellectual depth and higher level thinking<br>- To nurture productive creativity<br>- To develop attitudes for self-directed lifelong learning<br></td>
-    <td class="tg-lygy">- To enhance the child’s aspirations for individual excellence and fulfilment<br>- To develop a strong social conscience and commitment to serve society and nation<br>- To develop moral values and qualities for responsible leadership</td>
-  </tr>
+<tr>
+<td><ul><li>To develop intellectual depth and higher level thinking </li> <li>To nurture productive creativity</li><li>To develop attitudes for self-directed lifelong learning</li></ul></td>
+<td><ul><li>To enhance the child’s aspirations for individual excellence and fulfilment</li><li>To develop a strong social conscience and commitment to serve society and nation</li><li>To develop moral values and qualities for responsible leadership</li></ul></td>
+</tr>
 </tbody>
 </table>
 
@@ -177,8 +167,6 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 </table>
 
 #### **DISTINCTIVE GIFTED EDUCATION PROGRAMMES AT RGPS**
-
-  
 
 #### 1. Individualised Study Options (ISO)
 
