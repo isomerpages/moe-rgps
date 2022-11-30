@@ -337,14 +337,14 @@ Social Studies will require students to consider varying points of view, thus le
 Students will also be required to work collaboratively with others, in pairs or in groups. 
    
 Learning activities emphasise four basic categories:
-*   knowledge and information based on current affairs and the social sciences
-*   ***Skills***
-	*   higher level thinking skills such as reflective reasoning, analytical thinking and critical judgement, study skills and
-	*   work habits such as note-taking, note-making, observation and independent learning as well as interpersonal and group process skills
-*  ***Attitudes and values***
-	*   topics on affective education are included to raise students' awareness of ethical and moral issues
-*   ***Social participation***
-	*   to mould students into citizens who are civic-conscious and able to contribute to society
+<ul><li>knowledge and information based on current affairs and the social sciences</li>
+<li>**Skills**
+	<ul><li>higher level thinking skills such as reflective reasoning, analytical thinking and critical judgement, study skills and</li>
+	<li>work habits such as note-taking, note-making, observation and independent learning as well as interpersonal and group process skills</li></ul></li>
+<li>**Attitudes and values**
+	<ul><li>topics on affective education are included to raise students' awareness of ethical and moral issues</li></ul></li>
+<li>**Social participation**
+	<ul><li> to mould students into citizens who are civic-conscious and able to contribute to society</li></ul></li></ul>
 
 ##### **3. Field Trips**
 Field trips are of immense educational value to Social Studies as they provide students with first-hand experiences on what they have heard, read and learnt.
