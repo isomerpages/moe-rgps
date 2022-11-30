@@ -3,14 +3,14 @@ title: Environmental Education
 permalink: /programme/enviroedu/
 description: ""
 ---
-# Get Green & Love Earth
+#### **Get Green & Love Earth**
 
 At Raffles Girls’ Primary School, our goal is to nurture every pupil to become a steward of the environment. We take pride in making life better for others by taking a proactive approach to protecting the environment for current and future generations. Through environmental education programs, pupils are empowered to build a better life for people, animals and the environment. 
 
 The following are some ways we get green and love Earth in RGPS.
 
 
-#### **Earth Week**
+#### Earth Week
 
 ||||
 | -------- | -------- | -------- |
@@ -19,7 +19,7 @@ The following are some ways we get green and love Earth in RGPS.
 |![](/images/Enviro%20Edu/When%20will%20you%20start%20doing%20something%20about%20it.jpg)|![](/images/Enviro%20Edu/Can%20we%20change%20anything%20about%20our%20habits.jpg)||
 |When will you start doing something about it? |Can we change anything about our habits?||
 
-#### **Biodiversity Week**
+#### Biodiversity Week
 
 ||||
 | -------- | -------- | -------- |
@@ -28,7 +28,7 @@ The following are some ways we get green and love Earth in RGPS.
 |![](/images/Enviro%20Edu/A%20student%20writing%20letters%20to%20Dr%20Jane%20Goodall.jpg)|![](/images/Enviro%20Edu/Every%20individual%20matters.jpeg)||
 |A student writing letters to Dr. Jane Goodall.|Every individual matters. <br>Every individual has a role to play.<br> Every individual makes a difference. <br>- Dr. Jane Goodall||
 
-#### **Bees are friends, not Pests!**
+#### Bees are friends, not Pests!
 
 |||
 | -------- | -------- |
