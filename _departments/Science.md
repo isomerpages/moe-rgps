@@ -221,48 +221,31 @@ In RGPS, our teachers will assess students using different modes of assessment b
 
 Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The table below shows an overview.
 
-
-|Level|Term 1|Term 2|Term 3|Term 4|
-|---|---|---|---|---|
-|Primary 3|-|Weighted Assessment 1|Weighted Assessment 2 (Science Practical)|End of Year Examination (EYE)|
-|Primary 4|-|Weighted Assessment 1|Weighted Assessment 2 (Science Practical)|End of Year Examination (EYE)|
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-a5i5"></th>
-    <th class="tg-a5i5">Term 1<br></th>
-    <th class="tg-a5i5">Term 2<br></th>
-    <th class="tg-a5i5">Term 3<br></th>
-    <th class="tg-a5i5">Term 4<br></th>
-  </tr>
+<tr>
+<th style="width:15%">Level</th>
+<th style="width:10%">Term 1</th>
+<th style="width:25%">Term 2</th>
+<th style="width:25%">Term 3</th>
+<th style="width:25%">Term 4</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-i38w">Primary 3</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 1</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 2 (Science Practical)</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">End-of-Year Examination</span></td>
-  </tr>
-  <tr>
-    <td class="tg-i38w">Primary 4</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 1</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 2 (Science Practical)</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">End-of-Year Examination</span></td>
-  </tr>
+<tr>
+<td>Primary 3</td>
+<td>-</td>
+<td>Weighted Assessment 1</td>
+<td>Weighted Assessment 2 (Science Practical)</td>
+<td>End of Year Examination (EYE)</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td>-</td>
+<td>Weighted Assessment 1</td>
+<td>Weighted Assessment 2 (Science Practical)</td>
+<td>End of Year Examination (EYE)</td>
+</tr>
 </tbody>
 </table>
 
