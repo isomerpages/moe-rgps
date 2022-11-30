@@ -1,15 +1,15 @@
 ---
 title: Discipline, Guidance and Student Leadership
-permalink: /departments/discipline-guidance-and-student-leadership
+permalink: /departments/discipline-guidance-and-student-leadership/
 description: ""
 ---
-# Mission
+#### **Mission**
 
 To develop leaders of character and service.
 
 ![](/images/discipline%20.jpeg)
 
-# Organisation Chart 
+#### **Organisation Chart** 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -39,24 +39,23 @@ To develop leaders of character and service.
 </tbody>
 </table>
 
-# Guidance Programme
-### Objective
+#### **Guidance Programme**
+#### Objective
 
 To nurture our pupils to become good and useful citizens.
 
 The Guidance Programme was set up with the purpose of meeting the emotional and mental needs of the pupils. The Form Teacher Guidance Programme (FTGP) consist of lessons conducted by either the Form or Co-Form teacher. In addition, there is also Teacher-Pupil Dialogue sessions for the Form and Co-Form teacher to get to know their pupils better.  
 
-### Counselling Service in School
+#### Counselling Service in School
 
 There are teacher counsellors in our school for pupils who need assistance. Apart from them, most of the teachers in RGPS are also trained in counselling, thus pupils can also approach them for advice regarding their personal problems or learning difficulties. A school counsellor also helps to handle more complicated cases. 
 
 
-### Special Needs Service in School
+#### Special Needs Service in School
 
 There is a learning and behavioural needs specialist in the school to see to pupils with special needs. Pupils may be referred to MOE psychologists for assessment.
 
-# School Prefectorial Board
-
+#### **School Prefectorial Board**
 
 The prefects are selected at the end of the year by their teachers. The selection is based on a criteria set by Discipline, Guidance and Student Leadership Department.
 
