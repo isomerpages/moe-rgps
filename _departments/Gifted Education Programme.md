@@ -235,9 +235,9 @@ The programmes provide students with enriching experiences in the areas of natur
 
 ![](/images/GEP2.png)
 
-## GEP Enriched Subjects
+## **GEP Enriched Subjects**
   
-## **English Language**
+### English Language
 
 ##### **1. The Approach**
 The curriculum is enriched with the adoption of a concept and literature-based approach of teaching. Through this, students will be encouraged to discuss, interpret and evaluate ideas, issues and values. The concepts allow scope for more intellectual activity and creative work. Through exploring fiction and non-fiction, students will pick up critical, creative thinking and literary skills. Emphasis is also placed on the formal teaching of grammar, its usage and vocabulary. Students will also be formally taught reading, listening comprehension and writing skills. The enriched EL curriculum is differentiated in the following aspects/areas:  
@@ -275,7 +275,7 @@ Books offer students ideas and possibilities to ignite their imagination and a c
 ##### **5. Files**
 Pupils will learn to systematically categorise and file their worksheets and notes. These files and notes will be checked periodically.
 
-#### **Mathematics**
+### Mathematics
 
 ##### **1. Approach**
 The enriched Math curriculum is differentiated in terms of: 
@@ -301,7 +301,7 @@ The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for 
 ##### **4. Assessment**
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
 
-#### **Science**
+### Science
 
 ##### **1. Approach**
 The Science curriculum is mainly enriched in the process dimension: 
@@ -322,7 +322,7 @@ Detailed breakdown and weightings of assessments throughout the course of the ye
 ##### **4. Field Trips**
 Field trips are conducted about twice a year. These trips expose students to different learning environments and allow them to acquire first-hand information.
 
-#### **Social Studies**
+### Social Studies
 
 "Social Studies is learning about people and the various ways in which they interact with each other and with the various environments in which they find themselves." - Arthur Ellis (1991)  <br><br>
 Social Studies draws its content primarily from the Social Sciences [History Geography, basic Economics and Sociology]. The syllabus covers these aspects with regard to Singapore and our Southeast Asian neighbours.  
