@@ -62,6 +62,6 @@ The goal of CCE is to inculcate values and build competencies in our pupils to d
 	<li>Integrity</li>
 	<li>Care</li>
 	<li>Harmony</li>
-	</ol>
+</ol>
 
 2.      To equip our pupils with the ability to make responsible decisions and become more aware of their roles in the society.
