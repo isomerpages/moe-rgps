@@ -214,10 +214,51 @@ Assessment is an on-going and iterative process of monitoring one's learning. It
 
 Bite-sized forms of weighted assessments are conducted in Term 1, Term 2 and Term 3. End-of-year examination is conducted in Term 4. The table below shows an overview.
 
-|               | Term 1    | Term 2 | Term 3 | Term 4 |
-| -------- | -------- | -------- | -------- | -------- |
-|               |  **Weighted Assessment 1** | **Weighted Assessment 1/2**| **Weighted Assessment 2**| **End-of-Year Examination** |
-| Primary 3 | - | Writing | Language Use & Comprehension | Composition Writing |
-| Primary 4 | - | Oral | Language Use & Comprehension | Language Use & Comprehension |
-| Primary 5 | - | Language Use & Comprehension | Writing | Listening Comprehension |
-| Primary 6 | Oral  | Language Use & Comprehension |  | Oral |
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:16%"></th>
+<th style="width:21%">Term 1</th>
+<th style="width:21%">Term 2</th>
+<th style="width:21%">Term 3</th>
+<th style="width:21%">Term 4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Weighted Assessment 1</strong></td>
+<td><strong>Weighted Assessment 1/2</strong></td>
+<td><strong>Weighted Assessment 2</strong></td>
+<td><strong>End-of-Year Examination</strong></td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td>-</td>
+<td>Writing</td>
+<td>Language Use &amp; Comprehension</td>
+<td>Composition Writing</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td>-</td>
+<td>Oral</td>
+<td>Language Use &amp; Comprehension</td>
+<td>Language Use &amp; Comprehension</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td>-</td>
+<td>Language Use &amp; Comprehension</td>
+<td>Writing</td>
+<td>Listening Comprehension</td>
+</tr>
+<tr>
+<td>Primary 6</td>
+<td>Oral</td>
+<td>Language Use &amp; Comprehension</td>
+<td></td>
+<td>Oral</td>
+</tr>
+</tbody>
+</table>
