@@ -27,11 +27,11 @@ We are committed to nurturing gifted individuals to their fullest potential for 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">HOD Gifted Education</td>
+    <td class="tg-dgl5">HOD Gifted Education (Languages and SS)</td>
     <td class="tg-ktyi">Mrs Elaine Chong</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">HOD Gifted Education</td>
+    <td class="tg-dgl5">HOD Gifted Education (Math & Science)</td>
     <td class="tg-ktyi">Mr Phan Wai Mun</td>
   </tr>
   <tr>
