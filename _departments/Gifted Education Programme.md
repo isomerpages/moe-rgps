@@ -3,7 +3,7 @@ title: Gifted Education Programme
 permalink: /departments/gifted-education-programme/
 description: ""
 ---
-#### **MISSION**
+#### **Mission**
 To provide leadership in the education of the intellectually gifted.
 
 We are committed to nurturing gifted individuals to their fullest potential for the fulfilment of self and for the betterment of society.
@@ -101,9 +101,8 @@ We are committed to nurturing gifted individuals to their fullest potential for 
 </tbody>
 </table>
 
-#### GOALS OF GEP
+#### **GOALS OF GEP**
 
-  
 The aim of GEP is to develop intellectual rigour, humane values and creativity in gifted youths to prepare them for responsible leadership and service to country and society.
 
 <style type="text/css">
