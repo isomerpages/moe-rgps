@@ -185,43 +185,34 @@ FPSP exposes students to critical and creative thinking skills, problem-solving 
 
 Our 3-year VIA Programme covers the building of content knowledge, developing affective depth and contributing to society and personal growth.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n348{background-color:#D3D3D3;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-n348">Level</th>
-    <th class="tg-n348">Focus Area</th>
-    <th class="tg-n348">Partners</th>
-    <th class="tg-n348">Outreach</th>
-  </tr>
+<tr>
+<th style="width:10%">Level</th>
+<th style="width:30%">Focus Area</th>
+<th style="width:30%">Partners</th>
+<th style="width:30%">Outreach</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-f4yw">P4 GEP</td>
-    <td class="tg-f4yw">Loving Animals, Loving the Community</td>
-    <td class="tg-f4yw">SPCA</td>
-    <td class="tg-f4yw">RGPS Community</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">P5 GEP</td>
-    <td class="tg-f4yw">Loving People, Loving the Community</td>
-    <td class="tg-f4yw">Chao Yang School</td>
-    <td class="tg-f4yw">Chao Yang Pupils</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">P6 GEP</td>
-    <td class="tg-f4yw">Loving the Environment, Loving the Community</td>
-    <td class="tg-f4yw">-</td>
-    <td class="tg-f4yw">P1 cohort of RGPS</td>
-  </tr>
+<tr>
+<td>P4 GEP</td>
+<td>Loving Animals<br>Loving the Community</td>
+<td>SPCA</td>
+<td>RGPS Community</td>
+</tr>
+<tr>
+<td>P5 GEP</td>
+<td>Loving People<br>Loving the Community</td>
+<td>Chao Yang School</td>
+<td>Chao Yang Pupils</td>
+</tr>
+<tr>
+<td>P6 GEP</td>
+<td>Loving Environment<br>Loving the Community</td>
+<td>-</td>
+<td>P1 cohort of RGPS</td>
+</tr>
 </tbody>
 </table>
 
