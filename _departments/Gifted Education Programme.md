@@ -338,12 +338,12 @@ Students will also be required to work collaboratively with others, in pairs or 
    
 Learning activities emphasise four basic categories:
 *   knowledge and information based on current affairs and the social sciences
-*   **Skills**
+*   *Skills*
 	*   higher level thinking skills such as reflective reasoning, analytical thinking and critical judgement, study skills and
 	*   work habits such as note-taking, note-making, observation and independent learning as well as interpersonal and group process skills
-*   **Attitudes and values** 
+*   *Attitudes and values *
 	*   topics on affective education are included to raise students' awareness of ethical and moral issues
-*   **Social participation**
+*   *Social participation*
 	*   to mould students into citizens who are civic-conscious and able to contribute to society
 
 #### 3. Field Trips 
