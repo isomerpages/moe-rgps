@@ -201,13 +201,54 @@ In line with MOE’s direction to reduce school-based assessment and nurture lif
 Bite-sized forms of weighted assessments will be conducted in different terms. The table below shows an overview:
 
 
-|               |Term 1    | Term 2 | Term 3 | Term 4 |
-| -------- | -------- | -------- | -------- | -------- |
-|               | -             | **Weighted Assessment 1** | **Weighted Assessment 2**| **End-of-Year Examination** |
-| Primary 3 | - | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
-| Primary 4 | - | Oral (Stimulus-based Conversation) | Language Use | Refer to details for EYE in the table below. |
-| Primary 5 | - | Reading Comprehension | Situational Writing | Refer to details for EYE in the table below. |
-| Primary 6 | Language Use | Oral (Stimulus-based Conversation) |  | Refer to details for EYE in the table below. |
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:10%"></th>
+<th style="width:15%">Term 1</th>
+<th style="width:25%">Term 2</th>
+<th style="width:25%">Term 3</th>
+<th style="width:25%">Term 4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>Weighted Assessment 1</strong></td>
+<td><strong>Weighted Assessment 2</strong></td>
+<td><strong>End-of-Year Examination</strong></td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td>-</td>
+<td>Reading Comprehension</td>
+<td>Writing</td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td>-</td>
+<td>Oral (Stimulus-based Conversation)</td>
+<td>Language Use</td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td>-</td>
+<td>Reading Comprehension</td>
+<td>Situational Writing</td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+<tr>
+<td>Primary 6</td>
+<td>Language Use</td>
+<td>Oral (Stimulus-based Conversation)</td>
+<td></td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+</tbody>
+</table>
 
 <br><br>
 
