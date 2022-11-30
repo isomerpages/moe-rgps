@@ -234,10 +234,10 @@ Bite-sized forms of weighted assessments will be conducted in different terms. T
 
 <br>
 
-<table style="100%">
+<table style="width:100%">
 <thead>
 <tr>
-<th style="15%">Level</th>
+<th style="width:15%">Level</th>
 <th>Field-based Learning</th>
 </tr>
 </thead>
