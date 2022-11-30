@@ -101,7 +101,7 @@ We are committed to nurturing gifted individuals to their fullest potential for 
 </tbody>
 </table>
 
-#### **GOALS OF GEP**
+#### **Goals of GEP**
 
 The aim of GEP is to develop intellectual rigour, humane values and creativity in gifted youths to prepare them for responsible leadership and service to country and society.
 
@@ -120,7 +120,7 @@ The aim of GEP is to develop intellectual rigour, humane values and creativity i
 </tbody>
 </table>
 
-### **THE GEP ENRICHMENT MODEL**
+### **The GEP Enrichment Model**
 
 The Gifted Education Programme (GEP) curriculum is designed to meet the needs of intellectually gifted students through an enriched curriculum. The GEP curriculum focuses on enrichment and not acceleration.
 
@@ -143,7 +143,7 @@ The enriched curriculum is built on the regular curriculum and differentiated in
 ####  4. Learning environment
 <ul><li>Provides a stimulating, supportive and learner-centred environment</li><li>Supports risk-taking</li><li>Provides out-of-school learning experiences, for example, math trails and visits to parks and museums</li><li>Provides out-of-school extensions, for example, mentorship attachments in collaboration with tertiary institutions</li></ul>
 
-#### **DISTINCTIVE GIFTED EDUCATION PROGRAMMES AT RGPS**
+#### **Distinctive Gifted Education Programmes at RGPS**
 
 #### 1. Individualised Study Options (ISO)
 ISO refers to the wide range of project work options available to GEP students. Each ISO emphasises a slightly different set of skills, ranging from research, information technology, inventive thinking to problem-solving skills.  
@@ -230,7 +230,7 @@ The programmes provide students with enriching experiences in the areas of natur
 
 ![](/images/GEP2.png)
 
-#### **GEP ENRICHED SUBJECTS**
+#### **GEP Enriched Subjects**
   
 ##### **English Language**
 
