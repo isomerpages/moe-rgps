@@ -211,13 +211,13 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
 </tbody>
 </table>
 
-# Assessment
+#### **Assessment**
 
 Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments. Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
 
 In RGPS, our teachers will assess students using different modes of assessment both formally and informally. A meaningful range of assessment modes and tasks are used : class discussions, classroom discourse, performance tasks, use of checklists, use of rubrics with teachers’ comments and students’ reflections.
 
-**P3 & P5:**
+#### P3 & P5
 
 Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The table below shows an overview.
 
@@ -249,7 +249,7 @@ Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The
 </tbody>
 </table>
 
-**P3 – P6 Science Assessment Weighting**
+#### P3 – P6 Science Assessment Weighting
 
 <table style="width:100%">
 <thead>
