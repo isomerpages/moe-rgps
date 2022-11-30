@@ -199,14 +199,6 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
 </tbody>
 </table>
 
-|Programmes|Programme Aims|
-|---|---|
-|**E2K Science**<br>(Primary 4 – 5)|<ul><li>Provide opportunity for students to engage in scientific investigation to discover and deepen their understanding of advanced science concepts through inquiry approach. </li>
-<li>Engage students in scientific inquiry that will help them to develop the habits, attitudes and disposition scientists possess  
-develop in students the 21st century competencies such resilience and resourcefulness, critical and inventive thinking, and effective communication skills.</li></ul>|
-|**IvP** <br>(Primary 5)|<ul><li>Provide opportunity for students to develop their problem solving , thinking and inventive skills.  </li>
-<li>Expose pupil to Design Thinking framework which provide scaffolds for young innovators to help students think critically about existing problems, to create innovative ideas or products, to develop prototypes to test and improve their ideas. </li> 
-<li>Expose students to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.</li></ul>|
 
 #### **Assessment**
 
