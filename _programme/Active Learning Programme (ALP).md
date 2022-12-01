@@ -7,7 +7,7 @@ description: ""
 
 #### ALP@RAFFLES - Nurturing Confident Communicators 
 
-6-year oracy programme comprising:
+**6-year oracy programme comprising:**
 
 * Oracy Skills Framework (provides appropriate and effective structure to support design and review of skills);
 * Oracy Curriculum (provides sound foundation for the development of skills through various platforms and opportunities including lesson plans and resources);
@@ -16,7 +16,7 @@ description: ""
 
 ![](/images/ENG%20RGPS.jpeg)
 
-Aims of ALP Programme:
+**Aims of ALP Programme:**
 
 * communicate effectively in diverse contexts and for a range of purposes and audiences;
 * speak with confidence, clarity and fluency;
@@ -32,9 +32,9 @@ Aims of ALP Programme:
 | Speak@Raffles/PESA | The pupils achieved good speech habits, accurate pronunciation, clear articulation, intonation. The programme provided a platform for pupils to showcase their talents in speech. They acquired the broad concepts and principles in prepared speech.<br><br>The programme culminated in an interclass competition within the level. Thereafter, winners of the interclass competitions took part in the national PESA competition. | 
 | NEWSALIVE – P4 & P5 Software Solutions for Effective Communication & Training (Newsmaker)| The Newsmaker is an innovative learning toolkit that inspires creative thinking, exposes pupils to real world video production techniques and allows them to accomplish high-quality and professional news production from Web cameras. This programme encourages pupils to speak with confidence whilst presenting a news item.<br><br>It also exposed pupils to different aspects and techniques news making. | 
 
- **Purpose** 
+### **Purpose **
 
-The purpose of these programmes is to:
+**The purpose of these programmes is to:**
 
 * encourage students to speak clearly and expressively;
 * develop confidence;
@@ -49,7 +49,7 @@ The purpose of these programmes is to:
 | -------- | -------- | 
 | P5 - P6 Impromptu Speech  | Using guided lesson plans, teachers teach students how to use PREP to answer the question posed. Students will be given opportunities to speak in their groups. Every student gets to practice her oral skills, hear each other and give feedback. All students get to present to the class.<br><br>Due to social distancing measures implemented in school, the competition in 2020 took a different format. Instead of having the whole cohort in the hall to watch a competition, the participant of each class did a video recording to record their individual speech. The recorded clips were then assessed by judges. |
 
-**Purpose**
+### **Purpose **
 
 The purpose of this programme are to:
 
@@ -65,7 +65,7 @@ The purpose of this programme are to:
 | -------- | -------- | 
 | Raffles Voice (Speakers’ Corner)  | Participants are P5 and P6 students who gather to talk about a range of social, educational and trending topics. | 
 
-**Purpose**
+### **Purpose **
 
 The purpose of this programme is to:
 
@@ -80,7 +80,7 @@ The purpose of this programme is to:
 | -------- | -------- | 
 | Literature-in-Action | Teachers provide a conducive environment in which students are encouraged to speak up - discuss issues and to ask thought-provoking questions. Experiences are important in students’ oral development. Students will demonstrate visual acuity and aesthetic sensibilities and sensitivities in expressing themselves. They will also have the means of formulating and expressing ideas, perceptions and feelings. |
 
-**Purpose**
+### **Purpose **
 
 Providing literature-rich programmes promotes and facilitates effective Language Arts teaching and learning. Students learn to critique and articulate different perspectives, linked to the theme, characters and plot found in literature texts.
 
@@ -89,6 +89,6 @@ Providing literature-rich programmes promotes and facilitates effective Language
 | -------- | -------- |
 | Using Drama in EL classroom | Experiential learning to aid understanding perspectives and POVs. To understand motives and intentions of characters. | 
 
-**Purpose**
+### **Purpose **
 
 Students will demonstrate their deeper understandings of synergies inherent in the exchange of ideas and information and thus communicate more effectively. They will be able to explore, reflect on, and express their own ideas, learning, perceptions and feelings, to demonstrate sensitivity and empathy where necessary in communicating various kinds of emotions and information and present information and instructions clearly, logically, concisely and accurately for a variety of purposes, audiences and contexts.
