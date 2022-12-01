@@ -15,8 +15,8 @@ sections:
         - title: Quick Links
           description: To Access Useful  Resources
           url: /quick-links
-        - title: SLS & Student ICON
-          description: Login Info
+        - title: Calendar of Events
+          description: School Events & Activities
           url: ""
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
