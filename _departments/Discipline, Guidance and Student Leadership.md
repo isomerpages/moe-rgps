@@ -60,4 +60,3 @@ There is a learning and behavioural needs specialist in the school to see to pup
 The prefects are selected at the end of the year by their teachers. The selection is based on a criteria set by Discipline, Guidance and Student Leadership Department.
 
 ![](/images/prefectboard.jpg)
-
