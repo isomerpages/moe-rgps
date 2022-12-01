@@ -17,7 +17,7 @@ sections:
           url: /quick-links
         - title: Calendar of Events
           description: School Events & Activities
-          url: ""
+          url: /parents/COE/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infobar:
