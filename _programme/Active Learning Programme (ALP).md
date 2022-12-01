@@ -30,11 +30,12 @@ description: ""
 | -------- | -------- | 
 | P1-2 Digital Puppetry Solution (Moo-O) | Moo-O is a unique digital storybook that helps hone children's reading fluency skills.<br><br>Students are engaged as they instantly become characters in the story that they are reading, making reading-aloud a meaningful activity. | 
 | Speak@Raffles/PESA | The pupils achieved good speech habits, accurate pronunciation, clear articulation, intonation. The programme provided a platform for pupils to showcase their talents in speech. They acquired the broad concepts and principles in prepared speech.<br><br>The programme culminated in an interclass competition within the level. Thereafter, winners of the interclass competitions took part in the national PESA competition. | 
-| NEWSALIVE – P4 & P5 Software Solutions for Effective Communication & Training (Newsmaker)| The Newsmaker is an innovative learning toolkit that inspires creative thinking, exposes pupils to real world video production techniques and allows them to accomplish high-quality and professional news production from Web cameras. This programme encourages pupils to speak with confidence whilst presenting a news item.<br><br>It also exposed pupils to different aspects and techniques news making. | 
+| NEWSALIVE – P4 & P5 Software Solutions for Effective Communication & Training (Newsmaker)| The Newsmaker is an innovative learning toolkit that inspires creative thinking, exposes pupils to real world video production techniques and allows them to accomplish high-quality and professional news production from Web cameras. This programme encourages pupils to speak with confidence whilst presenting a news item.<br><br>It also exposed pupils to different aspects and techniques news making.| 
+| P5 - P6 Impromptu Speech  | Using guided lesson plans, teachers teach students how to use PREP to answer the question posed. Students will be given opportunities to speak in their groups. Every student gets to practice her oral skills, hear each other and give feedback. All students get to present to the class.<br><br>Due to social distancing measures implemented in school, the competition in 2020 took a different format. Instead of having the whole cohort in the hall to watch a competition, the participant of each class did a video recording to record their individual speech. The recorded clips were then assessed by judges. |
 
 ### **Purpose**
 
-**The purpose of these programmes is to:**
+**The objectives of these programmes is to:**
 
 * encourage students to speak clearly and expressively;
 * develop confidence;
@@ -43,37 +44,19 @@ description: ""
 * nurture confident and articulate speakers; 
 * allow students to pursue creative and expressive capacities.
 
-
-
-| Programme | Approach | 
-| -------- | -------- | 
-| P5 - P6 Impromptu Speech  | Using guided lesson plans, teachers teach students how to use PREP to answer the question posed. Students will be given opportunities to speak in their groups. Every student gets to practice her oral skills, hear each other and give feedback. All students get to present to the class.<br><br>Due to social distancing measures implemented in school, the competition in 2020 took a different format. Instead of having the whole cohort in the hall to watch a competition, the participant of each class did a video recording to record their individual speech. The recorded clips were then assessed by judges. |
-
-### **Purpose**
-
-**The purpose of this programme are to:**
-
-* encourage students to speak clearly and expressively;
-* develop confidence;
-* expose students to different aspects of impromptu speech;
-* demonstrate an awareness of the importance of voice modulation techniques and audience presence throughout the performance;
-* nurture confident and articulate speakers; and
-* allow students to pursue creative and expressive capacities.
-
-
 | Programme | Approach | 
 | -------- | -------- | 
 | Raffles Voice (Speakers’ Corner)  | Participants are P5 and P6 students who gather to talk about a range of social, educational and trending topics. | 
 
 ### **Purpose**
 
-**The purpose of this programme is to:**
+**The objectives of this programme is to:**
 
 * provide students a platform to express themselves clearly, with confidence and power, in a variety of speaking situations;
 * allow students to speak with poise in front of an audience;
 * allow students to express ideas in a compelling and convincingly manner;
 * provide an opportunity for students to motivate audience to influence listeners positively; and
-* allow students to share information which enhances an audience understanding of a subject.
+* allow students to share information which enhances an audience understanding of a given topic.
 
 
 | Programme | Approach | 
@@ -82,7 +65,11 @@ description: ""
 
 ### **Purpose**
 
-Providing literature-rich programmes promotes and facilitates effective Language Arts teaching and learning. Students learn to critique and articulate different perspectives, linked to the theme, characters and plot found in literature texts.
+**The objectives of this programme is to:**
+
+* promote an appreciation and enjoyment of quality literature;
+* provide opportunities for students to critique and articulate different perspectives, linked to the theme, characters and plot found in literature texts.
+
 
 
 | Programme | Approach | 
