@@ -49,7 +49,7 @@ c.       Character and Citizenship Education (CCE)
 #### **Primary 5** 
 
 ##### Gosh! I Am Changing
-
+<html>
 <table style="width:100%">
 <tr>
 <td style="width:20%">Lessons/Duration</td>
@@ -77,10 +77,10 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 2 Week 6</td>
 </tr>
 </table>
-
+</html>
 
 ##### Where I Belong
-
+<html>
 <table style="width:100%">
 <tr>
 <td style="width:20%">Lessons/Duration</td>
@@ -98,9 +98,10 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 2 Week 8</td>
 </tr>
 </table>
-
+</html>
 
 ##### How Do I Keep Myself Safe?
+<html>
 <table style="width:100%">
 <tr>
 <td style="width:20%">Lessons/Duration</td>
@@ -118,11 +119,23 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 4 Week 2</td>
 </tr>
 </table>
-
+</html>
 
 #### **Primary 6** 
 
-##### Unit: Gosh! I Am Changing
+##### Are We More Than Friends?
+
+|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
+|---|---|---|
+
+
+
+
+##### Friends or Foes?
+
+|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
+|---|---|---|
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
