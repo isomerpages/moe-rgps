@@ -58,17 +58,12 @@ c.       Character and Citizenship Education (CCE)
 |Main Task<br>(30 min)|**Description of the Main Task:**<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 2 Week 6|
 
 ##### Where I Belong
-
 |Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
 |---|---|---|
 |What Are Families?<br>(30 min)|* know that there are different types of family structures <br>* know that every family is unique  state that the three basic functions of families are to provide love, protection and guidance <br>* identify the right sources of help to turn to when in need|Term 2 Week 8|
 |What is My Role?<br>(30 min)|* know that gender is about being male or female<br>* choose not to stereotype by gender|Term 2 Week 8|
 
-
-
-
 ##### How Do I Keep Myself Safe?
-
 |Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
 |---|---|---|
 |What is Safety?<br>(30 min)|* know what sexual abuse is<br>* know that there are laws in Singapore that can protect them from sexual abuse<br>* know their rights in keeping themselves safe from sexual abuse|Term 3 Week 9|
