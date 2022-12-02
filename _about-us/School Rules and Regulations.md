@@ -5,7 +5,7 @@ description: ""
 ---
 #### **School Rules and Regulations**
 
-#### All RGPS pupils are expected to abide by the school rules and to be well behaved at all times. 
+##### All RGPS pupils are expected to abide by the school rules and to be well behaved at all times. 
 
 All pupils must remember to: 
 * sing the National Anthem with enthusiasm and take the Pledge at Assembly, placing their right fist over their heart when saying the Pledge 
