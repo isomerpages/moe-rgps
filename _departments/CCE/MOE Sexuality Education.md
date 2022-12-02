@@ -60,17 +60,17 @@ c.       Character and Citizenship Education (CCE)
 </tr>
 <tr>
 <td>What Is Happening To Me?<br>(30 min)</td>
-	<td><ul><li>know what puberty is identify the physical changes during puberty</li></ul></td>
+	<td>* know what puberty is identify the physical changes during puberty</td>
 <td>Term 2 Week 4</td>
 </tr>
 <tr>
 <td>What Can I Do? (Part 1)<br>(30 min)</td>
-<td><ul><li>identify the stresses caused by physical and emotional changes during puberty</li><li>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li><li>describe the emotions caused by physical changes during puberty</li><li>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</li></td>
+<td>* identify the stresses caused by physical and emotional changes during puberty<br>* describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* describe the emotions caused by physical changes during puberty<br>* recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
 <td>Term 2 Week 4</td>
 </tr>
 <tr>
 <td>What Can I Do? (Part 2)<br>(30 min)</td>
-<td><ul><li>identify the stresses caused by physical and emotional changes during puberty</li><li>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li><li>describe the emotions caused by physical changes during puberty</li><li>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</li></td>
+<td><br>* identify the stresses caused by physical and emotional changes during puberty<br>* describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* describe the emotions caused by physical changes during puberty<br>* recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
 <td>Term 2 Week 6</td>
 </tr>
 <tr>
