@@ -50,7 +50,6 @@ c.       Character and Citizenship Education (CCE)
 
 #### **Primary 5** 
 ##### Gosh! I Am Changing
-
 |Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
 |---|---|---|
 |What Is Happening To Me?<br>(30 min)|* know what puberty is identify the physical changes during puberty|Term 2 Week 4|
