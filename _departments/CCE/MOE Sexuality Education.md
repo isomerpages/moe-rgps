@@ -55,7 +55,7 @@ c.       Character and Citizenship Education (CCE)
 <tr>
 <th style="width:20%">Lessons/Duration</th>
 <th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style="width:15%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
 </tr>
 </thead>
 <tbody>
@@ -70,7 +70,7 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 2 Week 4</td>
 </tr>
 <tr>
-<td>What Can I Do? (Part 1)<br>(30 min)</td>
+<td>What Can I Do? (Part 2)<br>(30 min)</td>
 <td><em> identify the stresses caused by physical and emotional changes during puberty<br></em> describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><em> describe the emotions caused by physical changes during puberty<br></em> recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
 <td>Term 2 Week 6</td>
 </tr>
@@ -89,7 +89,7 @@ c.       Character and Citizenship Education (CCE)
 <tr>
 <th style="width:20%">Lessons/Duration</th>
 <th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style="width:15%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
 </tr>
 </thead>
 <tbody>
@@ -113,7 +113,7 @@ c.       Character and Citizenship Education (CCE)
 <tr>
 <th style="width:20%">Lessons/Duration</th>
 <th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style="width:15%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
 </tr>
 </thead>
 <tbody>
