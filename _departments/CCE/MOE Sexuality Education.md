@@ -133,8 +133,69 @@ c.       Character and Citizenship Education (CCE)
 
 #### **Primary 6** 
 
+<table>
+<thead>
+  <tr style="width:100%">
+    <th style="width:20%">LESSONS / DURATION</th>
+    <th style="width:55%">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+    <th style="width:25%">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Who Are My Friends?<br>(30 min)</td>
+    <td>* identify the qualities of a healthy friendship<br>* recognise the importance of making wise choices in friendship<br></td>
+    <td>Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td>Am I A Good Friend?<br>(30 min)</td>
+    <td>* identify the qualities that they have as a friend<br>* recognise the importance of developing in oneself the qualities of a good friend<br></td>
+    <td>Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td>What is Love?<br>(30 min)</td>
+    <td>* identify the characteristics of love and infatuation<br>* distinguish between the characteristics of love versus infatuation<br>* identify strong feelings arising from infatuation</td>
+    <td>Term 2 Week 6</td>
+  </tr>
+  <tr>
+    <td>Am I Falling In Love?<br>(30 min)</td>
+    <td>* manage strong feelings arising from infatuation<br>* identify ways to manage and cope with teasing from peers<br></td>
+    <td>Term 2 Week 6</td>
+  </tr>
+  <tr>
+    <td>Main Task<br> (30 min)</td>
+    <td>* Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td>Term 3 Week 4</td>
+  </tr>
+</tbody>
+</table>
 
-
+<table>
+<thead>
+  <tr style="width:100%">
+    <th style="width:20%">LESSONS / DURATION</th>
+    <th style="width:55%">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+    <th style="width:25%">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Are You Really My Friend?<br>(30 min)</td>
+    <td>* identify the pros and cons of forming relationships through social networking websites<br>* know ways to keep themselves safe when using social networking websites</td>
+    <td>Term 3 Week 4</td>
+  </tr>
+  <tr>
+    <td>Is It All Safe?<br>(30 min)</td>
+    <td>* know that some information (like pornography) received through the Internet may be harmful<br>* know ways to keep themselves safe when using social networking websites or the Internet</td>
+    <td>Term  3 Week 3</td>
+  </tr>
+  <tr>
+    <td>Main Task<br> (30 min)</td>
+    <td>Description of the Main Task:<br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
+    <td>Term 3 Week 8</td>
+  </tr>
+</tbody>
+</table>
 
 **Information for Parents**
 
