@@ -51,14 +51,11 @@ c.       Character and Citizenship Education (CCE)
 ##### Gosh! I Am Changing
 
 <table style="width:100%">
-<thead>
 <tr>
-<th style="width:20%">Lessons/Duration</th>
-<th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<td style="width:20%">Lessons/Duration</td>
+<td style="width:60%">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+<td style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</td>
 </tr>
-</thead>
-
 <tr>
 <td>What Is Happening To Me?<br>(30 min)</td>
 	<td><ul><li>know what puberty is identify the physical changes during puberty</li></ul></td>
@@ -80,6 +77,7 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 2 Week 6</td>
 </tr>
 </table>
+
 
 ##### Where I Belong
 
