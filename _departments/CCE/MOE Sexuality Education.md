@@ -58,12 +58,12 @@ c.       Character and Citizenship Education (CCE)
 |Main Task<br>(30 min)|**Description of the Main Task:**<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 2 Week 6|
 
 ##### Where I Belong
-<table style=width="100%">
+<table style="width:100%">
 <thead>
 <tr>
-<th>Lessons/Duration</th>
+<th style="width:20%">Lessons/Duration</th>
 <th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th>Time Period<br>(e.g. Term 1 Week 2)</th>
+<th style="width:15%">Time Period<br>(e.g. Term 1 Week 2)</th>
 </tr>
 </thead>
 <tbody>
@@ -82,12 +82,12 @@ c.       Character and Citizenship Education (CCE)
 
 
 ##### How Do I Keep Myself Safe?
-<table style=width="100%">
+<table style="width:100%">
 <thead>
 <tr>
-<th style=width="20%">Lessons/Duration</th>
+<th style="width:20%">Lessons/Duration</th>
 <th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style=width="15%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<th style="width:15%">Time Period<br>(e.g. Term 1 Week 2)</th>
 </tr>
 </thead>
 <tbody>
