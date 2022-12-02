@@ -60,6 +60,8 @@ c.       Character and Citizenship Education (CCE)
 |What Can I Do? (Part 1)<br>(30 min)|* identify the stresses caused by physical and emotional changes during puberty<br>* describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* describe the emotions caused by physical changes during puberty<br>* recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 6|
 |Main Task<br>(30 min)|**Description of the Main Task:**<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 2 Week 6|
 
+##### Gosh! I Am Changing
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
