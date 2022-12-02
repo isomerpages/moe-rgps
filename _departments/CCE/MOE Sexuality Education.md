@@ -166,7 +166,7 @@ c.       Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td>Main Task<br> (30 min)</td>
-    <td>* Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td>Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
     <td>Term 3 Week 4</td>
   </tr>
 </tbody>
