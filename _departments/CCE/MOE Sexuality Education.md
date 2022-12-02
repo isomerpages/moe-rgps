@@ -28,7 +28,7 @@ third_nav_title: CCE
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of Raffles Girls’ Primary** **School’s** **Sexuality Education Programme for 2022**
+**Overview of Raffles Girls’ Primary School’s Sexuality Education Programme for 2022**
 
 4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.  You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -37,8 +37,6 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 a.       Science  
 b.       Form Teacher Guidance Period (FTGP)  
 c.       Character and Citizenship Education (CCE)
-
-  
 
 **Sexuality Education**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
 
@@ -49,6 +47,7 @@ c.       Character and Citizenship Education (CCE)
 **At Raffles Girls’ Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
 
 #### **Primary 5** 
+
 ##### Gosh! I Am Changing
 
 <table style="width:100%">
@@ -59,7 +58,7 @@ c.       Character and Citizenship Education (CCE)
 <th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
 </tr>
 </thead>
-<tbody>
+
 <tr>
 <td>What Is Happening To Me?<br>(30 min)</td>
 	<td><ul><li>know what puberty is identify the physical changes during puberty</li></ul></td>
@@ -77,12 +76,10 @@ c.       Character and Citizenship Education (CCE)
 </tr>
 <tr>
 <td>Main Task<br>(30 min)</td>
-	<td><strong>Description of the Main Task:</strong><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+	<td>Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
 <td>Term 2 Week 6</td>
 </tr>
-</tbody>
 </table>
-
 
 ##### Where I Belong
 
@@ -134,6 +131,7 @@ c.       Character and Citizenship Education (CCE)
 
 
 #### **Primary 6** 
+
 ##### Unit: Gosh! I Am Changing
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
