@@ -51,7 +51,7 @@ c.       Character and Citizenship Education (CCE)
 #### **Primary 5** 
 ##### Gosh! I Am Changing
 
-|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period (e.g. Term 1 Week 2)|
+|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
 |---|---|---|
 |What Is Happening To Me?<br>(30 min)|* know what puberty is identify the physical changes during puberty|Term 2 Week 4|
 |What Can I Do? (Part 1)<br>(30 min)|* identify the stresses caused by physical and emotional changes during puberty<br>* describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* describe the emotions caused by physical changes during puberty<br>* recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 4|
@@ -60,7 +60,7 @@ c.       Character and Citizenship Education (CCE)
 
 ##### Where I Belong
 
-|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period (e.g. Term 1 Week 2)|
+|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
 |---|---|---|
 |What Are Families?<br>(30 min)|* know that there are different types of family structures <br>* know that every family is unique  state that the three basic functions of families are to provide love, protection and guidance <br>* identify the right sources of help to turn to when in need|Term 2 Week 8|
 |What is My Role?<br>(30 min)|* know that gender is about being male or female<br>* choose not to stereotype by gender|Term 2 Week 8|
@@ -70,7 +70,7 @@ c.       Character and Citizenship Education (CCE)
 
 ##### How Do I Keep Myself Safe?
 
-|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period (e.g. Term 1 Week 2)|
+|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
 |---|---|---|
 |What is Safety?<br>(30 min)|* know what sexual abuse is<br>* know that there are laws in Singapore that can protect them from sexual abuse<br>* know their rights in keeping themselves safe from sexual abuse|Term 3 Week 9|
 |Stop It! Run! Tell!<br>(30 min)|* protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>* know their responsibilities in minimising the risk of sexual harm|Term 4 Week 2|
