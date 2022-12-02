@@ -133,6 +133,8 @@ c.       Character and Citizenship Education (CCE)
 
 #### **Primary 6** 
 
+##### Are We More Than Friends?
+
 <table>
 <thead>
   <tr style="width:100%">
@@ -169,6 +171,8 @@ c.       Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+##### Friends or Foes?
 
 <table>
 <thead>
