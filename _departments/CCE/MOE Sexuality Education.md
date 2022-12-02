@@ -50,6 +50,7 @@ c.       Character and Citizenship Education (CCE)
 
 ##### Gosh! I Am Changing
 <html>
+	<body>
 <table style="width:100%">
 <tr>
 <td style="width:20%">Lessons/Duration</td>
@@ -77,10 +78,12 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 2 Week 6</td>
 </tr>
 </table>
+	</body>
 </html>
 
 ##### Where I Belong
 <html>
+	<body>
 <table style="width:100%">
 <tr>
 <td style="width:20%">Lessons/Duration</td>
@@ -98,10 +101,12 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 2 Week 8</td>
 </tr>
 </table>
+	</body>
 </html>
 
 ##### How Do I Keep Myself Safe?
 <html>
+	<body>
 <table style="width:100%">
 <tr>
 <td style="width:20%">Lessons/Duration</td>
@@ -119,6 +124,7 @@ c.       Character and Citizenship Education (CCE)
 <td>Term 4 Week 2</td>
 </tr>
 </table>
+	</body>
 </html>
 
 #### **Primary 6** 
