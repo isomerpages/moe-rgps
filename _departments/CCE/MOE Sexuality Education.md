@@ -50,12 +50,38 @@ c.       Character and Citizenship Education (CCE)
 
 #### **Primary 5** 
 ##### Gosh! I Am Changing
-|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
-|---|---|---|
-|What Is Happening To Me?<br>(30 min)|* know what puberty is identify the physical changes during puberty|Term 2 Week 4|
-|What Can I Do? (Part 1)<br>(30 min)|* identify the stresses caused by physical and emotional changes during puberty<br>* describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* describe the emotions caused by physical changes during puberty<br>* recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 4|
-|What Can I Do? (Part 1)<br>(30 min)|* identify the stresses caused by physical and emotional changes during puberty<br>* describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* describe the emotions caused by physical changes during puberty<br>* recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 2 Week 6|
-|Main Task<br>(30 min)|**Description of the Main Task:**<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 2 Week 6|
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:20%">Lessons/Duration</th>
+<th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+<th style="width:15%">Time Period<br>(e.g. Term 1 Week 2)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What Is Happening To Me?<br>(30 min)</td>
+<td>* know what puberty is identify the physical changes during puberty</td>
+<td>Term 2 Week 4</td>
+</tr>
+<tr>
+<td>What Can I Do? (Part 1)<br>(30 min)</td>
+<td><em> identify the stresses caused by physical and emotional changes during puberty<br></em> describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><em> describe the emotions caused by physical changes during puberty<br></em> recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+<td>Term 2 Week 4</td>
+</tr>
+<tr>
+<td>What Can I Do? (Part 1)<br>(30 min)</td>
+<td><em> identify the stresses caused by physical and emotional changes during puberty<br></em> describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><em> describe the emotions caused by physical changes during puberty<br></em> recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+<td>Term 2 Week 6</td>
+</tr>
+<tr>
+<td>Main Task<br>(30 min)</td>
+<td><strong>Description of the Main Task:</strong><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+<td>Term 2 Week 6</td>
+</tr>
+</tbody>
+</table>
+
 
 ##### Where I Belong
 <table style="width:100%">
