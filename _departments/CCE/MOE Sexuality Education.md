@@ -82,14 +82,11 @@ c.       Character and Citizenship Education (CCE)
 ##### Where I Belong
 
 <table style="width:100%">
-<thead>
 <tr>
-<th style="width:20%">Lessons/Duration</th>
-<th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<td style="width:20%">Lessons/Duration</td>
+<td style="width:60%">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+<td style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>What Are Families?<br>(30 min)</td>
 <td><ul><li>know that there are different types of family structures</li><li>know that every family is unique  state that the three basic functions of families are to provide love, protection and guidance </li><li>identify the right sources of help to turn to when in need</li></ul></td>
@@ -100,20 +97,16 @@ c.       Character and Citizenship Education (CCE)
 <td><ul><li>know that gender is about being male or female</li><li>choose not to stereotype by gender</li></ul></td>
 <td>Term 2 Week 8</td>
 </tr>
-</tbody>
 </table>
 
 
 ##### How Do I Keep Myself Safe?
 <table style="width:100%">
-<thead>
 <tr>
-<th style="width:20%">Lessons/Duration</th>
-<th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<td style="width:20%">Lessons/Duration</td>
+<td style="width:20%">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+<td style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</td>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td>What is Safety?<br>(30 min)</td>
 <td><ul><li>know what sexual abuse is</li><li> know that there are laws in Singapore that can protect them from sexual abuse</li><li> know their rights in keeping themselves safe from sexual abuse</li></ul></td>
@@ -124,7 +117,6 @@ c.       Character and Citizenship Education (CCE)
 <td><ul><li>protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult</li><li>know their responsibilities in minimising the risk of sexual harm</li></ul></td>
 <td>Term 4 Week 2</td>
 </tr>
-</tbody>
 </table>
 
 
