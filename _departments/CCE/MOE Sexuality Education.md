@@ -58,10 +58,28 @@ c.       Character and Citizenship Education (CCE)
 |Main Task<br>(30 min)|**Description of the Main Task:**<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 2 Week 6|
 
 ##### Where I Belong
-|Lessons/Duration|Lesson Objectives<br>At the end of the lesson, pupils will be able to:|Time Period<br>(e.g. Term 1 Week 2)|
-|---|---|---|
-|What Are Families?<br>(30 min)|* know that there are different types of family structures <br>* know that every family is unique  state that the three basic functions of families are to provide love, protection and guidance <br>* identify the right sources of help to turn to when in need|Term 2 Week 8|
-|What is My Role?<br>(30 min)|* know that gender is about being male or female<br>* choose not to stereotype by gender|Term 2 Week 8|
+<table style=width="100%">
+<thead>
+<tr>
+<th>Lessons/Duration</th>
+<th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+<th>Time Period<br>(e.g. Term 1 Week 2)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What Are Families?<br>(30 min)</td>
+<td><em> know that there are different types of family structures <br></em> know that every family is unique  state that the three basic functions of families are to provide love, protection and guidance <br>* identify the right sources of help to turn to when in need</td>
+<td>Term 2 Week 8</td>
+</tr>
+<tr>
+<td>What is My Role?<br>(30 min)</td>
+<td><em> know that gender is about being male or female<br></em> choose not to stereotype by gender</td>
+<td>Term 2 Week 8</td>
+</tr>
+</tbody>
+</table>
+
 
 ##### How Do I Keep Myself Safe?
 <table style=width="100%">
