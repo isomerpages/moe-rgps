@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness Programme
-permalink: /departments/CCE/cyber-wellness-programme
+permalink: /departments/CCE/cyber-wellness-programme/
 description: ""
 third_nav_title: CCE
 ---
@@ -40,52 +40,45 @@ Students need to:
 * advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
 
 ![](/images/cwp2.jpeg)
-*MOE Cyber Wellness Education*
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+#### **MOE Cyber Wellness Education**
+
+<table style="width:100%">
 <thead>
   <tr>
-    <th class="tg-n4qt">Level</th>
-    <th class="tg-n4qt"> Cyber Wellness topics</th>
+    <th style="width:15%">Level</th>
+    <th> Cyber Wellness topics</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n4qt">Primary 1</td>
-    <td class="tg-n4qt">Surf Safe</td>
+    <td>Primary 1</td>
+    <td>Surf Safe</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">Primary 2</td>
-    <td class="tg-n4qt">Basic Netiquette</td>
+    <td>Primary 2</td>
+    <td>Basic Netiquette</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">Primary 3</td>
-    <td class="tg-n4qt">Stay Safe In the Cyber World</td>
+    <td>Primary 3</td>
+    <td>Stay Safe In the Cyber World</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">Primary 4</td>
-    <td class="tg-n4qt">Handling Inappropriate Content and Copyrights issues</td>
+    <td>Primary 4</td>
+    <td>Handling Inappropriate Content and Copyrights issues</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">Primary 5</td>
-    <td class="tg-n4qt">Netiquette and Cyberbullying</td>
+    <td>Primary 5</td>
+    <td>Netiquette and Cyberbullying</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">Primary 6</td>
-    <td class="tg-n4qt">Disclosing Personal Data and Negative digital footprints</td>
+    <td>Primary 6</td>
+    <td>Disclosing Personal Data and Negative digital footprints</td>
   </tr>
 </tbody>
 </table>
 
-**Sense-Think-Act @ Home**  
+#### **Sense-Think-Act @ Home**  
 
 To complement the CW curriculum in schools, parents can set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace. To ensure that their children are safe and have positive experiences online, parents can:
 
