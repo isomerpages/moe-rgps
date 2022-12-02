@@ -55,13 +55,11 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
 
 The goal of CCE is to inculcate values and build competencies in our pupils to develop them to be good individuals and useful citizens. The core values are:
 
-<ol type="a">
-	<li>Respect</li>
-	<li>Responsibility</li>
-	<li>Resilience</li>
-	<li>Integrity</li>
-	<li>Care</li>
-	<li>Harmony</li>
-</ol>
+a. Respect<br>
+b. Responsibility<br>
+c. Resilience<br>
+d. Integrity<br>
+e. Care<br>
+f. Harmony
 
 2.      To equip our pupils with the ability to make responsible decisions and become more aware of their roles in the society.
