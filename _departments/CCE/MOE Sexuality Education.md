@@ -1,12 +1,10 @@
 ---
 title: MOE Sexuality Education
-permalink: /departments/CCE/moe-sexuality-education
+permalink: /departments/CCE/moe-sexuality-education/
 description: ""
 third_nav_title: CCE
 ---
-# MOE Sexuality Education
-
-**MOE Sexuality Education in Schools**
+#### **MOE Sexuality Education**
 
 1.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -52,6 +50,8 @@ c.       Character and Citizenship Education (CCE)
 
 **At Raffles Girls’ Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
 
+#### **Primary 5** 
+##### Gosh! I Am Changing
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -65,9 +65,7 @@ c.       Character and Citizenship Education (CCE)
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Primary 5</span></th>
-  </tr>
+
 </thead>
 <tbody>
   <tr>
@@ -123,6 +121,8 @@ c.       Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
+#### **Primary 6** 
+##### Unit: Gosh! I Am Changing
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
