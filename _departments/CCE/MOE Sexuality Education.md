@@ -55,8 +55,8 @@ c.       Character and Citizenship Education (CCE)
 <table style="width:100%">
 <tr>
 <th style="width:20%">Lessons/Duration</th>
-<th style="width:60%">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-<th style="width:20%">Time Period<br>(e.g. Term 1 Week 2)</th>
+<th style="width:58%">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+<th style="width:22%">Time Period<br>(e.g. Term 1 Week 2)</th>
 </tr>
 <tr>
 <td>What Is Happening To Me?<br>(30 min)</td>
