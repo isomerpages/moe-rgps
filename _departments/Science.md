@@ -126,7 +126,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
   * Earth Week<br>
    * Biodiversity Week<br>
     * Science Fair<br>
-  * Weekly Remedial Lessons"</td>
+  * Weekly Remedial Lessons</td>
     </tr>
     <tr>
         <td>Primary 5</td>
@@ -138,7 +138,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
     * Earth Week<br>
    * Biodiversity Week<br>
     * Science Fair<br>
-   * Weekly Remedial lessons"</td>
+   * Weekly Remedial lessons</td>
     </tr>
     <tr>
         <td>Primary 6</td>
@@ -150,7 +150,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
   * Earth Week<br>
    * Biodiversity Week<br>
     * Science Fair<br>
-   * Weekly Remedial lessons"</td>
+   * Weekly Remedial lessons</td>
     </tr>
 </table>
 
