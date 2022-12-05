@@ -5,10 +5,10 @@ description: ""
 ---
 ### **2023**
 <table>
-    <tr>
-        <th>Name</th>
-        <th>Class</th>
-        <th>Email</th>
+    <tr style="width:100%">
+        <th style="width:30%">Name</th>
+        <th style="width:15%">Class</th>
+        <th style="width:55%">Email</th>
     </tr>
     <tr>
         <td>Mrs Khoo Cheng Eng</td>
