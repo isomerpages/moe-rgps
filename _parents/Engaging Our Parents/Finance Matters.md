@@ -6,7 +6,7 @@ third_nav_title: Engaging Our Parents
 ---
 #### **GIRO Application**
 
-Parents/Guardian are encouraged to sign up for GIRO online, for payment of standard miscellaneous fees and school charges. More information on GIRO application can be found via this link [here](https://www.moe.gov.sg/financial-matters/fees/egiro)<br><br>
+Parents/Guardian are encouraged to sign up for eGIRO online, for payment of standard miscellaneous fees and school charges. The eGIRO application can be found via [here](https://www.moe.gov.sg/financial-matters/fees/egiro)<br><br>
 Parents will have up till 15 Jan 2023 to sign up for GIRO, for the first deduction in February 2023. The eGIRO application [user guide](/files/Forms/eGIRO%20Userguide.pdf)  is attached for your reference.
 
 This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start. Please note that corporate accounts are not allowed. 
