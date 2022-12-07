@@ -7,21 +7,16 @@ third_nav_title: Engaging Our Parents
 #### **GIRO Application**
 
 Parents/Guardian are encouraged to sign up for GIRO online, for payment of standard miscellaneous fees and school charges. More information on GIRO application can be found via this link [here](https://www.moe.gov.sg/financial-matters/fees/egiro)<br><br>
-
-Parents will have up till 15 Jan 2023 to sign up for GIRO, for the first deduction in February 2023. The eGIRO application user guide is attached for your reference.
+Parents will have up till 15 Jan 2023 to sign up for GIRO, for the first deduction in February 2023. The eGIRO application [user guide](/files/Forms/eGIRO%20Userguide.pdf)  is attached for your reference.
 
 This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start. Please note that corporate accounts are not allowed. 
 
-Other bank account holders will need to complete the hardcopy GIRO application form attached and submit the original signed form to the school.
+Other bank account holders will need to complete the [hardcopy GIRO application form](/files/Forms/GIRO_application_form_Nov2022.pdf) attached and submit the original signed form to the school.
 
 You may refer to the following link for any GIRO-related questions [here](https://go.gov.sg/moe-egiro-faq).
 
 As the eGIRO is a relatively new service, please provide your feedback to MOE using the [Feedback Form](https://www.moe.gov.sg/feedback) if you encounter any errors. Kindly provide screen captures, as well as the time and date of your application.
-
-
-
-**NOTE:** GIRO application for some banks may require hardcopy submission. In such instances, please email the school at [rgps@moe.edu.sg](rgps@moe.edu.sg) to set an appointment for the submission.
-
+<br>
 #### **Edusave Standing Order** 
 **Signup (for students who are Singapore citizens only)**
 
