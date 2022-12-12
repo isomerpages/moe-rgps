@@ -35,7 +35,7 @@ You may refer to the following link for any GIRO-related questions [here](https:
 As the eGIRO is a relatively new service, please provide your feedback to MOE using the [Feedback Form](https://www.moe.gov.sg/feedback) if you encounter any errors. Kindly provide screen captures, as well as the time and date of your application.
 <br>
 
-**Edusave Standing Order** 
-**Signup (for students who are Singapore citizens only)**
+**Edusave Standing Order**<br> 
+**(for students who are Singapore citizens only)**
 
-Parents/Guardian can apply to use Edusave funds via Parents Gateway (under Services tab) or the online [Edusave Standing Order Form](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59), for the payment of 2nd\-tier miscellaneous fees and school organised enrichment programmes.
+Parents/Guardian are encourgaed to apply to use Edusave funds via Parents Gateway (under Services tab) or the online [Edusave Standing Order Form](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59), for the payment of 2nd\-tier miscellaneous fees and school organised enrichment programmes.
