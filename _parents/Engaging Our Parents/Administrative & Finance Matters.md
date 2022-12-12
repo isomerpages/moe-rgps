@@ -6,13 +6,13 @@ third_nav_title: Engaging Our Parents
 ---
 #### **Administrative Matters**
 
-Parents can complete these forms from home. Upon completion of the forms, you may [email](rgps@moe.edu.sg) us. 
+Below is a list of administrative application forms that may be required. Please [email](rgps@moe.edu.sg) the completed hardcopy forms to the school.
 
 | Forms    | Descriptions |
 |:-------|:-----------|
-|  **Updating of Student's address** |  For change of address and contact numbers. Please submit the completed form together with a copy of the NRIC reflecting the updated address. <br>[Address Update](/files/Forms/Form%20C%20(Address%20Updates).pdf)  |
+|  **Updating of Student's address** |  For change of address and contact numbers. Please submit the completed [address update form](/files/Forms/Form%20C%20(Address%20Updates).pdf) together with a copy of the NRIC reflecting the updated address.|
 |**Smart Phone/Watch Application**|Should there be a need to bring a smart phone/watch to school, parents/guardian are required to register the device with the [HP & Smart Watch Application Form](/files/Forms/HP%20&%20SW%20Registration%20Form.pdf).|
-|**Student Insurance**|Parents can submit the claim online [here](https://studentgpa.incomegroupins.com.sg/#/)|
+|**Student Insurance**|Parents can submit the claim online [here](https://studentgpa.incomegroupins.com.sg/#/).|
 |**Finance Assistance**|The MOE Financial Assistance Scheme (MOE FAS) application for 2023 is now open. Please read the attached MOE FAS letter for the eligibility criteria and application process. <br><br>[MOE FAS Letter](/files/Forms/MOE%20FAS%20Letter.pdf)<br>[FAS Application Form](/files/Forms/FAS%20Application%20Form_2023.pdf)<br><br>Students who do not meet the criteria for MOE FAS may consider applying for school-based FAS. You may contact the school at 6468 4377 or email [rgps@moe.edu.sg](mailto:rgps@moe.edu.sg) if you have any further queries.|
 |**RGPS Drive-through Car Decal**| All vehicles entering the schools are required to display a “Drive-through” car decal. <br><br>Each household is given a 1st time complimentary car decal. Any additional decal required can be purchased at $10 each from the General Office. <br><br>Parents/Guaridan can apply for the car decal here: [RGPS Drive-through Car Decal Application](https://go.gov.sg/rgps-car-decal)|
 |**Lost Concession Card**| Concession card holders can apply for a replacement card online here: [Replacement of Lost Concession](https://www.transitlink.com.sg/lost-card-replacement/)|
@@ -22,20 +22,7 @@ Parents can complete these forms from home. Upon completion of the forms, you ma
 
 #### **Finance Matters**
 
-**GIRO Application**
-
-Parents/Guardian are encouraged to sign up for eGIRO online, for payment of standard miscellaneous fees and school charges. The eGIRO application can be found via [here](https://www.moe.gov.sg/financial-matters/fees/egiro).<br><br>
-
-You may refer to the eGIRO application [user guide](/files/Forms/eGIRO%20Userguide.pdf) for assistance.
-
-This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start. Please note that corporate accounts are not allowed. Other bank account holders will need to complete the [hardcopy GIRO application form](/files/Forms/GIRO_application_form_Nov2022.pdf) and submit the original signed form to the school.
-
-You may refer to the following link for any GIRO-related questions [here](https://go.gov.sg/moe-egiro-faq).
-
-As the eGIRO is a relatively new service, please provide your feedback to MOE using the [Feedback Form](https://www.moe.gov.sg/feedback) if you encounter any errors. Kindly provide screen captures, as well as the time and date of your application.
-<br>
-
-**Edusave Standing Order**<br> 
-**(for students who are Singapore citizens only)**
-
-Parents/Guardian are encourgaed to apply to use Edusave funds via Parents Gateway (under Services tab) or the online [Edusave Standing Order Form](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59), for the payment of 2nd\-tier miscellaneous fees and school organised enrichment programmes.
+| Application for    | Descriptions |
+|:-------|:-----------|
+|  **GIRO** |Parents/Guardian are encouraged to sign up for eGIRO online, for payment of standard miscellaneous fees and school charges. The eGIRO application can be found via [here](https://www.moe.gov.sg/financial-matters/fees/egiro).<br><br> You may refer to the eGIRO application [user guide](/files/Forms/eGIRO%20Userguide.pdf) for assistance. <br><br> This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start. All other bank account holders will need to complete the [hardcopy GIRO application form](/files/Forms/GIRO_application_form_Nov2022.pdf) and submit the original signed form to the school. <br><br>You may refer to the following link for any GIRO-related questions [here](https://go.gov.sg/moe-egiro-faq).|
+|**Edusave Standing Order** (for Students who are Singapore Citizens only)|Parents/Guardian are encouraged to use Edusave funds for the payment of 2nd\-tier miscellaneous fees and school organised enrichment programmes.<br><br>Parents/Guardian can apply to use the Edusave funds via Parents Gateway (under Services tab) or the online [Edusave Standing Order Form](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59). |
