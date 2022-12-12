@@ -4,6 +4,7 @@ permalink: /parents/Engaging-Our-Parents/administrative-matters/
 description: ""
 third_nav_title: Engaging Our Parents
 ---
+#### **Administrative Matters**
 
 Parents can complete these forms from home. Upon completion of the forms, you may [email](rgps@moe.edu.sg) us. 
 
@@ -17,3 +18,23 @@ Parents can complete these forms from home. Upon completion of the forms, you ma
 |**Lost Concession Card**| Concession card holders can apply for a replacement card. <br><br>[Replacement of Lost Concession](https://www.transitlink.com.sg/lost-card-replacement/)|
 |**Leave of Absence**| For parents who are bringing their children overseas with them upon job posting and wish to retain a place in the school. The application has to be renewed yearly. Application must reach the school by 15 Dec for renewal to be effective the following year. <br><br>[LOA Application Form](https://go.gov.sg/rgps-loa)<br><br>Please [email](rgps@moe.edu.sg) the school after you have submit the online application.|
 |**Immersion Programme**|For pupils who wants to join the school for Immersion Programme. <br><br>[Immersion Programme Application Form](https://rafflesgirlspri.moe.edu.sg/qql/slot/u451/Forms/2021/Immersion%20Form%20for%20application.pdf)|
+
+#### **Finance Matters**
+
+**GIRO Application**
+
+Parents/Guardian are encouraged to sign up for eGIRO online, for payment of standard miscellaneous fees and school charges. The eGIRO application can be found via [here](https://www.moe.gov.sg/financial-matters/fees/egiro).<br><br>
+
+You may refer to the eGIRO application [user guide](/files/Forms/eGIRO%20Userguide.pdf) for assistance.
+
+This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start. Please note that corporate accounts are not allowed. Other bank account holders will need to complete the [hardcopy GIRO application form](/files/Forms/GIRO_application_form_Nov2022.pdf) and submit the original signed form to the school.
+
+You may refer to the following link for any GIRO-related questions [here](https://go.gov.sg/moe-egiro-faq).
+
+As the eGIRO is a relatively new service, please provide your feedback to MOE using the [Feedback Form](https://www.moe.gov.sg/feedback) if you encounter any errors. Kindly provide screen captures, as well as the time and date of your application.
+<br>
+
+**Edusave Standing Order** 
+**Signup (for students who are Singapore citizens only)**
+
+Parents/Guardian can apply to use Edusave funds via Parents Gateway (under Services tab) or the online [Edusave Standing Order Form](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59), for the payment of 2nd\-tier miscellaneous fees and school organised enrichment programmes.
