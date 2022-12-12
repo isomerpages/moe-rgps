@@ -10,6 +10,7 @@ Below is a list of administrative application forms that may be required. Please
 
 | Forms    | Descriptions |
 |:-------|:-----------|
+|**Parents Gateway**|Parents Gateway (PG) is the main communication channel between the school and parents/guardian. Please download the application on your mobile devices as all school updates will be sent through PG. Click here for [FAQs and instructions for downloading the application](https://pg.moe.edu.sg/faq).|
 |  **Updating of Student's address** |  For change of address and contact numbers. Please submit the completed [address update form](/files/Forms/Form%20C%20(Address%20Updates).pdf) together with a copy of the NRIC reflecting the updated address.|
 |**Smart Phone/Watch Application**|Should there be a need to bring a smart phone/watch to school, parents/guardian are required to register the device with the [HP & Smart Watch Application Form](/files/Forms/HP%20&%20SW%20Registration%20Form.pdf).|
 |**Student Insurance**|Parents can submit the claim online [here](https://studentgpa.incomegroupins.com.sg/#/).|
