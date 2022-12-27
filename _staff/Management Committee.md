@@ -14,6 +14,7 @@ description: ""
 |  |  |  |
 | -------- | -------- | -------- |
 | **Ms Kong Su May** |   | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
+| **Mrs Ong Lay Khim** |   | <a href="ong_lay_khim@schools.gov.sg">ong_lay_khim@schools.gov.sg</a>     |
 
 ### Vice Principal Admin
 
