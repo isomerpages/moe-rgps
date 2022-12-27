@@ -1,15 +1,13 @@
 ---
 title: Mathematics
-permalink: /departments/mathematics
+permalink: /departments/mathematics/
 description: ""
 ---
-
-# **Mission** 
-
+#### **Mission**
 
 To develop our pupils with mathematical concepts and skills for everyday life and to equip them with process skills to solve mathematical problems.
 
-# Organisation Chart
+#### **Organisation Chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,6 +30,10 @@ To develop our pupils with mathematical concepts and skills for everyday life an
     <td class="tg-1wig">HOD Mathematics -Designate</td>
     <td class="tg-0lax">Ms Chong Jieqi</td>
   </tr>
+	  <tr>
+    <td class="tg-1wig">Subject Head Mathematics</td>
+    <td class="tg-0lax">Mdm Chau Soo Eng June</td>
+  </tr>
   <tr>
     <td class="tg-1wig">Subject Head Mathematics</td>
     <td class="tg-0lax">Mdm Shannalyn Ng</td>
@@ -42,10 +44,6 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
   <tr>
     <td class="tg-1wig">Teacher</td>
-    <td class="tg-0lax">Ms Anna Tay Hwee Ann</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Celia Lee</td>
   </tr>
   <tr>
@@ -90,23 +88,11 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Lim Hoa Lin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Low Woon Mei</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Sam Choi Yoke</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Teng Mui Noi</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Wirda Sukor</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
@@ -119,51 +105,39 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 </tbody>
 </table>
 
-# Programmes
+#### **Programmes**
 
-### **Enrichment Programmes (selected students only)**
+#### Enrichment Programmes (selected students only)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Programme</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">This programme aims to:</span></th>
-    <th class="tg-0lax"></th>
-  </tr>
+<tr>
+<th style="width:25%">Programme</th>
+<th>This programme aims to:</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-da8v">Funthematics (Primary 3)</td>
-    <td class="tg-2w19">- engage students in exploring the Mathematics around them and instil the spirit of learning through discovery. <br>- equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. <br>- build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.<br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-da8v">Math E2K (Primary 4 – Primary 5)</td>
-    <td class="tg-2w19">- foster independence in mathematical thinking skills. <br>- challenge students to think out of the box and develop resilience when face with challenges. <br>- generate a greater interest in Mathematics. <br>- reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.<br></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-da8v">Math Olympiad (Primary 4 – Primary 6)</td>
-    <td class="tg-2w19">- impart process and visual thinking skills that are required to solve Math Olympiad-like problems <br>- provide opportunities for suitable students to take on challenges in handling non-routine problems <br>- stimulate and develop students’ creative thinking and problem-solving abilities <br>- allow students to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork.<br></td>
-    <td class="tg-0lax"></td>
-  </tr>
+<tr>
+<td><strong>Funthematics</strong> <br>(Primary 3)</td>
+<td>
+<ul><li>Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.</li>
+<li>Equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. </li>
+<li>Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Math E2K</strong> <br>(Primary 4 – Primary 5)</td>
+	<td><ul><li>Foster independence in mathematical thinking skills.</li><li>Challenge students to think out of the box and develop resilience when face with challenges.</li><li>Generate a greater interest in Mathematics.</li><li>Reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</li></ul></td>
+</tr>
+<tr>
+<td><strong>Math Olympiad</strong><br>(Primary 4 – Primary 6)</td>
+<td><ul><li>Impart process and visual thinking skills that are required to solve Math Olympiad-like problems.</li><li>Provide opportunities for suitable students to take on challenges in handling non-routine problems</li><li>Stimulate and develop students’ creative thinking and problem-solving abilities</li><li>Allow students to collaborate in groups to develop essential 21st century skills in terms of communication and teamwork.</li></ul></td>
+</tr>
 </tbody>
 </table>
 
-# Assessment
+#### **Assessment**
 
-### **Assessment Matters**
+#### Assessment Matters
 
 Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments. Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
 
@@ -177,82 +151,16 @@ There are no weighted assessments, mid-year examination and end-of-year examina
 
 Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The table below shows an overview.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-a5i5{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a5i5"></th>
-    <th class="tg-a5i5"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 1</span></th>
-    <th class="tg-a5i5"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 2</span></th>
-    <th class="tg-a5i5"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 3</span></th>
-    <th class="tg-a5i5"><span style="color:#F2F9FF;background-color:#1F8CE4">Term 4</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 3</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 1</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 2</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">End-of-Year Examination</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 5</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">-</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 1</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Weighted Assessment 2</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">End-of-Year Examination</span></td>
-  </tr>
-</tbody>
-</table>
+|| Term 1 | Term 2 | Term 3 | Term 4 |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+|Primary 3 | - | Weighted Assessment 1 | Weighted Assessment 2 | End-of-Year Examination |
+|Primary 5 | - | Weighted Assessment 1 | Weighted Assessment 2 | End-of-Year Examination |
 
 **P4 & P6 Examination**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-38mi{background-color:#F2F9FF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
-.tg .tg-jjed{background-color:#1F8CE4;border-color:inherit;color:#F2F9FF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-jjed"></th>
-    <th class="tg-jjed">Mid-Year Examination (MYE)</th>
-    <th class="tg-jjed">End-of-Year Examination (EYE)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-38mi">Primary 3</td>
-    <td class="tg-38mi">No MYE<br><span style="font-weight:normal">Only Weighted Assessment</span></td>
-    <td class="tg-38mi">End-of-Year Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-38mi">Primary 4</td>
-    <td class="tg-38mi">Mid-Year Examination</td>
-    <td class="tg-38mi">End-of-Year Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-38mi">Primary 5</td>
-    <td class="tg-38mi">No MYE<br><span style="font-weight:normal">Only Weighted Assessment</span></td>
-    <td class="tg-38mi">End-of-Year Examination</td>
-  </tr>
-  <tr>
-    <td class="tg-38mi">Primary 6</td>
-    <td class="tg-38mi">Mid-Year Examination</td>
-    <td class="tg-38mi">End-of-Year Examination</td>
-  </tr>
-</tbody>
-</table>
+|| Mid-Year Examination (MYE) | End-of-Year Examination (EYE) |
+| ----------- | ----------- | ----------- | 
+|Primary 3 | No MYE<br>Only Weighted Assessment |  End-of-Year Examination |
+|Primary 4 | Mid-Year Examination |  End-of-Year Examination |
+|Primary 5 | No MYE<br>Only Weighted Assessment |  End-of-Year Examination |
+|Primary 6 | Mid-Year Examination |  End-of-Year Examination |

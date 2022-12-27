@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - Calendar of Events.md
+      - Briefing Slides.md
       - Notifications/.keep
       - Notifications/Primary 1 to 6.md
       - Notifications/Primary 1.md
@@ -11,11 +13,10 @@ collections:
       - Notifications/Primary 5.md
       - Notifications/Primary 6.md
       - Engaging Our Parents/.keep
-      - Engaging Our Parents/Events Calendar 2022.md
-      - Engaging Our Parents/Briefing Slides.md
-      - Engaging Our Parents/Forms.md
+      - Engaging Our Parents/Administrative & Finance Matters.md
+      - Engaging Our Parents/School Partners.md
       - Engaging Our Parents/Family Matters @ School.md
       - Enrolling in RGPS/.keep
-      - Enrolling in RGPS/Enrolling in RGPS.md
-      - Enrolling in RGPS/MOE Guidelines.md
       - Enrolling in RGPS/P1 Registration.md
+      - Enrolling in RGPS/Phase 2B Parent Volunteer Scheme.md
+      - Enrolling in RGPS/Transfer & Waitlist to RGPS.md

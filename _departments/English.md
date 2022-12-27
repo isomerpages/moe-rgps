@@ -3,10 +3,10 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-# Mission
+#### **Mission**
 To equip our students with literacy skills that enable them to be linguistically competent and confident users of the English Language.
 
-# Organisational Chart
+#### **Organisational Chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -87,15 +87,7 @@ To equip our students with literacy skills that enable them to be linguistically
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Serene Leong</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Lim See Peng</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mrs Catherine Chen</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
@@ -107,19 +99,7 @@ To equip our students with literacy skills that enable them to be linguistically
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Cheng Hui Qi Sarah</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Carolina Tan Siew Yin</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mr Vincent Chia Chee Sheong</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Vivian Sim</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
@@ -132,32 +112,70 @@ To equip our students with literacy skills that enable them to be linguistically
 </tbody>
 </table>
 
-## Enrichment (for selected students)
+#### **Enrichment (for selected students)**
 
-| JUMUN (P5) |  | 
-| -------- | -------- |
-| Objectives | The programme aims to: <br> 1. sensitise students to global issues (social, environmental, cultural, humanitarian, economic, political etc);<br>2. instil empathy in our students as they view global issues through multiple perspectives (countries which they represent);<br>3. develop students’ critical thinking routines;<br>4. enhance students’ information search & research skills; and<br>5. enhance students’ oracy and communication skills through debates of issues.|
-| Programme Outline | JMUN is a multidisciplinary activity where participants take the roles of delegates at the United Nations and engage in constructive discussions on current global issues (social, environmental, cultural, humanitarian, economic, political etc). Participants will be introduced to the working model of the United Nations and work collaboratively in teams to debate on global issues through multiple perspectives. The programme aims to enhance students’ critical thinking, debate, diplomacy, research, writing and oracy skills.|
+#### Junior Model United Nations (JUMUN) Programme (P5)
+
+**Objectives**<br>
+The programme aims to: <br>
+* sensitise students to global issues (social, environmental, cultural, humanitarian, economic, political etc);<br>
+* instil empathy in our students as they view global issues through multiple perspectives (countries which they represent);<br>
+* develop students’ critical thinking routines;<br>
+* enhance students’ information search & research skills; and<br>
+* enhance students’ oracy and communication skills through debates of issues.
+
+**Programme Outline**<br>
+JMUN is a multidisciplinary activity where participants take the roles of delegates at the United Nations and engage in constructive discussions on current global issues (social, environmental, cultural, humanitarian, economic, political etc). Participants will be introduced to the working model of the United Nations and work collaboratively in teams to debate on global issues through multiple perspectives. The programme aims to enhance students’ critical thinking, debate, diplomacy, research, writing and oracy skills.
+
+#### **Aspiring Writers in English (AWE) (P4)**
+
+**Objectives**<br>
+This programme aims to teach students to: <br>
+* provide students the opportunity to write creatively outside of their usual composition format;<br>
+* nurture creative thinking when students are encouraged to exaggerate a particular incident to create a tall tale; <br>
+* develop critical thinking skills when students are asked to reflect on the contrast between life in the past and life today, and how it is likely to be in the future;<br>
+* encourage students to develop characters in stories by providing reasons for action and solving a problem;<br>
+* teach students to develop plots by describing actions and emotions of characters, using story elements.
+
+**Programme Outline**<br>
+At Primary 4, students will learn to write tall tales which are exaggerated stories, using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded.  Students will learn to develop and describe characters in great detail. <br><br>
+The contrast between fact and fiction in tall tales is enhanced by giving the story a realistic framework and by a deadpan storytelling style.  Characters in tall tales were often created from a combination of historical fact and vivid imagination.  Over a period of time, as these stories were told around campfires and on steamboats, the true details of their lives were exaggerated and revised until they became folk heroes as well as historical figures. 
+
+#### **Aspiring Writers in English (AWE) (P5)**
+
+**Objectives**<br>
+This programme aims to:<br>
+* provide students the opportunity to write creatively outside of the usual composition format;<br>
+* develop students’ confidence in characterisation by providing reasons for actions and solving problems;<br>
+* develop students’ personal responses to stories, characters and ideas within the book;<br>
+* develop students’ empathy for differing viewpoints so that they are able to take on a person’s viewpoint and understand his/her feelings and motivations;<br>
+* allow students to make connections and relate what they have read from the book to their own experiences and the issues in the real world.
+
+**Programme Outline**<br>
+At Primary 5, the AWE programme engages students in writing creative narratives through reading circles. Reading circles allows the students to have a community of inquiry where they can ask questions, give their viewpoints and benefit from listening to the opinions of others. It moves them beyond the initial impressions through the use of activities, discussions, and tasks to gain a deeper understanding of the concepts in the book. Plots and characters in narratives are often born from a combination of personal experiences, known facts and vivid imagination.  Students will learn how to write creatively using various writing techniques. The transfer of these techniques to their writing will help them to develop narratives that interest readers. Critical thinking is also nurtured when students are asked to summarise, evaluate and reflect on the contrast between texts, between self and text and between fiction and reality. 
+<br><br>
+Students will need to purchase the book ‘Where The Mountain Meets The Moon’ by Grace Lin on their own. They will learn to explore the elements in the text by examining the plot, themes and character development. This will help them to develop a greater awareness and sensitivity to the context and the writer’s craft.
 
 
-| AWE <br>(P3 – P4) |  | 
-| -------- | -------- |
-| Objectives | This programme aims to teach students to:<br>1. explore various poetic forms and structures;<br>2. appreciate and respond to poetry through listening to poetry, reading and writing poetry;<br>3. examine how poets manipulate words for their quality of sound, e.g. rhythm, rhyme, assonance; for their connotations; and for multiple layers of meaning, e.g. through figurative language, ambiguity, etc.;<br>4. analyse how feelings, mood messages and attitudes are conveyed in poetry; and<br>5. demonstrate oral presentation skills through presentation of poems to the class. |
-| Programme Outline | Students will explore together the many possibilities for writing and responding to poems. They will be taught poetry vocabulary and skills for reading, appreciating and producing poetry. We will also examine the use of literary devices in poetry such as rhyme, repetition, assonance, etc. Various types of poems will be introduced. Some examples are haiku, diamonte, shape poems, etc. The aim is to get students playing with words and excited about poems. We recognise that the possibilities for connecting through language are endless!|
+#### **Debate (P5/P6)**
 
-| AWE (P5) |  | 
-| -------- | -------- |
-| Objectives | This programme aims to teach students to:<br>1. write creatively outside of the usual composition format;<br>2. develop a character in a story by providing reasons for action and solving a problem;<br>3. develop a plot by describing actions and emotions of characters and using story elements of dialogue, how a character feels, descriptive details; and<br>4. build on a story idea by extending or changing the storyline. |
-| Programme Outline | At Primary 5, we will be working with students to write a tall tale which is an exaggerated story. The contrast between fact and fiction in tall tales is enhanced by giving the story a realistic framework and by a deadpan storytelling style. Characters in tall tales were often born from a combination of historical fact and vivid imagination. Pupils will learn how to write in this style of storytelling and in so doing develop their vocabulary and ability to develop a character that is over-the-top and larger than life.<br><br>In this programme, selected P5 students will learn to write a tall tale using knowledge of local heroes from Social Studies lessons and stories of how Singapore was founded. Students will learn to develop characters and describe characters in great detail. Learning how to write a tall tale is useful for nurturing creative thinking where students are encouraged to exaggerate a particular incident to create a tall tale. Critical thinking is also nurtured when students are asked to reflect on the contrast between life in the past and life today, and how it is likely to be in the future.|
+**Objectives**<br>
+This programme aims to:<br>
+* introduce students to the structure and art of debating;<br>
+* train students with rebuttal skills using logic and deal with elements of debating;<br>
+* guide students prepare materials for debate competition; and<br>
+* teach students to comprehend the meaningful values of working together and derive positive learning experience from participating in debates. 
 
-| Debate<br>(P5/P6) |  | 
-| -------- | -------- |
-| Objectives | This programme aims to:<br>1. introduce students to the structure and art of debating;<br>2. train students with rebuttal skills using logic and deal with elements of debating;<br>3. guide students prepare materials for debate competition; and<br>4. teach students to comprehend the meaningful values of working together and derive positive learning experience from participating in debates. |
-| Programme Outline | In the Debate Enrichment Programme, students will be exposed to the art of debating and be equipped with oral confidence skills when addressing an audience. During the training, students will learn strategies to overcome nervousness, correct speech, debate structure, points of information, voice projection, confident body language, fallacies of arguments, rebuttal skills and appropriate register.|
+**Programme Outline**<br>
+In the Debate Enrichment Programme, students will be exposed to the art of debating and be equipped with oral confidence skills when addressing an audience. During the training, students will learn strategies to overcome nervousness, correct speech, debate structure, points of information, voice projection, confident body language, fallacies of arguments, rebuttal skills and appropriate register.
 
-# Assessment 
+
+#### **Assessment**
 
 Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
+In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school will not hold any mid-year examination for all levels. Students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
+
+Bite-sized forms of weighted assessments will be conducted in different terms. The table below shows an overview:
 
 In promoting students’ learning and developing a wide range of skills, learner strategies, attitudes and behavior, teachers will align assessment with the aims and learning outcomes in the syllabus by encouraging students to:
 
@@ -173,59 +191,129 @@ Teachers will assess students using different modes of assessment both formally 
 * visual/multi-media productions, audio recordings which record students’ achievements.
 
 
-### P1 – P2 <br>
+#### P1 – P2 <br>
 There are **no weighted assessments, mid-year examination and end-of-year examination** for the students in the year.
 
-### P3 – P6<br>
+#### P3 – P6<br>
 **P3 & 5 Weighted Assessment**<br>
-In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school <u>will not have any mid-year examination for P3</u>. This will also provide our students with more time to adjust to the transition and adapt to the new demands of the level.
+In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school will not hold any mid-year examination for **all levels**. Students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
 
-Although there is no mid-year examination, students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
+Bite-sized forms of weighted assessments will be conducted in different terms. The table below shows an overview:
 
-Bite-sized forms of weighted assessments will be conducted in Term 2 and Term 3. The table below shows an overview.
 
-| | Term 2 | Term 3 | Term 4 |
-| -------- | -------- | -------- | -------- | 
-|| **Weighted Assessment 1** | **Weighted Assessment 2**| **End-of-Year Examination** |
-| Primary 3 & 5 | Reading Comprehension | Writing | Refer to details for EYE in the table below. |
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:13%"></th>
+<th style="width:14%">Term 1</th>
+<th style="width:24%">Term 2</th>
+<th style="width:24%">Term 3</th>
+<th style="width:25%">Term 4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>-</td>
+<td><strong>Weighted Assessment 1</strong></td>
+<td><strong>Weighted Assessment 2</strong></td>
+<td><strong>End-of-Year Examination</strong></td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td>-</td>
+<td>Reading Comprehension</td>
+<td>Writing</td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td>-</td>
+<td>Oral (Stimulus-based Conversation)</td>
+<td>Language Use</td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td>-</td>
+<td>Reading Comprehension</td>
+<td>Situational Writing</td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+<tr>
+<td>Primary 6</td>
+<td>Language Use</td>
+<td>Oral (Stimulus-based Conversation)</td>
+<td></td>
+<td>Refer to details for EYE in the table below.</td>
+</tr>
+</tbody>
+</table>
 
 <br><br>
 
 |  | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) | 
 | ----------- | ---------- | ---------- |
-| Primary 3 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension <br>Listening Comprehension <br> Oral |
-| Primary 4 | Composition Writing Language Use & Comprehension<br> Listening Comprehension  | Composition Writing Language Use & Comprehension<br> Listening Comprehension<br> Oral |
-| Primary 5 | No MYE Only Weighted Assesment | Composition Writing Language Use & Comprehension<br>Listening Comprehension<br> Oral |
-| Primary 6  | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral | Situational & Continuous Writing Language Use & Comprehension <br>Listening Comprehension<br> Oral |
+| Primary 3 | No MYE | * Composition Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 4 | No MYE | * Composition Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 5 | No MYE | * Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 6 | No MYE |* Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
 
+#### **Social Studies**
 
-
-# Social Studies
-| Level | Syllabus |
-| -------- | -------- |
-| |**Discovering Self and Immediate Environment**|
+|Level | Syllabus |
+| ----------- | ---------- |
+| | ***Discovering Self and Immediate Environment*** |
 |Primary 1 | Knowing Myself, Others and My Surroundings |
 |Primary 2 | Coming Together as a Nation |
-| |**Understanding Singapore in the Past and Present**|
+| | ***Understanding Singapore in the Past and Present*** |
 |Primary 3 | Understanding Singapore’s Environment and Challenges |
 |Primary 4 | Understanding Our Past |
-| |**Appreciating Singapore, the Region and the World We Live In**|
-|Primary 5 |***Part 1:*** Understanding Singapore’s Development as a Nation <Br>***Part 2:*** Understanding Southeast Asia’s Diversity and Interconnectedness |
-|Primary 6 | Understanding Features and Legacies of Civilisations |
+| | ***Appreciating Singapore, the Region and the World We Live In*** |
+|Primary 5 | ***Part 1:***  Understanding Singapore’s Development as a Nation<br>***Part 2:*** Understanding Southeast Asia’s Diversity and Interconnectedness |
+|Primary 6 |Understanding Features and Legacies of Civilisations |
+
 <br>
 
-| Level | Field-based Learning |
-| -------- | -------- |
-| Primary 1 | ***Neighbourhood Walk (Term 4)*** <br>The focus of the learning experience is for students to develop an appreciation for the places around them.|
-| Primary 2 | ***National Orchid Garden (Term 4)***<br>The focus of the learning experience is for students to learn about our National Symbols.|
-| Primary 3 | ***Sustainable Gallery of Singapore (Term 3)*** <br>The focus of the learning experience is for students to develop an understanding of: Singapore’s physical environment; and how Singapore manages its resources to meet the needs of the country.|
-| Primary 4 | ***National Museum of Singapore (Term 2)*** <br>The focus of the learning experience is for students to develop an understanding of: what life was like in the past; and  the contributions of settlers to the development of Singapore.|
-| Primary 5 | ***Sungei Buloh Wetland Reserve (Term 4)*** <br>The focus of the learning experience is for students to learn about Singapore’s first ASEAN Heritage Park.|
-| Primary 6 | ***Singapore Botanic Gardens (Term 4)***<br>The focus of the learning experience is for students to learn about how Singapore is connected to the rest of Southeast Asia through the Heritage Museum and the heritage trees found in the gardens. This will help pupils understand the importance of preserving our heritage sites in Southeast Asia.|
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:15%">Level</th>
+<th>Field-based Learning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary 1</td>
+<td><strong><em>Neighbourhood Walk (Term 4)</em></strong> <br>The focus of the learning experience is for students to develop an appreciation for the places around them.</td>
+</tr>
+<tr>
+<td>Primary 2</td>
+<td><strong><em>National Orchid Garden (Term 4)</em></strong><br>The focus of the learning experience is for students to learn about our National Symbols.</td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td><strong><em>Sustainable Gallery of Singapore (Term 3)</em></strong> <br>The focus of the learning experience is for students to develop an understanding of: Singapore’s physical environment; and how Singapore manages its resources to meet the needs of the country.</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td><strong><em>National Museum of Singapore (Term 2)</em></strong> <br>The focus of the learning experience is for students to develop an understanding of: what life was like in the past; and  the contributions of settlers to the development of Singapore.</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td><strong><em>Sungei Buloh Wetland Reserve (Term 4)</em></strong> <br>The focus of the learning experience is for students to learn about Singapore’s first ASEAN Heritage Park.</td>
+</tr>
+<tr>
+<td>Primary 6</td>
+<td><strong><em>Singapore Botanic Gardens (Term 4)</em></strong><br>The focus of the learning experience is for students to learn about how Singapore is connected to the rest of Southeast Asia through the Heritage Museum and the heritage trees found in the gardens. This will help pupils understand the importance of preserving our heritage sites in Southeast Asia.</td>
+</tr>
+</tbody>
+</table>
+
 
 ### **Assessment Matters**
 
-**Assessment Items:**
+**Assessment Items:**<br>
 
 *   Activities in Activity Books
 *   Group Activities

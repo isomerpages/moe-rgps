@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner-RGPS.jpeg
+      background: /images/clocktower2.jpg
       key_highlights:
         - title: Notifications
           description: Important Updates for Pri 1-6
@@ -15,9 +15,11 @@ sections:
         - title: Quick Links
           description: To Access Useful  Resources
           url: /quick-links
-        - title: Home-based Learning
-          description: Schedule for online HBL
-          url: ""
+        - title: Calendar of Events
+          description: School Events & Activities
+          url: /parents/COE/
+      title: RAFFLES GIRLS' PRIMARY SCHOOL
+      subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infobar:
       title: "2023 School Reporting "
       subtitle: Important Announcements

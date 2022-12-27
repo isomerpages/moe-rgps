@@ -2,7 +2,7 @@ collections:
   student:
     output: true
     order:
-      - Home Based Learning.md
+      - Media Resource Library.md
       - Student Learning Space.md
       - Student Icon.md
-      - Media Resource Library.md
+      - Home Based Learning.md

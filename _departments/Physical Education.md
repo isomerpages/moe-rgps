@@ -1,14 +1,12 @@
 ---
 title: Physical Education
-permalink: /departments/physical-education
+permalink: /departments/physical-education/
 description: ""
 ---
-# Mission
+#### **Mission**
 RGPS PE Curriculum aims to develop students' knowledge, skills and disposition in sports. We aim to nurture physically fit students with healthy habits who will value the enjoyment of maintaining a healthy life-style.
 
-**The aim of the physical education (PE) programme is to develop** Physical, intellectual,  social and emotional skills,  21st century competencies & core values like fair play, responsibility, sportsmanship and  resilience through the RGPS Girl Matrix
-
-
+The aim of the physical education (PE) programme is to develop Physical, intellectual,  social and emotional skills,  21st century competencies & core values like fair play, responsibility, sportsmanship and  resilience through the RGPS Girl Matrix
 
 **Guiding Philosophy of PE Dept is to :**
 
@@ -16,7 +14,7 @@ RGPS PE Curriculum aims to develop students' knowledge, skills and disposition
 
 *   Improve the fitness level of the pupils.
 
-# Organisation Chart
+#### **Organisation Chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -53,10 +51,6 @@ RGPS PE Curriculum aims to develop students' knowledge, skills and disposition
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mr Jonathan Alphonsus Alvar</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Noor Farhani</td>
   </tr>
   <tr>
@@ -74,96 +68,77 @@ RGPS PE Curriculum aims to develop students' knowledge, skills and disposition
 </tbody>
 </table>
 
-# PE Programmes
+#### **PE Programmes**
 
 Students at the lower primary will be exposed to fundamental movement training to build the foundation in their motor skills. From Primary 4 onwards, these skills will be further developed through the playing of sports and games or attending PE Programmes/ events. In doing so, students will learn about relationship between movements and game concepts and apply these concepts and principles into other situations.
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Level</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">PE Programmes</span></th>
-  </tr>
+<tr>
+<th style="width:15%">Level</th>
+<th>PE Programmes</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 2</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Introduction of sports during PE lessons like:</span><br><span style="color:#222;background-color:#F2F9FF"> Softball, Basketball, Badminton, Gymnastics, Table Tennis.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 3</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Swimsafer Programme </span><br><span style="color:#222;background-color:#F2F9FF">PE Resilience Programme</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 4</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">NAPFA</span><br>PE Resilience Programme<span style="color:#222;background-color:#F2F9FF"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 5</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> PE Resilience Programme</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 6</span></td>
-    <td class="tg-da8v">NAPFA<br>Pioneering Championship / Captain’s Ball Inter Class<span style="color:#222;background-color:#F2F9FF"> </span></td>
-  </tr>
+<tr>
+<td>Primary 2</td>
+<td>Introduction of sports during PE lessons like:<br>Softball, Basketball, Badminton, Gymnastics, Table Tennis.</td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td>Swimsafer Programme<br>PE Resilience Programme</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td>NAPFA<br>PE Resilience Programme</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td>PE Resilience Programme</td>
+</tr>
+<tr>
+<td>Primary 6</td>
+<td>NAPFA<br>Pioneering Championship / Captain’s Ball Inter Class</td>
+</tr>
 </tbody>
 </table>
 
-### Assessment Matters
+
+#### **Assessment Matters**
 
 Pupils will be assessed at the end of each module of the PE syllabus.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
+<table>
 <thead>
-  <tr>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Level</span></th>
-    <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">PE Events</span></th>
-  </tr>
+<tr>
+<th>Level</th>
+<th>PE Events</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 1 to 6</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Games Carnival</span><br><span style="color:#222;background-color:#F2F9FF">Health Fair</span><br><span style="color:#222;background-color:#F2F9FF">Recess Play &amp; Class Fitness Challenge</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 2 to 5</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">CCA Selection/ Audition</span><br><span style="color:#222;background-color:#F2F9FF">CCA Registration Exercise</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 2</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">CCA Experience Week</span><br><span style="color:#222;background-color:#F2F9FF">CCA 2EXP (EXPlore, EXPosure) Programme</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 3</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">P3 Camp </span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 4</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> P4 Sports Camp</span></td>
-  </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Primary 5</span></td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> P5 Camp</span></td>
-  </tr>
+<tr>
+<td>Primary 1 to 6</td>
+<td>Games Carnival <br>Health Fair<br>Recess Play<br>Class Fitness Challenge</td>
+</tr>
+<tr>
+<td>Primary 2 to 5</td>
+<td>CCA Selection/ Audition<br>CCA Registration Exercise</td>
+</tr>
+<tr>
+<td>Primary 2</td>
+<td>CCA Experience Week <br>CCA 2EXP (EXPlore, EXPosure) Programme</td>
+</tr>
+<tr>
+<td>Primary 3</td>
+<td>P3 Camp</td>
+</tr>
+<tr>
+<td>Primary 4</td>
+<td>P4 Sport Camp</td>
+</tr>
+<tr>
+<td>Primary 5</td>
+<td>P5 Camp</td>
+</tr>
 </tbody>
 </table>

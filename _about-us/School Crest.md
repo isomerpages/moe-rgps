@@ -3,8 +3,8 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
-# Represents
-## Knowledge, Progress and Success
+
+#### **Knowledge, Progress and Success**
 
 
 <table border="0" align="center">

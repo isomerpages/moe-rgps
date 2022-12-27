@@ -4,13 +4,12 @@ collections:
     order:
       - English.md
       - Mathematics.md
-      - Science.md
       - Mother Tongue.md
+      - Science.md
       - Aesthetics.md
       - Physical Education.md
       - Gifted Education Programme.md
       - ICT.md
-      - Discipline, Guidance and Student Leadership.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Values in Action.md
@@ -18,3 +17,4 @@ collections:
       - CCE/MOE Sexuality Education.md
       - CCE/CCE Approach.md
       - CCE/Cyber Wellness Programme.md
+      - Discipline, Guidance and Student Leadership.md

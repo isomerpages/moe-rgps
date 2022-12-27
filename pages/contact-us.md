@@ -28,4 +28,24 @@ contacts:
       - email: rafflesgirlsscc@knowledgepark.com.sg
       - other: ""
     title: Student Care Centre
+  - content:
+      - phone: +65 8909 5312
+      - email: ""
+      - other: ""
+    title: School Dental Clinic
+  - content:
+      - phone: +65 6467 1692
+      - email: ""
+      - other: ""
+    title: School Bookshop
+  - content:
+      - phone: +65 6747 7246
+      - email: ""
+      - other: ""
+    title: School Bus Operator
+  - content:
+      - phone: +65 6732 7022
+      - email: ""
+      - other: ""
+    title: School Uniform Supplier
 ---

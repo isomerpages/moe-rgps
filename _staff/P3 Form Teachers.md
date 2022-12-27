@@ -1,100 +1,88 @@
 ---
 title: P3 Form Teachers
-permalink: /staff/p3-form-teachers
+permalink: /staff/p3-form-teachers/
 description: ""
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5teg{background-color:#FBFFFA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-5teg">Name</th>
-    <th class="tg-5teg">Class</th>
-    <th class="tg-5teg">Email</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Kimberly Bell</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3A</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">kimberly_bell@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Yue Siew Lee</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3A</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">yue_siew_lee@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Lee Mei</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3B</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">lee_mei@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Tang Jingwen</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3B</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">tang_jingwen@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Ronald Lee</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3C</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">lee_joo_meng_ronald@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Serene Chan</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3C</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">chan_yuen_ling_serene@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Ang Kai Mei</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3D</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">ang_kai_mei@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Thivya Gopalkrishnan</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3D</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">thivyadlo_gopalkrishnan@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Chong Suh in</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3D</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">chong_suh_in@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Tan Li Peng</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3E</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">tan_li_peng@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Lim Siew Hoon</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3E</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">lim_siew_hoon_a@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Foo Hwa Ming</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3F</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">foo_hwa_ming@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lee Poh Choo</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3F</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">lee_poh_choo@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Ms Lim Zi Hui</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3G</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">lim_zi_hui@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Tan Chwee Piow</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3G</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">tan_chwee_piow@schools.gov.sg  </span></td>
-  </tr>
-</tbody>
+### **2023**
+<table>
+    <tr style="width:100%">
+        <th style="width:30%">Name</th>
+        <th style="width:15%">Class</th>
+        <th style="width:55%">Email</th>
+    </tr>
+    <tr>
+        <td>Mrs Lee Poh Choo</td>
+        <td>3A</td>
+        <td>lee_poh_choo@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Sharifah Maznah</td>
+        <td>3A</td>
+        <td>sharifah_maznah_salim_bamasri@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Ms Victoria Chua</td>
+        <td>3B</td>
+        <td>victoria_chua_pei_chern@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Yue Siew Lee</td>
+        <td>3B</td>
+        <td>yue_siew_lee@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mr Ronald Lee</td>
+        <td>3C</td>
+        <td>lee_joo_meng_ronald@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Ms Chew Sok Tien</td>
+        <td>3C</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Mr Yeo Siah Ong</td>
+        <td>3D</td>
+        <td>yeo_siah_ong@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Eng Lee Na</td>
+        <td>3D</td>
+        <td>eng_lee_na@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mrs Lorna Eng&nbsp;</td>
+        <td>3E</td>
+        <td>eng_aik_boo@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Ning Fangye</td>
+        <td>3E</td>
+        <td>ning_fanye@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Poh Weijing</td>
+        <td>3F</td>
+        <td>poh_weijing@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Luwena Goh (Mrs Ngoh)</td>
+        <td>3F</td>
+        <td>goh_hui_may_luwena@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Cassandra Quek Sock Cheng (Mrs Ng)</td>
+        <td>3G</td>
+        <td>quek_sock_cheng@schools.gov.sg&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Ms Haslinda</td>
+        <td>3G</td>
+        <td>haslinda_adaham@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Ms Betina</td>
+        <td>3G</td>
+        <td></td>
+    </tr>
 </table>

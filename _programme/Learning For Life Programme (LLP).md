@@ -3,10 +3,9 @@ title: Learning For Life Programme (LLP)
 permalink: /programme/llp/
 description: ""
 ---
+#### **LLP (Learning for Life Programme)**
 
-### LLP (Learning for Life Programme)
-
-**Developing Creativity Through Collaborative Music Making**
+#### Developing Creativity Through Collaborative Music Making
 
 The objectives of LLP are to :
 
@@ -17,7 +16,7 @@ The objectives of LLP are to :
 <img src="/images/aesth.png" 
      style="width:50%">
 		 
-### **Showcase of Student Works**
+#### Showcase of Student Works
 
 <img src="/images/ceramic.png" 
      style="width:60%">

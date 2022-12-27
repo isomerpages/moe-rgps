@@ -3,8 +3,6 @@ title: Student Learning Space
 permalink: /parents/engaging-our-parents/student-learning-space/
 description: ""
 ---
-
-
 Dear Students,  
   
 As part of Ministry of Education’s (MOE) commitment to nurture future-ready learners, an online learning platform known as the Student Learning Space (SLS) has been developed and rolled out in 2018 by MOE.  
@@ -31,6 +29,8 @@ SLS can be accessed from [https://vle.learning.moe.edu.sg/login](https://vle.le
 
 Your username is first five letters of your name and last five characters of your ID.  <br>
 Your password had been given to you through your teacher.
+<br>or<br>Use your MIMS or Student iCON username (e.g. tan_weiling@students.edu.sg) and MIMS password.
+
 
 If you have forgotten your password, you could:  
 
@@ -38,19 +38,13 @@ a. Reset via email if you have entered an email address during your first setup.
 
 b. Reset via answering security questions; or 
 
-c. Submit a password reset request form (https://forms.gle/bbn3nT9ePEY6pdDb8); or 
+c. Submit a password reset request form [here](https://forms.gle/bbn3nT9ePEY6pdDb8); or 
 
-d. School-based Helpdesk at sim_kai_lin_carinn@moe.edu.sg or 64699513 (Mondays- Fridays: 8:00 a.m. to 4.00 p.m.) 
+d. School-based Helpdesk at [sim_kai_lin_carinn@moe.edu.sg](sim_kai_lin_carinn@moe.edu.sg) or 64699513 (Mondays- Fridays: 8:00 a.m. to 4.00 p.m.) 
 
-e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., Saturdays: 9:00 a.m. - 3:00 p.m.) *Closed on Sundays & Public Holidays Call SLS helpdesk at 67026513 or email helpdesk@sls.ufinity.com (When emailing the SLS helpdesk, please include student full name, name of school and form class.) 
+e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., Saturdays: 9:00 a.m. - 3:00 p.m.) *Closed on Sundays & Public Holidays Call SLS helpdesk at 67026513 or email [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com) (When emailing the SLS helpdesk, please include student full name, name of school and form class.) 
 
 f. Approach your subject teachers for help.
 
-You can read the following annexes to SLS for more information.
-
-* [ RGPS_N20_G_021b INFORMATION ON ACCESS TO STUDENT LEARNING_Annex A.pdf](/files/RGPS_N20_G_021b%20INFORMATION%20ON%20ACCESS%20TO%20STUDENT%20LEARNING_Annex%20A.pdf)
-* [RGPS_N20_G_021c_Access to SLS_Guide for P2 to P6 Pupils.pdf](/files/RGPS_N20_G_021c_Access%20to%20SLS_Guide%20for%20P2%20to%20P6%20Pupils.pdf)
-
-Student guides for new SLS interface (Updated on 26 March 21)
-
-* [Students Guide for New SLS Interface.pdf](/files/Students%20Guide%20for%20New%20SLS%20Interface.pdf)
+You can read the following annexes to SLS for more information. <br><br>
+[SLS Updated Login - For  Parents and Student](/files/SLS%20Updated%20Login_Poster_For%20Parents%20and%20Students.pdf)

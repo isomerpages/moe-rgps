@@ -1,19 +1,18 @@
 ---
 title: Character and Citizenship Education
-permalink: /departments/CCE
+permalink: /departments/CCE/
 description: ""
 third_nav_title: CCE
 ---
-# CCE Vision 
+#### **Vision** 
 
 A Vibrant Community of Value-based Thinkers, Learners and Leaders
 
-# CCE Mission
-
+#### **Mission**
 
 Nurturing Women of Character Excellence, Leaders of Character and Service
 
-# Organisation chart
+#### **Organisation chart**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,12 +31,12 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-dgl5">HOD CCE</td>
-    <td class="tg-ktyi">Mdm Wang Huiwen</td>
+   <tr>
+    <td class="tg-dgl5">Subject Head (CCE) </td>
+    <td class="tg-ktyi">Mdm Cassandra Quek Sock Cheng</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">Subject Head (Well-Being) -Designate</td>
+    <td class="tg-dgl5">Subject Head (Well-Being) </td>
     <td class="tg-ktyi">Ms Noor Farhani</td>
   </tr>
   <tr>
@@ -47,25 +46,20 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
 </tbody>
 </table>
 
-# Character and Citizenship Education
+#### **Character and Citizenship Education**
 
 
-**Objectives:**
+#### Objectives:
 
 1.      To inculcate the 6 core values (R3ICH)
 
 The goal of CCE is to inculcate values and build competencies in our pupils to develop them to be good individuals and useful citizens. The core values are:
 
-a.       Respect
-
-b.      Responsibility
-
-c.       Resilience
-
-d.      Integrity
-
-e.       Care
-
-f.       Harmony
+a. Respect<br>
+b. Responsibility<br>
+c. Resilience<br>
+d. Integrity<br>
+e. Care<br>
+f. Harmony
 
 2.      To equip our pupils with the ability to make responsible decisions and become more aware of their roles in the society.
