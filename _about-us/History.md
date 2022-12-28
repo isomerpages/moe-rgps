@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /about-us/history
+permalink: /about-us/history/
 description: ""
 ---
 ![](/images/hist_3.jpeg)
