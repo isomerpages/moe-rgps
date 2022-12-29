@@ -19,7 +19,7 @@ third_nav_title: Notifications
 <tbody>
 <tr>
 <td>28 Dec 2022</td>
-<td>[](/files/Notification%202023/P1%20to%206/RGPS_N23_G_001_Welcome%20back%20to%20school_COE.pdf)</td>
+<td>[RGPS_N23_G_001_Welcome back to school_COE](/files/Notification%202023/P1%20to%206/RGPS_N23_G_001_Welcome%20back%20to%20school_COE.pdf)</td>
 	</tr>
 	<tr>
 	<td>28 Dec 2022</td>
