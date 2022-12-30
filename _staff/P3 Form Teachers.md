@@ -51,7 +51,7 @@ description: ""
         <td>eng_lee_na@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mrs Lorna Eng&nbsp;</td>
+        <td>Mrs Lorna Eng</td>
         <td>3E</td>
         <td>eng_aik_boo@schools.gov.sg</td>
     </tr>
@@ -81,7 +81,7 @@ description: ""
         <td>haslinda_adaham@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Betina</td>
+        <td>Ms Bettina Tan</td>
         <td>3G</td>
         <td></td>
     </tr>
