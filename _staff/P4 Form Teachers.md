@@ -16,7 +16,7 @@ description: ""
         <td>kimberly_bell@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Kimie Sng</td>
+        <td>Mrs Kimie Sng</td>
         <td>4A</td>
         <td>lim_hui-miang_kimie@schools.gov.sg</td>
     </tr>
