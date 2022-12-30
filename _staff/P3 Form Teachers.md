@@ -56,7 +56,7 @@ description: ""
         <td>eng_aik_boo@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Ning Fangye</td>
+        <td>Ms Ning Fanye</td>
         <td>3E</td>
         <td>ning_fanye@schools.gov.sg</td>
     </tr>
