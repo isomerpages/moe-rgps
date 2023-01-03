@@ -53,6 +53,10 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-1wig">Teacher</td>
     <td class="tg-0lax">Ms Ang Kai Mei</td>
   </tr>
+		 <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mrs Christina Lim</td>
+  </tr>
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Elaine Mok</td>
