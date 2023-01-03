@@ -6,9 +6,9 @@ description: ""
 ### **2023**
 <table>
     <tr style="width:100%">
-        <th style="width:30%">Name</th>
+        <th style="width:35%">Name</th>
         <th style="width:15%">Class</th>
-        <th style="width:55%">Email</th>
+        <th style="width:50%">Email</th>
     </tr>
     <tr>
         <td>Mdm Claudia Tan (Mrs Lee)&nbsp;</td>
@@ -81,7 +81,7 @@ description: ""
         <td>eng_lik_boon@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Low Qiu Hong</td>
+        <td>Mdm Low Qiu Hong</td>
         <td>2G</td>
         <td>low_qiuhong@schools.gov.sg</td>
     </tr>

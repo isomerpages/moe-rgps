@@ -48,11 +48,11 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
   </tr>
   <tr>
     <td class="tg-dgl5">Teacher</td>
-    <td class="tg-ktyi">Mrs Christina Lim</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Ho Shwu Huey</td>
+  </tr>
+	  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Jane Woon</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -69,14 +69,6 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Roziyana Rahmat</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Santha Selva Raju</td>
-  </tr>
-	 <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Shaheena Kandoth</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>

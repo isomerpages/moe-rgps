@@ -129,6 +129,10 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Sashikala</td>
   </tr>
+	  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Shaheda</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Tan Chiew Nooi</td>

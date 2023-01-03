@@ -6,9 +6,9 @@ description: ""
 ### **2023**
 <table>
     <tr style="width:100%">
-        <th style="width:30%">Name</th>
+        <th style="width:35%">Name</th>
         <th style="width:15%">Class</th>
-        <th style="width:55%">Email</th>
+        <th style="width:50%">Email</th>
     </tr>
     <tr>
         <td>Mrs Lee Poh Choo</td>
@@ -38,7 +38,7 @@ description: ""
     <tr>
         <td>Ms Chew Sok Tien</td>
         <td>3C</td>
-        <td></td>
+        <td>chew_sok_tien@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mr Yeo Siah Ong</td>
@@ -51,12 +51,12 @@ description: ""
         <td>eng_lee_na@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mrs Lorna Eng&nbsp;</td>
+        <td>Mrs Lorna Eng</td>
         <td>3E</td>
         <td>eng_aik_boo@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Ning Fangye</td>
+        <td>Ms Ning Fanye</td>
         <td>3E</td>
         <td>ning_fanye@schools.gov.sg</td>
     </tr>
@@ -81,7 +81,7 @@ description: ""
         <td>haslinda_adaham@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Betina</td>
+        <td>Ms Bettina Tan</td>
         <td>3G</td>
         <td></td>
     </tr>

@@ -6,14 +6,9 @@ description: ""
 ### **2023**
 <table>
     <tr style="width:100%">
-        <th style="width:30%">Name</th>
+        <th style="width:35%">Name</th>
         <th style="width:15%">Class</th>
-        <th style="width:55%">Email</th>
-    </tr>
-    <tr>
-        <td>Mrs Khoo Cheng Eng</td>
-        <td>1A</td>
-        <td>khoo_cheng_eng@schools.gov.sg</td>
+        <th style="width:50%">Email</th>
     </tr>
     <tr>
         <td>Ms Leong Oon Ho</td>
@@ -23,7 +18,12 @@ description: ""
     <tr>
         <td>Mdm Toh Dea Beng</td>
         <td>1A</td>
-        <td>toh_dea_beng@schools.gov.sg</td>
+  <td>toh_dea_beng@schools.gov.sg</td>
+    </tr>
+	  <tr>
+        <td>Mrs Khoo Cheng Eng</td>
+        <td>1A</td>
+        <td>khoo_cheng_eng@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Ms Elaine Mok</td>
@@ -38,7 +38,7 @@ description: ""
     <tr>
         <td>Ms Eunice Yoong</td>
         <td>1C</td>
-        <td>&nbsp;goh_san_san@schools.gov.sg</td>
+        <td>goh_san_san@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Ms Lee Mei Lup</td>
@@ -56,12 +56,12 @@ description: ""
         <td>lim_see_peng@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Angelin Yeo</td>
+        <td>Mdm Angelin Yeo (Mrs Chee)</td>
         <td>1E</td>
         <td>yeo_xin_yi_angelin@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Chong Suh in</td>
+        <td>Ms Chong Suh in</td>
         <td>1E</td>
         <td>chong_suh_in@schools.gov.sg</td>
     </tr>

@@ -50,13 +50,18 @@ description: ""
         <td>6C</td>
         <td>&nbsp;guo_jiguang@schools.gov.sg</td>
     </tr>
+	<tr>
+        <td>Mdm Rohimah</td>
+        <td>6C</td>
+        <td></td>
+    </tr>
     <tr>
         <td>Ms Lim Zi Hui</td>
         <td>6D</td>
         <td>lim_zi_hui@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Pek Xueyan</td>
+        <td>Ms Pek Xueyan</td>
         <td>6D</td>
         <td>pek_xueyan@schools.gov.sg</td>
     </tr>

@@ -74,10 +74,6 @@ We are committed to nurturing gifted individuals to their fullest potential for 
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Lim Sheau Tyan Audrey</td>
   </tr>
-	<tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Lim Sok Yen</td>
-  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Liu Chunyan</td>
@@ -89,14 +85,6 @@ We are committed to nurturing gifted individuals to their fullest potential for 
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mr Seah Nam Sin</td>
-  </tr>
-	<tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Tan Hwee Hoon</td>
-  </tr>
-	<tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Zairinah</td>
   </tr>
 </tbody>
 </table>

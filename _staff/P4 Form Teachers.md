@@ -6,9 +6,9 @@ description: ""
 ### **2023**
 <table>
     <tr style="width:100%">
-        <th style="width:30%">Name</th>
+        <th style="width:35%">Name</th>
         <th style="width:15%">Class</th>
-        <th style="width:55%">Email</th>
+        <th style="width:50%">Email</th>
     </tr>
     <tr>
         <td>Mrs Kimberly Bell</td>
@@ -16,7 +16,7 @@ description: ""
         <td>kimberly_bell@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Kimie Sng</td>
+        <td>Mrs Kimie Sng</td>
         <td>4A</td>
         <td>lim_hui-miang_kimie@schools.gov.sg</td>
     </tr>
