@@ -16,7 +16,7 @@ Parents are to note that this scheme accords an eligibility to register in Raffl
   
 Shortlisted parents will be invited for an interview and selected parents will have to serve and complete 50 hours of voluntary service if they wish to be eligible for Phase 2B of the primary one registration exercise. Please note that only shortlisted parents would be notified.  
   
-Click [here](https://form.gov.sg/614820f34a4bca0012380af4) for PV Application Form (DOB 2 Jan 2018 and 1 Jan 2019)  
+
   
 Note:  
 Application for Phase 2B Parent Volunteer Scheme for children born between 2 Jan 2019 – 1 Jan 2020 (both dates inclusive) will be opened in Sept/Oct 2023
