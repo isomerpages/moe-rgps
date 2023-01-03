@@ -117,6 +117,10 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Norshahedah</td>
   </tr>
+	  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Ms Thavaselvi</td>
+  </tr>
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mr Vincent Chia Chee Sheong</td>
