@@ -57,6 +57,10 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Elaine Mok</td>
   </tr>
+	  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Ms Eunice Yoong</td>
+  </tr>
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mrs Lorna Eng </td>
@@ -81,6 +85,14 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mrs Kimberly Bell</td>
   </tr>
+	  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mrs Khoo Cheng Eng</td>
+  </tr>
+	  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mrs Lee Poh Choo</td>
+  </tr>
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Leong Oon Ho</td>
@@ -88,6 +100,10 @@ To equip our students with literacy skills that enable them to be linguistically
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Lim See Peng</td>
+  </tr>
+	 <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Ms Low Qiuhong</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
