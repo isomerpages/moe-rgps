@@ -38,7 +38,7 @@ description: ""
     <tr>
         <td>Ms Chew Sok Tien</td>
         <td>3C</td>
-        <td></td>
+        <td>chew_sok_tien@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mr Yeo Siah Ong</td>
