@@ -5,4 +5,4 @@ description: ""
 ---
 ### **2023**
 
-![](/images/ccav5.jpg)
+![](/images/ccav6.jpg)
