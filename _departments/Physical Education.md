@@ -108,11 +108,12 @@ Students at the lower primary will be exposed to fundamental movement training t
 
 Pupils will be assessed at the end of each module of the PE syllabus.
 
+#### **School PE Events**
 <table>
 <thead>
 <tr>
 <th>Level</th>
-<th>PE Events</th>
+<th>School PE Events</th>
 </tr>
 </thead>
 <tbody>

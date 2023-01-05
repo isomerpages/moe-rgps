@@ -61,7 +61,7 @@ description: ""
         <td>roslinda_a@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mrs Jacequeline Seto</td>
+        <td>Mrs Jacqueline Seto</td>
         <td>5E</td>
         <td>jacqueline_seto@schools.gov.sg</td>
     </tr>
