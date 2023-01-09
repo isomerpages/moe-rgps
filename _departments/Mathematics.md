@@ -155,20 +155,13 @@ In RGPS, our teachers assess students using different modes of assessment both f
 
 There are no weighted assessments, mid-year examination and end-of-year examination for the students in the year.  
 
-**P3 & P5**  
+**P3 & P6**  
 
-Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The table below shows an overview.
+Bite-sized forms of weighted assessments are conducted from Term 1 to Term 3. The table below shows an overview.
 
 || Term 1 | Term 2 | Term 3 | Term 4 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 |Primary 3 | - | Weighted Assessment 1 | Weighted Assessment 2 | End-of-Year Examination |
+|Primary 4 | - | Weighted Assessment 1 | Weighted Assessment 2 | End-of-Year Examination |
 |Primary 5 | - | Weighted Assessment 1 | Weighted Assessment 2 | End-of-Year Examination |
-
-**P4 & P6 Examination**
-
-|| Mid-Year Examination (MYE) | End-of-Year Examination (EYE) |
-| ----------- | ----------- | ----------- | 
-|Primary 3 | No MYE<br>Only Weighted Assessment |  End-of-Year Examination |
-|Primary 4 | Mid-Year Examination |  End-of-Year Examination |
-|Primary 5 | No MYE<br>Only Weighted Assessment |  End-of-Year Examination |
-|Primary 6 | Mid-Year Examination |  End-of-Year Examination |
+|Primary 6 | Weighted Assessment 1 | Weighted Assessment 2  | Prelims | |
