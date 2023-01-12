@@ -11,4 +11,4 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 | 28 Dec 2022|[RGPS P5 MbL IHC 2023 PG to Parents (Updated 28 Dec)](/files/Notification%202023/P5/RGPS%20P5%20MbL%20IHC%202023%20PG%20to%20Parents%20(Updated%2028%20Dec).pdf)|
-|30 Dec 2022|[2023 PG to parents RGPS P5 LJ Diversity of Cells](/files/Notification%202023/P5/2023%20PG%20to%20parents%20RGPS%20P5%20LJ%20Diversity%20of%20Cells.pdf)|
+|30 Dec 2022|[RGPS P5 LJ Diversity of Cells](/files/Notification%202023/P5/2023%20PG%20to%20parents%20RGPS%20P5%20LJ%20Diversity%20of%20Cells.pdf)|
