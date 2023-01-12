@@ -8,8 +8,10 @@ third_nav_title: Notifications
 
 ##### Term 1
 
-| Date| File | 
-| -------- | -------- | 
-| 28 Dec 2022   | [RGPS_N23_G_001_Welcome back to school_COE](/files/Notification%202023/P1%20to%206/RGPS_N23_G_001_Welcome%20back%20to%20school_COE.pdf)    | 
-|28 Dec 2022 | [RGPS Traffic Advisory for new school term (Starting on 04 Jan 2023)](/files/Notification%202023/P1%20to%206/RGPS%20Traffic%20Advisory%20for%20new%20school%20term%20(Starting%20on%20%2004%20Jan%202023).pdf) |
-
+| Date| Level|File | 
+| -------- | -------- | -------- | 
+| 28 Dec 2022   | P1-P6|[Welcome back to school_COE](/files/Notification%202023/P1%20to%206/RGPS_N23_G_001_Welcome%20back%20to%20school_COE.pdf)    | 
+|28 Dec 2022 | P1-P6|[RGPS Traffic Advisory for new school term (Starting on 04 Jan 2023)](/files/Notification%202023/P1%20to%206/RGPS%20Traffic%20Advisory%20for%20new%20school%20term%20(Starting%20on%20%2004%20Jan%202023).pdf) |
+|3 Jan| P3-P6|[New Students CCA Registration 2023](/files/Notification%202023/P1%20to%206/RGPS_N23_G_002_New%20Students%20CCA_Registration%20for%202023.pdf)|
+|4 Jan| P1-P5|[P1-5 Ezhishi Letter 2023](/files/Notification%202023/P1%20to%206/RGPSN23G005_P1-5%20Ezhishi%20Letter%202023.pdf)|
+|11 Jan|P5 & P6|[Resumption of Swimsafer P5 & P6](/files/Notification%202023/P1%20to%206/RGPS_N2_G_006%20Resumption%20of%20Swimsafer%20P5P6.pdf)
