@@ -20,4 +20,9 @@ sections:
           url: /parents/COE/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
+  - infobar:
+      title: P1 to P6 Curriculum Briefing Slides
+      subtitle: Latest Announcement
+      button: Click Here
+      url: /parents/briefing-slides/
 ---
