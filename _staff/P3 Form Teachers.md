@@ -83,6 +83,6 @@ description: ""
     <tr>
         <td>Ms Bettina Tan</td>
         <td>3G</td>
-        <td></td>
+        <td>tan_yi_ying_bettina@schools.gov.sg</td>
     </tr>
 </table>

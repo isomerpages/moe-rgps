@@ -21,8 +21,8 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infobar:
-      title: "2023 School Reporting "
-      subtitle: Important Announcements
-      description: P1 School Term starts from 3 January 2023 , P2-P6 School Term start
-        from  4 January 2023
+      title: P1 to P6 Curriculum Briefing Slides
+      subtitle: Latest Announcement
+      button: Click Here
+      url: /parents/briefing-slides/
 ---
