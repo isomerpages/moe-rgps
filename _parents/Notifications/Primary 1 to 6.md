@@ -15,3 +15,4 @@ third_nav_title: Notifications
 |3 Jan| P3-P6|[New Students CCA Registration 2023](/files/Notification%202023/P1%20to%206/RGPS_N23_G_002_New%20Students%20CCA_Registration%20for%202023.pdf)|
 |4 Jan| P1-P5|[P1-5 Ezhishi Letter 2023](/files/Notification%202023/P1%20to%206/RGPSN23G005_P1-5%20Ezhishi%20Letter%202023.pdf)|
 |11 Jan|P5 & P6|[Resumption of Swimsafer P5 & P6](/files/Notification%202023/P1%20to%206/RGPS_N2_G_006%20Resumption%20of%20Swimsafer%20P5P6.pdf)|
+
