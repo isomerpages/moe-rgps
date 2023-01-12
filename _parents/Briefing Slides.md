@@ -5,8 +5,6 @@ description: ""
 ---
 ### **2023**
 
-
-
 | Date | Level | File |
 | -------- | -------- | -------- |
 | 5 -12 Jan | P1-6     | [Principal's Address_PTM 2023](/files/Briefing%20Slides/P6/Principal's%20Address_PTM%202023.pdf)   |
