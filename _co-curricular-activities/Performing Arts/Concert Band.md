@@ -18,61 +18,19 @@ We welcome all P3 to P5 pupils with or without music background to join our band
   
 ##### **Achievements**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n348{background-color:#D3D3D3;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n348">Competition</th>
-    <th class="tg-n348">Achievement</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw"><span style="background-color:white">SYF 2010</span></td>
-    <td class="tg-f4yw"><span style="background-color:white">Silver</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="background-color:white">SYF 2012</span></td>
-    <td class="tg-f4yw"><span style="background-color:white">Silver</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="background-color:white">SYF 2014</span></td>
-    <td class="tg-f4yw"><span style="background-color:white">Distinction</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="background-color:white">SYF 2016</span></td>
-    <td class="tg-f4yw"><span style="background-color:white">Achievement</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="background-color:white">SYF 2018</span></td>
-    <td class="tg-f4yw"><span style="background-color:white">Accomplishment</span></td>
-  </tr>
-</tbody>
-</table>
+|Competition	|Achievement|
+|------|------|
+|SYF 2010	|Silver|
+|SYF 2012 |Silver|
+|SYF 2014	|Distinction|
+|SYF 2016	|Achievement|
+|SYF 2018	|Accomplishment|
+|SYF 2022|	-|
 
-*   Participate in Passion Arts @ Heartlands 2013
-*   Collaboration with Guangren Elementary School 2015
-*   Overseas Cultural Immersion Trip to Hong Kong (2016) – collaboration with Diocesan Girls Junior School and St Stephens College Preparatory School
-Competition	Achievement
-SYF 2010	Silver
-SYF 2012	Silver
-SYF 2014	Distinction
-SYF 2016	Achievement
-SYF 2018	Accomplishment
-SYF 2022	-
-
-
-•	Participate in Passion Arts @ Heartlands 2013
-•	Collaboration with Guangren Elementary School 2015
-•	Overseas Cultural Immersion Trip to Hong Kong (2016) – collaboration with Diocesan Girls Junior School and St Stephens College Preparatory School
+Other Participations and exchange program
+* Participate in Passion Arts @ Heartlands 2013
+* Collaboration with Guangren Elementary School 2015
+* Overseas Cultural Immersion Trip to Hong Kong (2016) – collaboration with Diocesan Girls Junior School and St Stephens College Preparatory School
 
  
 ##### **Teachers in Charge**
