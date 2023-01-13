@@ -23,8 +23,7 @@ RGPS's String Ensemble was established in 2006. It comprises of a group of dynam
 
 *Participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
 
- 
- ##### **Teachers in Charge**
+##### **Teachers in Charge**
 
 Mrs Lee Beiyu <br>
 Mdm Liu Chunyan <br>
