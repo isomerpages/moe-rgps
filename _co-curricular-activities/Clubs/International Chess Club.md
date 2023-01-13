@@ -35,15 +35,15 @@ The teacher-in-charge and the instructors are always on the lookout for talents 
 |National - U11|Third|
 
 
-#### **Teachers in Charge:**
+##### **Teachers in Charge:**
 
 Ms Shaheena K <br>
 Ms Linda A  
 
-#### **Training Schedule:**
+##### **Training Schedule:**
 
 Tuesdays, 3 pm to 5 pm
 
-#### **Venue**
+##### **Venue**
 Banding Room A4/4 (Level 4)<br>
 Banding Room A4/5 (Level 4)
