@@ -15,11 +15,11 @@ The Girls’ Brigade is one of the oldest Uniformed Youth Organisation for Girls
 In Singapore, our work as an Institutions of a Public Character (IPCs), is recognized by the Ministry of Education as a Co-Curricular Activity in Primary and Secondary schools.
 
 **The GB Singapore Mission**
-
+<br>
 The mission of The Brigade is to develop each girl and officer to her fullest potential by equipping, empowering and enabling every girl to be a leader, and every officer a servant leader.
 
 **The GB Programme**
-
+<br>
 The Brigade shall provide activities designed to help girls attain physical, mental and spiritual maturity; encouraging them to express all they have learnt through practical service to the community and the world around them. The Brigade shall do this with the skilled teaching and role-modelling of its Officers, the effective communication of values and effective use of all The Brigade provides through its Programme.
 
 The wearing of a uniform encourages a sense of community, group identity and esprit de corps as members are identifiable as part of something big, despite a person’s socio-economic situation. The uniform teaches each person to have pride in themselves and their appearance.
