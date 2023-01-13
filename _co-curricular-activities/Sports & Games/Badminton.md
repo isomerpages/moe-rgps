@@ -23,6 +23,7 @@ Selection will be for P2 & P3 students only. It will be held in Term 4.
 This group is for non-competitive players who wish to acquire basic badminton skills. Pupils will train for 2 hours on Wednesdays with a coach. Those with a flair for badminton may be invited to go for the School Team selection.
 
 ##### **Achievement**
+
 |Competition| Achievement|
 |--------|-------|
 |South Zone Inter-School Badminton Championship 2019 |Junior Girls – Champion  <br>Senior Girls – 1st runner up|
