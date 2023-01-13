@@ -107,7 +107,7 @@ description: ""
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Cassandra Quek Sock Cheng** | Subject Head - CCE   | <a href="quek_sock_cheng@schools.gov.sg">quek_sock_cheng@schools.gov.sg</a>     |
-| **Ms Farhani** | Subject Head - Student Well-Being   | <a href="noor_farhani_hanafi@schools.gov.sg">noor_farhani_hanafi@schools.gov.sg</a>     |
+| **Ms Farhani Hanafi-Shuy** | Subject Head - Student Well-Being   | <a href="noor_farhani_hanafi@schools.gov.sg">noor_farhani_hanafi@schools.gov.sg</a>     |
 
 ### Discipline, Guidance and Student Leadership Department
 
