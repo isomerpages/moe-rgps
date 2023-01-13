@@ -29,7 +29,7 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 |SYF 2012|Gold|
 |SYF 2014|Distinction |
 |SYF 2016|Distinction |
-|SYF 2018|Distinction |
+|SYF 2018|Accomplishment |
 |SYF 2022| Participated**|
 
 ###### **International Dance**
@@ -60,11 +60,14 @@ Mdm Poh Wei Jing
 
 ##### **Training Schedule**
 
+**CCA Team**
+Thursday, 3pm -5pm
 
-& Venue: 
-Day & Time	Groups	Venue
-Tuesday
- (3pm-5pm)	School Team	Pal Room 1&2, Dance Studio and PARTs Auditorium
-Thursday
- (3pm-5pm)	CCA &
-School Team	PARTs Auditorium, Dance Studio, Pal room 1&2, and Seminar Room (ISH)
+**School Team**
+Tuesday and Thursday, 3pm -5pm
+
+##### **Venue** 
+Pal Room 1&2 (level 1)<br>
+Dance Studio (level 6)<br>
+PARTs Auditorium (PARTS - level 3)<br>
+Seminar Room (ISH - level 1)
