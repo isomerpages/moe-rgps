@@ -15,6 +15,7 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 ### Achievements
 
 ###### **Chinese Dance**
+
 |Competition|	Achievement|
 |-----------|------------|
 |SYF 2012|Gold|
@@ -24,6 +25,7 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 |SYF 2022| Participated**|
 
 ###### **Indian Dance**
+
 |Competition|	Achievement|
 |-----------|------------|
 |SYF 2012|Gold|
@@ -33,6 +35,7 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 |SYF 2022| Participated**|
 
 ###### **International Dance**
+
 |Competition|	Achievement|
 |-----------|------------|
 |SYF 2012|Gold|
