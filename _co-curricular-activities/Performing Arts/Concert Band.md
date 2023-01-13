@@ -20,8 +20,6 @@ We welcome all P3 to P5 pupils with or without music background to join our band
 
 |Competition	|Achievement|
 |------|------|
-|SYF 2010	|Silver|
-|SYF 2012 |Silver|
 |SYF 2014	|Distinction|
 |SYF 2016	|Achievement|
 |SYF 2018	|Accomplishment|
