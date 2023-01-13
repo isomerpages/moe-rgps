@@ -4,20 +4,24 @@ permalink: /co-curricular-activities/Clubs/art-club/
 description: ""
 third_nav_title: Clubs
 ---
-### Primary 2 to 6
+#### **Art Club  (P3 to P6)**
 
-The main objective of the art club is to inculcate and nurture the love of art. Through the various activities and projects, we also hope to develop our pupils to become creative and critical thinkers and leaders. The club aims to provide a wide range of crafts for our pupils to use as a platform to express themselves, as well as to learn to communicate effectively and responsibly.  
-  
-Innovation is a vital 21st century skill and the club hopes to play a role in helping our pupils build the skill. By providing pupils with the opportunities to work collaboratively, we also hope to cultivate important values such as team work, respect and perseverance in our pupils.  
-  
-Through art making, we hope our pupils will have a deeper appreciation and love for the world around them. 
+##### **Overview of CCA:**
+The main objective of the art club is to inculcate and nurture the love of art. Our students are encouraged to explore a wide range of medium and experience different art forms. 
 
-**Teacher in charge:**  <br>
+By providing the students with the opportunities to work collaboratively, the club aims to cultivate important values such as teamwork, respect and perseverance in our students.
+
+##### **Achievement:**
+Students in art club can look forward to a meaningful cca experience as they bond together through art-making and learn from projects that support sustainability in art and contribution to the community. 
+
+Through the various activities, the students are able to develop a deeper appreciation of art and love for the world around them, as well as inspiration for a professional art career.
+
+##### **Teacher in charge:**  <br>
 Ms Cheng Sok Mung (P2 – P3)  <br>
 Ms Cassandra Quek (P4 – P6)  
 
-**Training Schedule:**  <br>
+##### **Training Schedule:**  <br>
 Wednesdays, 3pm – 5pm  
 
-**Venue:**  <br>
+##### **Venue:**  <br>
 Ms Art Rooms 2 and 3
