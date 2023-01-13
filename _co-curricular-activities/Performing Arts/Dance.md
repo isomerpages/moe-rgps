@@ -14,34 +14,54 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 
 ### Achievements
 
+###### **Chinese Dance**
 |Competition|	Achievement|
 |-----------|------------|
-|SYF Chinese Dance (2010, 2012)
-SYF Chinese Dance  (2014, 2016, 2018)
-SYF International Dance (2012)
-SYF International Dance (2014, 2016, 2018)
-SYF Indian Dance (2010,2012)
-SYF Indian Dance (2014, 2016)
-SYF Indian Dance (2018)
+|SYF 2012|Gold|
+|SYF 2014|Distinction |
+|SYF 2016|Distinction |
+|SYF 2018|Distinction |
+|SYF 2022| Participated**|
 
-*International Dance CCA started in 2011
-*SYF 2020 suspended due to COVID-19 
-*All three Dance genres take part in SYF 2022	Gold 
-Distinction 
-Gold 
-Distinction 
-Gold
-Distinction 
-Accomplishment
+###### **Indian Dance**
+|Competition|	Achievement|
+|-----------|------------|
+|SYF 2012|Gold|
+|SYF 2014|Distinction |
+|SYF 2016|Distinction |
+|SYF 2018|Distinction |
+|SYF 2022| Participated**|
 
-Teachers in charge:
-Mdm Chong Lay Khim ( Teacher in-charge), 
-Ms Lee Mei Lup ( Assistant Teacher in-charge),
+###### **International Dance**
+|Competition|	Achievement|
+|-----------|------------|
+|SYF 2012|Gold|
+|SYF 2014|Distinction |
+|SYF 2016|Distinction |
+|SYF 2018|Distinction |
+|SYF 2022| Participated**|
 
-Mrs Kalamani Tanabal, Mdm Dou Ping, Mdm Durai Thamaraiselvi, Ms Gao Jingru, Mdm Lui Keet Mun and Mdm Poh Wei Jing 
+
+SYF 2020 suspended due to COVID-19 <br>
+**In view of the disruptions to in-person CCA in Semester 2, 2021 as well as Term 1, 2022, participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.	
 
 
-Training Schedule & Venue: 
+
+##### **Teachers in charge**
+Mdm Chong Lay Khim<br>
+Ms Lee Mei Lup<br>
+Mrs Kalamani Tanabal<br>
+Mdm Dou Ping<br>
+Mdm Durai Thamaraiselvi<br>
+Ms Gao Jingru<br>
+Mdm Lui Keet Mun<br>
+Mdm Poh Wei Jing
+
+
+##### **Training Schedule**
+
+
+& Venue: 
 Day & Time	Groups	Venue
 Tuesday
  (3pm-5pm)	School Team	Pal Room 1&2, Dance Studio and PARTs Auditorium
