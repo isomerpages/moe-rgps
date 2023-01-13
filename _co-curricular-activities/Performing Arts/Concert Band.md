@@ -27,7 +27,7 @@ We welcome all P3 to P5 pupils with or without music background to join our band
 |SYF 2018	|Accomplishment|
 |SYF 2022|Participated*|
 
-*In view of the disruptions to in-person CCA in Semester 2, 2021 as well as Term 1, 2022, participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
+*Participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
 
 Other Participations and exchange program
 * Participate in Passion Arts @ Heartlands 2013
