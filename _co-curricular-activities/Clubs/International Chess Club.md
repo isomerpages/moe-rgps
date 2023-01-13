@@ -15,7 +15,7 @@ In all sessions, members have plenty of opportunities to play against each other
 
 The teacher-in-charge and the instructors are always on the lookout for talents to groom. Members with potential will be given special training to play in our school team. The trainers will assist in looking for potential players during CCA sessions. Teachers will also look for potential players during competitions organised by chess training schools.
   
-#### **Achievements**
+##### **Achievements**
 
 ###### **73rd National Schools Individual Chess Championship 2022**
 
