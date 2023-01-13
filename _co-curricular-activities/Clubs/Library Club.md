@@ -17,7 +17,6 @@ The roles & responsibilities of a student librarian include:
 3. Preparing for library activities and thematic book displays for Library Week 
 4. Performing library duties such as shelving of books
 
-
 To adequately equip them, the student librarians will be trained in:
 
 1. Doing thematic book display
@@ -32,7 +31,6 @@ Over the course of the year, the student librarians will develop their leadershi
 Mrs Jacqueline Seto<br>
 Mdm Foo Hwa Ming
 
-  
 ##### **Training Schedule**
 
 Monday, 3 to 5pm
