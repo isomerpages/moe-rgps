@@ -4,20 +4,23 @@ permalink: /programme/co-curricular-activities-cca/clubs/new-media-club/
 description: ""
 third_nav_title: Clubs
 ---
-### New Media Club
+#### **New Media Club  (P3 to P6)**
 
-The New Media Club is for pupils from Primary 4 to 6 who enjoy writing, designing and creating new things. If you are interested, the club will equip you with the skills to coordinate and produce content for the school’s newsletters for pupils, Raffles Bubble.  
+##### **Overview of CCA**
 
-Over the course of the year, pupils will learn how to lead, research and source for content as well as work in teams. Keep a lookout for our publications and broadcasts!
+The New Media Club is for pupils who enjoy photography, coding and content creation. If you are interested, the club will equip you with the skills and exposure to produce content through activities such as website creation and events photography. 
 
+Over the course of the year, pupils will gain a variety of skills in research, designing, coding and photography. Join us to learn the art of communication using new media tools!
 
-### Teachers in Charge
+##### **Teachers in Charge**
 
 Ms Ang Kai Mei <br>
 Ms Lim Zi Hui  
 
- 
+##### **Training Schedule**
 
-### CCA Schedule
+Tuesday, 3 pm – 5 pm
 
-Tuesday 3 pm – 5 pm
+##### **Venue**
+IT Lab 1 (level 1)
+IT Lab 2 (level 1)
