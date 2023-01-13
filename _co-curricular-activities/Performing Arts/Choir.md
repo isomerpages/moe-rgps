@@ -41,7 +41,7 @@ Monday and Wednesday, 3pm – 5pm  <br>
 Seminar Room  <br>
 Pupils are to gather along the corridor of the Seminar Room by 2.45pm.
 
-
+--------
 
 #### **Junior Choir (P3)**
 
