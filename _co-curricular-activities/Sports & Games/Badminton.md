@@ -24,7 +24,7 @@ This group is for non-competitive players who wish to acquire basic badminton sk
 
 ##### **Achievement**
 |Competition| Achievement|
-|------|-----|
+|--------|-------|
 |South Zone Inter-School Badminton Championship 2019|Junior Girls – Champion  <br>Senior Girls – 1st runner up|
 |National Inter-School Badminton Championship 2019|Junior Girls – Top 8|
 |South zone inter-school Badminton championship 2021 |Senior girls Champion|
@@ -53,4 +53,3 @@ No training during holiday
 ##### **Venue**
 School Hall (level 2)<br>
 Indoor Sports Hall (ISH - level 2)
-
