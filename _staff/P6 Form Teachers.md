@@ -53,7 +53,7 @@ description: ""
 	<tr>
         <td>Mdm Rohimah</td>
         <td>6C</td>
-        <td></td>
+        <td>rohimah_abdul_ghani_a@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Ms Lim Zi Hui</td>
