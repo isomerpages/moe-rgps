@@ -6,7 +6,7 @@ third_nav_title: Clubs
 ---
 #### **Enviro-Life Science Club  (P3 to P6)**
 
-##### **Overview of CCA:**
+##### **Overview of CCA**
 
 The Enviro-Life Science Club enables pupils to take an active interest in environmental issues; have fun learning in and about the environment. 
 
