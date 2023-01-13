@@ -22,6 +22,5 @@ Mdm Roziyana Rahmat
 Tuesday,  3pm - 5pm 
 
 ##### **Venue**
-Science Lab 1<br>
-IT Lab 3
-
+Life Science Lab<br>
+Tinkering Courtyard
