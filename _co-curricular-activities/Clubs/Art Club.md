@@ -25,6 +25,6 @@ Ms Cassandra Quek
 Wednesdays, 3pm – 5pm  
 
 ##### **Venue:**  <br>
-Art Rooms 2<br>
-Art Room 3<br>
-The Cube
+Art Rooms 2 (level 2)<br>
+Art Room 3 (level 2)<br>
+The Cube (level 2)
