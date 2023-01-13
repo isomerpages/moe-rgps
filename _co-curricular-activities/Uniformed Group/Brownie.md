@@ -30,7 +30,10 @@ Sixers / Seconds will be provided with ample opportunities to hone their leaders
 Brownies will continue working for interest badges and awards that will help them develop new skills. Tweenies ( new members who have not been enrolled yet ) will work towards the attainment of the Golden Badge in Term 1 and then continue on the 5-point programme once they are enrolled as Brownies.
 
 ##### **Achievement**
-Puan Noor Aishah Award - Silver
+
+|Competition	|Achievement|
+|------|------|
+|Puan Noor Aishah Award	|Silver|
 
 ##### **Teachers in Charge**
 
