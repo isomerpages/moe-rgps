@@ -17,11 +17,14 @@ Students in art club can look forward to a meaningful cca experience as they bon
 Through the various activities, the students are able to develop a deeper appreciation of art and love for the world around them, as well as inspiration for a professional art career.
 
 ##### **Teacher in charge:**  <br>
-Ms Cheng Sok Mung (P2 – P3)  <br>
-Ms Cassandra Quek (P4 – P6)  
+Ms Cheng Sok Mung<br> 
+Ms Lee Suan Khim<br> 
+Ms Cassandra Quek
 
 ##### **Training Schedule:**  <br>
 Wednesdays, 3pm – 5pm  
 
 ##### **Venue:**  <br>
-Ms Art Rooms 2 and 3
+Art Rooms 2<br>
+Art Room 3<br>
+The Cube
