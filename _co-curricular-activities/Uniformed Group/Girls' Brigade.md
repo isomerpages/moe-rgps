@@ -50,4 +50,3 @@ Wed 3 to 5 pm
 
 ##### **Venue** 
 PAL room 1 & 2 (level 1)
-
