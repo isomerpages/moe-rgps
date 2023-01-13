@@ -4,19 +4,18 @@ permalink: /programme/co-curricular-activities-cca/clubs/international-chess-clu
 description: ""
 third_nav_title: Clubs
 ---
-### **Overview**
+#### **International Chess Club (P3 to P6)**
 
-The Chess Club was set up in 2006 with the objective of promoting intellectual games as well as bringing together avid chess players. It aims to introduce basic chess play skills to members and help them develop their talents. Through chess, the members will develop a sharper mind and improve their ability to focus on tasks.  
-  
-The beginner class equips members with knowledge of basic chess strategies and rules while the intermediate class helps members to further develop their skills and abilities.  
-  
-In all sessions, members have plenty of opportunities to play against each other under the guidance of the instructors.  
-  
+##### **Overview of CCA:**
+The Chess Club was set up in 2006 with the objective of promoting intellectual games as well as bringing together avid chess players. It aims to introduce basic chess play skills to members and help them develop their talents. Through chess, the members will develop a sharper mind and improve their ability to focus on tasks. 
+
+The beginner class equips members with knowledge of basic chess strategies and rules while the intermediate class helps members to further develop their skills and abilities. 
+
+In all sessions, members have plenty of opportunities to play against each other under the guidance of the instructors. 
+
 The teacher-in-charge and the instructors are always on the lookout for talents to groom. Members with potential will be given special training to play in our school team. The trainers will assist in looking for potential players during CCA sessions. Teachers will also look for potential players during competitions organised by chess training schools.
-
   
-
-### **Achievements**
+#### **Achievements**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -63,12 +62,15 @@ The teacher-in-charge and the instructors are always on the lookout for talents 
 </tbody>
 </table>
 
-### Teachers in Charge
+#### **Teachers in Charge:**
 
-Ms Shaheena K.  <br>
+Ms Shaheena K <br>
 Ms Linda A  
-  
 
-### Training Schedule
+#### **Training Schedule:**
 
 Tuesdays, 3 pm to 5 pm
+
+#### **Venue**
+Banding Room A4/4 (Level 4)
+Banding Room A4/5 (Level 4)
