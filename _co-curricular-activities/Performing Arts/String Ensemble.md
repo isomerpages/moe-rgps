@@ -20,7 +20,9 @@ RGPS's String Ensemble was established in 2006. It comprises of a group of dynam
 |SYF 2016	|Distinction|
 |SYF 2018	|Distinction|
 |SYF 2022	|Participated*|
- ( No grading for SYF 2022)
+
+*Participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
+
  
  ##### **Teachers in Charge**
 
@@ -36,6 +38,3 @@ Monday & Thursday, 3-5PM  <br>
 ##### **Venue**
 Music Room 5 (Violin and Viola Players) <br>
 Meeting Room 2 (Cello and Double Bass Players)
-
-  
-
