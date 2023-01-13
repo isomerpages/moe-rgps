@@ -23,7 +23,7 @@ We welcome all P3 to P5 pupils with or without music background to join our band
 |SYF 2014	|Distinction|
 |SYF 2016	|Achievement|
 |SYF 2018	|Accomplishment|
-|SYF 2022|Participted*|
+|SYF 2022|Participated*|
 
 *In view of the disruptions to in-person CCA in Semester 2, 2021 as well as Term 1, 2022, participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
 
