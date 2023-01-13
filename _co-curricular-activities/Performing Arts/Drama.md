@@ -25,6 +25,6 @@ Ms Shahedah Salim
 Tuesday, 3:00 – 5:00 pm <br>
 (There will be additional training sessions prior to performances)
 
-##### **Fees Payable**
+##### **Venue**
 
 Seminar Room (ISH- level 1)
