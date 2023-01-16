@@ -21,10 +21,8 @@ Pupils who display potential will be identified for selection team training in P
 |-------------|--------------|
 |South Zone Inter-School Basketball Championship 2017|Senior Girls’ – 2nd |  
 |National Inter-School Basketball Championship 2017	|Senior Girls’ – Quarter Finals|
-|South Zone Inter-School Basketball Championship 2018|	Junior Girls’ - Participation<br>
-Senior Girls’ – Participation|
-|National Inter-School Basketball Championship 2019|	Junior Girls’ – 1st in Qualifying Round<br>
-Junior Girls’ – 4th in First Tier Group|
+|South Zone Inter-School Basketball Championship 2018|	Junior Girls’ - Participation<br>Senior Girls’ – Participation|
+|National Inter-School Basketball Championship 2019|	Junior Girls’ – 1st in Qualifying Round<br>Junior Girls’ – 4th in First Tier Group|
 |South Zone Inter-School Basketball Championship 2019|	Senior Girls’ – 5th position|
 |NSG Zonal Junior Division Basketball Championship 2022|	Junior Girls’ - Tier 1 :  2nd position|
 |NSG Zonal Senior Division Basketball Championship 2022|	Senior Girls’ - 4th position|
