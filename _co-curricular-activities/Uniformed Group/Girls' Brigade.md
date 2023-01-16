@@ -40,8 +40,8 @@ The GB activities are centered on 3 key areas:
 
 ##### **Teachers in Charge**
 
-Ms Eng Lee Na  <br>
-Mrs Eliza Tang  <br>
+Ms Eng Lee Na (In-charge)<br>
+Mrs Eliza Tang (Asst. i/c)<br>
 Ms Tang Jingwen  <br>
 
 ##### **Training Schedule**
