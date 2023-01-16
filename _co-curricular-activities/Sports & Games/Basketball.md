@@ -45,30 +45,34 @@ Pupils who display potential will be identified for selection team training in P
 |-----------|------------|
 |P3 CCA|Ms Tan Hui Li|
 |P4/5 CCA|Ms Pek Xueyan|
-|P3 Selection Team|Mr Ulyssess & Ms Tan Hui Li|
-|P4 School Team |Mr Yeo Eng Wee|
-|P5 School Team |Mr Ho Kai Huat|
+|P3 Selection Team|Mr Ulyssess<br>Ms Tan Hui Li|
+|P4 School Team|Mr Yeo Eng Wee|
+|P5 School Team|Mr Ho Kai Huat|
 
 
-Training Schedule:
-Semester 1 :
+##### **Training Schedule**
 
-P3 CCA       - Monday (3pm to 5pm)
-P4/5/6 CCA - Tuesday (3pm to 5pm)
+**Semester 1**
 
-P4 ST          - Tuesday & Thursday    (3pm to 5pm)
-P5 ST          - Monday & Wednesday (3pm to 5pm)
-P6 ST          - Tuesday & Thursday    (3pm to 5pm)
+|CCA Group| Training Day & Time|
+|-----------|------------|
+|P3 CCA |Monday, 3pm to 5pm|
+|P4/5/6 CCA |Tuesday, 3pm to 5pm|
+|P4 School Team |Tuesday & Thursday, 3pm to 5pm|
+|P5 School Team |Monday & Wednesday, 3pm to 5pm|
+|P6 School Team |Tuesday & Thursday, 3pm to 5pm|
 
-Semester 2 :
+**Semester 2**
 
-P3 CCA       - Monday (3pm to 5pm)
-P4/5 CCA    - Tuesday (3pm to 5pm)
-P3 Selection Team - Monday & Thursday    (3pm to 5pm)
-P4 ST                     - Tuesday & Thursday    (3pm to 5pm)
-P5 ST                     - Monday & Wednesday (3pm to 5pm)
+|CCA Group| Training Day & Time|
+|-----------|------------|
+P3 CCA|Monday, 3pm to 5pm|
+P4/5 CCA|Tuesday, 3pm to 5pm|
+P3 Selection Team|Monday & Thursday, 3pm to 5pm|
+P4 School Team|Tuesday & Thursday, 3pm to 5pm|
+P5 School Team|Monday & Wednesday, 3pm to 5pm|
 
 
-Venue:
-PARTS Basketball Court
+##### **Venue**
+PARTS Basketball Court<br>
 Indoor Sports Hall (ISH)
