@@ -47,8 +47,8 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 *Participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
 
 ##### **Teachers in charge**
-Mdm Chong Lay Khim<br>
-Ms Lee Mei Lup<br>
+Mdm Chong Lay Khim (In-charge)<br>
+Ms Lee Mei Lup (Asst. IC)<br>
 Mrs Kalamani Tanabal<br>
 Mdm Dou Ping<br>
 Mdm Durai Thamaraiselvi<br>
