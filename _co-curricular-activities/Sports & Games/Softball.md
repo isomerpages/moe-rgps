@@ -20,23 +20,26 @@ The CCA team is a developmental team and is led by Ms Farhani and Mr Yeo. They t
 
 |Competition| Achievement|
 |------------|----------------|
-National Inter-School Softball Championship 2015	Junior Girls – 2nd
-Senior Girls – 1st
-National Inter-School Softball Championship 2016	Junior Girls – 1st
-Senior Girls – 2nd
-National Inter-School Softball Championship 2017	Junior Girls – 1st 
-Senior Girls – 2nd
-National Inter-School Softball Championship 2018	Junior Girls – 2nd 
-Senior Girls – 1st
-National Inter-School Softball Championship 2019	Junior Girls – 2nd 
-Senior Girls – 1st
-National Inter-School Softball Championship 2022	Junior Girls- 3rd
-Senior Girls- 2nd
+|National Inter-School Softball Championship 2015|	Junior Girls – 2nd<br>Senior Girls – 1st|
+|National Inter-School Softball Championship 2016|	Junior Girls – 1st<br>Senior Girls – 2nd|
+|National Inter-School Softball Championship 2017|	Junior Girls – 1st<br>Senior Girls – 2nd|
+|National Inter-School Softball Championship 2018|	Junior Girls – 2nd<br>Senior Girls – 1st|
+|National Inter-School Softball Championship 2019|	Junior Girls – 2nd<br>Senior Girls – 1st|
+|National Inter-School Softball Championship 2022|	Junior Girls- 3rd<br>Senior Girls- 2nd|
 
-### Teachers in Charge
+##### **Teachers in Charge**
 
-Ms Lee Shiao Huai (In-charge)  <br>
-Ms Farhani Hanafi (Asst i/c)  <br>
-Ms Yap Fang Ying  <br>
-Mrs Kimberly Bell  <br>
-Ms Joyce Tiang
+Ms Lee Shiao Huai (In-charge)<br>
+Ms Farhani Hanafi-Shuy (Asst i/c)<br>
+Mrs Joyce Ong<br>
+Mr Yeo Siah Ong<br>
+Mdm Ho Shwu Huey
+
+##### **Training Schedule**
+
+**Junior and Senior School Teams**<br>Tuesdays and Thursdays, 3-5pm
+
+**CCA Team**<br>Tuesdays, 3-5pm
+
+##### **Venue**
+School Field
