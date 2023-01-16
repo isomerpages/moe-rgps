@@ -39,5 +39,3 @@ Wednesdays, 3pm – 5pm
 
 ##### **Venue**
 School Hall
-
-
