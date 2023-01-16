@@ -30,7 +30,7 @@ The CCA team is a developmental team and is led by Ms Farhani and Mr Yeo. They t
 ##### **Teachers in Charge**
 
 Ms Lee Shiao Huai (In-charge)<br>
-Ms Farhani Hanafi-Shuy (Asst i/c)<br>
+Ms Farhani Hanafi-Shuy (Asst. i/c)<br>
 Mrs Joyce Ong<br>
 Mr Yeo Siah Ong<br>
 Mdm Ho Shwu Huey
