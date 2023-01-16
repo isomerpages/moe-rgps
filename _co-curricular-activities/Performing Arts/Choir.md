@@ -30,7 +30,7 @@ Our Choir will have the opportunity to perform in various school functions such 
 ##### **Teachers in Charge**
 
 Mrs Amy (In-charge)<br>
-Ms Eng Lik Boon (Asst. IC)<br> 
+Ms Eng Lik Boon (Asst. i/c)<br> 
 Mrs Heng Meng Tee<br>
 Mrs Lo Kaur Kheng
 
@@ -50,7 +50,7 @@ In junior choir, pupils learn basic singing techniques such as adopting the righ
 
 ##### **Teachers in Charge**
 
-Mdm Angelin Yeo (Mrs Chee) (Asst. IC)<br>
+Mdm Angelin Yeo (Mrs Chee) (Asst. i/c)<br>
 Ms Yap Ying Tong 
 
 ##### **Training Schedule**
