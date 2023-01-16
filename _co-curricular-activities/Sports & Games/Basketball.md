@@ -31,20 +31,23 @@ Pupils who display potential will be identified for selection team training in P
 
 **Semester 1** 
 
-|Group| Teacher Ic|
-|P3 CCA       | Ms Tan Hui Li|
+|CCA Group| Teacher IC|
+|-----------|------------|
+|P3 CCA| Ms Tan Hui Li|
 |P4/5/6 CCA |Ms Pek Xueyan|
-|P4 ST          |Mr Ulyssess|
-|P5 ST          |Mr Ho Kai Huat|
-|P6 ST          |Mr Yeo Eng Wee|
+|P4 School Team|Mr Ulyssess|
+|P5 School Team|Mr Ho Kai Huat|
+|P6 School Team|Mr Yeo Eng Wee|
 
-Semester 2
+**Semester 2**
 
-P3 CCA       - Ms Tan Hui Li
-P4/5 CCA    - Ms Pek Xueyan
-P3 Selection Team – Mr Ulyssess & Ms Tan Hui Li
-P4 ST                     –  Mr Yeo Eng Wee
-P5 ST                     –  Mr Ho Kai Huat
+|CCA Group| Teacher IC|
+|-----------|------------|
+|P3 CCA|Ms Tan Hui Li|
+|P4/5 CCA|Ms Pek Xueyan|
+|P3 Selection Team|Mr Ulyssess & Ms Tan Hui Li|
+|P4 School Team |Mr Yeo Eng Wee|
+|P5 School Team |Mr Ho Kai Huat|
 
 
 Training Schedule:
