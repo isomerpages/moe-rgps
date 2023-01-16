@@ -25,7 +25,7 @@ Our Choir will have the opportunity to perform in various school functions such 
 |SYF 2018	|Distinction|
 |SYF 2022	|Participated*|
 
-*In view of the disruptions to in-person CCA in Semester 2, 2021 as well as Term 1, 2022, participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
+*Participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
 
 ##### **Teachers in Charge**
 
