@@ -44,9 +44,7 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 |SYF 2018 |Distinction |
 |SYF 2022 |Participated**|
 
-
-SYF 2020 suspended due to COVID-19 <br>
-**In view of the disruptions to in-person CCA in Semester 2, 2021 as well as Term 1, 2022, participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.	
+*Participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022.
 
 ##### **Teachers in charge**
 Mdm Chong Lay Khim<br>
