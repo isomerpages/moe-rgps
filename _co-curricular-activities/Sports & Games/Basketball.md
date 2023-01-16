@@ -27,3 +27,45 @@ Pupils who display potential will be identified for selection team training in P
 |NSG Zonal Junior Division Basketball Championship 2022|	Junior Girls’ - Tier 1 :  2nd position|
 |NSG Zonal Senior Division Basketball Championship 2022|	Senior Girls’ - 4th position|
 
+##### **Teachers in charge**
+
+**Semester 1** 
+
+|Group| Teacher Ic|
+|P3 CCA       | Ms Tan Hui Li|
+|P4/5/6 CCA |Ms Pek Xueyan|
+|P4 ST          |Mr Ulyssess|
+|P5 ST          |Mr Ho Kai Huat|
+|P6 ST          |Mr Yeo Eng Wee|
+
+Semester 2
+
+P3 CCA       - Ms Tan Hui Li
+P4/5 CCA    - Ms Pek Xueyan
+P3 Selection Team – Mr Ulyssess & Ms Tan Hui Li
+P4 ST                     –  Mr Yeo Eng Wee
+P5 ST                     –  Mr Ho Kai Huat
+
+
+Training Schedule:
+Semester 1 :
+
+P3 CCA       - Monday (3pm to 5pm)
+P4/5/6 CCA - Tuesday (3pm to 5pm)
+
+P4 ST          - Tuesday & Thursday    (3pm to 5pm)
+P5 ST          - Monday & Wednesday (3pm to 5pm)
+P6 ST          - Tuesday & Thursday    (3pm to 5pm)
+
+Semester 2 :
+
+P3 CCA       - Monday (3pm to 5pm)
+P4/5 CCA    - Tuesday (3pm to 5pm)
+P3 Selection Team - Monday & Thursday    (3pm to 5pm)
+P4 ST                     - Tuesday & Thursday    (3pm to 5pm)
+P5 ST                     - Monday & Wednesday (3pm to 5pm)
+
+
+Venue:
+PARTS Basketball Court
+Indoor Sports Hall (ISH)
