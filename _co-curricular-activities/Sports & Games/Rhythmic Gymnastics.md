@@ -23,7 +23,7 @@ Rhythmic Gymnastics in RGPS comprises of recreational cca team and school select
 
 ##### **Teacher in Charge**
 
-Mrs Claresta Chee (In-Charge<br>
+Mrs Claresta Chee (In-Charge)<br>
 Mdm Ning Fanye (Asst. i/c)<br>
 Ms Elicia Lim (Asst. i/c))<br>
 Ms Leong Oon Ho <br>
