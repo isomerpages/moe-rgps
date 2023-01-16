@@ -101,7 +101,7 @@ description: ""
         <td>tiang_xuan_lin_joyce@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Noor Farhani</td>
+        <td>Ms Farhani Hanafi-Shuy</td>
         <td>2I</td>
         <td>noor_farhani_hanafi@schools.gov.sg</td>
     </tr>

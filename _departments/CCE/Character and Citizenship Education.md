@@ -37,7 +37,7 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
   </tr>
   <tr>
     <td class="tg-dgl5">Subject Head (Well-Being) </td>
-    <td class="tg-ktyi">Ms Noor Farhani</td>
+    <td class="tg-ktyi">Ms Farhani Hanafi-Shuy</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Senior Teacher CCE</td>

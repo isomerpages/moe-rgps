@@ -4,18 +4,23 @@ permalink: /programme/co-curricular-activities-cca/clubs/enviro-life-science-clu
 description: ""
 third_nav_title: Clubs
 ---
-### Overview
+#### **Enviro-Life Science Club  (P3 to P6)**
 
-Besides learning about the environmental issues, this club enables pupils to take an active interest in environmental issues; have fun learning in and about the environment while improving their school curriculum work in science and arts. The pupils will also learn to work as a team to solve problems and organize actions for the environment.
+##### **Overview of CCA**
 
-  
+The Enviro-Life Science Club enables pupils to take an active interest in environmental issues; have fun learning in and about the environment. 
 
-  
+The pupils will also learn to work as a team to solve problems and organize actions for the environment.
 
-### Teachers in Charge
+##### **Teachers in Charge**
 
-Mrs Christina Lim (Enviro-Life Sc Club for P4-6)
+Ms Grace Tan (In-charge)<br>
+Mdm Roziyana Rahmat
 
-### Training Schedule
+##### **Training Schedule**
 
-Tuesday  3pm - 5pm (Science Lab 1 & IT Lab 3)
+Tuesday,  3pm - 5pm 
+
+##### **Venue**
+Life Science Lab (level 3)<br>
+Tinkering Courtyard (level 1)

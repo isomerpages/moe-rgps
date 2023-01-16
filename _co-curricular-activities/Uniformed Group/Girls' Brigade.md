@@ -4,70 +4,49 @@ permalink: /programme/co-curricular-activities-cca/uniformed-group/girls-brigade
 description: ""
 third_nav_title: Uniformed Group
 ---
-### Overview
+#### **Girls’ Brigade (P3 to P6)**
 
-The Girls’ Brigade is one of the oldest Christian uniformed youth organisation for girls in the world. It is an international fellowship represented in over 60 countries.  
-In Singapore, it is recognized by the Ministry of Education as a Co-Curricular Activity in primary and secondary schools.  
-**The GB Singapore Mission** Developing each girl and officer to her fullest potential by equipping, empowering and enabling
+##### **Overview of CCA**
 
-*   Every Girl a Leader
-*   Every Officer a Servant Leader
+**What is the Girls’ Brigade all about?**
 
-**The GB Programme** Activities are centered on 3 key areas:
+The Girls’ Brigade is one of the oldest Uniformed Youth Organisation for Girls in the world. It is an international fellowship, founded as a Christian Organisation, represented in over 60 countries. 
 
-1.  Leadership Development
-2.  Character Development
-3.  Service to the Community
+In Singapore, our work as an Institutions of a Public Character (IPCs), is recognized by the Ministry of Education as a Co-Curricular Activity in Primary and Secondary schools.
 
-Since the humble beginning in 1985, the girls in the 20th Girls’ Brigade (GB) company have forged deep and meaningful friendships as they interact and work together with friends within the school and from other companies. They participate actively in camps, national events and community projects that develop leadership skills and instil moral values.  
-Through the course of participation, the pupils develop a strong sense of belonging in the company. Even after graduation, they would return to volunteer as camp assistants to relive the fond memories and continue to pass on the legacy to the new members. The activities at national level are life enriching and purposeful as they enable both girls and officers to be more aware of the needs of the community.
+**The GB Singapore Mission**
+<br>
+The mission of The Brigade is to develop each girl and officer to her fullest potential by equipping, empowering and enabling every girl to be a leader, and every officer a servant leader.
 
-### Achievement
+**The GB Programme**
+<br>
+The Brigade shall provide activities designed to help girls attain physical, mental and spiritual maturity; encouraging them to express all they have learnt through practical service to the community and the world around them. The Brigade shall do this with the skilled teaching and role-modelling of its Officers, the effective communication of values and effective use of all The Brigade provides through its Programme.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n348{background-color:#D3D3D3;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n348">Competition<span style="background-color:lightgrey"> </span></th>
-    <th class="tg-n348">Achievement<span style="background-color:lightgrey"> </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7yig">Company Awards 2018<span style="background-color:white"> </span></td>
-    <td class="tg-7yig">Gold<span style="background-color:white"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Dr Low Guat Tin Challenge<span style="background-color:white"> </span></td>
-    <td class="tg-7yig">Silver</td>
-  </tr>
-</tbody>
-</table>
+The wearing of a uniform encourages a sense of community, group identity and esprit de corps as members are identifiable as part of something big, despite a person’s socio-economic situation. The uniform teaches each person to have pride in themselves and their appearance.
 
-### Teachers in Charge
+The GB activities are centered on 3 key areas:
+1. Leadership Development
+2. Character Development
+3. Service to the Community
 
-Ms Eng Lee Na  <br>
-Mrs Eliza Tang  <br>
+
+##### **Achievement**
+
+|Competition	|Achievement|
+|----------|----------|
+|Company Awards 2022|	Gold|
+|Dr Low Guat Tin Challenge 2022	|Silver|
+
+
+##### **Teachers in Charge**
+
+Ms Eng Lee Na (In-charge)<br>
+Mrs Eliza Tang (Asst. i/c)<br>
 Ms Tang Jingwen  <br>
-Mrs Grace Tan
 
-### Training Schedule
-
+##### **Training Schedule**
 
 Wed 3 to 5 pm
 
-### Venue  
-
-PAL room 1 & 2
-
-### Levels
-
-P3 to P6
+##### **Venue** 
+PAL room 1 & 2 (level 1)

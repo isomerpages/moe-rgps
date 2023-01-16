@@ -46,14 +46,14 @@ description: ""
         <td>eu_shee_sian@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mr Gao Jiguang</td>
+        <td>Mr Guo Jiguang</td>
         <td>6C</td>
-        <td>&nbsp;guo_jiguang@schools.gov.sg</td>
+        <td>guo_jiguang@schools.gov.sg</td>
     </tr>
 	<tr>
         <td>Mdm Rohimah</td>
         <td>6C</td>
-        <td></td>
+        <td>rohimah_abdul_ghani_a@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Ms Lim Zi Hui</td>
