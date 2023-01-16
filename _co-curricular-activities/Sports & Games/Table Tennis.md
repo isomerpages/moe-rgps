@@ -35,8 +35,8 @@ This group is for Primary 3 to Primary 6 non-competitive players. Pupils meet on
 
 ##### **Teachers in Charge**
 
-Ms Teo Siew Huai <br>
-Mdm Lim Sheau Tyan Audrey<br>
+Ms Teo Siew Huai (In-charge)<br>
+Mdm Lim Sheau Tyan Audrey (Asst. i/c)<br>
 Ms Li Yixian<br>
 Ms Junaidah Md Yusof<br>
 Ms Joyce Tan
