@@ -37,8 +37,8 @@ Brownies will continue working for interest badges and awards that will help the
 
 ##### **Teachers in Charge**
 
-Mdm. Kavitha<br>
-Mrs Janice Low <br>
+Mdm. Kavitha (In-Charge)<br>
+Mrs Janice Low (Asst. i/c)<br>
 Ms Lim Chiat Hwee
 
 ##### **Training Schedule**
