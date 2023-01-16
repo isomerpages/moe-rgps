@@ -14,7 +14,7 @@ The pupils will also learn to work as a team to solve problems and organize acti
 
 ##### **Teachers in Charge**
 
-Ms Grace Tan<br>
+Ms Grace Tan (In-charge)<br>
 Mdm Roziyana Rahmat
 
 ##### **Training Schedule**
