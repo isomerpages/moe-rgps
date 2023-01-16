@@ -37,7 +37,7 @@ The teacher-in-charge and the instructors are always on the lookout for talents 
 
 ##### **Teachers in Charge:**
 
-Ms Shaheena K <br>
+Ms Shaheena K (In-charge) <br>
 Ms Linda A  
 
 ##### **Training Schedule:**
