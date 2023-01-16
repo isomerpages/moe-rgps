@@ -38,7 +38,7 @@ Other Participations and exchange program
 ##### **Teachers in Charge**
 
 Ms Khoo Wai Ling (In-charge)<br>
-Ms Tan Li Peng<br>
+Ms Tan Li Peng (Asst. i/c)<br>
 Mdm Ang Geok Peng<br>
 Mdm Haryana Bte Md Dom<br>
 Mdm Rayhanah Mohd<br>
