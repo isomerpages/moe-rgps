@@ -8,10 +8,10 @@ third_nav_title: Uniformed Group
 
 ##### **Overview of CCA**
 		 
-**The Brownies Vision**
+**The Brownies Vision**<br>
 All girls are valued and take action to change the world.
 
-**The Brownies mission**
+**The Brownies mission**<br>
 To enable girls and young women to develop their fullest potential as responsible citizens of the world
 
 Brownies are guided by a comprehensive 5-Point Programme, which develops them in 5 areas:
