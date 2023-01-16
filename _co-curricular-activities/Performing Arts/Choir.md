@@ -17,6 +17,7 @@ In their continual exposure to music from various cultures, languages, historica
 Our Choir will have the opportunity to perform in various school functions such as Honours Day, and out of school events such as the Singapore Youth Festival Arts Presentation.
 
 ##### **Achievement**
+
 |Competition	|Achievement|
 |----------|-----------|
 |SYF 2014	|Distinction|
