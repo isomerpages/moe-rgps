@@ -17,7 +17,7 @@ Students in art club can look forward to a meaningful cca experience as they bon
 Through the various activities, the students are able to develop a deeper appreciation of art and love for the world around them, as well as inspiration for a professional art career.
 
 ##### **Teacher in charge**  <br>
-Ms Cheng Sok Mung<br> 
+Ms Cheng Sok Mung (In-charge)<br> 
 Ms Lee Suan Khim<br> 
 Ms Cassandra Quek
 
