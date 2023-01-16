@@ -28,7 +28,7 @@ Over the course of the year, the student librarians will develop their leadershi
 
 ##### **Teachers in Charge**
 
-Mrs Jacqueline Seto<br>
+Mrs Jacqueline Seto (In-charge)<br>
 Mdm Foo Hwa Ming
 
 ##### **Training Schedule**
