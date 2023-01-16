@@ -25,8 +25,8 @@ RGPS's String Ensemble was established in 2006. It comprises of a group of dynam
 
 ##### **Teachers in Charge**
 
-Mrs Lee Beiyu <br>
-Mdm Liu Chunyan <br>
+Mrs Lee Beiyu (In-charge)<br>
+Mdm Liu Chunyan (Asst. IC)<br>
 Ms Azizah
 
 
