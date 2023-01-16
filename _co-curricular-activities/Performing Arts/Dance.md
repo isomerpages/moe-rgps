@@ -48,7 +48,7 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 
 ##### **Teachers in charge**
 Mdm Chong Lay Khim (In-charge)<br>
-Ms Lee Mei Lup (Asst. IC)<br>
+Ms Lee Mei Lup (Asst. i/c)<br>
 Mrs Kalamani Tanabal<br>
 Mdm Dou Ping<br>
 Mdm Durai Thamaraiselvi<br>
