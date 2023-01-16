@@ -18,8 +18,7 @@ The cast staged Alice in Wonderland – Through the Looking Glass in 2018 and Fa
   
 ##### **Teachers in Charge**
 
-Mrs Don Ying Ying  <br>
-Ms Shahedah Salim
+Ms Shahedah Salim (In-charge)<br>Mrs Don Ying Ying  
 
 ##### **Training Schedule**
 Tuesday, 3:00 – 5:00 pm <br>
