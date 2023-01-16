@@ -14,8 +14,8 @@ Over the course of the year, pupils will gain a variety of skills in research, d
 
 ##### **Teachers in Charge**
 
-Ms Ang Kai Mei <br>
-Ms Lim Zi Hui  
+Ms Lim Zi Hui (In-charge)<br>  
+Ms Ang Kai Mei
 
 ##### **Training Schedule**
 
