@@ -68,3 +68,9 @@ b.       Character and Citizenship Education (CCE)
 
 **Please Note:
 *For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. **
+<BR>
+<BR>
+**INFORMATION FOR PARENTS**<br><br>
+8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <BR><br>
+9.         Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form using the following link [here](https://form.gov.sg/63c0c604dd51570011b19094) by 17 February 2023.<BR><br>
+10.         Parents can contact the school at  6468 4377 for discussion or to seek clarification about the school’s sexuality education programme.
