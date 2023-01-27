@@ -8,11 +8,11 @@ third_nav_title: CCE
 
 1.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br><br>
 2.         The **Goals** of Sexuality Education are:<br>
-            (a)          To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+            (a)          To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
 
-(b)          To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+(b)          To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(c)          To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+(c)          To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
 <br><br>
 
 3.         The **Key Messages** of Sexuality Education are:
@@ -48,3 +48,9 @@ b.       Character and Citizenship Education (CCE)
 
 **Primary 5**
 
+**CCE(FTGP) THEME** <br>Growing Years
+
+|LESSON TITLE /DURATION	|LESSON OVERVIEW	|TIME PERIOD<br> (e.g. Term 1 Week 2)|
+|------------|----------------|-----------------|
+|The Changes in Me<br>(60 min)|	This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.	|Term 3 Week 10|
+|Did You Know? <br>(60 min)|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.	|Term 4 Week 2|
