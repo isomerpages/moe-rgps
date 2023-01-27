@@ -7,8 +7,9 @@ third_nav_title: CCE
 #### **MOE Sexuality Education**
 
 1.         Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<br><br>
-2.         The **Goals** of Sexuality Education are:<br>
-            (a)          To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
+2.         The **Goals** of Sexuality Education are:
+
+(a)          To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
 
 (b)          To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
@@ -46,8 +47,7 @@ b.       Character and Citizenship Education (CCE)
 
 **2023 Sexuality Education Lessons in CCE 2021**
 
-##### **Primary 5**
-
+##### **Primary 5**<br>
 ##### CCE(FTGP) THEME: GROWING YEARS
 
 |LESSON TITLE /DURATION	|LESSON OVERVIEW	|TIME PERIOD<br> (e.g. Term 1 Week 2)|
@@ -56,8 +56,7 @@ b.       Character and Citizenship Education (CCE)
 |Did You Know? <br>(60 min)|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy***‘Stop-Think-Do***’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.	|Term 4 Week 2|
 |Keeping Myself Safe<br>(60 min)|In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|	Term 4 Week 3|
 
-##### **Primary 6**
-
+##### **Primary 6**<br>
 ##### CCE(FTGP) THEME: GROWING YEARS
 
 |LESSON TITLE /DURATION	|LESSON OVERVIEW	|TIME PERIOD<br> (e.g. Term 1 Week 2)|
@@ -66,8 +65,7 @@ b.       Character and Citizenship Education (CCE)
 |Are We More than Friends?<BR>Lesson 2<BR>(60 min)|	In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.|Term 4 Week 7|
 |Did You Know?<BR>(60 min)|This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ***‘Stop-Think-Do’.*** <BR><BR>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4 Week 8|
 
-**Please Note:
-*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. **
+**Please Note:<br>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**
 <BR>
 <BR>
 **INFORMATION FOR PARENTS**<br><br>
