@@ -14,4 +14,4 @@ third_nav_title: Notifications
 |4 Jan|[RGPS Letter PSLE Booklet Order 2023](/files/Notification%202023/P6/RGPS%20Letter%20PSLE%20Booklet%20Order%202023.pdf)|
 |26 Jan|[Invitation for Video Submission of RGPS Got Talent for P6](/files/Notification%202023/P6/RGPS_N23_P6_008_Term%201%202023_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P6.pdf)|
 |1 Feb|[P6 MOE Sexuality Education in Schools](/files/Notification%202023/P6/2023%20PG_P6_MOE%20Sexuality%20Education%20in%20Schools.pdf)|
-|1 Feb|[P6 February Circulars](/files/Notification%202023/P6/RGPS_N23_P6_009_P6%20February%20Circulars.pdf)
+|1 Feb|[P6 February Circulars](/files/Notification%202023/P6/RGPS_N23_P6_009_P6%20February%20Circulars.pdf)|
