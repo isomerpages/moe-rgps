@@ -14,3 +14,5 @@ third_nav_title: Notifications
 |30 Dec 2022|[RGPS P5 LJ Diversity of Cells](/files/Notification%202023/P5/2023%20PG%20to%20parents%20RGPS%20P5%20LJ%20Diversity%20of%20Cells.pdf)|
 |12 Jan|[Enrol Your Child for Annual School-based Health & Dental Services](/files/Notification%202023/P5/120123%20Letter%20to%20P5%20Parents.pdf)|
 |26 Jan|[Invitation for Video Submission of RGPS Got Talent for P5](/files/Notification%202023/P5/RGPS_N23_P5_009_Term%201%202023_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P5.pdf)|
+|1 Feb|[P5 MOE Sexuality Education in Schools](/files/Notification%202023/P5/2023%20PG_P5_MOE%20Sexuality%20Education%20in%20Schools.pdf)|
+|1 Feb|[P5 February Circulars](/files/Notification%202023/P5/RGPS_N23_P5_010_P5%20February%20Circulars.pdf)|
