@@ -11,3 +11,4 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |30 Dec 2022|[RGPS P3 LJ Mystery of Insects](/files/Notification%202023/P3/2023%20PG%20to%20parents%20RGPS%20P3%20LJ%20Mystery%20of%20Insects.pdf)|
+|1 Feb|[P3 February Circulars](/files/Notification%202023/P3/RGPS_N23_P3_006_P3%20February%20Circulars.pdf)|
