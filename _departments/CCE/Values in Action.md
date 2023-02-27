@@ -4,17 +4,13 @@ permalink: /departments/CCE/values-in-action/
 description: ""
 third_nav_title: CCE
 ---
+### **Objective**
 
-
-**Objective**
-
-The VIA aims to nurture our pupils to be socially responsible and to help them understand that every Singaporean has a role in enhancing the well-being of the community and the country. The VIA programme of the school aims to instil among our pupils the ability to take care of the common property and the need to reach out to the less fortunate in our society.
-
-Each pupil will be given an opportunity to be involved in community work. She will learn to take care of the school property, look after her fellow schoolmates and eventually reach out to the less fortunate. The lower primary pupils will learn to take care of the school environment and their younger schoolmates. For upper primary pupils, VIA places a greater focus on pupils acquiring values and encourages pupils to identify and understand community issues, initiate action among their peers to make a difference and improve the lives of others.
-
+The Values In Action (VIA) initiative aims to nurture our students to be socially responsible and to help them understand that every Singaporean has a role in enhancing the well-being of the community and the country. The VIA programme of the school is designed with the intent to develop social awareness and manage relationships for personal and social well-being. 
+Social awareness enables our students to recognise, accept and embrace diversity, demonstrate empathy and be civic conscious and active citizens. Learning how to manage relationships effectively is essential for the development of personal well-being. It also contributes towards a harmonious society.
+Each student will be given an opportunity to be involved in community work. She will learn to develop a sense of responsibility and care for their own and shared spaces through daily cleaning and adopting sustainability practices in school and at home. Students will also have the opportunities to participate in activities/projects in small groups. CCE (FTGP) time has been allocated for students to plan and implement projects where they can contribute to the class and school, and reflect on what they had learnt. 
   
-
-**Activities 2018**
+### **Values in Action Focus:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
