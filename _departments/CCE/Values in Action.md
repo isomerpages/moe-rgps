@@ -36,15 +36,19 @@ Each student will be given an opportunity to be involved in community work. She 
 <td>Being Kind To Our Classmates</td>
 <td>Class VIA Project: Students work together as a class to plan and implement a kindness project for their class.</td>	
 </tr>
+	<tr>
 	<td>P4</td>
 <td>Contributing to My Community</td>
 <td>Students to understand what it means to be part of a school community, and about the ways they can make the school community a better place to live, work and play in. They will develop a VIA plan to show appreciation to the non-teaching staff of the school.</td>	
 </tr>
+<tr>
 <td>P5</td>
 <td>Being An Active Contributor</td>
 <td>Students will learn that it is important to understand the needs of different people and the challenges they face in the community; only then will we know how we can play our part to build a more caring community. They will experience the process of planning and implementing a VIA project where they can contribute to the wellbeing of others. </td>	
 </tr>	
+<tr>
 <td>P6</td>
 <td>School or Community</td>
 <td>Students learn to be more observant of their surroundings and learn to identify the needs in their community in order to plan for their Self-initiated Values in Action (VIA) project. They will also find out about different communities or community organizations in their neighbourhood and brainstorm possible solutions to address a specific area of need in their projects. </td>	
 </tr>
+	</tbody></table>
