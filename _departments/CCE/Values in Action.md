@@ -12,53 +12,40 @@ Each student will be given an opportunity to be involved in community work. She 
   
 ### **Values in Action Focus:**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table style="width:100%">
 <thead>
-  <tr>
-    <th class="tg-rj1p">Level</th>
-    <th class="tg-rj1p">Domains</th>
-    <th class="tg-rj1p">Programme</th>
-  </tr>
+<tr>
+<th style="width:10%">Level</th>
+<th>VIA Lesson Theme</th>
+<th style="width:50%">Programme</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-rj1p">P1</td>
-    <td class="tg-rj1p">Family</td>
-    <td class="tg-y7qa">Being Responsible at home</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">P2</td>
-    <td class="tg-rj1p">Family &amp; Peers</td>
-    <td class="tg-y7qa">Buddy system<br>My Kindness Journal</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">P3</td>
-    <td class="tg-rj1p">School</td>
-    <td class="tg-y7qa">Buddy Clean Workshop<br>Happy School Happy Students</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">P4</td>
-    <td class="tg-rj1p">School</td>
-    <td class="tg-y7qa">Showing appreciation to Non-teaching staff</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">P5</td>
-    <td class="tg-rj1p">School or Community</td>
-    <td class="tg-y7qa">Self-initiated VIA</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">P6</td>
-    <td class="tg-rj1p">School or Community</td>
-    <td class="tg-y7qa">Self-initiated VIA</td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<td>P1</td>
+<td>Caring for Family and Friends</td>
+<td>Develop a mission plan to show care for a friend/family member through words/actions.</td>	
+</tr>
+<tr>
+<td>P2</td>
+<td>Understanding My Friends</td>
+<td>Secret Care Friends: to show care to a classmate whom they have been paired with.</td>	
+</tr>	
+	<tr>
+<td>P3</td>
+<td>Being Kind To Our Classmates</td>
+<td>Class VIA Project: Students work together as a class to plan and implement a kindness project for their class.</td>	
+</tr>
+	<td>P4</td>
+<td>Contributing to My Community</td>
+<td>Students to understand what it means to be part of a school community, and about the ways they can make the school community a better place to live, work and play in. They will develop a VIA plan to show appreciation to the non-teaching staff of the school.</td>	
+</tr>
+<td>P5</td>
+<td>Being An Active Contributor</td>
+<td>Students will learn that it is important to understand the needs of different people and the challenges they face in the community; only then will we know how we can play our part to build a more caring community. They will experience the process of planning and implementing a VIA project where they can contribute to the wellbeing of others. </td>	
+</tr>	
+<td>P6</td>
+<td>School or Community</td>
+<td>Students learn to be more observant of their surroundings and learn to identify the needs in their community in order to plan for their Self-initiated Values in Action (VIA) project. They will also find out about different communities or community organizations in their neighbourhood and brainstorm possible solutions to address a specific area of need in their projects. </td>	
+</tr>	
+
