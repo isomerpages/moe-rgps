@@ -17,7 +17,7 @@ Each student will be given an opportunity to be involved in community work. She 
 <tr>
 <th style="width:10%">Level</th>
 <th>VIA Lesson Theme</th>
-<th style="width:60%">Programme</th>
+<th style="width:55%">Programme</th>
 </tr>
 </thead>
 <tbody>
