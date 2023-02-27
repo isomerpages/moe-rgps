@@ -13,7 +13,7 @@ National Education, a significant aspect of CCE, comprises a wide range of schoo
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:20%">NE</th>
+<th style="width:10%">NE</th>
 <th style="width:80%">Messages</th>
 </tr>
 </thead>
@@ -47,3 +47,4 @@ We are proud to defend Singapore ourselves, no one else is responsible for our s
 <td>We have confidence in our future.<br>
 United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation.</td>
 	</tr>
+	</tbody></table>
