@@ -4,13 +4,13 @@ permalink: /departments/CCE/values-in-action/
 description: ""
 third_nav_title: CCE
 ---
-### **Objective**
+#### **Objective**
 
 The Values In Action (VIA) initiative aims to nurture our students to be socially responsible and to help them understand that every Singaporean has a role in enhancing the well-being of the community and the country. The VIA programme of the school is designed with the intent to develop social awareness and manage relationships for personal and social well-being. <br><br>
 Social awareness enables our students to recognise, accept and embrace diversity, demonstrate empathy and be civic conscious and active citizens. Learning how to manage relationships effectively is essential for the development of personal well-being. It also contributes towards a harmonious society.<br><br>
 Each student will be given an opportunity to be involved in community work. She will learn to develop a sense of responsibility and care for their own and shared spaces through daily cleaning and adopting sustainability practices in school and at home. Students will also have the opportunities to participate in activities/projects in small groups. CCE (FTGP) time has been allocated for students to plan and implement projects where they can contribute to the class and school, and reflect on what they had learnt. 
   
-### **Values in Action Focus:**
+#### **Values in Action Focus:**
 
 <table style="width:100%">
 <thead>
