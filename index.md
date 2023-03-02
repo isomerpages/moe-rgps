@@ -28,4 +28,7 @@ sections:
       subtitle: Latest Announcement
       button: Click Here
       url: /parents/briefing-slides/
+  - resources:
+      title: Briefing Slides
+      button: Resources Button Name
 ---
