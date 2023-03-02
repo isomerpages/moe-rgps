@@ -24,11 +24,8 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infobar:
-      title: P1 to P6 Curriculum Briefing Slides
+      title: Latest Briefing Slides
       subtitle: Latest Announcement
-      button: Click Here
+      button: Find Out More
       url: /parents/briefing-slides/
-  - resources:
-      title: Briefing Slides
-      button: Resources Button Name
 ---
