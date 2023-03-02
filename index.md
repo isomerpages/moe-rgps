@@ -25,7 +25,7 @@ sections:
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infobar:
       title: Latest Briefing Slides
-      subtitle: Latest Announcement
+      subtitle: Announcement
       button: Find Out More
       url: /parents/briefing-slides/
 ---
