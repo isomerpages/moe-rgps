@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: Survey for 2022 P6 Cohort
       subtitle: Infopic Subtitle
-      description: Dear 2022 P6 students, We hope to collect feedback from you to
+      description: Dear 2022 P6 students, we hope to collect feedback from you to
         better understand how you are adjusting to secondary school life. Thank
         you.
       button: Please complete the survey by clicking here
