@@ -35,6 +35,6 @@ sections:
         you.
       button: Please complete the survey by clicking here
       url: https://form.gov.sg/640530fdc2a8ab0011a84bba
-      image: /images/survey2.png
+      image: /images/survey.png
       alt: Image alt text
 ---
