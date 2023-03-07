@@ -28,4 +28,14 @@ sections:
       subtitle: Announcement
       button: Find Out More
       url: /parents/briefing-slides/
+  - infopic:
+      title: Survey for 2022 P6 Cohort
+      subtitle: Infopic Subtitle
+      description: Dear 2022 P6 students, We hope to collect feedback from you to
+        better understand how you are adjusting to secondary school life. Thank
+        you.
+      button: Please complete the survey by clicking here
+      url: https://form.gov.sg/640530fdc2a8ab0011a84bba
+      image: /images/How-to-Make-a-Survey-in-Google-Forms.png
+      alt: Image alt text
 ---
