@@ -17,3 +17,4 @@ third_nav_title: Notifications
 |1 Feb|[P5 MOE Sexuality Education in Schools](/files/Notification%202023/P5/2023%20PG_P5_MOE%20Sexuality%20Education%20in%20Schools.pdf)|
 |1 Feb|[P5 February Circulars](/files/Notification%202023/P5/RGPS_N23_P5_010_P5%20February%20Circulars.pdf)|
 |1 Mar|[P5 March Circulars](/files/Notification%202023/P5/RGPS_N23_P5_013_P5%20March%20Circulars.pdf)|
+|9 Mar|[P5 Term 1 PE, Art, Music updates](/files/Notification%202023/P5/Term%201%20P5%20update.pdf)
