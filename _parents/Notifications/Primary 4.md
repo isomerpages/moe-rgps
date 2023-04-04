@@ -19,3 +19,4 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |20 Mar|[P4 Raffles Experience Day](/files/Notification%202023/P4/P4%20Raffles%20Experience%20Day%20Notification%20(2023)_20%20Mar.pdf)|
+|31 Mar|[P4 Light Workshop @ Science Centre Singapore](/files/Notification%202023/P4/2023%20pg%20to%20parents%20rgps%20p4%20lj%20light.pdf)|
