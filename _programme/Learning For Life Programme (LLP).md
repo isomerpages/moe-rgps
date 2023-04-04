@@ -7,14 +7,15 @@ description: ""
 
 #### Developing Creativity Through Collaborative Music Making
 
+**What is LLP?**
+<img src="/images/llpimage.png" style="width:75%">
+
 **The objectives of LLP are to :**
-1. Develop the creative side of students while improvising on music  
-2. Encourage collaboration and team work through music making
+1. To develop the creative side of students while improvising   
+2. To encourage collaboration and team work through music making
 
-<img src="/images/aesth.png" style="width:50%">
+<img src="/images/llp2nd.png" style="width:75%">
 		 
-
-
 
 #### **Orff Approach in Music curriculum**
 **Objectives:**<br>
@@ -22,7 +23,7 @@ description: ""
 2. To develop creativity in students through spontaneous music making
 3. To encourage deeper collaboration amongst students through music projects requiring elements of improvisation and composition
 
- ![](/images/music1.png)
+ <img src="/images/music2.png" style="width:75%">
 
 #### **Talentime competition**
 **Objectives:**<br>
