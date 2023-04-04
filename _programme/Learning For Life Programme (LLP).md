@@ -44,7 +44,7 @@ There will be guidance to singing finalists by expert mentor in the singing/song
 2. To expose students to different writing approaches for a variety of musical genres
 3. To harness students' creativity through composing their own songs
 4. To build up students’ confidence and enable them to use songwriting to express themselves 
-There will be guidance to selected groups by expert mentor in the singing/songwriting industry to improve on their song as well as a chance to record their very own song in a professional recording studio.
+<br><br>There will be guidance to selected groups by expert mentor in the singing/songwriting industry to improve on their song as well as a chance to record their very own song in a professional recording studio.
 
 #### **Outreach by the Band and Choir CCAs** <br>**(during Assembly and special events like Arts Fest)**
 
