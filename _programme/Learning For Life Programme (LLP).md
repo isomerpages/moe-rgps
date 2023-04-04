@@ -47,13 +47,10 @@ There will be guidance to singing finalists by expert mentor in the singing/song
 There will be guidance to selected groups by expert mentor in the singing/songwriting industry to improve on their song as well as a chance to record their very own song in a professional recording studio.
 
 #### **Outreach by the Band and Choir CCAs** 
-##### (during Assembly and special events like Arts Fest)
+**(during Assembly and special events like Arts Fest)**
 
 **Objectives:**<br>
 1. To introduce to students the range of different instruments/techniques by the CCA members themselves
 2. To allow members in the CCA to create their own content for other students
 3. To build up participating students’ confidence and enable them to express themselves in front of a camera
 4. To build up the capacity of students in the CCA through exploration of formation of small group ensembles
-
-
-
