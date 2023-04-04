@@ -14,3 +14,4 @@ third_nav_title: Notifications
 |1 Feb|[P3 February Circulars](/files/Notification%202023/P3/RGPS_N23_P3_006_P3%20February%20Circulars.pdf)|
 |8 Feb|[Letter for GEP Identification Exercise](/files/Notification%202023/P3/2023_Letter%20for%20GEP%20Identification%20Exercise.pdf)|
 |1 Mar|[P3 March Circulars](/files/Notification%202023/P3/RGPS_N23_P3_010_P3%20March%20Circulars.pdf)|
+|9 Mar|[P3 Term 1 PE, Art, Music updates](/files/Notification%202023/P3/Term%201%20P3%20Update.pdf)
