@@ -14,4 +14,9 @@ third_nav_title: Notifications
 |1 Feb|[P1 February Circulars](/files/Notification%202023/P1/RGPS_N23_P1_006_P1%20February%20Circulars.pdf)|
 |1 Mar|[P1 March Circulars](/files/Notification%202023/P1/RGPS_N23_P1_008_P1%20March%20Circulars.pdf)|
 |9 Mar|[P1 Term 1 PE, Art, Music updates](/files/Notification%202023/P1/Term%201%20P1%20Update.pdf)|
+
+##### Term 2
+
+| Date| File | 
+| -------- | -------- | 
 |5 Apr|[P1 April Circulars](/files/Notification%202023/P1/rgps_n23_p1_012_p1%20april%20circulars.pdf)|
