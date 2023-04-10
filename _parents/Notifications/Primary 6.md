@@ -18,3 +18,9 @@ third_nav_title: Notifications
 |1 Mar|[P6 March Circulars](/files/Notification%202023/P6/RGPS_N23_P6_013_P6%20March%20Circulars.pdf)|
 |1 Mar|[HCIS Open House 2023](/files/Notification%202023/P6/HCIS%20Open%20House%202023.pdf)|
 |9 Mar|[P6 Term 1 PE, Art, Music updates](/files/Notification%202023/P6/Term%201%20P6%20update.pdf)
+
+##### Term 2
+
+| Date| File | 
+| -------- | -------- | 
+|5 Apr|[P6 April Circulars](/files/Notification%202023/P6/rgps_n23_p6_017_p6%20april%20circulars.pdf)|
