@@ -23,4 +23,4 @@ third_nav_title: Notifications
 
 | Date| File | 
 | -------- | -------- | 
-|5 Apr|[P6 April Circulars](/files/Notification%202023/P6/rgps_n23_p6_017_p6%20april%20circulars.pdf)
+|5 Apr|[P6 April Circulars](/files/Notification%202023/P6/rgps_n23_p6_017_p6%20april%20circulars.pdf)|
