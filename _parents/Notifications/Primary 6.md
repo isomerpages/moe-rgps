@@ -24,3 +24,4 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |5 Apr|[P6 April Circulars](/files/Notification%202023/P6/rgps_n23_p6_017_p6%20april%20circulars.pdf)|
+|20 Apr|[DSA-Sec for Primary 6 Students](/files/Notification%202023/P6/annex%20a%20info%20sheet%20on%202023%20dsa-sec%20for%20primary%206%20students.pdf)
