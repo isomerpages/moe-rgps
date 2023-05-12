@@ -27,3 +27,4 @@ third_nav_title: Notifications
 |31 Mar|P1-6|[International Friendship Day 2023](/files/Notification%202023/P1%20to%206/ifd%202023%20pg%20to%20parents.pdf)|
 |5 Apr|P1-6|[Distinguished CL Teachers Awards Poster 2023](/files/Notification%202023/P1%20to%206/distinguished%20cl%20teachers%20awards%20poster%202023_p1-p6.pdf)|
 |5 Apr|P1-6|[Logo design contest](/files/Notification%202023/P1%20to%206/logo%20design%20contest_p1-p6.pdf)|
+|3 May|P1-6|
