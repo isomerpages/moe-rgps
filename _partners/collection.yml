@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Canteen Service.md
       - Alumni.md
       - Parent Volunteer.md
+      - Canteen Service.md
