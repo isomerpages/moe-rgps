@@ -27,4 +27,4 @@ third_nav_title: Notifications
 |20 Apr|[DSA-Sec for Primary 6 Students](/files/Notification%202023/P6/annex%20a%20info%20sheet%20on%202023%20dsa-sec%20for%20primary%206%20students.pdf)|
 |3 May|[P6 May Circulars](/files/Notification%202023/P6/rgps_n23_p6_019_p6%20may%20circulars.pdf)|
 |3 May|[Purchase of P6 graduation yearbook and class t-shirt](/files/Notification%202023/P6/purchase%20of%20p6%20graduation%20yearbook%20and%20class%20t-shirt%202023.pdf)|
-|3  May|[P6 Holiday Lesson](/files/Notification%202023/P6/p6%20holiday%20lessons%202023.pdf)
+|3  May|[P6 Holiday Lesson](/files/Notification%202023/P6/p6%20holiday%20lessons%202023.pdf)|
