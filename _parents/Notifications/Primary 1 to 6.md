@@ -27,4 +27,7 @@ third_nav_title: Notifications
 |31 Mar|P1-6|[International Friendship Day 2023](/files/Notification%202023/P1%20to%206/ifd%202023%20pg%20to%20parents.pdf)|
 |5 Apr|P1-6|[Distinguished CL Teachers Awards Poster 2023](/files/Notification%202023/P1%20to%206/distinguished%20cl%20teachers%20awards%20poster%202023_p1-p6.pdf)|
 |5 Apr|P1-6|[Logo design contest](/files/Notification%202023/P1%20to%206/logo%20design%20contest_p1-p6.pdf)|
-|3 May|P1-6|
+|3 May|P1-6|[Rgps Arts Fest 2023](/files/Notification%202023/P1%20to%206/rgps%20arts%20fest%202023%203%20may.pdf)|
+|3 May|P1-6|[Arts Fest Parent Child Workshop](/files/Notification%202023/P1%20to%206/details%20of%20optional%20sign%20up%20for%20arts%20fest%20parent%20child%20workshops.pdf)|
+|3 May|P1-6|[RGPS Alumni Association June Holiday Programmes](/files/Notification%202023/P1%20to%206/rgps%20alumni%20association%20june%20holiday%20programmes.pdf)|
+|3 May|P1-6|[RGPS Alumni Association Growth Mindset](/files/Notification%202023/P1%20to%206/rgps%20alumni%20association_growth%20mindset%20flyer.pdf)
