@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Bus Operator.md
       - Alumni.md
       - Parent Volunteer.md
       - Canteen Service.md
