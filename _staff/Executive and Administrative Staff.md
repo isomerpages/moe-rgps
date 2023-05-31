@@ -8,7 +8,7 @@ description: ""
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mr Ang Ying Hin** |    | <a href="ang_ying_hin@schools.gov.sg">ang_ying_hin@schools.gov.sg</a>     |
-| **Ms Eng Kai Ling** |   | <a href="eng_kai_ling@schools.gov.sg">eng_kai_ling@schools.gov.sg</a>     |
+
 
 
 ### Operations Manager
@@ -28,6 +28,9 @@ description: ""
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mdm Fetty Irdawaty Osman** |   | <a href="fetty_irdawaty_Osman@schools.gov.sg">fetty_irdawaty_Osman@schools.gov.sg</a>     |
+| **Mdm Anne Michael** |   | <a href="anne_michael@schools.gov.sg">anne_michael@schools.gov.sg</a>     |
+| **Mdm Fetty Irdawaty Osman** |   | <a href="fetty_irdawaty_osman@schools.gov.sg">fetty_irdawaty_Osman@schools.gov.sg</a>     |
+| **Mdm Marianah Mosman** |   | <a href="marianah_mosman_a@schools.gov.sg">marianah_mosman_a@schools.gov.sg</a>     |
 | **Mdm Priscilla Myrtle Olsen** |   | <a href="priscilla_myrtle_olsen@schools.gov.sg">priscilla_myrtle_olsen@schools.gov.sg</a>     |
-| **Mdm Tan Kim Geok** |   | <a href="tan_kim_geok@schools.gov.sg">tan_kim_geok@schools.gov.sg</a>     |
+
+
