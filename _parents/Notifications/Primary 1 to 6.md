@@ -30,4 +30,5 @@ third_nav_title: Notifications
 |3 May|P1-6|[Rgps Arts Fest 2023](/files/Notification%202023/P1%20to%206/rgps%20arts%20fest%202023%203%20may.pdf)|
 |3 May|P1-6|[Arts Fest Parent Child Workshop](/files/Notification%202023/P1%20to%206/details%20of%20optional%20sign%20up%20for%20arts%20fest%20parent%20child%20workshops.pdf)|
 |3 May|P1-6|[RGPS Alumni Association June Holiday Programmes](/files/Notification%202023/P1%20to%206/rgps%20alumni%20association%20june%20holiday%20programmes.pdf)|
-|3 May|P1-6|[RGPS Alumni Association Growth Mindset](/files/Notification%202023/P1%20to%206/rgps%20alumni%20association_growth%20mindset%20flyer.pdf)
+|3 May|P1-6|[RGPS Alumni Association Growth Mindset](/files/Notification%202023/P1%20to%206/rgps%20alumni%20association_growth%20mindset%20flyer.pdf)|
+|25 May|P1-6|[Health Newsletter Term 2](/files/Notification%202023/P1%20to%206/health%20newsletter%20term%202%202023.pdf)|
