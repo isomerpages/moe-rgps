@@ -26,4 +26,10 @@ third_nav_title: Notifications
 | 20 Mar|[P5 Raffles Experience Day](/files/Notification%202023/P5/P5%20Raffles%20Experience%20Day%20Notification%20(2023)_20%20Mar.pdf)|
 |5 Apr|[P5 April Circulars](/files/Notification%202023/P5/rgps_n23_p5_019_p5%20april%20circulars.pdf)|
 |3 May|[P5 May Circulars](/files/Notification%202023/P5/rgps_n23_p5_021_p5%20may%20circulars.pdf)|
-|25 May|[P5 Term 2 PE, Art, Music updates](/files/Notification%202023/P5/p5%20pam%20updates%20term%202.pdf)
+|25 May|[P5 Term 2 PE, Art, Music updates](/files/Notification%202023/P5/p5%20pam%20updates%20term%202.pdf)|
+
+##### Term 3
+
+| Date| File | 
+| -------- | -------- |
+|26 Jun|[P5 NE show 2023](/files/Notification%202023/P5/rgps_pg_ne%20show%202023_final.pdf)

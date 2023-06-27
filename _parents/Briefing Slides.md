@@ -16,4 +16,5 @@ description: ""
 |12 Jan|P4|[Level Matters and CCE Curriculum Briefing](/files/Briefing%20Slides/P4/AYH%20P4%20Parent%20Briefing_12%20Jan%202023.pdf)<br>[PAM Curriculum Briefing](/files/Briefing%20Slides/P4/PAM%20Curriculum%20Briefing%202023%20(P4).pdf)<br>[EL Curriculum Briefing](/files/Briefing%20Slides/P4/P4%20EL%20Curriculum%20Briefing%202023_FINAL.pdf)<br>[Mathematics Curriculum Briefing](/files/Briefing%20Slides/P4/p4%20mathematics%20curriculum%20briefing%202023_12jan.pdf)<br>[Science Curriculum Briefing](/files/Briefing%20Slides/P4/P4%20Science%20Curriculum%20Briefing_12%20Jan%202023.pdf)<br>[MT Curriculum Briefing](/files/Briefing%20Slides/P4/P4%20MT%20curriculum%20briefing%202023.pdf)|
 |1 Mar|P4|[P4 Parents' Briefing 1 Mar 2023](/files/Briefing%20Slides/P4/P4%20Parents'%20Briefing%201%20Mar%202023.pdf)|
 |9 Mar|P6|[P6 Parents' Briefing 8 Mar 2023](https://drive.google.com/file/d/1B2jx9zWVVb-yortiGMbid76pHtN14Cp7/view?usp=sharing)|
-|24 May|P5|[P5 DSA Briefing 2023 ](/files/Briefing%20Slides/P5/p5%20briefing%20on%20dsa%202023%20final.pdf)
+|24 May|P5|[P5 DSA Briefing 2023 ](/files/Briefing%20Slides/P5/p5%20briefing%20on%20dsa%202023%20final.pdf)|
+|27 Jun|P5|[P5 Camp Briefing 2023](https://drive.google.com/file/d/1pe8oQjyvQp_Fs7ymNFWQRfugvbh6afZV/view?usp=sharing)
