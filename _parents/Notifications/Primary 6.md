@@ -28,4 +28,10 @@ third_nav_title: Notifications
 |3 May|[P6 May Circulars](/files/Notification%202023/P6/rgps_n23_p6_019_p6%20may%20circulars.pdf)|
 |3 May|[Purchase of P6 graduation yearbook and class t-shirt](/files/Notification%202023/P6/purchase%20of%20p6%20graduation%20yearbook%20and%20class%20t-shirt%202023.pdf)|
 |3  May|[P6 Holiday Lesson](/files/Notification%202023/P6/p6%20holiday%20lessons%202023.pdf)|
-|25 May|[P6 Term 2 PE, Art, Music updates](/files/Notification%202023/P6/p6%20pam%20updates%20term%202.pdf)
+|25 May|[P6 Term 2 PE, Art, Music updates](/files/Notification%202023/P6/p6%20pam%20updates%20term%202.pdf)|
+
+##### Term 3
+
+| Date| File | 
+| -------- | -------- | 
+|28 June|[P6 July Circulars](/files/Notification%202023/P6/rgps_n23_p6_026.pdf)

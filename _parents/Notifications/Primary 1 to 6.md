@@ -32,3 +32,10 @@ third_nav_title: Notifications
 |3 May|P1-6|[RGPS Alumni Association June Holiday Programmes](/files/Notification%202023/P1%20to%206/rgps%20alumni%20association%20june%20holiday%20programmes.pdf)|
 |3 May|P1-6|[RGPS Alumni Association Growth Mindset](/files/Notification%202023/P1%20to%206/rgps%20alumni%20association_growth%20mindset%20flyer.pdf)|
 |25 May|P1-6|[Health Newsletter Term 2](/files/Notification%202023/P1%20to%206/health%20newsletter%20term%202%202023.pdf)|
+
+##### Term 3
+
+| Date| Level|File | 
+| -------- | -------- | -------- |
+|28 June|P1-6|[Traffic advisory notice from LTA](/files/Notification%202023/P1%20to%206/traffic%20advisory%20notice%20from%20lta.pdf)|
+|28 June|P1-2|[The storytelling properly workshop for P1 & P2](/files/Notification%202023/P1%20to%206/the%20storytelling%20properly%20workshop%20for%20p1%20&%20p2_compressed.pdf)
