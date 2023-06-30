@@ -20,4 +20,10 @@ third_nav_title: Notifications
 | -------- | -------- | 
 |5 Apr|[P2 April Circulars](/files/Notification%202023/P2/rgps_n23_p2_007_p2%20april%20circulars.pdf)|
 |3 May|[P2 May Circulars](/files/Notification%202023/P2/rgps_n23_p2_008_p2%20may%20circulars.pdf)|
-|25 May|[P2 Term 2 PE, Art, Music updates](/files/Notification%202023/P2/p2%20pam%20updates%20term%202.pdf)
+|25 May|[P2 Term 2 PE, Art, Music updates](/files/Notification%202023/P2/p2%20pam%20updates%20term%202.pdf)|
+
+##### Term 3
+
+| Date| File | 
+| -------- | -------- | 
+|28 June|[P2 July Circulars](/files/Notification%202023/P2/rgps_n23_p2_010.pdf)|
