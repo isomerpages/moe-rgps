@@ -8,15 +8,15 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1.	[Call for Proposal] 
+1.	[[Call for Proposal]](/files/Forms/call%20for%20proposals%20by%20school%20(version%20june%202023).pdf) 
  
-2.	[Agreement for Appointment of School Bus Operator] 
+2.	[[Agreement for Appointment of School Bus Operator] ](/files/Forms/agreement%20for%20appointment%20of%20school%20bus%20operator%20(version%20june%202023).pdf)
 
 **Application Procedure**
 
-1. Complete the [Call for Proposal - Annex A] 
+1. Complete the [[Call for Proposal - Annex A]](/files/Forms/call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, 5 June 2023 , to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 11 June 2023 , to the School’s General Office.
 
 * Address: 21 Hillcrest Road S289072
 * Contact No: 6468 4377
