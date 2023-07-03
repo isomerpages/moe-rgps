@@ -34,4 +34,5 @@ third_nav_title: Notifications
 
 | Date| File | 
 | -------- | -------- | 
-|28 June|[P6 July Circulars](/files/Notification%202023/P6/rgps_n23_p6_026.pdf)
+|28 June|[P6 July Circulars](/files/Notification%202023/P6/rgps_n23_p6_026.pdf)|
+|30 June|[P6 Prelims Schedule](/files/Notification%202023/P6/rgps_n23_p6_025%20p6%20prelims%20schedule%202023.pdf)
