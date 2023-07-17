@@ -10,6 +10,7 @@ third_nav_title: Notifications
 
 | Date| File | 
 | -------- | -------- | 
+|4 Jan|[P2 January Circulars](/files/Notification%202023/P2/rgps_n23_p2_003_p2%20january%20circulars.pdf)|
 |1 Feb|[P2 February Circulars](/files/Notification%202023/P2/RGPS_N23_P2_004_P2%20February%20Circulars.pdf)|
 |1 Mar|[P2 March Circulars](/files/Notification%202023/P2/RGPS_N23_P2_005_P2%20March%20Circulars.pdf)|
 |9 Mar|[P2 Term 1 PE, Art, Music updates](/files/Notification%202023/P2/Term%201%20P2%20Update.pdf)|

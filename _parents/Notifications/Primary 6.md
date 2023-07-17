@@ -11,6 +11,7 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 | 28 Dec 2022|[RGPS P6 MbL ACM 2023 PG to Parents (Updated 28 Dec)](/files/Notification%202023/P6/RGPS%20P6%20MbL%20ACM%202023%20PG%20to%20Parents%20(Updated%2028%20Dec).pdf)|
+|4 Jan|[P6 January Circulars](/files/Notification%202023/P6/rgps_n23_p6_005_p6%20january%20circulars.pdf)
 |4 Jan|[RGPS Letter PSLE Booklet Order 2023](/files/Notification%202023/P6/RGPS%20Letter%20PSLE%20Booklet%20Order%202023.pdf)|
 |26 Jan|[Invitation for Video Submission of RGPS Got Talent for P6](/files/Notification%202023/P6/RGPS_N23_P6_008_Term%201%202023_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P6.pdf)|
 |1 Feb|[P6 MOE Sexuality Education in Schools](/files/Notification%202023/P6/2023%20PG_P6_MOE%20Sexuality%20Education%20in%20Schools.pdf)|
