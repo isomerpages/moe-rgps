@@ -30,3 +30,4 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |28 June|[P4 July Circulars](/files/Notification%202023/P4/rgps_n23_p4_019.pdf)|
+|2 Aug|[P4 Aug Circulars](/files/Notification%202023/P4/rgps_n23_p4_020.pdf)|
