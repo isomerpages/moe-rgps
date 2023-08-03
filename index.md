@@ -30,9 +30,9 @@ sections:
       url: /parents/briefing-slides/
   - infopic:
       title: For Teacher's Day Celebration
-      description: We are allowing our ex-students to come back to school on the 31
-        Aug, Thursday to visit teachers. They can visit their teachers from
-        11.15 a.m. to 1.00 p.m.
+      description: Ex-students are welcomed to visit your teachers on 31 August 2023,
+        Thursday from 11.15am to 1pm. Please inform your teachers  and meet them
+        in the canteen.
       image: /images/survey.png
       alt: Image alt text
 ---
