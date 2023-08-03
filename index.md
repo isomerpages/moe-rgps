@@ -29,12 +29,10 @@ sections:
       button: Find Out More
       url: /parents/briefing-slides/
   - infopic:
-      title: Survey for 2022 P6 Cohort
-      description: Dear 2022 P6 students, we hope to collect feedback from you to
-        better understand how you are adjusting to secondary school life. Thank
-        you.
-      button: Please complete the survey by clicking here
-      url: https://form.gov.sg/640530fdc2a8ab0011a84bba
+      title: For Teacher's Day Celebration
+      description: We are allowing our ex-students to come back to school on the 31
+        Aug, Thursday to visit teachers. They can visit their teachers from
+        11.15 a.m. to 1.00 p.m.
       image: /images/survey.png
       alt: Image alt text
 ---
