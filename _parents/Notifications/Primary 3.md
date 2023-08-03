@@ -30,4 +30,5 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |28 June|[P3 July Circulars](/files/Notification%202023/P3/rgps_n23_p3_019.pdf)|
-|17 Jul|[Gifted Education Programme (GEP) Screening Exercise 2023](/files/Notification%202023/P3/2023_Letter%20for%20GEP%20Identification%20Exercise.pdf)
+|17 Jul|[Gifted Education Programme (GEP) Screening Exercise 2023](/files/Notification%202023/P3/2023_Letter%20for%20GEP%20Identification%20Exercise.pdf)|
+|2 Aug|[P3 Aug Circulars](/files/Notification%202023/P3/rgps_n23_p3_022.pdf)|
