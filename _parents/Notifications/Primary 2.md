@@ -28,3 +28,5 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |28 June|[P2 July Circulars](/files/Notification%202023/P2/rgps_n23_p2_010.pdf)|
+|2 Aug|[P2 SS FBL Trip to Paranakan Museum](/files/Notification%202023/P2/p2%20ss%20fbl%20to%20paranakan%20museum.pdf)|
+|2 Aug|[P2 Aug Circulars](/files/Notification%202023/P2/rgps_n23_p2_012.pdf)|
