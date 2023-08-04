@@ -36,4 +36,6 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |28 June|[P6 July Circulars](/files/Notification%202023/P6/rgps_n23_p6_026.pdf)|
-|30 June|[P6 Prelims Schedule](/files/Notification%202023/P6/rgps_n23_p6_025%20p6%20prelims%20schedule%202023.pdf)
+|30 June|[P6 Prelims Schedule](/files/Notification%202023/P6/rgps_n23_p6_025%20p6%20prelims%20schedule%202023.pdf)|
+|2 Aug|[P6 September Holiday Lessons ](/files/Notification%202023/P1%20to%206/p6%20september%20holiday%20lessons%20(4&5%20september).pdf)|
+|2 Aug|[P6 Aug Circulars](/files/Notification%202023/P6/rgps_n23_p6_028.pdf)|
