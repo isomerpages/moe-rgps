@@ -33,6 +33,6 @@ sections:
       description: Ex-students are welcomed to visit your teachers on 31 August 2023,
         Thursday from 11.15am to 1pm. Please inform your teachers  and meet them
         in the canteen.
-      image: /images/survey.png
+      image: /images/trsdaymsg.jpg
       alt: Image alt text
 ---
