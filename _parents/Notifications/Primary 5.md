@@ -36,3 +36,5 @@ third_nav_title: Notifications
 |26 June|[P5 NE show 2023](/files/Notification%202023/P5/rgps_pg_ne%20show%202023_final.pdf)|
 |28 June|[P5 July Circulars](/files/Notification%202023/P5/rgps_n23_p5_026.pdf)|
 |2 Aug|[P5 Aug Circulars](/files/Notification%202023/P5/rgps_n23_p5_029.pdf)|
+|17 Aug|[P5 End Year Exam 2023](/files/Notification%202023/P5/rgps_eye_p5_17%20aug%202023.pdf)|
+|17 Aug|[P5 GEP End Year Exam 2023](/files/Notification%202023/P5/rgps_eye_p5_gep_17%20aug%202023.pdf)
