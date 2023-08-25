@@ -30,9 +30,9 @@ sections:
       url: /parents/briefing-slides/
   - infopic:
       title: For Teacher's Day Celebration
-      description: Ex-students are welcomed to visit your teachers on 31 August 2023,
-        Thursday from 11.15am to 1pm. Please inform your teachers  and meet them
-        in the canteen.
+      description: Ex-students are welcomed to visit your teachers on 31 August,
+        Thursday from 11.15am to 12.30pm. Please inform your teachers  and meet
+        at PARTS Basketball Court.
       image: /images/trsdaymsg_small.jpg
       alt: Image alt text
 ---
