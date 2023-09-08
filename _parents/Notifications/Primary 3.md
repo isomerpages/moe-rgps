@@ -32,4 +32,10 @@ third_nav_title: Notifications
 |28 June|[P3 July Circulars](/files/Notification%202023/P3/rgps_n23_p3_019.pdf)|
 |17 Jul|[Gifted Education Programme (GEP) Screening Exercise 2023](/files/Notification%202023/P3/2023_Letter%20for%20GEP%20Identification%20Exercise.pdf)|
 |2 Aug|[P3 Aug Circulars](/files/Notification%202023/P3/rgps_n23_p3_022.pdf)|
-|17 Aug|[P3 End Year Exam 2023](/files/Notification%202023/P3/rgps_eye_p3_17%20aug%202023.pdf)
+|17 Aug|[P3 End Year Exam 2023](/files/Notification%202023/P3/rgps_eye_p3_17%20aug%202023.pdf)|
+
+##### Term 4
+
+| Date| File | 
+| -------- | -------- |
+|8 Sept|[P3 Sept Circulars](/files/Notification%202023/P3/rgps_n23_p3_026.pdf)
