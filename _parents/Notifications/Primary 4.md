@@ -32,4 +32,10 @@ third_nav_title: Notifications
 |28 June|[P4 July Circulars](/files/Notification%202023/P4/rgps_n23_p4_019.pdf)|
 |2 Aug|[P4 Aug Circulars](/files/Notification%202023/P4/rgps_n23_p4_020.pdf)|
 |17 Aug| [P4 End Year Exam 2023](/files/Notification%202023/P4/rgps_eye_p4_17%20aug%202023.pdf)|
-|17 Aug|[P4 GEP End Year Exam 2023](/files/Notification%202023/P4/rgps_eye_p4_gep_17%20aug%202023.pdf)
+|17 Aug|[P4 GEP End Year Exam 2023](/files/Notification%202023/P4/rgps_eye_p4_gep_17%20aug%202023.pdf)|
+
+##### Term 4
+
+| Date| File | 
+| -------- | -------- |
+|8 Sept|[P4 Sept Circulars](/files/Notification%202023/P4/rgps_n23_p4_024.pdf)
