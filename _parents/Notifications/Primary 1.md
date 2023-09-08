@@ -37,4 +37,4 @@ third_nav_title: Notifications
 | Date| File | 
 | -------- | -------- | 
 |8 Sept|[P1 Sept Circulars](/files/Notification%202023/P1/rgps_n23_p1_023.pdf)|
-|8 Sept|[MOE Centrally Provisioned Digital Tools](/files/Notification%202023/P1/attachment%20for_rgpsn23p1020_moe's%20centrally%20provisioned%20digital%20tools.pdf)
+|8 Sept|[MOE Centrally Provisioned Digital Tools](/files/Notification%202023/P1/attachment%20for_rgpsn23p1020_moe's%20centrally%20provisioned%20digital%20tools.pdf)|
