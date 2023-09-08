@@ -31,3 +31,10 @@ third_nav_title: Notifications
 |28 June|[P1 July Circulars](/files/Notification%202023/P1/rgps_n23_p1_015.pdf)|
 |2 Aug|[P1 SS FBL trip to HDB Hub](/files/Notification%202023/P1/p1%20ss%20fbl%20to%20hdb%20hub.pdf)
 |2 Aug|[P1 Aug Circulars](/files/Notification%202023/P1/rgps_n23_p1_017.pdf)|
+
+##### Term 4
+
+| Date| File | 
+| -------- | -------- | 
+|8 Sept|[P1 Sept Circulars](/files/Notification%202023/P1/rgps_n23_p1_023.pdf)|
+|8 Sept|[MOE Centrally Provisioned Digital Tools](/files/Notification%202023/P1/attachment%20for_rgpsn23p1020_moe's%20centrally%20provisioned%20digital%20tools.pdf)
