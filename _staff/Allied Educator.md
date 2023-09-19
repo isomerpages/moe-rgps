@@ -15,4 +15,4 @@ description: ""
 | |  |  | 
 | -------- | -------- | -------- |
 | **Ms Nur Insyirah Mohd Hashim** |   | <a href="Nur_Insyirah_Mohd_Hashim@schools.gov.sg">Nur_Insyirah_Mohd_Hashim@schools.gov.sg</a>     |
-| **Ms Chow Suet Ling** |    | <a href="chow_suet_ling@schools.gov.sg">chow_suet_ling@schools.gov.sg</a>     |
+| **Ms Lee Yi Lin** |    | <a href="lee_yi_lin@schools.gov.sg">lee_yi_lin@schools.gov.sg</a>     |
