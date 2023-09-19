@@ -5,7 +5,7 @@ description: ""
 ---
 ### **2023**
 <table>
-    <tr style="width:100%">
+    <tbody><tr style="width:100%">
         <th style="width:35%">Name</th>
         <th style="width:15%">Class</th>
         <th style="width:50%">Email</th>
@@ -21,9 +21,9 @@ description: ""
   <td>toh_dea_beng@schools.gov.sg</td>
     </tr>
 	  <tr>
-        <td>Mrs Khoo Cheng Eng</td>
+        <td>Mrs Catherine Lin</td>
         <td>1A</td>
-        <td>khoo_cheng_eng@schools.gov.sg</td>
+        <td>lin_qiuhan_catherine@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Ms Elaine Mok</td>
@@ -105,4 +105,4 @@ description: ""
         <td>1I</td>
         <td>low_woon_mei@schools.gov.sg</td>
     </tr>
-</table>
+</tbody></table>
