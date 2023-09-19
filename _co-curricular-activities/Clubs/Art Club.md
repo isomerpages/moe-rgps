@@ -18,8 +18,9 @@ Through the various activities, the students are able to develop a deeper apprec
 
 ##### **Teacher in charge**  <br>
 Ms Cheng Sok Mung (In-charge)<br> 
+Ms Cassandra Quek<br>
+Mdm Haryana Bte Md Dom<br>
 Ms Lee Suan Khim<br> 
-Ms Cassandra Quek
 
 ##### **Training Schedule**  <br>
 Wednesdays, 3pm – 5pm  
