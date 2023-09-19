@@ -21,7 +21,7 @@ description: ""
   <td>toh_dea_beng@schools.gov.sg</td>
     </tr>
 	  <tr>
-        <td>Mrs Catherine Lin</td>
+        <td>Mrs Catherine Chen</td>
         <td>1A</td>
         <td>lin_qiuhan_catherine@schools.gov.sg</td>
     </tr>
