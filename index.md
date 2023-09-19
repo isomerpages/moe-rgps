@@ -35,7 +35,7 @@ sections:
         nurturing the holistic development of their students. Ensuring them to
         be confident & resilient.
       button: Nominate the caring teacher today!
-      url: h
+      url: /cta
       image: /images/cta2024.png
       alt: Image alt text
 ---
