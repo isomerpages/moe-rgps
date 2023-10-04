@@ -39,4 +39,10 @@ third_nav_title: Notifications
 | -------- | -------- | -------- |
 |28 June|P1-6|[Traffic advisory notice from LTA](/files/Notification%202023/P1%20to%206/traffic%20advisory%20notice%20from%20lta.pdf)|
 |28 June|P1-2|[The storytelling properly workshop for P1 & P2](/files/Notification%202023/P1%20to%206/the%20storytelling%20properly%20workshop%20for%20p1%20&%20p2_compressed.pdf)|
-|22 Aug|P1-6|[Use of rgps premises as polling station for presidential election 2023](/files/use%20of%20rgps%20premises%20as%20polling%20station%20for%20presidential%20election%202023.pdf)
+|22 Aug|P1-6|[Use of rgps premises as polling station for presidential election 2023](/files/use%20of%20rgps%20premises%20as%20polling%20station%20for%20presidential%20election%202023.pdf)|
+
+##### Term 4
+
+| Date| Level|File | 
+| -------- | -------- | -------- |
+|4 Oct|P2-6|
