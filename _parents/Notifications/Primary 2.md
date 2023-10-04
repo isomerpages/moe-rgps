@@ -35,4 +35,5 @@ third_nav_title: Notifications
 
 | Date| File | 
 | -------- | -------- |
-|8 Sept|[P2 Sept Circulars](/files/Notification%202023/P2/rgps_n23_p2_015.pdf)
+|8 Sept|[P2 Sept Circulars](/files/Notification%202023/P2/rgps_n23_p2_015.pdf)|
+|4 Oct|[P2 Oct Circulars](/files/Notification%202023/P2/rgps_n23_p2_016.pdf)
