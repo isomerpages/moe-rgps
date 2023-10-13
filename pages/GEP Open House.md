@@ -1,6 +1,6 @@
 ---
 title: GEP Open House
-permalink: /permalink/
+permalink: /gepoh/
 description: ""
 ---
 <div id="top"><img style="align: center; width:70%;" src="/images/title.png"></div>
