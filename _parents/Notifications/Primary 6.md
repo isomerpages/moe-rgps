@@ -37,7 +37,7 @@ third_nav_title: Notifications
 | -------- | -------- | 
 |28 June|[P6 July Circulars](/files/Notification%202023/P6/rgps_n23_p6_026.pdf)|
 |30 June|[P6 Prelims Schedule](/files/Notification%202023/P6/rgps_n23_p6_025%20p6%20prelims%20schedule%202023.pdf)|
-|2 Aug|[P6 September Holiday Lessons ](/files/Notification%202023/P1%20to%206/p6%20september%20holiday%20lessons%20(4&5%20september).pdf)|
+|2 Aug|[P6 September Holiday Lessons ](/files/Notification%202023/P1%20to%206/p6%20september%20holiday%20lessons%20(4&amp;5%20september).pdf)|
 |2 Aug|[P6 Aug Circulars](/files/Notification%202023/P6/rgps_n23_p6_028.pdf)|
 
 ##### Term 4
@@ -46,4 +46,5 @@ third_nav_title: Notifications
 | -------- | -------- |
 |8 Sept|[P6 Sept Circulars](/files/Notification%202023/P6/rgps_n23_p6_031.pdf)|
 |4 Oct|[P6 Oct Circulars](/files/Notification%202023/P6/rgps_n23_p6_035.pdf)|
-|4 Oct|[P6 Graduation Party and Ceremony](/files/Notification%202023/P6/rgps_n23_p6_034%20p6%20graduation%20party%20and%20graduation%20ceremony%202023.pdf)
+|4 Oct|[P6 Graduation Party and Ceremony](/files/Notification%202023/P6/rgps_n23_p6_034%20p6%20graduation%20party%20and%20graduation%20ceremony%202023.pdf)|
+|19 Oct|[S1 Posting Letter](/files/Notification%202023/P6/rgpsn23p6037.pdf)<br>[S1 Posting Infosheet](/files/Notification%202023/P6/s1%20posting%20infosheet_2023%20(003).pdf)
