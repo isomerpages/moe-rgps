@@ -47,4 +47,4 @@ third_nav_title: Notifications
 |8 Sept|[P6 Sept Circulars](/files/Notification%202023/P6/rgps_n23_p6_031.pdf)|
 |4 Oct|[P6 Oct Circulars](/files/Notification%202023/P6/rgps_n23_p6_035.pdf)|
 |4 Oct|[P6 Graduation Party and Ceremony](/files/Notification%202023/P6/rgps_n23_p6_034%20p6%20graduation%20party%20and%20graduation%20ceremony%202023.pdf)|
-|19 Oct|[S1 Posting Letter](/files/Notification%202023/P6/rgpsn23p6037.pdf)<br>[S1 Posting Infosheet](/files/Notification%202023/P6/s1%20posting%20infosheet_2023%20(003).pdf)
+|19 Oct|[S1 Posting Letter](/files/Notification%202023/P6/rgpsn23p6037.pdf)<br>[S1 Posting Infosheet](/files/Notification%202023/P6/s1%20posting%20infosheet_2023%20(003).pdf)|
