@@ -7,7 +7,7 @@ description: ""
 
 A warm welcome to the Raffles Girls’ Primary School family! We would like to share the following information and instructions with you to facilitate your child’s/ward’s smooth transition to our school.
 
-Please contact the school at 6468 4377 or [email](rgps@moe.edu.sg) us if you have any query or clarification.
+Please contact the school at 6468 4377 or email: rgps@moe.edu.sg us if you have any query or clarification.
 
 |Category| Details|
 | -------- | ------------- |
