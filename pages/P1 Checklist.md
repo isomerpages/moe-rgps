@@ -26,3 +26,11 @@ Please contact the school at 6468 4377 or [email](rgps@moe.edu.sg) us if you hav
 |**Alumni Association (AA)**|The RGPS AA is a registered society and works closely with the school to encourage ex-students to connect with each other and create memories for the next generations of RGPS Girls. Every year, a pre-P1 gathering is hosted for the K2s to get to know each other through play before they start primary school the next year. Please see the attached for more information.<br><br>[RGPS Pre-P1 Welcome Party Flyer](/files/P1%20Checklist/2023/rgps%20pre-p1%20welcome%20party%20flyer%20(final).pdf)|
 |
 #### **Vendor Listing**
+
+|Services    | Details |
+| -------- | ------------- |
+| **RGPS Uniform and Name Tag Order** |***Bibi&amp;Baba Private Limited***<br><br>545 Orchard Road, #02-28<br>Far East Shopping Centre<br>Singapore (238882)<br>Tel : 6732 7022 <br>Fax : 6835 4979<br><br>***Opening hours***<br>Mon -Sat: 10.00 a.m. to 7.00 p.m.<br>Sun: 10.00 a.m. to 6.00 p.m. <br><br> There is no sale of uniforms in the school. <br><br>Parents may purchase them at ***Bibi&amp;Baba Private Limited*** outlet or via [website](https://www.schooluniforms.sg/raffles-girls-primary-school).|
+|**School Bookshop** | ***Pacific Bookstores Pte Ltd***<br><br>Website: [www.pacificbookstores.com](www.pacificbookstores.com)<br>Tel: 6467 1692|
+|**RGPS School Bus**|***Singapore School Transport Association (SSTA)***<br><br>For further enquiries to register your child for school bus services.<br><br>***Contact Person: Mr Ong Chai Heng***<br>Tel : 6747 7246 / Fax : 6743 8243<br>Email: [enquiry@ssta.com.sg](enquiry@ssta.com.sg)|
+|**Student Care Center**| ***Knowledge Park Educare***<br><br>***Contact person: Ms Sylvia Lim*** <br>Tel : 9816 1671 / 9638 6393<br>For enquiries, please write to [rafflesgirlsscc@knowledgepark.com.sg](rafflesgirlsscc@knowledgepark.com.sg)|
+|
