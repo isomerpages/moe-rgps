@@ -40,4 +40,5 @@ third_nav_title: Notifications
 | -------- | -------- |
 |8 Sept|[P3 Sept Circulars](/files/Notification%202023/P3/rgps_n23_p3_026.pdf)|
 |8 Sept|[P3 Raffles Experience Day](/files/Notification%202023/P3/rgps_n23_p3_024%20primary%203%20raffles%20experience%20day%2014%20november%202023.pdf)|
-|4 Oct|[P3 Oct Circulars](/files/Notification%202023/P3/rgps_n23_p3_027.pdf)
+|4 Oct|[P3 Oct Circulars](/files/Notification%202023/P3/rgps_n23_p3_027.pdf)|
+|1 Nov|[P3 Nov Circulars](/files/Notification%202023/P3/rgps_n23_p3_029.pdf)
