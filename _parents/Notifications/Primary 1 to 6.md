@@ -14,8 +14,8 @@ third_nav_title: Notifications
 |28 Dec 2022 | P1 - P6|[RGPS Traffic Advisory for new school term (Starting on 04 Jan 2023)](/files/Notification%202023/P1%20to%206/RGPS%20Traffic%20Advisory%20for%20new%20school%20term%20(Starting%20on%20%2004%20Jan%202023).pdf) |
 |3 Jan| P3 - P6|[New Students CCA Registration 2023](/files/Notification%202023/P1%20to%206/RGPS_N23_G_002_New%20Students%20CCA_Registration%20for%202023.pdf)|
 |4 Jan| P1 - P5|[P1-5 Ezhishi Letter 2023](/files/Notification%202023/P1%20to%206/RGPSN23G005_P1-5%20Ezhishi%20Letter%202023.pdf)|
-|11 Jan|P5 & P6|[Resumption of Swimsafer P5 & P6](/files/Notification%202023/P1%20to%206/RGPS_N2_G_006%20Resumption%20of%20Swimsafer%20P5P6.pdf)|
-|12 Jan| P1 - P6|[Announcements for Information & Action](/files/Notification%202023/P1%20to%206/Notification%20Consent%20for%20Photos%20%20Smart%20watches%20Photo%20Taking_11%20Jan%202023.pdf)|
+|11 Jan|P5 &amp; P6|[Resumption of Swimsafer P5 &amp; P6](/files/Notification%202023/P1%20to%206/RGPS_N2_G_006%20Resumption%20of%20Swimsafer%20P5P6.pdf)|
+|12 Jan| P1 - P6|[Announcements for Information &amp; Action](/files/Notification%202023/P1%20to%206/Notification%20Consent%20for%20Photos%20%20Smart%20watches%20Photo%20Taking_11%20Jan%202023.pdf)|
 |8 Feb| P1- P6|[Triple P_Parents](/files/Notification%202023/P1%20to%206/Triple%20P_Parents%20Gateway%20Notification.pdf)|
 |1 Mar| P3 - P6|[Singapore Sports School Sports Clinics](/files/Notification%202023/P1%20to%206/Singapore%20Sports%20School%20Sports%20Clinics.pdf)|
 |9 Mar|P1-6|[Health Newsletter Term 1](https://drive.google.com/file/d/1oLI-kN4BA5rCUIyKu2Hj8InWvnMYh4q4/view?usp=sharing)|
@@ -38,7 +38,7 @@ third_nav_title: Notifications
 | Date| Level|File | 
 | -------- | -------- | -------- |
 |28 June|P1-6|[Traffic advisory notice from LTA](/files/Notification%202023/P1%20to%206/traffic%20advisory%20notice%20from%20lta.pdf)|
-|28 June|P1-2|[The storytelling properly workshop for P1 & P2](/files/Notification%202023/P1%20to%206/the%20storytelling%20properly%20workshop%20for%20p1%20&%20p2_compressed.pdf)|
+|28 June|P1-2|[The storytelling properly workshop for P1 &amp; P2](/files/Notification%202023/P1%20to%206/the%20storytelling%20properly%20workshop%20for%20p1%20&amp;%20p2_compressed.pdf)|
 |22 Aug|P1-6|[Use of rgps premises as polling station for presidential election 2023](/files/use%20of%20rgps%20premises%20as%20polling%20station%20for%20presidential%20election%202023.pdf)|
 
 ##### Term 4
@@ -46,4 +46,5 @@ third_nav_title: Notifications
 | Date| Level|File | 
 | -------- | -------- | -------- |
 |4 Oct|P2-6|[Girls in Aviation Day 2023](/files/Notification%202023/P1%20to%206/aviation.pdf)|
-|4 Oct|P2-5|[P2 to P5 Online CCA Registration for 2024](/files/Notification%202023/P1%20to%206/rgps_n23_g_37_p2%20to%20p5%20online%20cca%20registration%20for%202024.pdf)
+|4 Oct|P2-5|[P2 to P5 Online CCA Registration for 2024](/files/Notification%202023/P1%20to%206/rgps_n23_g_37_p2%20to%20p5%20online%20cca%20registration%20for%202024.pdf)|
+|1 Nov|P1-6|[e-poster for student icon](/files/Notification%202023/P1%20to%206/e-poster_for_student_icon.pdf)<br>[Google Takeout guide for Student](/files/Notification%202023/P1%20to%206/google_takeout_guide_for_student_icon.pdf)<br>[Quick Guide on Student icon data management](/files/Notification%202023/P1%20to%206/quick_guide_on_student_icon_data_management.pdf)<br>[Rgps Camp and Workshop Nov Dec](/files/Notification%202023/P1%20to%206/rgps%20camp%20and%20workshop%20novdec%202023_compressed.pdf)
