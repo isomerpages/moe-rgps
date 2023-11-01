@@ -48,3 +48,4 @@ third_nav_title: Notifications
 |4 Oct|[P6 Oct Circulars](/files/Notification%202023/P6/rgps_n23_p6_035.pdf)|
 |4 Oct|[P6 Graduation Party and Ceremony](/files/Notification%202023/P6/rgps_n23_p6_034%20p6%20graduation%20party%20and%20graduation%20ceremony%202023.pdf)|
 |19 Oct|[S1 Posting Letter](/files/Notification%202023/P6/rgpsn23p6037.pdf)<br>[S1 Posting Infosheet](/files/Notification%202023/P6/s1%20posting%20infosheet_2023%20(003).pdf)|
+|1 Nov|[P6 Nov Circulars](/files/Notification%202023/P6/rgps_n23_p6_038.pdf)<br>[Art and Music Programme](/files/Notification%202023/P5/art_music_programmes_for_pri_sch%20(2024%20intake)_compressed.pdf)
