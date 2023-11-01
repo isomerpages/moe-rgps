@@ -13,7 +13,7 @@ third_nav_title: Notifications
 | 28 Dec 2022|[RGPS P5 MbL IHC 2023 PG to Parents (Updated 28 Dec)](/files/Notification%202023/P5/RGPS%20P5%20MbL%20IHC%202023%20PG%20to%20Parents%20(Updated%2028%20Dec).pdf)|
 |30 Dec 2022|[RGPS P5 LJ Diversity of Cells](/files/Notification%202023/P5/2023%20PG%20to%20parents%20RGPS%20P5%20LJ%20Diversity%20of%20Cells.pdf)|
 |4 Jan|[P5 January Circulars](/files/Notification%202023/P5/rgps_n23_p5_005_p5%20january%20circulars.pdf)
-|12 Jan|[Enrol Your Child for Annual School-based Health & Dental Services](/files/Notification%202023/P5/120123%20Letter%20to%20P5%20Parents.pdf)|
+|12 Jan|[Enrol Your Child for Annual School-based Health &amp; Dental Services](/files/Notification%202023/P5/120123%20Letter%20to%20P5%20Parents.pdf)|
 |26 Jan|[Invitation for Video Submission of RGPS Got Talent for P5](/files/Notification%202023/P5/RGPS_N23_P5_009_Term%201%202023_Invitation%20for%20Video%20Submission%20of%20RGPS%20Got%20Talent%20for%20P5.pdf)|
 |1 Feb|[P5 MOE Sexuality Education in Schools](/files/Notification%202023/P5/2023%20PG_P5_MOE%20Sexuality%20Education%20in%20Schools.pdf)|
 |1 Feb|[P5 February Circulars](/files/Notification%202023/P5/RGPS_N23_P5_010_P5%20February%20Circulars.pdf)|
@@ -45,3 +45,4 @@ third_nav_title: Notifications
 | -------- | -------- |
 |8 Sept|[P5 Sept Circulars](/files/Notification%202023/P5/rgps_n23_p5_034.pdf)|
 |4 Oct|[P5 Oct Circulars](/files/Notification%202023/P5/rgps_n23_p5_035.pdf)|
+|1 Nov|[P5 Nov Circulars](/files/Notification%202023/P5/rgps_n23_p5_036.pdf) <br>[Art and Music Programme](/files/Notification%202023/P5/art_music_programmes_for_pri_sch%20(2024%20intake)_compressed.pdf)
