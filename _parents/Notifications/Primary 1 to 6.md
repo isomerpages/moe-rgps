@@ -46,4 +46,5 @@ third_nav_title: Notifications
 | Date| Level|File | 
 | -------- | -------- | -------- |
 |4 Oct|P2-6|[Girls in Aviation Day 2023](/files/Notification%202023/P1%20to%206/aviation.pdf)|
-|4 Oct|P2-5|[P2 to P5 Online CCA Registration for 2024](/files/Notification%202023/P1%20to%206/rgps_n23_g_37_p2%20to%20p5%20online%20cca%20registration%20for%202024.pdf)
+|4 Oct|P2-5|[P2 to P5 Online CCA Registration for 2024](/files/Notification%202023/P1%20to%206/rgps_n23_g_37_p2%20to%20p5%20online%20cca%20registration%20for%202024.pdf)|
+|1 Nov|P1-6|
