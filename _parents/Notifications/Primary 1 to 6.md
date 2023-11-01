@@ -47,4 +47,4 @@ third_nav_title: Notifications
 | -------- | -------- | -------- |
 |4 Oct|P2-6|[Girls in Aviation Day 2023](/files/Notification%202023/P1%20to%206/aviation.pdf)|
 |4 Oct|P2-5|[P2 to P5 Online CCA Registration for 2024](/files/Notification%202023/P1%20to%206/rgps_n23_g_37_p2%20to%20p5%20online%20cca%20registration%20for%202024.pdf)|
-|1 Nov|P1-6|[e-poster for student icon](/files/Notification%202023/P1%20to%206/e-poster_for_student_icon.pdf)<br>[Google Takeout guide for Student](/files/Notification%202023/P1%20to%206/google_takeout_guide_for_student_icon.pdf)<br>
+|1 Nov|P1-6|[e-poster for student icon](/files/Notification%202023/P1%20to%206/e-poster_for_student_icon.pdf)<br>[Google Takeout guide for Student](/files/Notification%202023/P1%20to%206/google_takeout_guide_for_student_icon.pdf)<br>[Quick Guide on Student icon data management](/files/Notification%202023/P1%20to%206/quick_guide_on_student_icon_data_management.pdf)<br>[Rgps Camp and Workshop Nov Dec](/files/Notification%202023/P1%20to%206/rgps%20camp%20and%20workshop%20novdec%202023_compressed.pdf)
