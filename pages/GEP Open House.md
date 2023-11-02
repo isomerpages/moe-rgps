@@ -9,7 +9,7 @@ description: ""
 <div id="introduction">
 <img src="/images/intro.png" style="width:20vw; align: center">
 <br>
-<center><iframe width="640" height="385" src="https://www.youtube.com/embed/nzFl7DkRwj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4G0ppt_AUfY?si=LtYWGwIZad6_T4fs" height="315" width="560"></iframe></center>
 <a href="#top">
 <img src="/images/top.png" style="width: 100px; align: center"></a>
 <br></div>
@@ -67,7 +67,6 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 </div>
 <div id="faq">
 <img src="/images/FAQ.png" style="background-colour:yellow; width:50vw; align: center">
-
 <center>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLqLg3r24SFKVfUw3dUQREHHMiXrk0fNMl3zVeIBXT0-IL4Xh0c0B833-bdhtz1A/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 </center>
