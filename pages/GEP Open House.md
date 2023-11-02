@@ -25,16 +25,18 @@ variant: markdown
 </div>
 
 <div id="reflections">
+	
 <img src="/images/reflection1.png" style="width:40vw; align: center">
-	<br>
+	<br><center>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GvDO3xGMYdo?si=Q6pR-POY3y0m5XeR" height="315" width="560"></iframe>
 <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OArBQ6jFs58?si=MUSsvQOgGiTHmtY3" height="315" width="560"></iframe><br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/N9l7ai1DKOQ?si=ur767fRzCXR5JoAT" height="315" width="560"></iframe><br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pwjBl80cVAo?si=ltUFplpREJXk80Yq" height="315" width="560"></iframe>
-<br>
+<br></center>
 <a href="#top">
 <img src="/images/top.png" style="width: 100px; align: center"></a>
 <br>
 </div>
+
 
 <div id="programmes">
 <img src="/images/Program.png" style="width:40vw; align: center">
