@@ -26,7 +26,7 @@ description: ""
 <div id="reflections">
 <img src="/images/reflection1.png" style="width:40vw; align: center">
 <br>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/edwfueHzpfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eZx0akBMmfE?si=0BmgdTXfoP0F56KO" height="315" width="560"></iframe></center>
 
 <table><thead><tr><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe src="https://www.youtube.com/embed/OBJqz5SfUfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></th><th style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe src="https://www.youtube.com/embed/hJ6kwFp-87I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></th></tr></thead><tbody><tr><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe src="https://www.youtube.com/embed/TcnSVTOyj2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td><td style="border-color:white;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;;vertical-align:top;horizontal-align:center;text-align:center;"><iframe src="https://www.youtube.com/embed/AYjOmi0cK68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td></tr></tbody></table>
 <br>
@@ -50,7 +50,7 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <div id="p4orientation">
 <img src="/images/p4orientation.png" style="width:40vw; align: center">
 <br>
-<center><iframe width="640" height="385" src="https://www.youtube.com/embed/p4PLvbzwx5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ADghRGOlE1s?si=jCEK6h9gEbzercEG" height="315" width="560"></iframe></center>
 <br>
 <a href="#top">
 <img src="/images/top.png" style="width: 100px; align: center"></a>
