@@ -60,7 +60,7 @@ Debate</td><td style="border-color:white;border-style:solid;border-width:1px;fon
 <img src="/images/Spaces.png" style="width:40vw; align: center">
 <br>
 <center>
-<iframe width="640" height="385" src="https://www.youtube.com/embed/OvReZhBisYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IVUU-B4mbQk?si=wi5bTHYjSpGBlQiH" height="315" width="560"></iframe></center>
 <a href="#top">
 <img src="/images/top.png" style="width: 100px; align: center"></a>
 <br>
