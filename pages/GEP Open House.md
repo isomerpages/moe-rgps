@@ -2,9 +2,10 @@
 title: GEP Open House
 permalink: /gepoh/
 description: ""
+variant: markdown
 ---
-<div id="top"><img src="/images/title.png" style="align: center; width:70%;"></div>
-<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img style="width:70%;" src="/images/sb_intro2.png"></a></th><th rowspan="3" style="border-color:white;"><img style="width:70%;" src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><a href="#subjects"><img style="width:70%;" src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img style="width:70%;" src="/images/sb_grad2.png"></a></th><th style="border-color:white;"><a href="#programmes"><img style="width:70%;" src="/images/sb_program2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img style="width:70%;" src="/images/sb_P4Orient.png"></a></th><th style="border-color:white;"><a href="#spaces"><img style="width:70%;" src="/images/sb_spaces2.png"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img style="width:70%;" src="/images/sb_faq2.png"></a></td><td></td></tr></tbody></table>
+<div id="top"><img src="/images/title.png" style="align: center; width:80%;"></div>
+<table><thead><tr><th style="border-color:white;"><a href="#introduction"><img style="width:80%;" src="/images/sb_intro2.png"></a></th><th rowspan="3" style="border-color:white;"><img style="width:80%;" src="/images/rgpsgepgirl_2.png"></th><th style="border-color:white;"><a href="#subjects"><img style="width:80%;" src="/images/sb_subjects2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#reflections"><img style="width:80%;" src="/images/sb_grad2.png"></a></th><th style="border-color:white;"><a href="#programmes"><img style="width:80%;" src="/images/sb_program2.png"></a></th></tr><tr><th style="border-color:white;"><a href="#p4orientation"><img style="width:80%;" src="/images/sb_P4Orient.png"></a></th><th style="border-color:white;"><a href="#spaces"><img style="width:80%;" src="/images/sb_spaces2.png"></a></th></tr></thead><tbody><tr><td></td><td><a href="#faq"><img style="width:80%;" src="/images/sb_faq2.png"></a></td><td></td></tr></tbody></table>
 <br>
 <div id="introduction">
 <img src="/images/intro.png" style="width:20vw; align: center">
