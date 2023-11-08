@@ -41,4 +41,12 @@ sections:
       url: /cta
       image: /images/cta2024.png
       alt: Image alt text
+  - infopic:
+      title: P1 Orientation
+      subtitle: For 2024 P1 Pupils
+      id: infopic
+      button: find out more!
+      url: /p1orientation/
+      image: /images/p1orientation.jpg
+      alt: Image alt text
 ---
