@@ -46,7 +46,7 @@ sections:
       subtitle: For 2024 P1 Pupils
       id: infopic
       button: find out more!
-      url: parents/p1-orientation
+      url: /p1orientation/
       image: /images/p1orientation.jpg
       alt: Image alt text
 ---
