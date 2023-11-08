@@ -1,6 +1,7 @@
 ---
 title: Our Service Charter
 permalink: /parents/our-service-charter/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/ourservicecharter.png)
