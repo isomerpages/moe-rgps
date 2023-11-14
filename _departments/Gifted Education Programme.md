@@ -2,6 +2,7 @@
 title: Gifted Education Programme
 permalink: /departments/gifted-education-programme/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 To provide leadership in the education of the intellectually gifted.
@@ -31,7 +32,7 @@ We are committed to nurturing gifted individuals to their fullest potential for 
     <td class="tg-ktyi">Mrs Elaine Chong</td>
   </tr>
   <tr>
-    <td class="tg-dgl5">HOD Gifted Education (Math & Science)</td>
+    <td class="tg-dgl5">HOD Gifted Education (Math &amp; Science)</td>
     <td class="tg-ktyi">Mr Phan Wai Mun</td>
   </tr>
   <tr>
@@ -110,7 +111,7 @@ The aim of GEP is to develop intellectual rigour, humane values and creativity i
 
 #### **The GEP Enrichment Model**
 
-The Gifted Education Programme (GEP) curriculum is designed to meet the needs of intellectually gifted students through an enriched curriculum. The GEP curriculum focuses on enrichment and not acceleration.
+The Gifted Education Programme (GEP) curriculum is designed to meet the needs of intellectually gifted students through an enriched curriculum.&nbsp;The GEP curriculum focuses on enrichment and not acceleration.
 
 The enriched curriculum is built on the regular curriculum and differentiated in these 4 areas:
 
@@ -266,15 +267,15 @@ Pupils will learn to systematically categorise and file their worksheets and not
 ### Mathematics
 
 ##### **1. Approach**
-The enriched Math curriculum is differentiated in terms of: 
+The enriched Math curriculum is differentiated in terms of:&nbsp;
 *   Level of complexity and connectivity
 *   Depth of concepts
 *   Pacing
 *   Mathematical communication
 
-Students are encouraged to communicate in mathematical language and appreciate the beauty of mathematics. They will spend more time in exploring mathematical concepts. They will be expected to have deeper understanding of mathematical definitions. 
+Students are encouraged to communicate in mathematical language and appreciate the beauty of mathematics.&nbsp;They will spend more time in exploring mathematical concepts. They will be expected to have deeper understanding of mathematical definitions.&nbsp;
 
-Students are taught skills and heuristics to promote mathematical thinking and to help them in mathematical investigations.  There will be more complex and challenging mathematical problems that will require more time and persistence. They are expected to engage actively in sharing their mathematical ideas, asking questions and offering solutions.
+Students are taught skills and heuristics to promote mathematical thinking and to help them in mathematical investigations.&nbsp; There will be more complex and challenging mathematical problems that will require more time and persistence. They are expected to engage actively in sharing their mathematical ideas, asking questions and offering solutions.
 
 ##### **2. Work / Files**
 Work is done on worksheets and they consist of various heuristic approaches to mastering concepts. Files are checked regularly.
@@ -284,7 +285,7 @@ Out-of-class activities are conducted so as to reinforce the application of math
   
 GEP students with strong aptitude in Mathematics will be invited to join classes like Advanced Mathematics Enrichment Class (AMEC). AMEC aims to impart process and visual thinking skills that are required to solve Math Olympiad-like problems to the participants.
 
-The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for selected Primary 4 and 5 students identified based on their performance in the PM2 selection test.  PM2 aims to challenge students who are talented in Mathematics beyond the Primary Mathematics curriculum.  Participants will be exposed to advanced Mathematical concepts.
+The Gifted Education Branch organises Primary Mathematics Masterclass (PM2) for selected Primary 4 and 5 students identified based on their performance in the PM2 selection test.&nbsp; PM2 aims to challenge students who are talented in Mathematics beyond the Primary Mathematics curriculum.&nbsp; Participants will be exposed to advanced Mathematical concepts.
   
 ##### **4. Assessment**
 Detailed breakdown and weightings of assessments throughout the course of the year for individual subjects will be provided during Parents’ Briefing as well as by subject teachers.
@@ -292,7 +293,7 @@ Detailed breakdown and weightings of assessments throughout the course of the ye
 ### Science
 
 ##### **1. Approach**
-The Science curriculum is mainly enriched in the process dimension: 
+The Science curriculum is mainly enriched in the process dimension:&nbsp;
 *   **P4** – inquiry activity  
 *   **P5** – inductive thinking and reference to concept  
 *   **P6** – question or problem driven activity  
@@ -325,10 +326,10 @@ Pupils will be exposed to concepts such as Causes and Consequences, and Change a
   
 Pupils will also have opportunities to develop critical thinking and exercise creativity. They will learn to make inferences, compare and contrast evidence, and develop well-reasoned explanations.  
   
-Social Studies will require students to consider varying points of view, thus learning to respect perspectives different from their own and developing important values such as empathy. 
+Social Studies will require students to consider varying points of view, thus learning to respect perspectives different from their own and developing important values such as empathy.&nbsp;
   
-Students will also be required to work collaboratively with others, in pairs or in groups. 
-   
+Students will also be required to work collaboratively with others, in pairs or in groups.&nbsp;
+&nbsp;  
 Learning activities emphasise four basic categories:
 *   knowledge and information based on current affairs and the social sciences
 *   **Skills**
