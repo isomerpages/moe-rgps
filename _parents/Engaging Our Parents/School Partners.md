@@ -3,6 +3,7 @@ title: School Partners
 permalink: /parents/Engaging-Our-Parents/sch-partners/
 description: ""
 third_nav_title: Engaging Our Parents
+variant: markdown
 ---
 |Forms    | Descriptions |
 | -------- | ------------- |
@@ -13,13 +14,13 @@ third_nav_title: Engaging Our Parents
 | **RGPS Uniform and Name Tag Order** |***Bibi&amp;Baba Private Limited***<br><br>545 Orchard Road, #02-28<br>Far East Shopping Centre<br>Singapore (238882)<br>Tel : 6732 7022 <br>Fax : 6835 4979<br><br>***Opening hours***<br>Mon -Sat: 10.00 a.m. to 7.00 p.m.<br>Sun: 10.00 a.m. to 6.00 p.m. <br><br> There is no sale of uniforms in the school. <br><br>Parents may purchase them at ***Bibi&amp;Baba Private Limited*** outlet or via [website](https://www.schooluniforms.sg/raffles-girls-primary-school).|
 |**POSB Smart Buddy**| The POSB Smart Buddy Programme allows, your child / ward to make payments at the school bookshop, canteen and selected merchants outside of school with the Smart Buddy watch. Parents/Guardian can pre-set your child's/ward's daily allowance and monitor her expenditure via a mobile app.<br><br>[POSB Smart Buddy](http://www.posb.com.sg/sb-schools)|
 |**Health Promotion Board(HPB)**|Parents/Guardian are to access the [Child Consent Portal](https://childconsent.hpb.gov.sg/) to update your child's/ward’s medical information and provide consent for immunisation and dental services after your child has started school.<br><br>Please access the following websites for more information on:<br>* Immunisations offered to primary school students - [Click Here](https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Primary_School)<br>* Screening services offered to primary school students - [Click Here](https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school)|
-|**School Bookshop** | ***Pacific Bookstores Pte Ltd***<br><br>Website: [www.pacificbookstores.com](www.pacificbookstores.com)<br>Tel: 6467 1692<br><br>***Opening hours***<br>Mon- Fri: 7.30 a.m. to 3.00 p.m. (during school term)<br><br>*Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.*<br><br>Please click on the required level to open / download the booklist.|
+|**School Bookshop** | ***Pacific Bookstores Pte Ltd***<br><br>Website: [www.pacificbookstores.com](www.pacificbookstores.com)<br>Tel: 6467 1692<br><br>***Opening hours***<br>Mon- Fri: 7.30 a.m. to 3.00 p.m. (during school term)<br><br>*Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.*<br><br>Please click on the required level to open / download the booklist for 2024.|
 
 | **Level** |**Main Stream** | **GEP** | **Foundation** |
 | -------- | -------- | -------- | -------- |
-|**Primary 1**|[Primary 1](/files/Booklist/RGPS%20P1.pdf)|||
-|**Primary 2**|[Primary 2](/files/Booklist/RGPS%20P2.pdf)|||
-|**Primary 3**|[Primary 3](/files/Booklist/RGPS%20P3.pdf)|||
-|**Primary 4**|[Primary 4](/files/Booklist/RGPS%20P4.pdf)| [Primary 4 - GEP](/files/Booklist/RGPS%20P4%20GEP.pdf)| |
-|**Primary 5**|[Primary 5](/files/Booklist/RGPS%20P5.pdf)| [Primary 5 - GEP](/files/Booklist/RGPS%20P5%20GEP.pdf)|[Primary 5 - Foundation](/files/Booklist/RGPS%20P5%20FDN.pdf)|
-|**Priamry 6**|[Primary 6](/files/Booklist/RGPS%20P6.pdf)|[Primary 6 - GEP](/files/Booklist/RGPS%20P6%20GEP.pdf)|[Primary 6 - Foundation](/files/Booklist/RGPS%20P6%20FDN.pdf)|
+|**Primary 1**|[Primary-1](/files/2024%20Booklist/P1.pdf)|||
+|**Primary 2**|[Primary-2](/files/2024%20Booklist/P2.pdf)|||
+|**Primary 3**|[Primary-3](/files/2024%20Booklist/P3.pdf)|||
+|**Primary 4**|[Primary-4](/files/2024%20Booklist/P4.pdf)|[Primary-4 GEP](/files/2024%20Booklist/P4_GEP.pdf)| |
+|**Primary 5**|[Primary-5](/files/2024%20Booklist/P5.pdf)|[Primary-5 GEP](/files/2024%20Booklist/P5_GEP.pdf)|[Primary-5 Foundation](/files/2024%20Booklist/P5_FDN.pdf)|
+|**Priamry 6**|[Primary-6](/files/2024%20Booklist/P6.pdf)|[Primary-6 GEP](/files/2024%20Booklist/P6_GEP.pdf)|[Primary-6 Foundation](/files/2024%20Booklist/P6_FDN.pdf)|
