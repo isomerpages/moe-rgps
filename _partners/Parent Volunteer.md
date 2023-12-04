@@ -22,4 +22,4 @@ Shortlisted parents will be invited for an interview and selected parents will h
 [Click Here](https://go.gov.sg/rgps2024pvs) for PV Application Form (DOB 2 Jan 2019 and 1 Jan 2020)
   
 Note:  
-Application for Phase 2B Parent Volunteer Scheme for children born between 2 Jan 2019 – 1 Jan 2020 (both dates inclusive) will be opened in Dec 2023
+Application for Phase 2B Parent Volunteer Scheme for children born between 2 Jan 2019 – 1 Jan 2020 (both dates inclusive)
