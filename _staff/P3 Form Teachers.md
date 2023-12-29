@@ -69,7 +69,7 @@ variant: markdown
 <tr>
         <td>Ms Wendy Ng Kim Noy</td>
         <td>3F</td>
-        <td>@schools.gov.sg</td>
+        <td>ng_kim_noy_wendy_a@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Ms Cheng Sok Mung</td>
