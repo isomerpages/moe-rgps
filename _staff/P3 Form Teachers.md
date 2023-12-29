@@ -7,8 +7,8 @@ variant: markdown
 ### **2024**
 <table>
     <tbody><tr style="width:100%">
-        <th style="width:35%">Name</th>
-        <th style="width:15%">Class</th>
+        <th style="width:40%">Name</th>
+        <th style="width:10%">Class</th>
         <th style="width:50%">Email</th>
     </tr>
    <tr>
