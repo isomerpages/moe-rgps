@@ -2,12 +2,13 @@
 title: P5 Form Teachers
 permalink: /staff/p5-form-teachers/
 description: ""
+variant: markdown
 ---
-### **2023**
+### **2024**
 <table>
-    <tr style="width:100%">
-        <th style="width:35%">Name</th>
-        <th style="width:15%">Class</th>
+    <tbody><tr style="width:100%">
+        <th style="width:40%">Name</th>
+        <th style="width:10%">Class</th>
         <th style="width:50%">Email</th>
     </tr>
     <tr>
@@ -15,109 +16,114 @@ description: ""
         <td>5A</td>
         <td>chau_soo_eng_june@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Janice Lim (Mrs Low)</td>
+<tr>
+        <td>Mr Phan Wai Mun</td>
         <td>5A</td>
-        <td>lim_jan_yuen_janice@schools.gov.sg</td>
+        <td>phan_wai_mun@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Thong Kar Fong</td>
+        <td>Mdm Lim Sheau Tyan Audrey</td>
+        <td>5A</td>
+        <td>lim_sheau_tyan@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mr Iskandar</td>
         <td>5B</td>
-        <td>thong_kar_fong@schools.gov.sg</td>
-    </tr>
+        <td>syed_iskandar_hamzah_a@schools.gov.sg</td>
+			</tr>
     <tr>
-        <td>Mdm Zairinah&nbsp;</td>
+        <td>Mdm Zairinah</td>
         <td>5B</td>
         <td>zairinah_faizal@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Tang Jingwen</td>
-        <td>5C</td>
-        <td>tang_jingwen@schools.gov.sg</td>
+<tr>
+        <td>Mr Guo Jiguang</td>
+        <td>5B</td>
+        <td>guo_jiguang@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mrs Heng Meng Tee</td>
+<tr>
+        <td>Mrs Christina Lim</td>
         <td>5C</td>
-        <td>heng_meng_tee@schools.gov.sg</td>
+        <td>lim_e_t_christina@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Goh Kaur Kheng (Mrs Lo)</td>
+<tr>
+        <td>Mrs Claresta Chee</td>
         <td>5C</td>
-        <td>goh_kaur_kheng@schools.gov.sg</td>
+        <td>claresta_wong@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Shannalyn Ng</td>
+<tr>
+        <td>Ms Yan Ying Ling</td>
         <td>5D</td>
-        <td>shannalyn_ng@schools.gov.sg&nbsp;&nbsp;</td>
+        <td>yan_ying_ling@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Roziyana Rahmat</td>
+ <tr>
+        <td>Ms Santha Selva Raju</td>
         <td>5D</td>
-        <td>roziyana_rahmat@schools.gov.sg</td>
+        <td>santha_selva_raju@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Roslinda</td>
+ <tr>
+        <td>Mr Fairuz</td>
+        <td>5D</td>
+        <td>muhammad_fairuz_mohamed_andy@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Kandoth Shaheena</td>
         <td>5E</td>
-        <td>roslinda_a@schools.gov.sg</td>
+        <td>kandoth_shaheena@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mrs Jacqueline Seto</td>
+<tr>
+        <td>Ms Ang Qin Ying Cindy</td>
         <td>5E</td>
-        <td>jacqueline_seto@schools.gov.sg</td>
+        <td>ang_qin_ying_cindy@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Ms Ho Shwu Huey</td>
+ <tr>
+        <td>Ms S Thivyaa</td>
         <td>5F</td>
-        <td>ho_shwu_huey@schools.gov.sg</td>
+        <td>s_thivyaa_tharrshini@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Durai Thamaraiselvi&nbsp;</td>
+<tr>
+        <td>Ms Lee Mei</td>
         <td>5F</td>
+        <td>lee_mei@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Ms Pek Xueyan</td>
+        <td>5G</td>
+        <td>pek_xueyan@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Durai Thamaraiselvi</td>
+        <td>5G</td>
         <td>durai_thamaraiselvi@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Jane Woon Wei Yien</td>
-        <td>5F</td>
-        <td>woon_wei_yien_jane@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Chua Huiyi</td>
+<tr>
+        <td>Mdm Roslinda</td>
         <td>5G</td>
-        <td>chua_huiyi@schools.gov.sg</td>
+        <td>roslinda_a@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Ms Ang Kai Mei</td>
-        <td>5G</td>
-        <td>ang_kai_mei@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Guo Fengling</td>
-        <td>5G</td>
-        <td>guo_fengling@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Chiang Ying Ying (Mrs Don)</td>
+   <tr>
+        <td>Mr Lee Tee Kai Thomas</td>
         <td>5H</td>
-        <td>chiang_yingying@schools.gov.sg</td>
+        <td>lee_tee_kai_thomas@schools.gov.sg</td>
     </tr>
-    <tr>
+ <tr>
         <td>Mdm Liu Chunyan</td>
         <td>5H</td>
         <td>liu_chun_yan@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Chong Lay Khim</td>
+<tr>
+        <td>Mdm Ee Bee Yian</td>
         <td>5I</td>
-        <td>chong_lay_khim@schools.gov.sg</td>
+        <td>ee_bee_yian@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Aishah Aris</td>
+<tr>
+        <td>Ms Gao Jingru</td>
         <td>5I</td>
-        <td>aishah_aris@schools.gov.sg</td>
+        <td>gao_jingru@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mr Seah Nam Sin</td>
+<tr>
+        <td>Mdm Chua Lay Kwan</td>
         <td>5I</td>
-        <td>seah_nam_sin@schools.gov.sg</td>
+        <td>chua_lay_kwan@schools.gov.sg</td>
     </tr>
-</table>
+</tbody></table>
