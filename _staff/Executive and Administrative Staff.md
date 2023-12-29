@@ -2,6 +2,7 @@
 title: Executive and Administrative Staff
 permalink: /staff/executive-and-administrative-staff/
 description: ""
+variant: markdown
 ---
 ### Administration Manager
 
@@ -31,4 +32,3 @@ description: ""
 | **Mdm Anne Michael** |   | <a href="anne_michael@schools.gov.sg">anne_michael@schools.gov.sg</a>     |
 | **Mdm Fetty Irdawaty Osman** |   | <a href="fetty_irdawaty_osman@schools.gov.sg">fetty_irdawaty_Osman@schools.gov.sg</a>     |
 | **Mdm Marianah Mosman** |   | <a href="marianah_mosman_a@schools.gov.sg">marianah_mosman_a@schools.gov.sg</a>     |
-| **Mdm Priscilla Myrtle Olsen** |   | <a href="priscilla_myrtle_olsen@schools.gov.sg">priscilla_myrtle_olsen@schools.gov.sg</a>     |
