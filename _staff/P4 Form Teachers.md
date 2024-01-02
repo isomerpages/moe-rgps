@@ -47,7 +47,7 @@ variant: markdown
         <td>lee_shiao_huai@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Gomes Alicia Bernice</td>
+        <td>Ms Gomes Alicia Bernice</td>
         <td>4D</td>
         <td>alicia_bernice_gomes@schools.gov.sg</td>
     </tr>
@@ -71,6 +71,11 @@ variant: markdown
         <td>4F</td>
         <td>sashikala_shamugam@schools.gov.sg</td>
     </tr>
+			    <tr>
+        <td>Mdm Yue Siew Lee</td>
+        <td>4F</td>
+        <td>yue_siew_lee@schools.gov.sg</td>
+			</tr>
     <tr>
         <td>Mdm Teng Mui Noi</td>
         <td>4G</td>
