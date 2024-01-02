@@ -10,4 +10,13 @@ variant: markdown
 ##### Term 1
 
 | Date| File | 
-| -------- | -------- | 
+| -------- | -------- |
+|28 Dec 2023|[ P4 Parent-Teacher Meeting (PTM)](/files/Notification%202024/P4/RGPS_N24_P4_001.pdf)|
+|3 Jan|[P4 January Circular](/files/Notification%202024/P4/RGPS_N24_P4_002_P4_January_Circulars.pdf)|
+
+
+##### GEP Term 1
+
+| Date| File | 
+| -------- | -------- |
+|29 Dec 2023|
