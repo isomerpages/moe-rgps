@@ -2,98 +2,89 @@
 title: P4 Form Teachers
 permalink: /staff/p4-form-teachers/
 description: ""
+variant: markdown
 ---
-### **2023**
+### **2024**
 <table>
-    <tr style="width:100%">
-        <th style="width:35%">Name</th>
-        <th style="width:15%">Class</th>
+    <tbody><tr style="width:100%">
+        <th style="width:40%">Name</th>
+        <th style="width:10%">Class</th>
         <th style="width:50%">Email</th>
     </tr>
     <tr>
-        <td>Mrs Kimberly Bell</td>
+        <td>Mdm Goh E-Lynn</td>
         <td>4A</td>
-        <td>kimberly_bell@schools.gov.sg</td>
+        <td>goh_e-lynn@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mrs Kimie Sng</td>
+        <td>Ms Loo Ching Yee</td>
         <td>4A</td>
-        <td>lim_hui-miang_kimie@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Lim Sheau Tyan Audrey</td>
-        <td>4A</td>
-        <td>lim_sheau_tyan@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Chong Jieqi</td>
-        <td>4B</td>
-        <td>chong_jieqi@schools.gov.sg&nbsp;&nbsp;</td>
+        <td>loo_ching_yee@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mdm Rayhanah Mohd</td>
         <td>4B</td>
         <td>rayhanah_mohd@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Lim Sok Yen</td>
+<tr>
+        <td>Ms Fang Ping</td>
         <td>4B</td>
-        <td>lim_sok_yen@schools.gov.sg</td>
+        <td>fang_ping@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Grace Tan Yong Ying</td>
+        <td>4B</td>
+        <td>grace_tan_yong_ying@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mrs Christina Lim</td>
+        <td>Ms Haslinda</td>
         <td>4C</td>
-        <td>lim_e_t_christina@schools.gov.sg</td>
+        <td>haslinda_adaham@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Haryana </td>
+        <td>Mdm Lee Shiao Huai</td>
         <td>4C</td>
-        <td>haryana_md_dom@schools.gov.sg</td>
+        <td>lee_shiao_huai@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Lee Mei</td>
+        <td>Mdm Gomes Alicia Bernice</td>
         <td>4D</td>
-        <td>lee_mei@schools.gov.sg</td>
+        <td>alicia_bernice_gomes@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Gao Jingru</td>
+        <td>Mr Ronald Lee</td>
         <td>4D</td>
-        <td>gao_jingru@schools.gov.sg</td>
+        <td>lee_joo_meng_ronald@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mr Gerald Ang Eu Jin</td>
+<tr>
+        <td>Ms Ho Shwu Huey</td>
         <td>4E</td>
-        <td>ang_eu_jin_gerald@schools.gov.sg</td>
+        <td>ho_shwu_huey@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Ms Tan Li Peng</td>
+<tr>
+        <td>Mdm Cheng Ying</td>
         <td>4E</td>
-        <td>tan_li_peng@schools.gov.sg</td>
+        <td>cheng_ying_a@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms S Thivyaa</td>
+        <td>Mdm Sashikala</td>
         <td>4F</td>
-        <td>s_thivyaa_tharrshini@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mr Yeo Eng Wee</td>
-        <td>4F</td>
-        <td>yeo_eng_wee@schools.gov.sg</td>
+        <td>sashikala_shamugam@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mdm Teng Mui Noi</td>
         <td>4G</td>
         <td>teng_mui_noi@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Sashikala</td>
+<tr>
+        <td>Mdm Tan Mei Fang</td>
         <td>4G</td>
-        <td>sashikala_shamugam@schools.gov.sg</td>
+        <td>tan_mei_fang_a@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Azizah</td>
+        <td>Mr Ho Kai Huat</td>
         <td>4H</td>
-        <td>azizah_sarnon_yarmo@schools.gov.sg</td>
+        <td>ho_kai_huat@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Ms Lim Chiat Hwee</td>
@@ -101,13 +92,18 @@ description: ""
         <td>lim_chiat_hwee@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mrs Claresta Chee</td>
-        <td>4I</td>
-        <td>claresta_wong@schools.gov.sg</td>
-    </tr>
-    <tr>
         <td>Mdm Tan Hwee Hoon</td>
         <td>4I</td>
         <td>tan_hwee_hoon_a@schools.gov.sg</td>
     </tr>
-</table>
+<tr>
+        <td>Ms Tam Xin Yi</td>
+        <td>4I</td>
+        <td>tam_xin_yi_b@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Ms Shaheda Salim</td>
+        <td>4I</td>
+        <td>shaheda_salim@schools.gov.sg</td>
+    </tr>
+</tbody></table>

@@ -2,147 +2,148 @@
 title: P6 Form Teachers
 permalink: /staff/p6-form-teachers/
 description: ""
+variant: markdown
 ---
-### **2023**
+### **2024**
 <table>
-    <tr style="width:100%">
-        <th style="width:30%">Name</th>
-        <th style="width:15%">Class</th>
+    <tbody><tr style="width:100%">
+        <th style="width:40%">Name</th>
+        <th style="width:10%">Class</th>
         <th style="width:55%">Email</th>
     </tr>
-    <tr>
-        <td>Mdm Goh E-Lynn</td>
-        <td>6A</td>
-        <td>goh_e-lynn@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Yan Ying Ling</td>
-        <td>6A</td>
-        <td>yan_ying_ling@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Dou Ping</td>
-        <td>6A</td>
-        <td>dou_ping@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Lee Shiao Huai</td>
-        <td>6B</td>
-        <td>lee_shiao_huai@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mr Ho Kai Huat</td>
-        <td>6B</td>
-        <td>ho_kai_huat@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Ee Bee Yian</td>
-        <td>6B</td>
-        <td>ee_bee_yian@schools.gov.sg</td>
-    </tr>
-    <tr>
+   <tr>
         <td>Mdm Eliza Eu (Mrs Tang)</td>
-        <td>6C</td>
+        <td>6A</td>
         <td>eu_shee_sian@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mr Guo Jiguang</td>
+        <td>Mdm Janice Lim (Mrs Low)</td>
+        <td>6A</td>
+        <td>lim_jan_yuen_janice@schools.gov.sg</td>
+    </tr>
+   <tr>
+        <td>Ms Yap Ying Tong</td>
+        <td>6A</td>
+        <td>yap_ying_tong@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Thong Kar Fong</td>
+        <td>6B</td>
+        <td>thong_kar_fong@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Lim Sok Yen</td>
+        <td>6B</td>
+        <td>lim_sok_yen@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Tang Jingwen</td>
+        <td>6B</td>
+        <td>tang_jingwen@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Ms Victoria Chua</td>
         <td>6C</td>
-        <td>guo_jiguang@schools.gov.sg</td>
+        <td>victoria_chua_pei_chern@schools.gov.sg</td>
+    </tr>
+ <tr>
+        <td>Mdm Goh Kaur Kheng (Mrs Lo)</td>
+        <td>6C</td>
+        <td>goh_kaur_kheng@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mrs Heng Meng Tee</td>
+        <td>6C</td>
+        <td>heng_meng_tee@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Roziyana Rahmat</td>
+        <td>6D</td>
+        <td>roziyana_rahmat@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Shannalyn Ng</td>
+        <td>6D</td>
+        <td>shannalyn_ng@schools.gov.sg&nbsp;&nbsp;</td>
+    </tr>
+<tr>
+        <td>Mdm Eng Lee Na</td>
+        <td>6D</td>
+        <td>eng_lee_na@schools.gov.sg</td>
+    </tr>
+ <tr>
+        <td>Mrs Jacqueline Seto</td>
+        <td>6E</td>
+        <td>jacqueline_seto@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Ms Azizah</td>
+        <td>6E</td>
+        <td>azizah_sarnon_yarmo@schools.gov.sg</td>
     </tr>
 	<tr>
-        <td>Mdm Rohimah</td>
-        <td>6C</td>
-        <td>rohimah_abdul_ghani_a@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Lim Zi Hui</td>
-        <td>6D</td>
-        <td>lim_zi_hui@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Pek Xueyan</td>
-        <td>6D</td>
-        <td>pek_xueyan@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Santha Selva Raju</td>
-        <td>6D</td>
-        <td>santha_selva_raju@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Foo Hwa Ming</td>
+        <td>Mdm Yap Fang Ying</td>
         <td>6E</td>
-        <td>foo_hwa_ming@schools.gov.sg</td>
+        <td>yap_fang_ying@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mr Vincent Chia Chee Sheong</td>
-        <td>6E</td>
+        <td>6F</td>
         <td>chia_chee_sheong_vincent@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Ms Khoo Kim Kim (Mrs Hoon)</td>
-        <td>6E</td>
-        <td>khoo_kim_kim@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Li Yixian</td>
+ <tr>
+        <td>Mdm Jane Woon Wei Yien</td>
         <td>6F</td>
-        <td>li_yixian@schools.gov.sg</td>
+        <td>woon_wei_yien_jane@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Ho Win Nie</td>
+        <td>Mdm Sharifah Maznah</td>
         <td>6F</td>
-        <td>ho_win_nie@schools.gov.sg</td>
+        <td>sharifah_maznah_salim_bamasri@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mrs Tanabal</td>
-        <td>6F</td>
-        <td>Kalaimani_Tanabal@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Shaheda Salim</td>
+     <tr>
+        <td>Ms Ang Kai Mei</td>
         <td>6G</td>
-        <td>shaheda_salim@schools.gov.sg</td>
+        <td>ang_kai_mei@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Lui Keet Mun</td>
+   <tr>
+        <td>Mdm Chua Huiyi</td>
         <td>6G</td>
-        <td>lui_keet_mun@schools.gov.sg</td>
+        <td>chua_huiyi@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Loo Ching Yee</td>
+        <td>Mdm Guo Fengling</td>
         <td>6G</td>
-        <td>loo_ching_yee@schools.gov.sg</td>
+        <td>guo_fengling@schools.gov.sg</td>
     </tr>
     <tr>
+        <td>Mdm Chiang Ying Ying (Mrs Don)</td>
+        <td>6H</td>
+        <td>chiang_yingying@schools.gov.sg</td>
+    </tr>
+     <tr>
+        <td>Mrs Elaine Chong</td>
+        <td>6H</td>
+        <td>chong_mee_lan_elaine@schools.gov.sg</td>
+    </tr>
+<tr>
         <td>Mdm Kavitha</td>
         <td>6H</td>
         <td>kavitha_selvananthan@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Kandoth Shaheena</td>
-        <td>6H</td>
-        <td>kandoth_shaheena@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mr Phan Wai Mun</td>
-        <td>6H</td>
-        <td>phan_wai_mun@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Grace Tan Yong Ying&nbsp;</td>
+<tr>
+        <td>Mr Seah Nam Sin</td>
         <td>6I</td>
-        <td>grace_tan_yong_ying@schools.gov.sg</td>
+        <td>seah_nam_sin@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Chong Lay Khim</td>
+        <td>6I</td>
+        <td>chong_lay_khim@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Lee Suan Khim</td>
+        <td>Mrs Tanabal</td>
         <td>6I</td>
-        <td>lee_suan_khim@schools.gov.sg</td>
+        <td>Kalaimani_Tanabal@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mrs Elaine Chong</td>
-        <td>6I</td>
-        <td>chong_mee_lan_elaine@schools.gov.sg</td>
-    </tr>
-</table>
+</tbody></table>
