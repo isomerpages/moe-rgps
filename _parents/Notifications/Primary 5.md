@@ -11,7 +11,7 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
-|28 Dec 2023|[P5 Parent-Teacher Meeting (PTM)]|(/files/Notification%202024/P5/RGPS_N24_P5_001.pdf)|
+|28 Dec 2023|[P5 Parent-Teacher Meeting (PTM)](/files/Notification%202024/P5/RGPS_N24_P5_001.pdf)|
 |3 Jan|[P5 January Circular](/files/Notification%202024/P5/RGPS_N24_P5_002_P5_January_Circulars.pdf)|
 
 ##### GEP Term 1
