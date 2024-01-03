@@ -3,6 +3,7 @@ title: String Ensemble
 permalink: /programme/co-curricular-activities-cca/performing-arts/string-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **String Ensemble  (P3 to P6)**
 
@@ -32,7 +33,7 @@ Ms Azizah
 
 ##### **Training Schedule**
 
-Monday & Thursday, 3-5PM  <br>
+Monday &amp; Thursday, 3-5PM&nbsp; <br>
 
 ##### **Venue**
 Music Room 5 (Violin and Viola Players) <br>
