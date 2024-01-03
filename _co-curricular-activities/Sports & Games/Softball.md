@@ -3,6 +3,7 @@ title: Softball
 permalink: /programme/co-curricular-activities-cca/sports-n-games/softball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ##### **Softball CCA (P3-P6)**
 
@@ -33,7 +34,8 @@ Ms Lee Shiao Huai (In-charge)<br>
 Ms Farhani Hanafi-Shuy (Asst. i/c)<br>
 Mrs Joyce Ong<br>
 Mr Yeo Siah Ong<br>
-Mdm Ho Shwu Huey
+Mdm Ho Shwu Huey<br>
+Mr Fairuz
 
 ##### **Training Schedule**
 
