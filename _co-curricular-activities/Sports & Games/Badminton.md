@@ -3,6 +3,7 @@ title: Badminton
 permalink: /programme/co-curricular-activities-cca/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 #### **Badminton (P3-P6)**
 
@@ -17,7 +18,7 @@ Pupils selected for the School Team train on a weekly basis, twice during school
 **Selection for School Training Team**<br>
 Pupils who are keen to join the School Training Team must go through the selection.
 
-Selection will be for P2 & P3 students only. It will be held in Term 4.
+Selection will be for P2 &amp; P3 students only. It will be held in Term 4.
 <br><br>
 **2. CCA Group**<br>
 This group is for non-competitive players who wish to acquire basic badminton skills. Pupils will train for 2 hours on Wednesdays with a coach. Those with a flair for badminton may be invited to go for the School Team selection.
@@ -38,7 +39,8 @@ Ms Victoria Chua (In-charge)<br>
 Ms Chua Huiyi (Asst. i/c)<br>
 Ms Elena Ker<br>
 Mr Guo Jiguang<br>
-Ms Yan Ying Ling
+MS Elaine Mok<br>
+Ms Cindy Ang
 
 ##### **Training Details**
 
@@ -48,7 +50,7 @@ During Holiday<br>
 Dates and time will be provided in schedule to be given out nearer to the holiday.
 
 **CCA Team**<br>
-Wednesday, 3pm – 5pm<br>
+Monday, 3pm – 5pm<br>
 No training during holiday
 
 ##### **Venue**
