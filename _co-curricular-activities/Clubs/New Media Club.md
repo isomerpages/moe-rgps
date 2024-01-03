@@ -3,6 +3,7 @@ title: New Media Club
 permalink: /programme/co-curricular-activities-cca/clubs/new-media-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **New Media Club  (P3 to P6)**
 
@@ -18,7 +19,7 @@ Ms Lim Zi Hui (In-charge)<br>Ms Ang Kai Mei
 
 ##### **Training Schedule**
 
-Tuesday, 3 pm – 5 pm
+Monday, 3 pm – 5 pm
 
 ##### **Venue**
 IT Lab 1 (level 1)
