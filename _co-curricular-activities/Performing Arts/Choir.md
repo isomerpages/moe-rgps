@@ -32,15 +32,14 @@ Our Choir will have the opportunity to perform in various school functions such 
 Mrs Amy (In-charge)<br>
 Ms Eng Lik Boon (Asst. i/c)<br> 
 Mrs Heng Meng Tee<br>
-Mrs Lo Kaur Kheng
+Mdm Goh E-Lynn
 
 ##### **Training Schedule**
 
-Monday and Wednesday, 3pm – 5pm  <br>
+Monday and Tuesday, 3pm – 5pm  <br>
 
 ##### **Venue**
-Seminar Room  <br>
-Pupils are to gather along the corridor of the Seminar Room by 2.45pm.
+Music Room 4 (PARTS- level 3)<br>
 
 --------
 
@@ -54,8 +53,7 @@ Mdm Angelin Yeo (Mrs Chee) (Asst. i/c)<br>
 Ms Yap Ying Tong 
 
 ##### **Training Schedule**
-Monday, 3.15pm – 5pm
+Thursday, 3pm – 5pm
   
 ##### **Venue**
 Music Room 4 (PARTS- level 3)<br>
-Pupils are to report to Music Room 4 by 315pm.
