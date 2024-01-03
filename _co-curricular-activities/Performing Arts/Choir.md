@@ -3,13 +3,13 @@ title: Choir
 permalink: /programme/co-curricular-activities-cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### **Choir (P3 to P6)**
 
 #### **Main Choir (P4 to P6)**
 
 ##### **Overview of CCA**
-
 The Choir comprises of pupils who are brought together by their love of singing and aims to provide age-appropriate vocal training.
  
 In their continual exposure to music from various cultures, languages, historical periods, and styles, our choristers learn to appreciate artistic excellence and improve their musicality. They also develop responsibility, commitment, self-discipline, confidence, and poise – key ingredients for success in any field of endeavour. Most importantly, the choristers demonstrate teamwork as they learn to harmonise their voices to perform melodious works of beauty.
