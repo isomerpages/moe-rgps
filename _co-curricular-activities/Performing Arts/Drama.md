@@ -3,6 +3,7 @@ title: Drama
 permalink: /co-curricular-activities/Performing-Arts/drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **Drama Club (P3 to P6)**
 
@@ -18,12 +19,12 @@ The cast staged Alice in Wonderland – Through the Looking Glass in 2018 and Fa
   
 ##### **Teachers in Charge**
 
-Ms Shahedah Salim (In-charge)<br>Mrs Don Ying Ying  
+Ms Shahedah Salim (In-charge)<br>Mrs Don Ying Ying&nbsp; 
 
 ##### **Training Schedule**
-Tuesday, 3:00 – 5:00 pm <br>
+Monday, 3:00 – 5:00 pm <br>
 (There will be additional training sessions prior to performances)
 
 ##### **Venue**
 
-Seminar Room (ISH- level 1)
+PAL Room 3
