@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /programme/co-curricular-activities-cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **Concert Band**
 
@@ -38,13 +39,13 @@ Other Participations and exchange program
 ##### **Teachers in Charge**
 
 Ms Khoo Wai Ling (In-charge)<br>
-Ms Tan Li Peng (Asst. i/c)<br>
-Mdm Ang Geok Peng<br>
+Mdm Ang Geok Peng<br>(Asst. i/c)<br>
 Mdm Rayhanah Mohd<br>
 Mdm Wong Wei Yuan
+Mdm Chua Lay Kwan
   
 ##### **Training Schedule**
-
+ 
 **Main Band**  <br>
 Tuesday, 2.30pm – 5.00pm  <br>
 Thursday, 2.30pm – 5.00pm  

@@ -3,6 +3,7 @@ title: Art Club
 permalink: /co-curricular-activities/Clubs/art-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **Art Club  (P3 to P6)**
 
@@ -20,7 +21,7 @@ Through the various activities, the students are able to develop a deeper apprec
 Ms Cheng Sok Mung (In-charge)<br> 
 Ms Cassandra Quek<br>
 Mdm Haryana Bte Md Dom<br>
-Ms Lee Suan Khim<br> 
+
 
 ##### **Training Schedule**  <br>
 Wednesdays, 3pm – 5pm  

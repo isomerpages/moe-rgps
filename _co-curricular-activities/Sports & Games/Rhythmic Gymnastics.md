@@ -3,6 +3,7 @@ title: Rhythmic Gymnastics
 permalink: /programme/co-curricular-activities-cca/sports-n-games/rhythmic-gymnastics/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 #### **Rhythmic Gymnastics  (P3 to P6)**
 
@@ -12,7 +13,7 @@ Rhythmic Gymnastics in RGPS comprises of recreational cca team and school select
 
 **School Selection Team training programme has the following objectives:** 
 1. To enable students (ranging from beginners to advanced athletes) to learn difficulties in handling routine for freehand, balls, ropes, hoops, clubs and ribbon.
-2. To prepare students to undertake Rhythmic Gymnastics C-Division Developmental & Elite Categories in National School Games (NSG).
+2. To prepare students to undertake Rhythmic Gymnastics C-Division Developmental &amp; Elite Categories in National School Games (NSG).
 3. To enable students to learn sportsmanship and values of fair play, teamwork and develop discipline, perseverance and resilience.
 
 **Recreation CCA team training programme has the following objectives:**
@@ -24,18 +25,20 @@ Rhythmic Gymnastics in RGPS comprises of recreational cca team and school select
 ##### **Teacher in Charge**
 
 Mrs Claresta Chee (In-Charge)<br>
-Mdm Ning Fanye (Asst. i/c)<br>
-Ms Elicia Lim (Asst. i/c))<br>
+Ms Chew Sok Tien (Asst. i/c)<br>
 Ms Leong Oon Ho <br>
-Ms Chew Sok Tien 
+Mdm Lim Sheau Tyan Audrey<br>
+Mdm Sashikala
+
+
 
 ##### **Training Schedule**  
 
 **School Selection Team**<br>
-Mondays and Thursdays, 2.30pm – 5pm
+Tuesday and Thursdays, 2.30pm – 5pm
 
 **Recreation CCA Team**<br>
-Wednesdays, 3pm – 5pm
+Monday, 3pm – 5pm
 
 ##### **Venue**
 School Hall

@@ -3,6 +3,7 @@ title: EnviroLife Science Club
 permalink: /programme/co-curricular-activities-cca/clubs/enviro-life-science-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **Enviro-Life Science Club  (P3 to P6)**
 
@@ -15,12 +16,12 @@ The pupils will also learn to work as a team to solve problems and organize acti
 ##### **Teachers in Charge**
 
 Ms Grace Tan (In-charge)<br>
-Mdm Roziyana Rahmat
+Ms Thivya
 
 ##### **Training Schedule**
 
-Tuesday,  3pm - 5pm 
+Thursday, &nbsp;3pm - 5pm 
 
 ##### **Venue**
 Life Science Lab (level 3)<br>
-Tinkering Courtyard (level 1)
+Science Lab 1&amp;2 (level 4)

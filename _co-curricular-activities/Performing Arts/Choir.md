@@ -3,13 +3,13 @@ title: Choir
 permalink: /programme/co-curricular-activities-cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### **Choir (P3 to P6)**
 
 #### **Main Choir (P4 to P6)**
 
 ##### **Overview of CCA**
-
 The Choir comprises of pupils who are brought together by their love of singing and aims to provide age-appropriate vocal training.
  
 In their continual exposure to music from various cultures, languages, historical periods, and styles, our choristers learn to appreciate artistic excellence and improve their musicality. They also develop responsibility, commitment, self-discipline, confidence, and poise – key ingredients for success in any field of endeavour. Most importantly, the choristers demonstrate teamwork as they learn to harmonise their voices to perform melodious works of beauty.
@@ -32,15 +32,14 @@ Our Choir will have the opportunity to perform in various school functions such 
 Mrs Amy (In-charge)<br>
 Ms Eng Lik Boon (Asst. i/c)<br> 
 Mrs Heng Meng Tee<br>
-Mrs Lo Kaur Kheng
+Mdm Goh E-Lynn
 
 ##### **Training Schedule**
 
-Monday and Wednesday, 3pm – 5pm  <br>
+Monday and Tuesday, 3pm – 5pm  <br>
 
 ##### **Venue**
-Seminar Room  <br>
-Pupils are to gather along the corridor of the Seminar Room by 2.45pm.
+Music Room 4 (PARTS- level 3)<br>
 
 --------
 
@@ -54,8 +53,7 @@ Mdm Angelin Yeo (Mrs Chee) (Asst. i/c)<br>
 Ms Yap Ying Tong 
 
 ##### **Training Schedule**
-Monday, 3.15pm – 5pm
+Thursday, 3pm – 5pm
   
 ##### **Venue**
 Music Room 4 (PARTS- level 3)<br>
-Pupils are to report to Music Room 4 by 315pm.

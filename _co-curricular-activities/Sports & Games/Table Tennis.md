@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /programme/co-curricular-activities-cca/sports-n-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 #### **Table Tennis (P3 -P6)**
 
@@ -36,18 +37,17 @@ This group is for Primary 3 to Primary 6 non-competitive players. Pupils meet on
 ##### **Teachers in Charge**
 
 Ms Teo Siew Huai (In-charge)<br>
-Mdm Lim Sheau Tyan Audrey (Asst. i/c)<br>
-Ms Li Yixian<br>
+Ms Li Yixian (Asst. i/c)<br>
 Ms Junaidah Md Yusof<br>
 Ms Joyce Tan
 
 ##### **Training Schedule**
 
 **School Team**<br>
-Monday & Wednesday, 3pm – 5 pm
+Monday &amp; Thursday, 3pm – 5 pm
 
 **CCA Group**<br>
-Wednesday, 3pm – 5 pm
+Monday, 3pm – 5 pm
 
 ##### **Venue**
 

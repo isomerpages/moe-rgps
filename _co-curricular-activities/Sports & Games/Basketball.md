@@ -3,6 +3,7 @@ title: Basketball
 permalink: /co-curricular-activities/Sports-and-Games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 #### **Basketball  (P3 to P6)**
 
@@ -11,7 +12,7 @@ Basketball is one of the popular sports CCA in RGPS. Through Basketball CCA, the
 
 Pupils can participate in Basketball CCA from Primary 3 onwards where they will learn basic basketball skills in a fun way. As the pupils become more competent and their skills are more developed, they will learn the competitive aspect of the game.
 
-Pupils who display potential will be identified for selection team training in Primary 3 and further developed in Primary 4. The selected pupils will be given opportunities to represent school in various competitions when they are in Primary 5 & 6.
+Pupils who display potential will be identified for selection team training in Primary 3 and further developed in Primary 4. The selected pupils will be given opportunities to represent school in various competitions when they are in Primary 5 &amp; 6.
 
 
 
@@ -30,49 +31,23 @@ Pupils who display potential will be identified for selection team training in P
 
 ##### **Teachers in charge**
 
-**Semester 1** 
-
-|CCA Group| Teacher IC|
-|-----------|------------|
-|P3 CCA| Ms Tan Hui Li|
-|P4/5/6 CCA |Ms Pek Xueyan|
-|P4 School Team|Mr Ulyssess|
-|P5 School Team|Mr Ho Kai Huat  (In-charge)|
-|P6 School Team|Mr Yeo Eng Wee (Asst. i/c)|
-
-**Semester 2**
-
-|CCA Group| Teacher IC|
-|-----------|------------|
-|P3 CCA|Ms Tan Hui Li|
-|P4/5 CCA|Ms Pek Xueyan|
-|P3 Selection Team|Mr Ulyssess<br>Ms Tan Hui Li|
-|P4 School Team|Mr Yeo Eng Wee (Asst. i/c)|
-|P5 School Team|Mr Ho Kai Huat  (In-charge)|
-
+Mr Ho Kai Huat  (In-charge)<br>
+Mr Yeo Eng Wee (Asst. i/c)<br>
+Ms Pek Xueyan<br>
+Mr Ulyssess<br>
+Ms Tan Hui Li<br>
+Mr Thomas Lee
 
 ##### **Training Schedule**
 
-**Semester 1**
-
-|CCA Group| Training Day & Time|
+|CCA Group| Training Day &amp; Time|
 |-----------|------------|
 |P3 CCA |Monday, 3pm to 5pm|
-|P4/5/6 CCA |Tuesday, 3pm to 5pm|
-|P4 School Team |Tuesday & Thursday, 3pm to 5pm|
-|P5 School Team |Monday & Wednesday, 3pm to 5pm|
-|P6 School Team |Tuesday & Thursday, 3pm to 5pm|
-
-**Semester 2**
-
-|CCA Group| Training Day & Time|
-|-----------|------------|
-P3 CCA|Monday, 3pm to 5pm|
-P4/5 CCA|Tuesday, 3pm to 5pm|
-P3 Selection Team|Monday & Thursday, 3pm to 5pm|
-P4 School Team|Tuesday & Thursday, 3pm to 5pm|
-P5 School Team|Monday & Wednesday, 3pm to 5pm|
-
+|P4/5/6 CCA |Monday, 3pm to 5pm|
+|P3 Selection Team (Term 3) |Monday &amp; Thursday, 3pm to 5pm|
+|P4 Selection Team |Tuesday &amp; Thursday, 3pm to 5pm|
+|P5 School Team |Tuesday &amp; Thursday, 3pm to 5pm|
+|P6 School Team |Tuesday &amp; Thursday, 3pm to 5pm|
 
 ##### **Venue**
 PARTS Basketball Court<br>
