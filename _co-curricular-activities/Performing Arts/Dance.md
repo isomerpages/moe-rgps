@@ -3,6 +3,7 @@ title: Dance
 permalink: /programme/co-curricular-activities-cca/performing-arts/dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### **Dance (P3 to P6)**
 
@@ -50,7 +51,6 @@ Our CCA have a recreational team and 3 school teams. Pupils have the opportuniti
 Mdm Chong Lay Khim (In-charge)<br>
 Ms Lee Mei Lup (Asst. i/c)<br>
 Mrs Kalamani Tanabal<br>
-Mdm Dou Ping<br>
 Mdm Durai Thamaraiselvi<br>
 Ms Gao Jingru<br>
 Mdm Lui Keet Mun<br>
@@ -66,7 +66,7 @@ Thursday, 3pm -5pm
 Tuesday and Thursday, 3pm -5pm
 
 ##### **Venue** 
-Pal Room 1&2 (level 1)<br>
+Pal Room 1&amp;2 (level 1)<br>
 Dance Studio (level 6)<br>
 PARTs Auditorium (PARTS - level 3)<br>
 Seminar Room (ISH - level 1)
