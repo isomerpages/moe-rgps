@@ -28,7 +28,8 @@ RGPS's String Ensemble was established in 2006. It comprises of a group of dynam
 
 Mrs Lee Beiyu (In-charge)<br>
 Mdm Liu Chunyan (Asst. i/c)<br>
-Ms Azizah
+Ms Azizah<br>
+Mdm Goh E-Lynn
 
 
 ##### **Training Schedule**
