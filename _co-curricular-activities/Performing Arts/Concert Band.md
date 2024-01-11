@@ -41,7 +41,7 @@ Other Participations and exchange program
 Ms Khoo Wai Ling (In-charge)<br>
 Mdm Ang Geok Peng<br>(Asst. i/c)<br>
 Mdm Rayhanah Mohd<br>
-Mdm Wong Wei Yuan
+Mdm Wong Wei Yuan<br>
 Mdm Chua Lay Kwan
   
 ##### **Training Schedule**
