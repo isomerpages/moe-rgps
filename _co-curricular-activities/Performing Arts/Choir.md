@@ -32,7 +32,7 @@ Our Choir will have the opportunity to perform in various school functions such 
 Mrs Amy (In-charge)<br>
 Ms Eng Lik Boon (Asst. i/c)<br> 
 Mrs Heng Meng Tee<br>
-Mdm Goh E-Lynn
+
 
 ##### **Training Schedule**
 
