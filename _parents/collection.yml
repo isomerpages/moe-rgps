@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - P2/Briefing Slides.md
       - P2/.keep
       - Our Service Charter.md
       - Calendar of Events.md
