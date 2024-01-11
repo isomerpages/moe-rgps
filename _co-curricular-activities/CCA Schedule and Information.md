@@ -6,5 +6,5 @@ variant: markdown
 ---
 ### **2024**
 
-
+![](/images/COE%202024/CCA_pg1.jpg)
 ![](/images/COE%202024/cca_pg2.jpg)
