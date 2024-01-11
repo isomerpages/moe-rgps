@@ -5,16 +5,4 @@ description: ""
 variant: tiptap
 third_nav_title: Briefing Slides
 ---
-### **2024**
-
-#### **Primary 2**
-| Date | Level | File |
-| -------- | -------- | -------- |
-|3 Jan|P2|[Level Matters](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Level_Matters.pdf)|
-|3 Jan|P2|[Character and Citizenship Education (CCE)](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_CCE.pdf)|
-|3 Jan|P2|[Aesthetics](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Aesthetics.pdf)|
-|3 Jan|P2|[Programme of Active Learning (PAL)](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_PAL.pdf)|
-|3 Jan|P2|[Physical Education (PE)](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_PE.pdf)|
-|3 Jan|P2|[English](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_English.pdf)|
-|3 Jan|P2|[Math](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Math.pdf)|
-|3 Jan|P2|[Mother Tongue (MT)](/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_MT.pdf)
+<h3><strong>2024</strong></h3><h4><strong>Primary 2</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>File</p></th></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Level Matters</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education (CCE)</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Aesthetics.pdf" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_PAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme of Active Learning (PAL)</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">Physical Education (PE)</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_English.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Math.pdf" rel="noopener noreferrer nofollow" target="_blank">Math</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_MT.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue (MT)</a></p></td></tr></tbody></table><p></p>
