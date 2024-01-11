@@ -54,7 +54,8 @@ Mrs Kalamani Tanabal<br>
 Mdm Durai Thamaraiselvi<br>
 Ms Gao Jingru<br>
 Mdm Lui Keet Mun<br>
-Mdm Poh Wei Jing
+Mdm Poh Wei Jing<br>
+Mdm Sashikala
 
 
 ##### **Training Schedule**
