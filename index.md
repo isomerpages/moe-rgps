@@ -33,4 +33,10 @@ sections:
       url: /cta
       image: /images/cta2024.png
       alt: Image alt text
+  - infobar:
+      title: Briefing Slides
+      subtitle: "2024"
+      id: infobar
+      button: Click Here
+      url: /parents/briefing-slides/
 ---
