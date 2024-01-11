@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Primary 2.md
-      - P2/.keep
+      - Briefing Slides/.keep
       - Our Service Charter.md
       - Calendar of Events.md
       - Notifications/.keep
