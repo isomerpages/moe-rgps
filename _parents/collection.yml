@@ -4,13 +4,13 @@ collections:
     order:
       - Our Service Charter.md
       - Calendar of Events.md
-      - Briefing Slides/Primary 6.md
-      - Briefing Slides/Primary 4.md
-      - Briefing Slides/Primary 3.md
-      - Briefing Slides/Primary 1.md
       - Briefing Slides/.keep
+      - Briefing Slides/Primary 1.md
       - Briefing Slides/Primary 2.md
+      - Briefing Slides/Primary 3.md
+      - Briefing Slides/Primary 4.md
       - Briefing Slides/Primary 5.md
+      - Briefing Slides/Primary 6.md
       - Notifications/.keep
       - Notifications/Primary 1 to 6.md
       - Notifications/Primary 1.md
