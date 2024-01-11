@@ -23,6 +23,12 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
+  - infobar:
+      title: Briefing Slides
+      subtitle: "2024"
+      id: infobar
+      button: Click Here
+      url: /parents/briefing-slides/
   - infopic:
       title: Caring Teacher Awards
       id: infopic
@@ -33,10 +39,4 @@ sections:
       url: /cta
       image: /images/cta2024.png
       alt: Image alt text
-  - infobar:
-      title: Briefing Slides
-      subtitle: "2024"
-      id: infobar
-      button: Click Here
-      url: /parents/briefing-slides/
 ---
