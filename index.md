@@ -23,22 +23,12 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
-  - infopic:
-      title: P1 Orientation
-      subtitle: For 2024 P1 Pupils
-      id: infopic
-      button: find out more!
-      url: /p1orientation/
-      image: /images/p1orientation.jpg
-      alt: Image alt text
-  - infopic:
-      title: GEP E-Open House
-      subtitle: "2023"
-      id: infopic
-      button: Find out more!
-      url: /gepoh/
-      image: /images/gepsite.png
-      alt: Image alt text
+  - infobar:
+      title: Briefing Slides
+      subtitle: "2024"
+      id: infobar
+      button: Click Here
+      url: /parents/briefing-slides/
   - infopic:
       title: Caring Teacher Awards
       id: infopic

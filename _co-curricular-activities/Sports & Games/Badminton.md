@@ -36,10 +36,10 @@ This group is for non-competitive players who wish to acquire basic badminton sk
 ##### **Teachers in Charge**
 
 Ms Victoria Chua (In-charge)<br>
-Ms Chua Huiyi (Asst. i/c)<br>
+Ms Elaine Mok  (Asst. i/c)<br>
+Ms Chua Huiyi<br>
 Ms Elena Ker<br>
 Mr Guo Jiguang<br>
-MS Elaine Mok<br>
 Ms Cindy Ang
 
 ##### **Training Details**

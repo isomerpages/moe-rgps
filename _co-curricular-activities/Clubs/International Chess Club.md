@@ -3,6 +3,7 @@ title: International Chess Club
 permalink: /programme/co-curricular-activities-cca/clubs/international-chess-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 #### **International Chess Club (P3 to P6)**
 
@@ -38,7 +39,9 @@ The teacher-in-charge and the instructors are always on the lookout for talents 
 ##### **Teachers in Charge:**
 
 Ms Shaheena K (In-charge) <br>
-Ms Linda A  
+Ms Haslinda
+Mdm Chua Lay Kwan
+
 
 ##### **Training Schedule:**
 
