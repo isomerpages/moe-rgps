@@ -28,7 +28,7 @@ sections:
       subtitle: "2024"
       id: infobar
       button: Click Here
-      url: /parents/briefing-slides/
+      url: parents/briefing-slides/pri1/
   - infopic:
       title: Caring Teacher Awards
       id: infopic
