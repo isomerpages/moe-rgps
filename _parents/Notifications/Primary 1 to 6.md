@@ -11,4 +11,5 @@ variant: markdown
 
 | Date| Level|File | 
 | -------- | -------- | -------- | 
-|29 Dec|P2-P6|[Welcome Back to School](/files/Notification%202024/P1%20to%206/Welcome_Back_to_School___COE_2024.pdf)
+|29 Dec|P2-P6|[Welcome Back to School](/files/Notification%202024/P1%20to%206/Welcome_Back_to_School___COE_2024.pdf)|
+|12 Jan|P1-P6|[Character and Citizenship Education Programmes 2024](/files/Notification%202024/P1%20to%206/Welcome_Back_to_School___COE_2024.pdf)
