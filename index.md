@@ -29,14 +29,4 @@ sections:
       id: infobar
       button: Click Here
       url: parents/briefing-slides/pri1/
-  - infopic:
-      title: Caring Teacher Awards
-      id: infopic
-      description: The CTA acknowledges teachers who go beyond the call of duty,
-        nurturing the holistic development of their students. Ensuring them to
-        be confident & resilient.
-      button: Nominate the caring teacher today!
-      url: /cta
-      image: /images/cta2024.png
-      alt: Image alt text
 ---
