@@ -62,9 +62,9 @@ variant: markdown
         <td>ho_shwu_huey@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Mdm Cheng Ying</td>
+        <td>Mdm Chen Ying</td>
         <td>4E</td>
-        <td>cheng_ying_a@schools.gov.sg</td>
+        <td>chen_ying_a@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mdm Sashikala</td>
