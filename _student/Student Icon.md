@@ -2,6 +2,7 @@
 title: Student Icon
 permalink: /parents/student-icon/
 description: ""
+variant: markdown
 ---
 ### Student Icon
 
@@ -12,4 +13,4 @@ The students may now go onboard Student ICON at [ https://workspace.google.com/d
 
 [Student iCON Onboarding Guide\_students.pdf](/files/Student%20iCON%20Onboarding%20Guide_students.pdf)
 
-Request for reset of ICT-related password, please click [here](https://forms.gle/bbn3nT9ePEY6pdDb8)
+Request for reset of ICT-related password, please click [here](https://go.gov.sg/rgpsict)
