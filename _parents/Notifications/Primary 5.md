@@ -20,4 +20,4 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |29 Dec 2023|[P5 GEP Parent-Teacher Meeting (PTM)](/files/Notification%202024/P5%20GEP/RGPS_P5_GEP_N24_002.pdf)|
-|25 Jan|[GEP Weighted Assessment](/files/Notification%202024/P5%20GEP/RGPS_N24_P5_GEP_009_2024_Primary_5_GEP_Weighted_Assessment_Schedule.pdf)|
+|25 Jan|[P5 GEP Weighted Assessment](/files/Notification%202024/P5%20GEP/RGPS_N24_P5_GEP_009_2024_Primary_5_GEP_Weighted_Assessment_Schedule.pdf)|
