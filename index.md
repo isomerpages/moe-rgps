@@ -18,7 +18,7 @@ sections:
         - title: Calendar of Events
           description: School Events & Activities
           url: /parents/COE/
-        - title: Student icon
+        - title: Student icon/MIMS
           description: ""
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL

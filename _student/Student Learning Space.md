@@ -2,6 +2,7 @@
 title: Student Learning Space
 permalink: /parents/engaging-our-parents/student-learning-space/
 description: ""
+variant: markdown
 ---
 Dear Students,  
   
@@ -13,36 +14,36 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 Videos you can watch to learn more about:  
   
 a. What is SLS?  <br>
-[https://www.youtube.com/watch?time\_continue=80&v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&v=F0FTP2FveSg)  
+[https://www.youtube.com/watch?time\_continue=80&amp;v=F0FTP2FveSg](https://www.youtube.com/watch?time_continue=80&amp;v=F0FTP2FveSg)  
   
 b. What are the resources inside SLS that can support Self-Directed Learning?  
 
-[https://www.youtube.com/watch?v=JZhjECbHmiE&feature=youtu.be](https://www.youtube.com/watch?v=JZhjECbHmiE&feature=youtu.be)
+[https://www.youtube.com/watch?v=JZhjECbHmiE&amp;feature=youtu.be](https://www.youtube.com/watch?v=JZhjECbHmiE&amp;feature=youtu.be)
 
   
 
 **2. How can I access SLS?**
 
-SLS can be accessed from [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
+SLS can be accessed from&nbsp;[https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)  
   
 **3. What are my SLS account login details?**  
 
-Your username is first five letters of your name and last five characters of your ID.  <br>
+Your username is&nbsp;first five letters&nbsp;of your name and&nbsp;last five characters&nbsp;of your ID.  <br>
 Your password had been given to you through your teacher.
 <br>or<br>Use your MIMS or Student iCON username (e.g. tan_weiling@students.edu.sg) and MIMS password.
 
 
 If you have forgotten your password, you could:  
 
-a. Reset via email if you have entered an email address during your first setup. Please check with your parents. If you cannot see the email in your inbox, it may be in the spam or junk email folder; or 
+a. Reset via email if you have entered an email address during your first setup. Please check with your parents. If you cannot see the email in your inbox, it may be in the spam or junk email folder; or&nbsp;
 
-b. Reset via answering security questions; or 
+b. Reset via answering security questions; or&nbsp;
 
-c. Submit a password reset request form [here](https://forms.gle/bbn3nT9ePEY6pdDb8); or 
+c. Submit a password reset request form [here](https://go.gov.sg/rgpsict); or&nbsp;
 
-d. School-based Helpdesk at [sim_kai_lin_carinn@moe.edu.sg](sim_kai_lin_carinn@moe.edu.sg) or 64699513 (Mondays- Fridays: 8:00 a.m. to 4.00 p.m.) 
+d. School-based Helpdesk at [sim_kai_lin_carinn@moe.edu.sg](sim_kai_lin_carinn@moe.edu.sg) or 64699513 (Mondays- Fridays: 8:00 a.m. to 4.00 p.m.)&nbsp;
 
-e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., Saturdays: 9:00 a.m. - 3:00 p.m.) *Closed on Sundays & Public Holidays Call SLS helpdesk at 67026513 or email [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com) (When emailing the SLS helpdesk, please include student full name, name of school and form class.) 
+e. For Non-School operating Hours * (Mondays- Fridays: 4:00 p.m. to 9.00 p.m., Saturdays: 9:00 a.m. - 3:00 p.m.) *Closed on Sundays &amp; Public Holidays Call SLS helpdesk at 67026513 or email [helpdesk@sls.ufinity.com](helpdesk@sls.ufinity.com) (When emailing the SLS helpdesk, please include student full name, name of school and form class.)&nbsp;
 
 f. Approach your subject teachers for help.
 
