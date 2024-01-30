@@ -14,7 +14,8 @@ variant: markdown
 |28 Dec 2023|[P6 Parent-Teacher Meeting (PTM)](/files/Notification%202024/P6/RGPS_N24_P6_001.pdf)|
 |3 Jan|[P6 January Circular](/files/Notification%202024/P6/RGPS_N24_P6_004_P6_January_Circulars.pdf)|
 |4 Jan|[Purchase PSLE Booklet](/files/Notification%202024/P6/RGPS_N24_P6_005_PSLE_Booklet_Order_2024.pdf)
-|17 Jan|[P6 January Circulars (17 Jan)](/files/Notification%202024/P6/RGPS_N24_P6_013_P6_January_Circulars__17_January_.pdf)
+|17 Jan|[P6 January Circulars (17 Jan)](/files/Notification%202024/P6/RGPS_N24_P6_013_P6_January_Circulars__17_January_.pdf)|
+|29 Jan|[P6 Sexuality Education in school](/files/Notification%202024/P6/P6_PG_2024__RGPS_N24_P6_009_.pdf)|
 
 ##### GEP Term 1
 
