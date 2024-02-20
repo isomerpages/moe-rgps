@@ -8,7 +8,8 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mr Ang Ying Hin** |    | <a href="ang_ying_hin@schools.gov.sg">ang_ying_hin@schools.gov.sg</a>     |
+| **Mr Ang Ying Hin** |    | <a href="ang_ying_hin@schools.gov.sg">ang_ying_hin@schools.gov.sg</a>|
+| **Chan Wei Mui Lina**| | <a href="chan_wei_mui_lina@schools.gov.sg">chan_wei_mui_lina@schools.gov.sg</a>|
 
 
 
@@ -32,3 +33,4 @@ variant: markdown
 | **Mdm Anne Michael** |   | <a href="anne_michael@schools.gov.sg">anne_michael@schools.gov.sg</a>     |
 | **Mdm Fetty Irdawaty Osman** |   | <a href="fetty_irdawaty_osman@schools.gov.sg">fetty_irdawaty_Osman@schools.gov.sg</a>     |
 | **Mdm Marianah Mosman** |   | <a href="marianah_mosman_a@schools.gov.sg">marianah_mosman_a@schools.gov.sg</a>     |
+| **Ms Rinna Tan Ai Poh**| |<a href="rinna_tan@schools.gov.sg">rinna_tan@schools.gov.sg</a>     |
