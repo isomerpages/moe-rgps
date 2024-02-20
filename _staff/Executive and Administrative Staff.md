@@ -9,7 +9,7 @@ variant: markdown
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mr Ang Ying Hin** |    | <a href="ang_ying_hin@schools.gov.sg">ang_ying_hin@schools.gov.sg</a>|
-| **Chan Wei Mui Lina**| | <a href="chan_wei_mui_lina@schools.gov.sg">chan_wei_mui_lina@schools.gov.sg</a>|
+| **Mdm Chan Wei Mui Lina**| | <a href="chan_wei_mui_lina@schools.gov.sg">chan_wei_mui_lina@schools.gov.sg</a>|
 
 
 
