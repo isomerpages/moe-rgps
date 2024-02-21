@@ -13,4 +13,6 @@ variant: markdown
 | -------- | -------- |
 |28 Dec 2023|[P3 Online Parent-Teacher Meeting (PTM)](/files/Notification%202024/P3/RGPS_N24_P3_001.pdf)|
 |3 Jan|[P3 January Circular](/files/Notification%202024/P3/RGPS_N24_P3_002_P3_January_Circulars.pdf)|
-|17 Jan|[P3 January Circulars (17 Jan)](/files/Notification%202024/P3/RGPS_N24_P3_006_P3_January_Circulars__17_January_.pdf)
+|17 Jan|[P3 January Circulars (17 Jan)](/files/Notification%202024/P3/RGPS_N24_P3_006_P3_January_Circulars__17_January_.pdf)|
+|7 Feb|[P3 February Circulars](/files/Notification%202024/P3/RGPS_N24_P3_007_P3_February_Circulars.pdf)|
+|7 Feb|[GEP Identification Exercise](/files/Notification%202024/P3/2024_Letter_for_GEP_Identification_Exercise.pdf)|

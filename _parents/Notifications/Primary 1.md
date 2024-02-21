@@ -13,4 +13,5 @@ variant: markdown
 | -------- | -------- |
 |28 Dec 2023|[P1 Online Parent-Teacher Meeting (PTM)](/files/Notification%202024/P1/RGPS_N24_P1_001.pdf)|
 |3 Jan|[P1 January Circular](/files/Notification%202024/P1/RGPS_N24_P1_002_P1_January_Circulars.pdf)|
-|17 Jan|[P1 January Circulars (17 Jan)](/files/Notification%202024/P1/RGPS_N24_P1_004_P1_January_Circulars__17_January_.pdf)
+|17 Jan|[P1 January Circulars (17 Jan)](/files/Notification%202024/P1/RGPS_N24_P1_004_P1_January_Circulars__17_January_.pdf)|
+|7 Feb|[P1 February Circulars](/files/Notification%202024/P1/RGPS_N24_P1_005_P1_February_Circulars.pdf)|
