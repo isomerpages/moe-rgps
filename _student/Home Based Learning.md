@@ -13,7 +13,7 @@ To ensure the continuity of learning, the school will embark on home-based learn
 Refer to the class timetable given by the form teacher.  
   
 You may access SLS [here](https://vle.learning.moe.edu.sg/login) 
-<br>For more information and assistance on SLS, please click [here](https://moe-rgps-staging.netlify.app/parents/engaging-our-parents/student-learning-space).  
+<br>For more information and assistance on SLS, please click [here](/parents/engaging-our-parents/student-learning-space).  
   
 For password reset request, please click [here](https://forms.gle/bbn3nT9ePEY6pdDb8)
 
