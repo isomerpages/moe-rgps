@@ -16,7 +16,8 @@ variant: markdown
 |4 Jan|[Purchase PSLE Booklet](/files/Notification%202024/P6/RGPS_N24_P6_005_PSLE_Booklet_Order_2024.pdf)
 |17 Jan|[P6 January Circulars (17 Jan)](/files/Notification%202024/P6/RGPS_N24_P6_013_P6_January_Circulars__17_January_.pdf)|
 |29 Jan|[P6 Sexuality Education in school](/files/Notification%202024/P6/P6_PG_2024__RGPS_N24_P6_009_.pdf)|
-|7 Feb|[P6 February Circulars](/files/Notification%202024/P6/RGPS_N24_P6_014_P6_February_Circulars.pdf)
+|7 Feb|[P6 February Circulars](/files/Notification%202024/P6/RGPS_N24_P6_014_P6_February_Circulars.pdf)|
+|23 Feb|[Two Days P6 NY Experience @ NYGH](/files/Notification%202024/P6/RGPS_N24_P6_010_NY_Experience.pdf)|
 
 ##### GEP Term 1
 
