@@ -1,0 +1,6 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Alumni.md
+      - Parent Volunteer.md

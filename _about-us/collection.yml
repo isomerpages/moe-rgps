@@ -1,0 +1,12 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - History.md
+      - School Crest.md
+      - School Vision, Mission, Values.md
+      - RGPS Girl.md
+      - School Song.md
+      - 4Cs Song.md
+      - School Award.md
+      - School Rules and Regulations.md

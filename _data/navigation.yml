@@ -1,0 +1,33 @@
+logo: /images/RGPS School Crest (no background).png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programme
+    url: /programme/ALP
+    sublinks:
+      - title: Active Learning Programme
+        url: /programme/ALP/
+      - title: Co-Curricular Activities (CCA)
+        url: /co-curricular-activities
+      - title: Enriching Learning Experience
+        url: /programme/enriching-learning-experience
+      - title: Environmental Education
+        url: /programme/enviroedu
+      - title: Gifted Education Programme
+        url: /programme/gifted-education-programme
+      - title: Learning For Life Programme
+        url: /programme/llp
+      - title: Programme for Active Learning
+        url: /programme/enriching-learning-experience
+  - title: Departments
+    collection: departments
+  - title: Staff
+    collection: staff
+  - title: Student
+    collection: student
+  - title: Parents
+    collection: parents
+  - title: Partners
+    collection: partners
+  - title: Contact Us
+    collection: contact-us

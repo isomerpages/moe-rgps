@@ -1,0 +1,20 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Science.md
+      - Aesthetics.md
+      - Physical Education.md
+      - Gifted Education Programme.md
+      - ICT.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Values in Action.md
+      - CCE/National Education.md
+      - CCE/MOE Sexuality Education.md
+      - CCE/CCE Approach.md
+      - CCE/Cyber Wellness Programme.md
+      - Discipline, Guidance and Student Leadership.md
