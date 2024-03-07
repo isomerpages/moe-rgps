@@ -18,6 +18,7 @@ variant: markdown
 |29 Jan|[P6 Sexuality Education in school](/files/Notification%202024/P6/P6_PG_2024__RGPS_N24_P6_009_.pdf)|
 |7 Feb|[P6 February Circulars](/files/Notification%202024/P6/RGPS_N24_P6_014_P6_February_Circulars.pdf)|
 |23 Feb|[Two Days P6 NY Experience @ NYGH](/files/Notification%202024/P6/RGPS_N24_P6_010_NY_Experience.pdf)|
+|6 Mar|[P6 March Circulars](/files/Notification%202024/P6/P6__March_Circulars.pdf)
 
 ##### GEP Term 1
 
