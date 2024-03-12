@@ -16,6 +16,7 @@ variant: markdown
 |17 Jan|[P4 January Circulars (17 Jan)](/files/Notification%202024/P4/RGPS_N24_P4_005_P4_January_Circulars__17_January_.pdf)
 |7 Feb|[P4 February Circulars](/files/Notification%202024/P4/RGPS_N24_P4_006_P4_February_Circulars.pdf)|
 |6 Mar|[P4 March Circulars](/files/Notification%202024/P4/P4__March_Circulars.pdf)|
+|8 Mar|[P4 PAM Update](/files/Notification%202024/P4/Term_1_P4_PAM_update_2024.pdf)|
 
 ##### GEP Term 1
 
