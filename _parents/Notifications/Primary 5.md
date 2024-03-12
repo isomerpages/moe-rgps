@@ -17,7 +17,8 @@ variant: markdown
 |29 Jan|[P5 VIA Consent](/files/Notification%202024/P5/P5_VIA_Consent_Form__RGPS_N24_P5_006_.pdf)|
 |29 Jan|[P5 MOE Sexuality Education in school](/files/Notification%202024/P5/P5_PG_2024__RGPS_N24_P5_005_.pdf)|
 |7 Feb|[P5 February Circulars](/files/Notification%202024/P5/RGPS_N24_P5_009_P5_February_Circulars.pdf)|
-|6 Mar|[P5 March Circulars](/files/Notification%202024/P5/P5__March_Circulars.pdf)
+|6 Mar|[P5 March Circulars](/files/Notification%202024/P5/P5__March_Circulars.pdf)|
+|8 Mar|[P5 PAM Update](/files/Notification%202024/P5/Term_1_P5_PAM_update_2024.pdf)
 
 ##### GEP Term 1
 
