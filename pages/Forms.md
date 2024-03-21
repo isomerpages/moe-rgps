@@ -138,26 +138,6 @@ time can join the school for an Immersion Programme.
 <br>For such cases, please fill in the <a href="/files/Forms/Immersion%20Form%20for%20application.pdf" rel="noopener noreferrer nofollow" target="_blank">Immersion Programme Application Form</a>.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Partners</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please visit this <a href="https://www.rafflesgirlspri.moe.edu.sg/parents/Engaging-Our-Parents/sch-partners/" rel="noopener noreferrer nofollow" target="_blank">link</a> for
-information on the following school partners, and to make the necessary
-purchases/registrations:
-<br>
-<br>Parent Volunteer Group
-<br>Alumni Association
-<br>Student Care Centre
-<br>School Bus Operator
-<br>School Uniform Supplier
-<br>POSB Smart Buddy Watch
-<br>Health Promotion Board
-<br>School Textbooks Supplier</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Finance Matters</strong></h4>
@@ -206,8 +186,7 @@ Citizens only)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<h4><strong>Partners</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -230,8 +209,8 @@ to support students’ development.
 <br>We encourage all parents/guardian with daughter(s)/wards(s) in the school
 to join the PVG.
 <br>
-<br><a href="/files/Forms/PVG%20P1%20letter.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Letter</a>
-<br><a href="/files/Forms/PVG%20membership%20brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Brochure</a>
+<br><a href="/files/Forms/PVG%20P1%20letter.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Letter</a> 
+<br><a href="/files/Forms/PVG%20membership%20brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Brochure</a> 
 <br>
 <br>Click <a href="https://www.rafflesgirlspri.moe.edu.sg/partners/parent-volunteer/" rel="noopener noreferrer nofollow" target="_blank">here</a> if
 you would like to register for the Phase 2B Parent Volunteer Scheme.</p>
@@ -255,17 +234,17 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Knowledge Park Educare</em></strong>
+<p><strong><em>Knowledge Park Educare</em></strong> 
 <br>
 <br><strong><em>Contact person: Ms Sylvia Lim</em></strong> 
 <br>Tel : 9816 1671 / 9638 6393
-<br>For enquiries, please write to <a href="rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a>
+<br>For enquiries, please write to <a href="rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a> 
 <br>
-<br><strong><em>Opening hours</em></strong>
+<br><strong><em>Opening hours</em></strong> 
 <br>Mon-Fri: 1.30 p.m. to 7.00 p.m.
 <br>
-<br><a href="/files/Forms/SCC%20Cover%20Letter%202023%20RGPS.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a>
-<br><a href="/files/Forms/SCC%20Brochure%202023RGPS%20-%20Final.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure</a>
+<br><a href="/files/Forms/SCC%20Cover%20Letter%202023%20RGPS.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a> 
+<br><a href="/files/Forms/SCC%20Brochure%202023RGPS%20-%20Final.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure</a> 
 <br><a href="/files/Forms/Student%20Care%20Centre%20(SCC)%20-%20Student%20Care%20Centre%20(SCC)%20letter%20for%20enrollment.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Letter for enrollment</a>
 </p>
 </td>
@@ -276,15 +255,15 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Singapore School Transport Association (SSTA)</em></strong>
+<p><strong><em>Singapore School Transport Association (SSTA)</em></strong> 
 <br>
 <br>For further enquiries to register your child for school bus services.
 <br>
-<br><strong><em>Contact Person: Mr Ong Chai Heng</em></strong>
+<br><strong><em>Contact Person: Mr Ong Chai Heng</em></strong> 
 <br>Tel : 6747 7246 / Fax : 6743 8243
-<br>Email: <a href="enquiry@ssta.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@ssta.com.sg</a>
+<br>Email: <a href="enquiry@ssta.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@ssta.com.sg</a> 
 <br>
-<br><a href="/files/Forms/2024%20rgps%20school%20bus%20operator.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Bus Service Info</a>
+<br><a href="/files/Forms/2024%20rgps%20school%20bus%20operator.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Bus Service Info</a> 
 <br><a href="/files/Forms/2024%20request%20for%20school%20bus%20services.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Request for Bus Services</a>
 </p>
 </td>
@@ -295,7 +274,7 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Bibi&amp;Baba Private Limited</em></strong>
+<p><strong><em>Bibi&amp;Baba Private Limited</em></strong> 
 <br>
 <br>545 Orchard Road, #02-28
 <br>Far East Shopping Centre
@@ -303,7 +282,7 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 <br>Tel : 6732 7022
 <br>Fax : 6835 4979
 <br>
-<br><strong><em>Opening hours</em></strong>
+<br><strong><em>Opening hours</em></strong> 
 <br>Mon -Sat: 10.00 a.m. to 7.00 p.m.
 <br>Sun: 10.00 a.m. to 6.00 p.m.
 <br>
@@ -339,7 +318,7 @@ your child's/ward’s medical information and provide consent for immunisation
 and dental services after your child has started school.
 <br>
 <br>Please access the following websites for more information on:
-<br>* Immunisations offered to primary school students - <a href="https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Primary_School" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<br>* Immunisations offered to primary school students - <a href="https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Primary_School" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
 <br>* Screening services offered to primary school students - <a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </td>
@@ -350,18 +329,16 @@ and dental services after your child has started school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Pacific Bookstores Pte Ltd</em></strong>
+<p><strong><em>Pacific Bookstores Pte Ltd</em></strong> 
 <br>
-<br>Website: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<br>Website: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> 
 <br>Tel: 6467 1692
 <br>
-<br><strong><em>Opening hours</em></strong>
+<br><strong><em>Opening hours</em></strong> 
 <br>Mon- Fri: 7.30 a.m. to 3.00 p.m. (during school term)
 <br>
-<br><em>Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.</em>
-<br>
-<br>Please click on the required level to open / download the booklist for
-2024.</p>
+<br><em>Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.</em> 
+</p>
 </td>
 </tr>
 </tbody>
