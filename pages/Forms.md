@@ -69,11 +69,8 @@ are required to register the device with the <a href="/files/Forms/HP%20&amp;%20
 now open. Please read the attached MOE FAS letter for the eligibility criteria
 and application process.
 <br>
-<br>
 <br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a> 
-<br>
 <br><a href="https://form.gov.sg/632432ba67747a0011d4a0cc" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form (Online)</a> 
-<br>
 <br><a href="/files/Forms/FAS%20Application%20Form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
 <br>
 <br>Students who do not meet the criteria for MOE FAS may consider applying
@@ -337,7 +334,7 @@ and dental services after your child has started school.
 <br><strong><em>Opening hours</em></strong> 
 <br>Mon- Fri: 7.30 a.m. to 3.00 p.m. (during school term)
 <br>
-<br><em>Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.</em> 
+<br><em>Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.</em>
 </p>
 </td>
 </tr>
