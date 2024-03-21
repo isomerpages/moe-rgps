@@ -340,4 +340,9 @@ and dental services after your child has started school.
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Transfer/Waitlist for Pupils</strong></h4>
+<p>You may fill in the school's waitlist application <a href="https://go.gov.sg/rgpswaitlist" rel="noopener noreferrer nofollow" target="_blank">here</a>, and we will contact you,
+should a vacancy become available.</p>
+<p>Please note that the application for the wait list is on a year to year
+basis and you will need to submit another one for the next academic year
+(2024) if your application for 2023 is unsuccessful.</p>
