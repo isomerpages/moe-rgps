@@ -70,12 +70,8 @@ are required to register the device with the <a href="/files/Forms/HP%20&amp;%20
 now open. Please read the attached MOE FAS letter for the eligibility criteria
 and application process.
 <br>
-<br>
-<br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a>
-<br>
-<br><a href="https://form.gov.sg/632432ba67747a0011d4a0cc" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form (Online)</a>
-<br>
-<br><a href="/files/Forms/FAS%20Application%20Form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a>
+<br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a> 
+<br><a href="/files/Forms/FAS%20Application%20Form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
 <br>
 <br>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
