@@ -93,7 +93,64 @@ variant: tiptap
 <h3>Forms</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/rgpswaitlist" rel="noopener noreferrer nofollow" target="_blank">Transfer/Waitlist for Pupils</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Forms/Immersion Form for application.pdf" rel="noopener noreferrer nofollow" target="_blank">Immersion Programme</a>
+</p>
+</li>
+<li>
+<p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Student Insurance Claim</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Forms/FAS Application Form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Finance Assistance</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/rgps-car-decal" rel="noopener noreferrer nofollow" target="_blank">RGPS Drive-through Car Decal</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.transitlink.com.sg/lost-card-replacement/" rel="noopener noreferrer nofollow" target="_blank">Lost Concession Card</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">GIRO</a>
+</p>
+</li>
+<li>
+<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order</a>
+</p>
+</li>
+<li>
+<p><a href="https://store.rgpspvg.org/products/PVG-Membership-Signup-c121804001" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Signup</a>
+</p>
+</li>
+<li>
+<p><a href="https://member.rgpsalumni.org.sg/rgpsaa/registration/intro" rel="noopener noreferrer nofollow" target="_blank">Alumni Association (AA)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Forms/Student Care Centre (SCC) - Student Care Centre (SCC) letter for enrollment.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Care Center</a>
+</p>
+</li>
+<li>
+<p><a href="/files/form b - request for school bus services (version june 2023).pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS School Bus</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel="noopener noreferrer nofollow" target="_blank">School Uniform and Name Tag</a>
+</p>
+</li>
+<li>
+<p><a href="http://www.posb.com.sg/sb-schools" rel="noopener noreferrer nofollow" target="_blank">POSB Smart Buddy</a>
+</p>
 </li>
 </ul>
 <p></p>
