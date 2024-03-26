@@ -23,4 +23,4 @@ variant: markdown
 |**Primary 3**|[Primary-3](/files/2024%20Booklist/P3.pdf)|||
 |**Primary 4**|[Primary-4](/files/2024%20Booklist/P4.pdf)|[Primary-4 GEP](/files/2024%20Booklist/P4_GEP.pdf)| |
 |**Primary 5**|[Primary-5](/files/2024%20Booklist/P5.pdf)|[Primary-5 GEP](/files/2024%20Booklist/P5_GEP.pdf)|[Primary-5 Foundation](/files/2024%20Booklist/P5_FDN.pdf)|
-|**Priamry 6**|[Primary-6](/files/2024%20Booklist/P6.pdf)|[Primary-6 GEP](/files/2024%20Booklist/P6_GEP.pdf)|[Primary-6 Foundation](/files/2024%20Booklist/P6_FDN.pdf)|
+|**Primary 6**|[Primary-6](/files/2024%20Booklist/P6.pdf)|[Primary-6 GEP](/files/2024%20Booklist/P6_GEP.pdf)|[Primary-6 Foundation](/files/2024%20Booklist/P6_FDN.pdf)|
