@@ -18,7 +18,13 @@ variant: markdown
 |29 Jan|[P5 MOE Sexuality Education in school](/files/Notification%202024/P5/P5_PG_2024__RGPS_N24_P5_005_.pdf)|
 |7 Feb|[P5 February Circulars](/files/Notification%202024/P5/RGPS_N24_P5_009_P5_February_Circulars.pdf)|
 |6 Mar|[P5 March Circulars](/files/Notification%202024/P5/P5__March_Circulars.pdf)|
-|8 Mar|[P5 PAM Update](/files/Notification%202024/P5/Term_1_P5_PAM_update_2024.pdf)
+|8 Mar|[P5 PAM Update](/files/Notification%202024/P5/Term_1_P5_PAM_update_2024.pdf)|
+
+##### Term 2
+
+| Date| File | 
+| -------- | -------- |
+|4 Apr|[P5 April Circular](/files/Notification%202024/P5/RGPS_N24_P5_019_P5_April_Circulars_Final.pdf)
 
 ##### GEP Term 1
 
