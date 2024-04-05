@@ -21,6 +21,12 @@ variant: markdown
 |6 Mar|[P6 March Circulars](/files/Notification%202024/P6/P6__March_Circulars.pdf)|
 |8 Mar|[P6 PAM Update](/files/Notification%202024/P6/Term_1_P6__PAM_update_2024.pdf)|
 
+##### Term 2
+
+| Date| File | 
+| -------- | -------- |
+|4 Apr|[P6 April Circular](/files/Notification%202024/P6/RGPS_N24_P6_017_P6_April_Circulars_Final.pdf)
+
 ##### GEP Term 1
 
 | Date| File | 
