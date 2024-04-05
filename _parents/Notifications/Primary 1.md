@@ -16,4 +16,10 @@ variant: markdown
 |17 Jan|[P1 January Circulars (17 Jan)](/files/Notification%202024/P1/RGPS_N24_P1_004_P1_January_Circulars__17_January_.pdf)|
 |7 Feb|[P1 February Circulars](/files/Notification%202024/P1/RGPS_N24_P1_005_P1_February_Circulars.pdf)|
 |6 Mar|[P1 March Circulars](/files/Notification%202024/P1/P1__March_Circulars.pdf)|
-|8 Mar|[P1 PAM Update](/files/Notification%202024/P1/Term_1_P1_PAM_Update_2024.pdf)
+|8 Mar|[P1 PAM Update](/files/Notification%202024/P1/Term_1_P1_PAM_Update_2024.pdf)|
+
+##### Term 2
+
+| Date| File | 
+| -------- | -------- |
+|4 Apr|[P1 April Circular](/files/Notification%202024/P1/RGPS_N24_P1_009_P1_April_Circulars_Final.pdf)|
