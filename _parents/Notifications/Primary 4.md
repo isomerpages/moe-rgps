@@ -23,6 +23,7 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |19 Mar|[P4 Museum Based Learning Journey 2024](/files/Notification%202024/P4/P4_Museum_Based_Learning_Journey_2024.pdf)|
+|4 Apr|[P4 April Circular](/files/Notification%202024/P4/RGPS_N24_P4_014_P4_April_Circulars_Final.pdf)
 
 ##### GEP Term 1
 
