@@ -35,6 +35,6 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /about-us/65th-anniversary/
-      image: /images/Badge.jpg
+      image: /images/Badge_nobg.png
       alt: Image alt text
 ---
