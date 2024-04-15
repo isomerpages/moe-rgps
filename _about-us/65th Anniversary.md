@@ -27,6 +27,6 @@ Through Soundscapes, a celebratory showcase of the talents of our school’s
 performing arts groups. We would like to invite you to be part of this
 happy occasion.</p>
 <p></p>
-<p></p>
-<p></p>
+<p>You may find more information on Fantasia 2024 and purchase the tickets
+<a href="https://www.eventbrite.com/e/rgps-fantasia-2024-tickets-868077502177?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
