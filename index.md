@@ -29,4 +29,12 @@ sections:
       id: infobar
       button: Click Here
       url: parents/briefing-slides/pri1/
+  - infopic:
+      title: 65th Anniversary
+      subtitle: Celebrating our
+      id: infopic
+      button: Click here to find out more
+      url: /about-us/65th-anniversary/
+      image: /images/Badge.jpg
+      alt: Image alt text
 ---
