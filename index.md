@@ -35,6 +35,6 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /about-us/65th-anniversary/
-      image: /images/Logo_Final_high_res_xsmall.png
+      image: /images/Logo_Small_and_high_res_xsmall.png
       alt: Image alt text
 ---
