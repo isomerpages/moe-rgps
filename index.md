@@ -31,7 +31,7 @@ sections:
       url: parents/briefing-slides/pri1/
   - infopic:
       title: 65th Anniversary
-      subtitle: Celebrating our
+      subtitle: We are Celebrating our
       id: infopic
       button: Click here to find out more
       url: /about-us/65th-anniversary/
