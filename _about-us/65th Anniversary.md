@@ -8,9 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_16April.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
 <p>This year marks a significant milestone for Raffles Girls’ Primary School.
 We are delighted to share that RGPS is celebrating 65 years as a primary
 school. Our theme for this joyous occasion is “Glowing Memories, Growing
