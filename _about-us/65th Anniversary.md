@@ -6,6 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_16April.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
 </div>
 <p>This year marks a significant milestone for Raffles Girls’ Primary School.
