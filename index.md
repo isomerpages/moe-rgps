@@ -23,12 +23,6 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
-  - infobar:
-      title: Briefing Slides
-      subtitle: "2024"
-      id: infobar
-      button: Click Here
-      url: parents/briefing-slides/pri1/
   - infopic:
       title: 65th Anniversary
       subtitle: We are Celebrating our
@@ -37,4 +31,10 @@ sections:
       url: /about-us/65th-anniversary/
       image: /images/xtra_small_Logo_Final_high_res.png
       alt: Image alt text
+  - infobar:
+      title: Briefing Slides
+      subtitle: "2024"
+      id: infobar
+      button: Click Here
+      url: parents/briefing-slides/pri1/
 ---
