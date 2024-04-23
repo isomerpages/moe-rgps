@@ -25,7 +25,8 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
-|4 Apr|[P6 April Circular](/files/Notification%202024/P6/RGPS_N24_P6_017_P6_April_Circulars_Final.pdf)
+|4 Apr|[P6 April Circular](/files/Notification%202024/P6/RGPS_N24_P6_017_P6_April_Circulars_Final.pdf)|
+|23 Apr|[2024 Direct School Admission for Secondary Schools (DSA-Sec)](/files/Notification%202024/P6/DSA.pdf)
 
 ##### GEP Term 1
 
