@@ -98,6 +98,15 @@ third_nav_title: Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2024/P5/Parents_Briefing_RGPS_P5_2024_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing RGPS P5 Camp</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
