@@ -29,7 +29,7 @@ sections:
       id: infopic
       button: Click here to find out more
       url: /about-us/65th-anniversary/
-      image: /images/xtra_small_Logo_Final_high_res.png
+      image: /images/logo_17_April.png
       alt: Image alt text
   - infobar:
       title: Briefing Slides
