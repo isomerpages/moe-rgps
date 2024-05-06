@@ -24,3 +24,4 @@ variant: markdown
 | -------- | -------- |-------- |
 |18 Mar| P1-P6|[Invitation to sign up for GIRO](/files/Notification%202024/P1%20to%206/Invitation_to_Sign_Up_for_GIRO.pdf)|
 |18 Mar| P1-P6|[Post Visit - Annual school health visit](/files/Notification%202024/P1%20to%206/Post_Visit_PG_Message_for_P1_P6_Parents___Raffles_Girls__Pri.pdf)|
+|2 May|P1-P6|[P1-P6_RGPS Alumni Association Holiday Programme](/files/Notification%202024/P1%20to%206/P1_P6_RGPS_Alumni_Association_Holiday_Programme_compressed.pdf)
