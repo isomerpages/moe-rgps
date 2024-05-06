@@ -26,7 +26,9 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |4 Apr|[P6 April Circular](/files/Notification%202024/P6/RGPS_N24_P6_017_P6_April_Circulars_Final.pdf)|
-|23 Apr|[2024 Direct School Admission for Secondary Schools (DSA-Sec)](/files/Notification%202024/P6/DSA.pdf)
+|23 Apr|[2024 Direct School Admission for Secondary Schools (DSA-Sec)](/files/Notification%202024/P6/DSA.pdf)|
+|2 May|[P6 May Circular](/files/Notification%202024/P6/RGPS_N24_P6_021_May_Circulars.pdf)|
+|2 May|[P5 & 6 Parenting Talk - Gear up for PSLE Triple P](/files/Notification%202024/P6/P5_P6_Parenting_Talk___Gear_Up_for_PSLE_Triple_P_Flyer.pdf)
 
 ##### GEP Term 1
 
