@@ -2,6 +2,7 @@
 title: Co Curricular Activities (CCA)
 permalink: /co-curricular-activities/
 description: ""
+variant: markdown
 ---
 RGPS offers a suite of CCA that reinforces the school values – Creativity, Graciousness, Gratitude, Integrity, Responsibility and Resilience. The CCAs provide a broad-based programmes as well as opportunities for the talented students to pursue and develop in the area of their interest through the Recreational CCAs and School Teams.
 
@@ -9,7 +10,7 @@ RGPS offers a suite of CCA that reinforces the school values – Creativity, Gr
 
 Goals of CCA are to :      
 
-1.  Provide students  holistic development and enrich their school experiences
+1.  Provide students holistic development and enrich their school experiences
 2.  Cater to different needs, interests and talents of the students    
 3.  Inculcate a well spread of skills and values
 4.  Provide a platform for social interaction
@@ -40,7 +41,7 @@ CCAs  are conducted from Mondays to Thursdays for P3 to P6 pupils. Please refer
 
 | Clubs | Performing Arts | Sports & Games | Uniformed Group 
 | -------- | -------- | -------- | -------- | 
-| Art Club | Choir | Badmintion | Brownies|
+| Art Club | Choir | Badminton | Brownies|
 | Enviro-Life Science Club | Concert Band | Basketball | Girls Brigade |
 | International Chess Club | Dance | Rhythmic Gymnastics |
 | Library Club | Drama | Softball | |
