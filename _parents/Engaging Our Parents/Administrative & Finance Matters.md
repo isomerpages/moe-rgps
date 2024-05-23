@@ -9,7 +9,11 @@ variant: tiptap
 <p>Below is a list of administrative application forms that may be required.
 Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
 completed hardcopy forms to the school.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -66,12 +70,13 @@ are required to register the device with the <a href="/files/Forms/HP%20&amp;%20
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2023 is
+<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2024 is
 now open. Please read the attached MOE FAS letter for the eligibility criteria
 and application process.
 <br>
-<br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a> 
-<br><a href="/files/Forms/FAS%20Application%20Form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
+<br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a>
+</p>
+<p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
 <br>
 <br>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
@@ -159,7 +164,11 @@ purchases/registrations:
 </tbody>
 </table>
 <h4><strong>Finance Matters</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
