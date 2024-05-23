@@ -7,7 +7,11 @@ third_nav_title: Briefing Slides
 ---
 <h3><strong>2024</strong></h3>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -104,6 +108,15 @@ third_nav_title: Briefing Slides
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Briefing Slides 2024/P5/Parents_Briefing_RGPS_P5_2024_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing RGPS P5 Camp</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2024/P5/p5 briefing on dsa 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Briefing on DSA 2024</a>
 </p>
 </td>
 </tr>
