@@ -9,7 +9,11 @@ variant: tiptap
 <p>Below is a list of administrative application forms that may be required.
 Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
 completed hardcopy forms to the school.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -66,7 +70,7 @@ are required to register the device with the <a href="/files/Forms/HP%20&amp;%20
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2023 is
+<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2024 is
 now open. Please read the attached MOE FAS letter for the eligibility criteria
 and application process.
 <br>
@@ -159,7 +163,11 @@ purchases/registrations:
 </tbody>
 </table>
 <h4><strong>Finance Matters</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
