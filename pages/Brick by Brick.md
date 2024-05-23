@@ -19,8 +19,13 @@ alumni, students and faculty.</p>
 <p>Whether you are an RGPS girl, a proud alumna, a dedicated parent or a
 passionate educator, we hope you can be part of this meaningful commemoration
 and support us by ordering your set today!</p>
-<p><a href="https://take.app/rgpsalumni" rel="noopener noreferrer nofollow" target="_blank">https://take.app/rgpsalumni</a> 
+<p><a href="https://take.app/rgpsalumni" rel="noopener noreferrer nofollow" target="_blank">https://take.app/rgpsalumni</a>
 </p>
 <p>Thank you in advance.</p>
 <p>Sincerely,</p>
-<p>RGPS Alumni Associatio</p>
+<p>RGPS Alumni Association</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RGPS_AA_LEGO.png">
+</div>
+<p></p>
