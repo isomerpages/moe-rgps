@@ -31,6 +31,11 @@ sections:
       url: /about-us/65th-anniversary/
       image: /images/logo_17_April.png
       alt: Image alt text
+      description: >-
+        "Brick by Brick, Memories Stick": RGPS 65th Anniversary exclusive set
+        made with
+
+        LEGO®️ bricks by the RGPS Alumni Association
   - infobar:
       title: Briefing Slides
       subtitle: "2024"
