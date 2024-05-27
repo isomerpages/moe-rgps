@@ -18,7 +18,7 @@ variant: markdown
 |29 Jan|[P5 MOE Sexuality Education in school](/files/Notification%202024/P5/P5_PG_2024__RGPS_N24_P5_005_.pdf)|
 |7 Feb|[P5 February Circulars](/files/Notification%202024/P5/RGPS_N24_P5_009_P5_February_Circulars.pdf)|
 |6 Mar|[P5 March Circulars](/files/Notification%202024/P5/P5__March_Circulars.pdf)|
-|8 Mar|[P5 PAM Update](/files/Notification%202024/P5/Term_1_P5_PAM_update_2024.pdf)|
+|8 Mar|[P5 PAM Term 1 Update](/files/Notification%202024/P5/Term_1_P5_PAM_update_2024.pdf)|
 
 ##### Term 2
 
@@ -26,7 +26,8 @@ variant: markdown
 | -------- | -------- |
 |4 Apr|[P5 April Circular](/files/Notification%202024/P5/RGPS_N24_P5_019_P5_April_Circulars_Final.pdf)|
 |2 May|[P5 May Circular](/files/Notification%202024/P5/RGPS_N24_P6_021_May_Circulars.pdf)|
-|2 May|[P5 & 6 Parenting Talk - Gear up for PSLE Triple P](/files/Notification%202024/P6/P5_P6_Parenting_Talk___Gear_Up_for_PSLE_Triple_P_Flyer.pdf)
+|2 May|[P5 & 6 Parenting Talk - Gear up for PSLE Triple P](/files/Notification%202024/P6/P5_P6_Parenting_Talk___Gear_Up_for_PSLE_Triple_P_Flyer.pdf)|
+|24 May|[P5 PAM Term 2 Update](/files/Notification%202024/P5/Term_2_2024_P5_PAM_Termly_Update.pdf)|
 
 ##### GEP Term 1
 
