@@ -19,7 +19,7 @@ variant: markdown
 |7 Feb|[P6 February Circulars](/files/Notification%202024/P6/RGPS_N24_P6_014_P6_February_Circulars.pdf)|
 |23 Feb|[Two Days P6 NY Experience @ NYGH](/files/Notification%202024/P6/RGPS_N24_P6_010_NY_Experience.pdf)|
 |6 Mar|[P6 March Circulars](/files/Notification%202024/P6/P6__March_Circulars.pdf)|
-|8 Mar|[P6 PAM Update](/files/Notification%202024/P6/Term_1_P6__PAM_update_2024.pdf)|
+|8 Mar|[P6 PAM Term 1 Update](/files/Notification%202024/P6/Term_1_P6__PAM_update_2024.pdf)|
 
 ##### Term 2
 
@@ -28,7 +28,8 @@ variant: markdown
 |4 Apr|[P6 April Circular](/files/Notification%202024/P6/RGPS_N24_P6_017_P6_April_Circulars_Final.pdf)|
 |23 Apr|[2024 Direct School Admission for Secondary Schools (DSA-Sec)](/files/Notification%202024/P6/DSA.pdf)|
 |2 May|[P6 May Circular](/files/Notification%202024/P6/RGPS_N24_P6_021_May_Circulars.pdf)|
-|2 May|[P5 & 6 Parenting Talk - Gear up for PSLE Triple P](/files/Notification%202024/P6/P5_P6_Parenting_Talk___Gear_Up_for_PSLE_Triple_P_Flyer.pdf)
+|2 May|[P5 & 6 Parenting Talk - Gear up for PSLE Triple P](/files/Notification%202024/P6/P5_P6_Parenting_Talk___Gear_Up_for_PSLE_Triple_P_Flyer.pdf)|
+|24 May|[P6 PAM Term 2 Update](/files/Notification%202024/P6/Term_2_2024_P6_PAM_Termly_Update.pdf)
 
 ##### GEP Term 1
 
