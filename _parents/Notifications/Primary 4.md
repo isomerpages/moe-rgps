@@ -25,6 +25,7 @@ variant: markdown
 |19 Mar|[P4 Museum Based Learning Journey 2024](/files/Notification%202024/P4/P4_Museum_Based_Learning_Journey_2024.pdf)|
 |4 Apr|[P4 April Circular](/files/Notification%202024/P4/RGPS_N24_P4_014_P4_April_Circulars_Final.pdf)|
 |2 May|[P4 May Circular](/files/Notification%202024/P4/RGPS_N24_P4_016_May_Circulars.pdf)|
+|24 May|[P4 PAM Term 2 Update](/files/Notification%202024/P4/Term_2_2024_P4_PAM_Termly_Update.pdf)|
 
 ##### GEP Term 1
 
