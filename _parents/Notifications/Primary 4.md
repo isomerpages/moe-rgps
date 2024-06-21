@@ -16,7 +16,7 @@ variant: markdown
 |17 Jan|[P4 January Circulars (17 Jan)](/files/Notification%202024/P4/RGPS_N24_P4_005_P4_January_Circulars__17_January_.pdf)
 |7 Feb|[P4 February Circular](/files/Notification%202024/P4/RGPS_N24_P4_006_P4_February_Circulars.pdf)|
 |6 Mar|[P4 March Circular](/files/Notification%202024/P4/P4__March_Circulars.pdf)|
-|8 Mar|[P4 PAM Update](/files/Notification%202024/P4/Term_1_P4_PAM_update_2024.pdf)|
+|8 Mar|[P4 PAM Term 1 Update](/files/Notification%202024/P4/Term_1_P4_PAM_update_2024.pdf)|
 
 ##### Term 2
 
@@ -25,6 +25,7 @@ variant: markdown
 |19 Mar|[P4 Museum Based Learning Journey 2024](/files/Notification%202024/P4/P4_Museum_Based_Learning_Journey_2024.pdf)|
 |4 Apr|[P4 April Circular](/files/Notification%202024/P4/RGPS_N24_P4_014_P4_April_Circulars_Final.pdf)|
 |2 May|[P4 May Circular](/files/Notification%202024/P4/RGPS_N24_P4_016_May_Circulars.pdf)|
+|24 May|[P4 PAM Term 2 Update](/files/Notification%202024/P4/Term_2_2024_P4_PAM_Termly_Update.pdf)|
 
 ##### GEP Term 1
 

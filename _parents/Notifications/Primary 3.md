@@ -17,11 +17,12 @@ variant: markdown
 |7 Feb|[P3 February Circular](/files/Notification%202024/P3/RGPS_N24_P3_007_P3_February_Circulars.pdf)|
 |7 Feb|[GEP Identification Exercise](/files/Notification%202024/P3/2024_Letter_for_GEP_Identification_Exercise.pdf)|
 |6 Mar|[P3 March Circular](/files/Notification%202024/P3/P3__March_Circulars.pdf)|
-|8 Mar|[P3 PAM Update](/files/Notification%202024/P3/Term_1_P3_PAM_Update_2024.pdf)|
+|8 Mar|[P3 PAM Term 1 Update](/files/Notification%202024/P3/Term_1_P3_PAM_Update_2024.pdf)|
 
 ##### Term 2
 
 | Date| File | 
 | -------- | -------- |
 |4 Apr|[P3 April Circular](/files/Notification%202024/P3/RGPS_N24_P3_014_P3_April_Circulars_Final.pdf)|
-|2 May|[P3 May Circular](/files/Notification%202024/P3/RGPS_N24_P3_017_May_Circulars.pdf)
+|2 May|[P3 May Circular](/files/Notification%202024/P3/RGPS_N24_P3_017_May_Circulars.pdf)|
+|24 May|[P3 PAM Term 2 Update](/files/Notification%202024/P3/Term_2_2024_P3_PAM_Termly_Update.pdf)|
