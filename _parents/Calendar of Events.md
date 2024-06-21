@@ -6,5 +6,5 @@ variant: markdown
 ---
 ### **2024**
 
-![](/images/COE%202024/T1.png)
-![](/images/COE%202024/T2.png)
+![](/images/COE%202024/T3_2024.jpg)
+![](/images/COE%202024/T4_2024.jpg)
