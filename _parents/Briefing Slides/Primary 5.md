@@ -116,7 +116,7 @@ third_nav_title: Briefing Slides
 <p>23 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/p5 briefing on dsa 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Briefing on DSA 2024</a>
+<p><a href="/files/Briefing Slides 2024/P5/P5_briefing_on_DSA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Briefing on DSA 2024</a>
 </p>
 </td>
 </tr>
