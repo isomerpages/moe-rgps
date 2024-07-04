@@ -25,3 +25,9 @@ variant: markdown
 |4 Apr|[P1 April Circular](/files/Notification%202024/P1/RGPS_N24_P1_009_P1_April_Circulars_Final.pdf)|
 |2 May|[P1 May Circular](/files/Notification%202024/P1/RGPS_N24_P1_010_May_Circulars.pdf)|
 |24 May|[P1 PAM Term 2 Update](/files/Notification%202024/P1/Term_2_2024_P1_PAM_Termly_Update.pdf)|
+
+##### Term 3
+
+| Date| File | 
+| -------- | -------- |
+|3 Jul|[P1 July Circular](/files/Notification%202024/P1/RGPS_N24_P1_012_P1_July_Circulars.pdf)|
