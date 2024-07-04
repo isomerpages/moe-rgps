@@ -29,6 +29,12 @@ variant: markdown
 |2 May|[P5 & 6 Parenting Talk - Gear up for PSLE Triple P](/files/Notification%202024/P6/P5_P6_Parenting_Talk___Gear_Up_for_PSLE_Triple_P_Flyer.pdf)|
 |24 May|[P5 PAM Term 2 Update](/files/Notification%202024/P5/Term_2_2024_P5_PAM_Termly_Update.pdf)|
 
+##### Term 3
+
+| Date| File | 
+| -------- | -------- |
+|3 Jul|[P5 July Circular](/files/Notification%202024/P5/RGPS_N24_P5_026_P5_July_Circulars.pdf)|
+
 ##### GEP Term 1
 
 | Date| File | 
