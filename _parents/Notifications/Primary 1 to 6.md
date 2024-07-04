@@ -27,3 +27,10 @@ variant: markdown
 |2 May|P1-P6|[P1-P6_RGPS Alumni Association Holiday Programme](/files/Notification%202024/P1%20to%206/P1_P6_RGPS_Alumni_Association_Holiday_Programme_compressed.pdf)|
 |24 May|P1-6|[Instrumental Recital 2024](/files/Notification%202024/P1%20to%206/Instrumental_Recital_2024_PG.pdf)|
 |24 May|P1-6|[Term 2 Health Newsletter](/files/Notification%202024/P1%20to%206/2024_Term_2_Health_Newsletter_.pdf)|
+
+##### Term 3
+
+| Date| Level|File | 
+| -------- | -------- |-------- |
+|3 Jul|P1-6|[World Drug Day](/files/Notification%202024/P1%20to%206/World_Drug_Day_Message_for_Parents_on_26_June_2024.pdf)|
+|3 Jul|P1-6|[RGPS Traffic Advisory for new school term](/files/Notification%202024/P1%20to%206/LTA_RGPS_Traffic_Advisory_for_new_school_term__Starting_on__24_Jun_2024_.pdf)|
