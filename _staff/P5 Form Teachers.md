@@ -76,6 +76,11 @@ variant: markdown
         <td>5E</td>
         <td>ang_qin_ying_cindy@schools.gov.sg</td>
     </tr>
+						<tr>
+        <td>Mdm Aishah</td>
+        <td>5E</td>
+        <td>aishah_aris@schools.gov.sg</td>
+    </tr>
  <tr>
         <td>Ms S Thivyaa</td>
         <td>5F</td>
@@ -85,6 +90,11 @@ variant: markdown
         <td>Ms Lee Mei</td>
         <td>5F</td>
         <td>lee_mei@schools.gov.sg</td>
+    </tr>
+			<tr>
+        <td>Mdm Chua Lay Kwan</td>
+        <td>5F</td>
+        <td>chua_lay_kwan@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Pek Xueyan</td>
@@ -122,8 +132,8 @@ variant: markdown
         <td>gao_jingru@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Mdm Chua Lay Kwan</td>
+        <td>Mr Gerald Ang</td>
         <td>5I</td>
-        <td>chua_lay_kwan@schools.gov.sg</td>
+        <td>ang_eu_jin_gerald_a@schools.gov.sg</td>
     </tr>
 </tbody></table>

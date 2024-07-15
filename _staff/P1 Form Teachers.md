@@ -41,6 +41,11 @@ variant: markdown
         <td>1C</td>
         <td>foo_hwa_ming@schools.gov.sg</td>
     </tr>
+			 <tr>
+        <td>Ms Chin Xin Yu</td>
+        <td>1C</td>
+        <td>chin_xin_yu_a@schools.gov.sg</td>
+    </tr>
 <tr>
         <td>Ms Elicia Lim</td>
         <td>1D</td>
@@ -103,5 +108,3 @@ variant: markdown
         <td>lui_keet_mun@schools.gov.sg</td>
     </tr>
 </tbody></table>
-
-

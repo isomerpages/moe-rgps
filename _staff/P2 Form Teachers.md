@@ -21,6 +21,11 @@ variant: markdown
         <td>2A</td>
         <td>ker_lay_peng@schools.gov.sg</td>
     </tr>
+			 <tr>
+        <td>Ms Nasyitah</td>
+        <td>2A</td>
+        <td>nasyitah_razali@schools.gov.sg</td>
+    </tr>
 <tr>
         <td>Ms Elaine Mok</td>
         <td>2B</td>
@@ -60,6 +65,11 @@ variant: markdown
         <td>Ms Chong Suh in</td>
         <td>2E</td>
         <td>chong_suh_in@schools.gov.sg</td>
+    </tr>
+			<tr>
+        <td>Ms Nuha Zakirah</td>
+        <td>2E</td>
+        <td>nuha_zakirah_asrin@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mr Ulysses Wong</td>
