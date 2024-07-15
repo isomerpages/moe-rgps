@@ -66,6 +66,11 @@ variant: markdown
         <td>2E</td>
         <td>chong_suh_in@schools.gov.sg</td>
     </tr>
+			<tr>
+        <td>Ms Nuha Zakirah</td>
+        <td>2E</td>
+        <td>nuha_zakirah_asrin@schools.gov.sg</td>
+    </tr>
     <tr>
         <td>Mr Ulysses Wong</td>
         <td>2F</td>
