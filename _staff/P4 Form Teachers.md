@@ -62,9 +62,9 @@ variant: markdown
         <td>ho_shwu_huey@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Mdm Chen Ying</td>
+        <td>Mdm Toh Dea Beng</td>
         <td>4E</td>
-        <td>chen_ying_a@schools.gov.sg</td>
+        <td>toh_dea_beng@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mdm Sashikala</td>
@@ -102,13 +102,13 @@ variant: markdown
         <td>tan_hwee_hoon_a@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Ms Tam Xin Yi</td>
-        <td>4I</td>
-        <td>tam_xin_yi_b@schools.gov.sg</td>
-    </tr>
-<tr>
         <td>Ms Shaheda Salim</td>
         <td>4I</td>
         <td>shaheda_salim@schools.gov.sg</td>
+    </tr>
+			<tr>
+        <td>Mdm Tan Ah Suan Jean</td>
+        <td>4I</td>
+        <td>tan_ah_suan_a@schools.gov.sg</td>
     </tr>
 </tbody></table>
