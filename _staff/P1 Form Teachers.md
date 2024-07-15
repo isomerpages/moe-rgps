@@ -44,7 +44,7 @@ variant: markdown
 			 <tr>
         <td>Ms Chin Xin Yu</td>
         <td>1C</td>
-        <td>chin_xin_yu@schools.gov.sg</td>
+        <td>chin_xin_yu_a@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Elicia Lim</td>
