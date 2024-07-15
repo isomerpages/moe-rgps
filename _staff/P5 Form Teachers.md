@@ -66,11 +66,6 @@ variant: markdown
         <td>5D</td>
         <td>muhammad_fairuz_mohamed_andy@schools.gov.sg</td>
     </tr>
-			<tr>
-        <td>Mdm Aishah</td>
-        <td>5E</td>
-        <td>aishah_aris@schools.gov.sg</td>
-    </tr>
 <tr>
         <td>Mdm Kandoth Shaheena</td>
         <td>5E</td>
@@ -80,6 +75,11 @@ variant: markdown
         <td>Ms Ang Qin Ying Cindy</td>
         <td>5E</td>
         <td>ang_qin_ying_cindy@schools.gov.sg</td>
+    </tr>
+						<tr>
+        <td>Mdm Aishah</td>
+        <td>5E</td>
+        <td>aishah_aris@schools.gov.sg</td>
     </tr>
  <tr>
         <td>Ms S Thivyaa</td>
