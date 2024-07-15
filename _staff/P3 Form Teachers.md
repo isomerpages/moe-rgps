@@ -12,9 +12,9 @@ variant: markdown
         <th style="width:50%">Email</th>
     </tr>
    <tr>
-        <td>Mrs Geraldine Mun</td>
+        <td>Ms Ho Win Nie</td>
         <td>3A</td>
-        <td>geraldine_jane_buster_a@schools.gov.sg</td>
+        <td>ho_win_nie@schools.gov.sg</td>
     </tr>
    <tr>
         <td>Ms Eng Lik Boon</td>
@@ -52,9 +52,9 @@ variant: markdown
         <td>goh_hui_may_luwena@schools.gov.sg</td>
     </tr>
  <tr>
-        <td>Ms Lee Suan Khim</td>
+        <td>Ms Khoo Kim Kim</td>
         <td>3D</td>
-        <td>lee_suan_khim@schools.gov.sg</td>
+        <td>khoo_kim_kim_a@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Li Yixian</td>
@@ -87,5 +87,3 @@ variant: markdown
         <td>khoo_wai_ling@schools.gov.sg</td>
     </tr>
 </tbody></table>
-
- 
