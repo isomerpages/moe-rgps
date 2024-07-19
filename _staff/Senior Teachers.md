@@ -15,8 +15,8 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Mrs Heng Meng Tee (Chines Language)**    |     | <a href="heng_meng_tee@schools.gov.sg">heng_meng_tee@schools.gov.sg</a>     |
-| **Mdm Foo Hwa Ming (Chines Language)**    |     | <a href="foo_hwa_ming@schools.gov.sg">foo_hwa_ming@schools.gov.sg</a>     |
+| **Mrs Heng Meng Tee (Chinese Language)**    |     | <a href="heng_meng_tee@schools.gov.sg">heng_meng_tee@schools.gov.sg</a>     |
+| **Mdm Foo Hwa Ming (Chinese Language)**    |     | <a href="foo_hwa_ming@schools.gov.sg">foo_hwa_ming@schools.gov.sg</a>     |
 | **Ms Shaheda Salim (Malay Language)**    |     | <a href="shaheda_salim@schools.gov.sg">shaheda_salim@schools.gov.sg</a>     |
 
 ### Math
