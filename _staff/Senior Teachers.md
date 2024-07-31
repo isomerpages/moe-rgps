@@ -56,12 +56,6 @@ variant: markdown
 | -------- | -------- | -------- |
 | **Mdm Ee Bee Yian**    |     | <a href="ee_bee_yian@schools.gov.sg">ee_bee_yian@schools.gov.sg</a>     |
 
-### Learning Needs
-
-|  |  |  |
-| -------- | -------- | -------- |
-| **Mrs Lorna Eng**    |     | <a href="eng_aik_boo@schools.gov.sg">eng_aik_boo@schools.gov.sg</a>     |
-
 ### Lower Primary
 
 |  |  |  |
