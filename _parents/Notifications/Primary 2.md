@@ -30,3 +30,4 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |3 Jul|[P2 July Circular](/files/Notification%202024/P2/RGPS_N24_P2_013_P2_July_Circulars_.pdf)|
+|7 Aug|[P2 Aug Circular](/files/Notification%202024/P2/RGPS_N24_P2_016.pdf)|
