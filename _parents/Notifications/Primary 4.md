@@ -32,6 +32,8 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |3 Jul|[P4 July Circular](/files/Notification%202024/P4/RGPS_N24_P4_020_P4_July_Circulars_.pdf)|
+|7 Aug|[P4 Aug Circular](/files/Notification%202024/P4/RGPS_N24_P4_022.pdf)|
+|7 Aug|[P4 End-Year Examination 2024](/files/Notification%202024/P4/RGPS_N24_P4_021.pdf)|
 
 ##### GEP Term 1
 
@@ -39,3 +41,4 @@ variant: markdown
 | -------- | -------- |
 |29 Dec 2023|[P4 GEP Parent-Teacher Meeting (PTM)](/files/Notification%202024/P4%20GEP/RGPS_P4_GEP_N24_001.pdf)|
 |25 Jan|[P4 GEP Weighted Assessment](/files/Notification%202024/P4%20GEP/RGPS_N24_P4_GEP_008_2024_Primary_4_GEP_Weighted_Assessment_Schedule.pdf)|
+|7 Aug|[P4 GEP End-Year Examination 2024](/files/Notification%202024/P4%20GEP/RGPS_N24_P4_GEP_13.pdf)|
