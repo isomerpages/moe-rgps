@@ -35,7 +35,8 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
-|3 Jul|[P6 July Circular](/files/Notification%202024/P6/RGPS_N24_P6_027_P6_July_Circulars.pdf)
+|3 Jul|[P6 July Circular](/files/Notification%202024/P6/RGPS_N24_P6_027_P6_July_Circulars.pdf)|
+|7 Aug|[P6 Aug Circular](/files/Notification%202024/P6/RGPS_N24_P6_028.pdf)|
 
 ##### GEP Term 1
 
