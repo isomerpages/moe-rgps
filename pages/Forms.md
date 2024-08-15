@@ -8,7 +8,11 @@ description: ""
 <p>Below is a list of administrative application forms that may be required.
 Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
 completed hardcopy forms to the school.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -138,7 +142,11 @@ time can join the school for an Immersion Programme.
 </tbody>
 </table>
 <h4><strong>Finance Matters</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -184,7 +192,11 @@ Citizens only)</p>
 </tbody>
 </table>
 <h4><strong>Partners</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -345,4 +357,5 @@ and dental services after your child has started school.
 should a vacancy become available.</p>
 <p>Please note that the application for the wait list is on a year to year
 basis and you will need to submit another one for the next academic year
-(2024) if your application for 2023 is unsuccessful.</p>
+(<strong>2025</strong>) if your application for <strong>2024</strong> is
+unsuccessful.</p>
