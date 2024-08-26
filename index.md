@@ -24,6 +24,14 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
+      title: Teachers' Day Celebration
+      id: infopic
+      description: If you wish to visit your teachers, please come to the school
+        between 11am - 12pm on 29 Aug 2024. Please contact your teachers and
+        wait for them at the canteen.
+      image: /images/trsdayposter.jpg
+      alt: Image alt text
+  - infopic:
       title: 65th Anniversary
       subtitle: We are Celebrating our
       id: infopic
@@ -31,11 +39,8 @@ sections:
       url: /brick-by-brick/
       image: /images/RGPS_AA_LEGO_small.png
       alt: Image alt text
-      description: >-
-        "Brick by Brick, Memories Stick": RGPS 65th Anniversary exclusive set
-        made with
-
-        LEGO®️ bricks by the RGPS Alumni Association
+      description: '"Brick by Brick, Memories Stick": RGPS 65th Anniversary exclusive
+        set made with LEGO®️ bricks by the RGPS Alumni Association'
   - infobar:
       title: Briefing Slides
       subtitle: "2024"
