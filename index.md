@@ -29,7 +29,7 @@ sections:
       description: If you wish to visit your teachers, please come to the school
         between 11am - 12pm on 29 Aug 2024. Please contact your teachers and
         wait for them at the canteen.
-      image: /images/trsdayposter.jpg
+      image: /images/trsdayposter_v2.jpg
       alt: Image alt text
   - infopic:
       title: 65th Anniversary
