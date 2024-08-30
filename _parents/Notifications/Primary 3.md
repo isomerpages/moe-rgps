@@ -34,3 +34,5 @@ variant: markdown
 |3 Jul|[P3 July Circular](/files/Notification%202024/P3/RGPS_N24_P3_021_P3_July_Circulars_.pdf)|
 |7 Aug|[P3 Aug Circular](/files/Notification%202024/P3/RGPS_N24_P3_024.pdf)|
 |7 Aug|[P3 End-Year Examination 2024](/files/Notification%202024/P3/RGPS_N24_P3_023.pdf)|
+|28 Aug|[P3 September Circular](/files/Notification%202024/P3/P3_September_Circulars_.pdf)|
+|28 Aug|[P3 PAM Term 3 Update](/files/Notification%202024/P3/Term_3_2024_P3_PAM_Termly_Update.pdf)|
