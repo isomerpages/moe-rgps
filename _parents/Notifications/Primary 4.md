@@ -37,7 +37,7 @@ variant: markdown
 |28 Aug|[P4 September Circular](/files/Notification%202024/P4/P4_September_Circulars_.pdf)|
 |28 Aug|[P4 PAM Term 3 Update](/files/Notification%202024/P4/Term_3_2024_P4_PAM_Termly_Update.pdf)|
 
-##### GEP Term 1
+##### GEP Term 1 -3
 
 | Date| File | 
 | -------- | -------- |
