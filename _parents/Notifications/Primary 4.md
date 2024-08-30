@@ -34,6 +34,8 @@ variant: markdown
 |3 Jul|[P4 July Circular](/files/Notification%202024/P4/RGPS_N24_P4_020_P4_July_Circulars_.pdf)|
 |7 Aug|[P4 Aug Circular](/files/Notification%202024/P4/RGPS_N24_P4_022.pdf)|
 |7 Aug|[P4 End-Year Examination 2024](/files/Notification%202024/P4/RGPS_N24_P4_021.pdf)|
+|28 Aug|[P4 September Circular](/files/Notification%202024/P4/P4_September_Circulars_.pdf)|
+|28 Aug|[P4 PAM Term 3 Update](/files/Notification%202024/P4/Term_3_2024_P4_PAM_Termly_Update.pdf)|
 
 ##### GEP Term 1
 
