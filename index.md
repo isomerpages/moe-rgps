@@ -24,14 +24,6 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
-      title: Teachers' Day Celebration
-      id: infopic
-      description: If you wish to visit your teachers, please come to the school
-        between 11am - 12pm on 29 Aug 2024. Please contact your teachers and
-        wait for them at the canteen.
-      image: /images/trsdayposter_v2.jpg
-      alt: Image alt text
-  - infopic:
       title: 65th Anniversary
       subtitle: We are Celebrating our
       id: infopic
