@@ -24,8 +24,8 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
-      title: P1 Orientation Day
-      subtitle: 6 November 2024
+      title: Welcome to P1 Orientation Day
+      subtitle: To 2025 P1 RGPS Parents
       id: infopic
       description: Please be informed that parking within school premises is strictly
         not allowed. If you are driving, you may park at Greenwood Avenue or
