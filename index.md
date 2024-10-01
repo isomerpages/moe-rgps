@@ -23,20 +23,17 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
-  - infopic:
-      title: 65th Anniversary
-      subtitle: We are Celebrating our
-      id: infopic
-      button: Click here to find out more
-      url: /brick-by-brick/
-      image: /images/RGPS_AA_LEGO_small.png
-      alt: Image alt text
-      description: '"Brick by Brick, Memories Stick": RGPS 65th Anniversary exclusive
-        set made with LEGO®️ bricks by the RGPS Alumni Association'
   - infobar:
       title: Briefing Slides
       subtitle: "2024"
       id: infobar
       button: Click Here
       url: parents/briefing-slides/pri1/
+  - infopic:
+      title: P1 Orientation Day
+      subtitle: 6 November 2024
+      id: infopic
+      description: Infopic description
+      image: /images/p1orientation_copy.jpg
+      alt: Image alt text
 ---
