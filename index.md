@@ -23,12 +23,6 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
-  - infobar:
-      title: Briefing Slides
-      subtitle: "2024"
-      id: infobar
-      button: Click Here
-      url: parents/briefing-slides/pri1/
   - infopic:
       title: P1 Orientation Day
       subtitle: 6 November 2024
@@ -38,4 +32,10 @@ sections:
         along Watten Drive.
       image: /images/p1orientation_copy.jpg
       alt: Image alt text
+  - infobar:
+      title: Briefing Slides
+      subtitle: "2024"
+      id: infobar
+      button: Click Here
+      url: parents/briefing-slides/pri1/
 ---
