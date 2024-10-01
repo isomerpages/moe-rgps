@@ -33,7 +33,9 @@ sections:
       title: P1 Orientation Day
       subtitle: 6 November 2024
       id: infopic
-      description: Infopic description
+      description: Please be informed that parking within school premises is strictly
+        not allowed. If you are driving, you may park at Greenwood Avenue or
+        along Watten Drive.
       image: /images/p1orientation_copy.jpg
       alt: Image alt text
 ---
