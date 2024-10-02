@@ -41,4 +41,4 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
-|2 Oct|[P3 October Circular](/files/Notification%202024/P3/RGPS_N24_P3_027.pdf)
+|2 Oct|[P3 October Circular](/files/Notification%202024/P3/RGPS_N24_P3_027.pdf)|
