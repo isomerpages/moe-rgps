@@ -39,6 +39,12 @@ variant: markdown
 |28 Aug|[P5 September Circular](/files/Notification%202024/P5/P5_September_Circulars_.pdf)|
 |28 Aug|[P5 PAM Term 3 Update](/files/Notification%202024/P5/Term_3_2024_P5_PAM_Termly_Update.pdf)|
 
+##### Term 4
+
+| Date| File | 
+| -------- | -------- |
+|2 Oct|[P5 October 2024](/files/Notification%202024/P5/RGPS_N24_P5_031.pdf)|
+
 ##### GEP Term 1 -3
 
 | Date| File | 
