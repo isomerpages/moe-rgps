@@ -24,15 +24,14 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
-      title: 65th Anniversary
-      subtitle: We are Celebrating our
+      title: Welcome to P1 Orientation Day
+      subtitle: To 2025 P1 RGPS Parents
       id: infopic
-      button: Click here to find out more
-      url: /brick-by-brick/
-      image: /images/RGPS_AA_LEGO_small.png
+      description: Please be informed that parking within school premises is strictly
+        not allowed. If you are driving, you may park at Greenwood Avenue or
+        along Watten Drive.
+      image: /images/p1orientation_copy.jpg
       alt: Image alt text
-      description: '"Brick by Brick, Memories Stick": RGPS 65th Anniversary exclusive
-        set made with LEGO®️ bricks by the RGPS Alumni Association'
   - infobar:
       title: Briefing Slides
       subtitle: "2024"

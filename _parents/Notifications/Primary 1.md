@@ -34,3 +34,9 @@ variant: markdown
 |7 Aug|[P1 Aug Circular](/files/Notification%202024/P1/RGPS_N24_P1_014.pdf)|
 |28 Aug|[P1 September Circular](/files/Notification%202024/P1/P1_September_Circulars_.pdf)|
 |28 Aug|[P1 PAM Term 3 Update](/files/Notification%202024/P1/Term_3_2024_P1_PAM_Termly_Update.pdf)|
+
+##### Term 4
+
+| Date| File | 
+| -------- | -------- |
+|2 Oct|[P1 October Circular](/files/Notification%202024/P1/RGPS_N24_P1_016.pdf)|

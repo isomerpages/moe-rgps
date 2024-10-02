@@ -38,7 +38,13 @@ variant: markdown
 |3 Jul|[P6 July Circular](/files/Notification%202024/P6/RGPS_N24_P6_027_P6_July_Circulars.pdf)|
 |7 Aug|[P6 Aug Circular](/files/Notification%202024/P6/RGPS_N24_P6_028.pdf)|
 |28 Aug|[P6 September Circular](/files/Notification%202024/P6/P6_September_Circulars_.pdf)|
-|28 Aug|[P6 PAM Term 3 Update](/files/Notification%202024/P6/Term_3_2024_P6_PAM_Termly_Update.pdf)
+|28 Aug|[P6 PAM Term 3 Update](/files/Notification%202024/P6/Term_3_2024_P6_PAM_Termly_Update.pdf)|
+
+##### Term 4
+
+| Date| File | 
+| -------- | -------- |
+|2 Oct|[P6 October Circular](/files/Notification%202024/P6/RGPS_N24_P6_031.pdf)|
 
 ##### GEP Term 1
 
