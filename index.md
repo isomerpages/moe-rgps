@@ -29,7 +29,7 @@ sections:
       id: infopic
       description: Please onboard Parents Gateway as our upcoming communications will
         be shared via this platform.
-      image: /images/p1orientation_copy.jpg
+      image: /images/P1_onboard.jpg
       alt: Image alt text
       button: How to Onboard Parents Gateway
       url: /onboardpg
