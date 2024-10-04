@@ -27,11 +27,11 @@ sections:
       title: Welcome to P1 Orientation Day
       subtitle: To 2025 P1 RGPS Parents
       id: infopic
-      description: Please onboard Parent Gateway as our upcoming communications will
+      description: Please onboard Parents Gateway as our upcoming communications will
         be shared via this platform.
       image: /images/p1orientation_copy.jpg
       alt: Image alt text
-      button: How to Onboard Parent Gateway
+      button: How to Onboard Parents Gateway
       url: /onboardpg
   - infobar:
       title: Briefing Slides
