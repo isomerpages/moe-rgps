@@ -27,11 +27,12 @@ sections:
       title: Welcome to P1 Orientation Day
       subtitle: To 2025 P1 RGPS Parents
       id: infopic
-      description: Please be informed that parking within school premises is strictly
-        not allowed. If you are driving, you may park at Greenwood Avenue or
-        along Watten Drive.
-      image: /images/p1orientation_copy.jpg
+      description: Please onboard Parents Gateway as our upcoming communications will
+        be shared via this platform.
+      image: /images/P1_onboard.jpg
       alt: Image alt text
+      button: How to Onboard Parents Gateway
+      url: /onboard-parents-gateway/
   - infobar:
       title: Briefing Slides
       subtitle: "2024"
