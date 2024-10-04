@@ -32,7 +32,7 @@ sections:
       image: /images/P1_onboard.jpg
       alt: Image alt text
       button: How to Onboard Parents Gateway
-      url: /onboardpg
+      url: /onboard-parents-gateway/
   - infobar:
       title: Briefing Slides
       subtitle: "2024"
