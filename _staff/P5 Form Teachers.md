@@ -61,11 +61,6 @@ variant: markdown
         <td>5D</td>
         <td>santha_selva_raju@schools.gov.sg</td>
     </tr>
- <tr>
-        <td>Mr Fairuz</td>
-        <td>5D</td>
-        <td>muhammad_fairuz_mohamed_andy@schools.gov.sg</td>
-    </tr>
 <tr>
         <td>Mdm Kandoth Shaheena</td>
         <td>5E</td>
