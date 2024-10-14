@@ -21,11 +21,6 @@ variant: markdown
         <td>2A</td>
         <td>ker_lay_peng@schools.gov.sg</td>
     </tr>
-			 <tr>
-        <td>Ms Nasyitah</td>
-        <td>2A</td>
-        <td>nasyitah_razali@schools.gov.sg</td>
-    </tr>
 <tr>
         <td>Ms Elaine Mok</td>
         <td>2B</td>
