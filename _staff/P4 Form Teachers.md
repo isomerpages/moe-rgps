@@ -21,6 +21,11 @@ variant: markdown
         <td>4A</td>
         <td>loo_ching_yee@schools.gov.sg</td>
     </tr>
+				 <tr>
+        <td>Ms Nasyitah</td>
+        <td>4A</td>
+        <td>nasyitah_razali@schools.gov.sg</td>
+    </tr>
     <tr>
         <td>Mdm Rayhanah Mohd</td>
         <td>4B</td>
