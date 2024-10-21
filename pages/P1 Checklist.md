@@ -160,9 +160,9 @@ SCC will inform the applicants of the outcome directly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Uniform</strong>
+<p><strong>5.School Uniform</strong>
 <br>
-<br><strong>By 30 Nov 2023</strong>
+<br><strong>By 30 Nov 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,49 +181,39 @@ well, which take place <strong>once a week</strong>. Students must come
 in the prescribed school uniform with white shoes and plain white or RGPS
 socks. Hair accessories are to be in black or navy blue.
 <br>
-<br><a href="/files/P1%20Checklist/2023/rgps%202024%20uniform.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2024 Uniform</a>
-<br><a href="/files/P1%20Checklist/2023/rgps%202024%20nametag.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2024 Nametag</a>
+<br><a href="/files/P1 Checklist/2025 P1 pupils/5_2_RGPS_Uniform__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Uniform</a>
+<br><a href="/files/P1 Checklist/2025 P1 pupils/5_1_RGPS_NameTag__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Nametag</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Submission of Student Details Form</strong>
+<p><strong>6.Submission of Student Details Form</strong>
 <br>
-<br><strong>By 29 Dec 2023</strong>
+<br><strong>From 27 Nov to 29 Dec 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. As your child/ward will be starting Primary 1 in January 2024, the
+<p>1. As your child/ward will be starting Primary 1 in January 2025, the
 Ministry of Education (MOE) would like to collect necessary information
 about you and your child/ward to provide educational services for your
 child/ward in our schools.
 <br>
-<br>2. Please submit/verify the information through the online Student Details
-Form portal from <strong>10.00 am, 27 Nov 2023</strong>. The portal can
-be accessed via this URL: <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> or
-the QR code below.
-<br>
-<br>Both parents must login separately to the portal using his/her own Singpass
-account to submit particulars of himself/herself. We seek your help to
-complete the submission by <strong>29 Dec 2023</strong>.
-<br>
+<br>2. Please check the PG notification for submission of the online Student
+Details Form portal from<strong> 27 Nov 2024</strong>.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentdetailqr.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Finance &amp; Payment</strong>
+<p><strong>7.Finance &amp; Payment</strong>
 <br>
-<br><strong>By 31 Dec 23</strong>
+<br><strong>By 31 Dec 24</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are to setup 1) GIRO and 2) Edusave Standing Order by
+<p>Parents/Guardian are to setup 1) eGIRO and 2) Edusave Standing Order by
 following the steps below:
 <br>
 <br><strong>1) GIRO application</strong>
