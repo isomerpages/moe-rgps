@@ -102,6 +102,7 @@ further away from the school. The books will be packed into boxes.
 <br>
 <br><strong>By 1 Nov 2024</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>“Drive-through” Car Decal</strong>
@@ -123,6 +124,7 @@ cash or QR code at our <strong>General Office</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/car_decal.png">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -140,19 +142,19 @@ cash or QR code at our <strong>General Office</strong>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Care Centre (SCC)</strong>
+<p><strong>4. Student Care Centre (SCC)</strong>
 <br>
-<br><strong>By 15 Nov 2023</strong>
+<br><strong>By 15 Nov 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The school-based SCC provides support for students without after-school
 care arrangements. You are invited to register your child if you are keen
-via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2023, 1pm.</strong> The
-SCC will inform the applicants of the outcome directly.
-<br>
-<br><a href="/files/P1%20Checklist/2023/scc%20brochure%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure 2024</a>
-<br><a href="/files/P1%20Checklist/2023/scc%20coverletterregistration2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a>
+via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2024, 5pm.</strong> The
+SCC will inform the applicants of the outcome directly.</p>
+<p>
+<br><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_17Oct2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a>
+<br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure 2024</a>
 </p>
 </td>
 </tr>
