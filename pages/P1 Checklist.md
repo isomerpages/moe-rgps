@@ -91,7 +91,7 @@ purchase the books online and reserve a time slot for pick up at <a href="https:
 is recommended to bring along a trolley to carry the books if you are parking
 further away from the school. The books will be packed into boxes.
 <br>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_2_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2024</a>
+<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_2_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
 <br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_1_RGPS_Primary_PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Online Purchase Guide</a>
 </p>
 </td>
@@ -121,10 +121,10 @@ car decal, it will distributed to you during the Primary 1 Orientation.
 Office after the orientation and before 15 December 2024. Payment is by
 cash or QR code at our <strong>General Office</strong>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/car_decal.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_rgpscardecal.png">
+</div>
 <p></p>
 </td>
 </tr>
@@ -153,8 +153,8 @@ cash or QR code at our <strong>General Office</strong>.</p>
 care arrangements. You are invited to register your child if you are keen
 via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2024, 5pm.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
-<p>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_17Oct2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a>
+<p></p>
+<p><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_19Oct2024.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
 <br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
 </p>
 </td>
@@ -163,7 +163,7 @@ SCC will inform the applicants of the outcome directly.</p>
 <td rowspan="1" colspan="1">
 <p><strong>5.School Uniform</strong>
 <br>
-<br><strong>By 30 Nov 2024</strong>
+<br><strong>By 15 Nov 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,8 +223,9 @@ following the steps below:
 of standard miscellaneous fees and school charges. The detailed <a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">eGIRO user guide</a> is
 available at the MOE website.
 <br>
-<br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong> 
-<br>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
+<br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong>
+</p>
+<p>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
 Services tab) or the online <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
 for the payment of 2nd-tier miscellaneous fees and school organised enrichment
 programmes.</p>
@@ -310,7 +311,8 @@ start primary school the next year. Please see the attached for more information
 <br>
 </p>
 <p><a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
-<br><a href="/files/P1%20Checklist/2023/rgps%20pre-p1%20welcome%20party%20flyer%20(final).pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
+</p>
+<p><a href="/files/P1 Checklist/2025 P1 pupils/12_2_RGPS_Pre_P1_Welcome_Party_Flyer__Final_.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
 </p>
 </td>
 </tr>
