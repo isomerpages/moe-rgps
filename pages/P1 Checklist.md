@@ -337,16 +337,10 @@ start primary school the next year. Please see the attached for more information
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><em>Bibi&amp;Baba Private Limited</em></strong>
-<br>
 <br>545 Orchard Road, #02-28
 <br>Far East Shopping Centre
 <br>Singapore (238882)
 <br>Tel : 6732 7022
-<br>Fax : 6835 4979
-<br>
-<br><strong><em>Opening hours</em></strong>
-<br>Mon -Sat: 10.00 a.m. to 7.00 p.m.
-<br>Sun: 10.00 a.m. to 6.00 p.m.
 <br>
 <br>There is no sale of uniforms in the school.
 <br>
@@ -376,9 +370,9 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 <br>
 <br>For further enquiries to register your child for school bus services.
 <br>
-<br><strong><em>Contact Person: Mr Ong Chai Heng</em></strong>
-<br>Tel : 6747 7246 / Fax : 6743 8243
-<br>Email: <a href="enquiry@ssta.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@ssta.com.sg</a>
+<br><strong><em>Contact Person: Mr Lawrence Chew</em></strong>
+<br>Tel : 6747 7246
+<br>Email: <a href="enquiry@ssta.com.sg" rel="noopener noreferrer nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
 </p>
 </td>
 </tr>
@@ -388,7 +382,7 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Knowledge Park Educare</em></strong>
+<p><strong><em>Knowledge Park Educare (SC) Pte Ltd</em></strong>
 <br>
 <br><strong><em>Contact person: Ms Sylvia Lim</em></strong> 
 <br>Tel : 9816 1671 / 9638 6393
