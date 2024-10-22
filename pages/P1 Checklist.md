@@ -215,20 +215,17 @@ Details Form portal from<strong> 27 Nov 2024</strong>.
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/Guardian are to setup 1) eGIRO and 2) Edusave Standing Order by
-following the steps below:
-<br>
-<br><strong>1) eGIRO application</strong>
-</p>
-<p>Parents/Guardian will be able to sign up for eGIRO online, for payment
+	following the steps below:</p>
+<br><strong>1) eGIRO application</strong><br>
+Parents/Guardian will be able to sign up for eGIRO online, for payment
 of standard miscellaneous fees and school charges. The detailed <a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">eGIRO user guide</a> is
 available at the MOE website.
 <br>
-<br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong>
-</p>
-<p>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
+<br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong><br>
+Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
 Services tab) or the online <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
 for the payment of 2nd-tier miscellaneous fees and school organised enrichment
-programmes.</p>
+programmes.
 </td>
 </tr>
 <tr>
@@ -259,11 +256,11 @@ application process can be found at the <a href="https://www.moe.gov.sg/financia
 <br>Parents can apply for MOE FAS using the e-FAS form which is available
 on Parents Gateway (under Services tab – Financial Assistance) via Singpass
 login.</p>
-<p>&nbsp;</p>
+
 <p>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
 <a rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
-<p></p>
+
 <p><a href="/files/P1 Checklist/2025 P1 pupils/9_1_MOE_FAS_pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE FAS</a>
 </p>
 </td>
@@ -310,10 +307,9 @@ is hosted for the K2s to get to know each other through play before they
 start primary school the next year. Please see the attached for more information.
 <br>
 </p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
-</p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/12_2_RGPS_Pre_P1_Welcome_Party_Flyer__Final_.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
-</p>
+<a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a><br>
+<a href="/files/P1 Checklist/2025 P1 pupils/12_2_RGPS_Pre_P1_Welcome_Party_Flyer__Final_.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
+
 </td>
 </tr>
 </tbody>
