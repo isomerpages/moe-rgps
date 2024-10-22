@@ -91,7 +91,7 @@ purchase the books online and reserve a time slot for pick up at <a href="https:
 is recommended to bring along a trolley to carry the books if you are parking
 further away from the school. The books will be packed into boxes.
 <br>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_2_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2024</a>
+<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_2_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
 <br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_1_RGPS_Primary_PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Online Purchase Guide</a>
 </p>
 </td>
@@ -121,10 +121,10 @@ car decal, it will distributed to you during the Primary 1 Orientation.
 Office after the orientation and before 15 December 2024. Payment is by
 cash or QR code at our <strong>General Office</strong>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/car_decal.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_rgpscardecal.png">
+</div>
 <p></p>
 </td>
 </tr>
@@ -153,8 +153,8 @@ cash or QR code at our <strong>General Office</strong>.</p>
 care arrangements. You are invited to register your child if you are keen
 via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2024, 5pm.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
-<p>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_17Oct2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a>
+<p></p>
+<p><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_19Oct2024.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
 <br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
 </p>
 </td>
