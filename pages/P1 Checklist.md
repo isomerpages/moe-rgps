@@ -154,7 +154,7 @@ via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" re
 SCC will inform the applicants of the outcome directly.</p>
 <p>
 <br><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_17Oct2024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure 2024</a>
+<br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
 </p>
 </td>
 </tr>
@@ -216,14 +216,13 @@ Details Form portal from<strong> 27 Nov 2024</strong>.
 <p>Parents/Guardian are to setup 1) eGIRO and 2) Edusave Standing Order by
 following the steps below:
 <br>
-<br><strong>1) GIRO application</strong>
-<br>Parents/Guardian will be able to sign up for GIRO online, for payment
-of standard miscellaneous fees and school charges <strong>from November 2023</strong>.
-More information on GIRO application will be shared through Parents Gateway
-in November 2023.
+<br><strong>1) eGIRO application</strong>
+</p>
+<p>Parents/Guardian will be able to sign up for eGIRO online, for payment
+of standard miscellaneous fees and school charges. The detailed <a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">eGIRO user guide</a> is
+available at the MOE website.
 <br>
 <br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong> 
-<br>
 <br>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
 Services tab) or the online <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
 for the payment of 2nd-tier miscellaneous fees and school organised enrichment
@@ -232,56 +231,57 @@ programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Consent for Health Promotion Board</strong>
+<p><strong>8. Consent for Health Promotion Board</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are to access the <a href="https://childconsent.hpb.gov.sg/ship/process/SHIP/OnlineChildConsentPortal" rel="noopener noreferrer nofollow" target="_blank">Child Consent Portal</a> to
-update your child's/ward’s medical information and provide consent for
-immunisation and dental services.
+<p>Parents/Guardian are to access the <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Child Consent Portal</a> to update your
+child's/ward’s medical information and provide consent for immunisation
+and dental services.
 <br>
 <br>Please access the following websites for more information on:
-<br>• Immunisations offered to primary school students - <a href="https://www.healthhub.sg/programmes/parent-hub/student_immunisation_and_screening#:~:text=During%20the%20school%20visit%2C%20the" rel="noopener noreferrer nofollow" target="_blank">Student Immunisation</a>
+<br>• Immunisations offered to primary school students - <a href="https://www.healthhub.sg/programmes/parent-hub/student_immunisation_and_screening#:~:text=During%20the%20school%20visit%2C%20the,)%5D%20as%20recommended%20under%20the" rel="noopener noreferrer nofollow" target="_blank">Student Immunisation</a>
 <br>• Screening services offered to primary school students - <a href="https://www.healthhub.sg/live-healthy/health_screening_for_primary_school" rel="noopener noreferrer nofollow" target="_blank">Health Screening for Primary School Students</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Financial Assistance</strong>
+<p><strong>9. Financial Assistance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2024 is
-now open. Please read the attached MOE FAS pamphlet for the eligibility
-criteria and application process.
+<p>The MOE Financial Assistance Scheme (MOE FAS) eligibility criteria and
+application process can be found at the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.
 <br>
-<br>Students who do not meet the criteria for MOE FAS may consider applying
-for school-based FAS.
-<br>
-<br><a href="/files/P1%20Checklist/2023/document1_2024%20moe%20fas%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form</a>
-<br><a href="/files/P1%20Checklist/2023/document4a_moe%20fas%20pamphlet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a>
+<br>Parents can apply for MOE FAS using the e-FAS form which is available
+on Parents Gateway (under Services tab – Financial Assistance) via Singpass
+login.</p>
+<p>&nbsp;</p>
+<p>Students who do not meet the criteria for MOE FAS may consider applying
+for school-based FAS. You may contact the school at 6468 4377 or email
+<a rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2025 P1 pupils/9_1_MOE_FAS_pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE FAS</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>POSB Smart Buddy</strong>
+<p><strong>10.POSB Smart Buddy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The POSB Smart Buddy programme allows students to make cashless purchases
 in the canteen and school bookshop. Parents/Guardian can pre-set your child’s/ward’s
 daily allowance and monitor her expenditure via a mobile app. Parents/Guardian
-can sign up if you are keen. Cash and EZ-Link card payments are also accepted.
-<br>
-<br><a href="/files/P1%20Checklist/2023/smart%20buddy%20registration%20letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Buddy Registration Letter</a>
-</p>
+can sign up if you are keen. Cash and EZ-Link card payments are also accepted.&nbsp;
+More information is available on the <a href="https://www.posb.com.sg/personal/support/bank-posb-smartbuddy-apply.html?pid=sg-posb-pweb-sb-sb-2x-savings-booster-txtlink-sbapplicationguide" rel="noopener noreferrer nofollow" target="_blank">POSB website</a>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Parent Volunteer Group (PVG)</strong>
+<p><strong>11.Parent Volunteer Group (PVG)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,7 +289,7 @@ can sign up if you are keen. Cash and EZ-Link card payments are also accepted.
 to support students’ development. We encourage all parents/guardian with
 daughter(s)/wards(s) in the school to join the PVG.
 <br>
-<br><a href="/files/P1%20Checklist/2023/parent%20volunteer%20group%20(pvg)%20-%20parent%20volunteer%20group%20information%20sheet%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Group (PVG) </a>
+<br><a href="/files/P1 Checklist/2025 P1 pupils/11_1_2024_PVG_P1_Welcome_Letter__revised_10_Oct_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Group (PVG) </a>
 <br><a href="/files/P1%20Checklist/2023/pvg%20membership%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Brochure</a>
 <br><a href="/files/P1%20Checklist/2023/pvg%20merchandise%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Merchandise Brochure</a>
 </p>
@@ -297,7 +297,7 @@ daughter(s)/wards(s) in the school to join the PVG.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Alumni Association (AA)</strong>
+<p><strong>12.Alumni Association (AA)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,6 +307,8 @@ for the next generations of RGPS Girls. Every year, a pre-P1 gathering
 is hosted for the K2s to get to know each other through play before they
 start primary school the next year. Please see the attached for more information.
 <br>
+</p>
+<p><a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
 <br><a href="/files/P1%20Checklist/2023/rgps%20pre-p1%20welcome%20party%20flyer%20(final).pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
 </p>
 </td>
