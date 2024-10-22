@@ -125,6 +125,7 @@ cash or QR code at our <strong>General Office</strong>.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/car_decal.png">
 </div>
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
