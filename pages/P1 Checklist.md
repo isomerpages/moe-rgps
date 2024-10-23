@@ -354,7 +354,7 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 <td rowspan="1" colspan="1">
 <p><strong><em>Pacific Bookstores Pte Ltd</em></strong>
 <br>
-<br>Website: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<br>Website: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 <br>Tel: 6467 1692</p>
 </td>
 </tr>
