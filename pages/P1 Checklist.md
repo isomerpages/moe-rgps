@@ -2,7 +2,7 @@
 title: P1 Checklist
 permalink: /p1checklist/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>Checklist for Parents/Guardian of P1 Student in 2025</strong></h4>
 <p>A warm welcome to the Raffles Girls’ Primary School family! We would like
@@ -191,7 +191,7 @@ socks. Hair accessories are to be in black or navy blue.
 <td rowspan="1" colspan="1">
 <p><strong>6.Submission of Student Details Form</strong>
 <br>
-<br><strong>From 27 Nov to 29 Dec 2024</strong>
+<br><strong>From 25 Nov to 31 Dec 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,7 +201,7 @@ about you and your child/ward to provide educational services for your
 child/ward in our schools.
 <br>
 <br>2. Please check the PG notification for submission of the online Student
-Details Form portal from<strong> 27 Nov 2024</strong>.
+Details Form portal from<strong> 25 Nov 2024</strong>.
 <br>
 </p>
 </td>
