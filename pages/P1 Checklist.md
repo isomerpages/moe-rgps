@@ -2,7 +2,7 @@
 title: P1 Checklist
 permalink: /p1checklist/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>Checklist for Parents/Guardian of P1 Student in 2025</strong></h4>
 <p>A warm welcome to the Raffles Girls’ Primary School family! We would like
@@ -259,7 +259,7 @@ on Parents Gateway (under Services tab – Financial Assistance) via Singpass
 login.</p>
 <p>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
-<a rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
+<a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
 <p><a href="/files/P1 Checklist/2025 P1 pupils/9_1_MOE_FAS_pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE FAS</a>
 </p>
 </td>
@@ -354,7 +354,7 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 <td rowspan="1" colspan="1">
 <p><strong><em>Pacific Bookstores Pte Ltd</em></strong>
 <br>
-<br>Website: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<br>Website: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 <br>Tel: 6467 1692</p>
 </td>
 </tr>
@@ -370,7 +370,7 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 <br>
 <br><strong><em>Contact Person: Mr Lawrence Chew</em></strong>
 <br>Tel : 6747 7246
-<br>Email: <a href="enquiry@ssta.com.sg" rel="noopener noreferrer nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
+<br>Email: <a href="mailto:enquiry@ssta.com.sg" rel="noopener noreferrer nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
 </p>
 </td>
 </tr>
@@ -384,7 +384,7 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 <br>
 <br><strong><em>Contact person: Ms Sylvia Lim</em></strong> 
 <br>Tel : 9816 1671 / 9638 6393
-<br>For enquiries, please write to <a href="rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a>
+<br>For enquiries, please write to <a href="mailto:rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a>
 </p>
 </td>
 </tr>
