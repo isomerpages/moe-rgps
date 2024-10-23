@@ -191,7 +191,7 @@ socks. Hair accessories are to be in black or navy blue.
 <td rowspan="1" colspan="1">
 <p><strong>6.Submission of Student Details Form</strong>
 <br>
-<br><strong>From 27 Nov to 29 Dec 2024</strong>
+<br><strong>From 25 Nov to 31 Dec 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
