@@ -74,7 +74,7 @@ Debate</td></tr> </tbody></table>
 <div id="faq">
 <img src="/images/FAQ.png" style="background-colour:yellow; width:50vw; align: center">
 <center>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLqLg3r24SFKVfUw3dUQREHHMiXrk0fNMl3zVeIBXT0-IL4Xh0c0B833-bdhtz1A/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmXt6z8-Opu1xiUbLd2-R4gfrWY6avELuyUA4FbVXCzfjAFSHci67Jg9dlLzj73Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </center>
 <a href="#top">
 <img src="/images/top.png" style="width: 100px; align: center"></a>
