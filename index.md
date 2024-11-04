@@ -33,6 +33,14 @@ sections:
       alt: Image alt text
       button: How to Onboard Parents Gateway
       url: /onboard-parents-gateway/
+  - infopic:
+      title: GEP E-Open House
+      subtitle: Welcome to RGPS
+      id: infopic
+      button: for More Info
+      url: /gepoh/
+      image: /images/gepsite.png
+      alt: Image alt text
   - infobar:
       title: Briefing Slides
       subtitle: "2024"
