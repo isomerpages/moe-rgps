@@ -24,7 +24,7 @@ Mdm Haryana Bte Md Dom<br>
 
 
 ##### **Training Schedule**  <br>
-Wednesdays, 3pm – 5pm  
+Monday, 2pm – 4pm  
 
 ##### **Venue**  <br>
 Art Rooms 2 (level 2)<br>
