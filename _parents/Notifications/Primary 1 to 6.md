@@ -42,3 +42,5 @@ variant: markdown
 | Date| Level|File | 
 | -------- | -------- |-------- |
 |25 Sep|P1-6|[Children's Day Celebration 2024](/files/Notification%202024/P1%20to%206/Children_s_Day__Games_Carnival_PG_2024.pdf)|
+|6 Nov|P1-6|[Google Takeout Guide for student ICON](/files/Notification%202024/P1%20to%206/Google_Takeout_Guide_for_Student_iCON.pdf)|
+|6 Nov|P1-6|[Quick Guide on Student ICON Data Management](/files/Notification%202024/P1%20to%206/Quick_Guide_on_Student_iCON_Data_Management.pdf)

@@ -3,6 +3,7 @@ title: Brownie
 permalink: /programme/co-curricular-activities-cca/uniformed-group/brownie/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 #### **Brownies**
 
@@ -15,8 +16,8 @@ All girls are valued and take action to change the world.
 To enable girls and young women to develop their fullest potential as responsible citizens of the world
 
 Brownies are guided by a comprehensive 5-Point Programme, which develops them in 5 areas:
-* Personal & Social Development – Healthy Me, Courteous Me, Cultured Me
-* Home – Home Safety & Duties
+* Personal &amp; Social Development – Healthy Me, Courteous Me, Cultured Me
+* Home – Home Safety &amp; Duties
 * Outdoor – Discovering Nature, A Green World
 * Community – My Country, My Neighbourhood, Helper
 * International – My Brownie Friend, My World
@@ -42,7 +43,7 @@ Mrs Janice Low (Asst. i/c)<br>
 Ms Lim Chiat Hwee
 
 ##### **Training Schedule**
-Wednesday, 3 - 5 pm
+Tuesday, 2 - 4pm
 
 ##### **Venue**
 

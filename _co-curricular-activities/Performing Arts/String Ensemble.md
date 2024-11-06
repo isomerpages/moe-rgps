@@ -34,7 +34,8 @@ Mdm Goh E-Lynn
 
 ##### **Training Schedule**
 
-Monday &amp; Thursday, 3-5PM&nbsp; <br>
+Thursday, 2-4PM&nbsp; <br>
+Tuesday, 2-4pm (Only in Semester 1 during SYF year)<br>
 
 ##### **Venue**
 Music Room 5 (Violin and Viola Players) <br>

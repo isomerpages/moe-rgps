@@ -44,10 +44,10 @@ Ms Joyce Tan
 ##### **Training Schedule**
 
 **School Team**<br>
-Monday &amp; Thursday, 3pm – 5 pm
+Monday &amp; Thursday, 2pm – 4pm
 
 **CCA Group**<br>
-Monday, 3pm – 5 pm
+Monday,2pm – 4pm
 
 ##### **Venue**
 

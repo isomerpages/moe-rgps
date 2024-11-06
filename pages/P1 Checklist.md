@@ -309,6 +309,11 @@ start primary school the next year. Please see the attached for more information
 <p><a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
 <br><a href="/files/P1 Checklist/2025 P1 pupils/12_2_AA_Pre_P1_Welcome_Party_Flyer_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
 </p>
+<p></p>
+<p><a href="https://www.agora-colearning.space/courses/rgps-pre-p1-welcome-party" rel="noopener nofollow" target="_blank">To signup for RGPS Pre-P1 Welcome Party</a>
+</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>

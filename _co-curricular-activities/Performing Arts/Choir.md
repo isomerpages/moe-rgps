@@ -36,7 +36,7 @@ Mrs Heng Meng Tee<br>
 
 ##### **Training Schedule**
 
-Monday and Tuesday, 3pm – 5pm  <br>
+Monday and Tuesday, 2pm – 4pm  <br>
 
 ##### **Venue**
 Music Room 4 (PARTS- level 3)<br>
@@ -53,7 +53,7 @@ Mdm Angelin Yeo (Mrs Chee) (Asst. i/c)<br>
 Ms Yap Ying Tong 
 
 ##### **Training Schedule**
-Thursday, 3pm – 5pm
+Thursday, 2pm – 4pm
   
 ##### **Venue**
 Music Room 4 (PARTS- level 3)<br>

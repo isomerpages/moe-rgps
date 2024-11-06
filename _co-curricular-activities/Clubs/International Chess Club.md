@@ -45,7 +45,7 @@ Mdm Chua Lay Kwan
 
 ##### **Training Schedule:**
 
-Tuesdays, 3 pm to 5 pm
+Tuesdays, 2 pm to 4 pm
 
 ##### **Venue**
 Banding Room A4/4 (Level 4)<br>

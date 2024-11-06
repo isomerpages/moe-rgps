@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /programme/co-curricular-activities-cca/uniformed-group/girls-brigade/
 description: ""
 third_nav_title: Uniformed Group
+variant: markdown
 ---
 #### **Girls’ Brigade (P3 to P6)**
 
@@ -46,7 +47,7 @@ Ms Tang Jingwen  <br>
 
 ##### **Training Schedule**
 
-Wed 3 to 5 pm
+Tuesday, 2 to 4 pm
 
 ##### **Venue** 
-PAL room 1 & 2 (level 1)
+PAL room 1 &amp; 2 (level 1)
