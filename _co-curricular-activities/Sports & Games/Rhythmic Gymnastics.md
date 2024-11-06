@@ -35,10 +35,10 @@ Mdm Sashikala
 ##### **Training Schedule**  
 
 **School Selection Team**<br>
-Tuesday and Thursdays, 2.30pm – 5pm
+Tuesday and Thursdays, 2pm – 4pm
 
 **Recreation CCA Team**<br>
-Monday, 3pm – 5pm
+Monday, 2pm – 4pm
 
 ##### **Venue**
 School Hall
