@@ -20,7 +20,7 @@ Ms Thivya
 
 ##### **Training Schedule**
 
-Thursday, &nbsp;3pm - 5pm 
+Thursday, &nbsp;2pm - 4pm 
 
 ##### **Venue**
 Life Science Lab (level 3)<br>
