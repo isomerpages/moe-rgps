@@ -19,7 +19,7 @@ Ms Lim Zi Hui (In-charge)<br>Ms Ang Kai Mei
 
 ##### **Training Schedule**
 
-Monday, 3 pm – 5 pm
+Monday, 2 pm – 4 pm
 
 ##### **Venue**
 IT Lab 1 (level 1)
