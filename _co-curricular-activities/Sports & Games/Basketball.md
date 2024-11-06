@@ -42,12 +42,12 @@ Mr Thomas Lee
 
 |CCA Group| Training Day &amp; Time|
 |-----------|------------|
-|P3 CCA |Monday, 3pm to 5pm|
-|P4/5/6 CCA |Monday, 3pm to 5pm|
-|P3 Selection Team (Term 3) |Monday &amp; Thursday, 3pm to 5pm|
-|P4 Selection Team |Tuesday &amp; Thursday, 3pm to 5pm|
-|P5 School Team |Tuesday &amp; Thursday, 3pm to 5pm|
-|P6 School Team |Tuesday &amp; Thursday, 3pm to 5pm|
+|P3 CCA |Monday, 2pm to 4pm|
+|P4/5/6 CCA |Monday, 2pm to 4pm|
+|P3 Selection Team (Term 3) |Monday &amp; Thursday, 2pm to 4pm|
+|P4 Selection Team |Tuesday &amp; Thursday, 2pm to 4pm|
+|P5 School Team |Tuesday &amp; Thursday, 2pm to 4pm|
+|P6 School Team |Tuesday &amp; Thursday, 2pm to 4pm|
 
 ##### **Venue**
 PARTS Basketball Court<br>
