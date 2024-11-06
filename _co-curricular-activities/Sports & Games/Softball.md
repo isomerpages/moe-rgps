@@ -39,9 +39,9 @@ Mr Fairuz
 
 ##### **Training Schedule**
 
-**Junior and Senior School Teams**<br>Tuesdays and Thursdays, 3-5pm
+**Junior and Senior School Teams**<br>Tuesdays and Thursdays, 2-4pm
 
-**CCA Team**<br>Tuesdays, 3-5pm
+**CCA Team**<br>Tuesdays, 2-4pm
 
 ##### **Venue**
 School Field
