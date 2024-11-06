@@ -47,11 +47,11 @@ Mdm Chua Lay Kwan
 ##### **Training Schedule**
  
 **Main Band**  <br>
-Tuesday, 2.30pm – 5.00pm  <br>
-Thursday, 2.30pm – 5.00pm  
+Tuesday, 2.00pm – 4.00pm  <br>
+Thursday, 2.00pm – 4.00pm  
   
 **Recruits Band:**  <br>
-Monday, 2.30pm – 5.00pm  
+Monday, 2.00pm – 4.00pm  
   
 
 ##### **Venue**
