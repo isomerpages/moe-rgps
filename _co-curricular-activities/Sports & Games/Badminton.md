@@ -45,12 +45,12 @@ Ms Cindy Ang
 ##### **Training Details**
 
 **School Team** <br>
-Tuesday and Thursday, 2.30pm – 5pm<br>
+Tuesday and Thursday, 2pm – 4pm<br>
 During Holiday<br>
 Dates and time will be provided in schedule to be given out nearer to the holiday.
 
 **CCA Team**<br>
-Monday, 3pm – 5pm<br>
+Monday, 2pm – 4pm<br>
 No training during holiday
 
 ##### **Venue**
