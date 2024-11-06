@@ -23,7 +23,7 @@ Ms Shahedah Salim (In-charge)<br>
 Mrs Don Ying Ying&nbsp; 
 
 ##### **Training Schedule**
-Monday, 3:00 – 5:00 pm <br>
+Monday, 2pm – 4pm <br>
 (There will be additional training sessions prior to performances)
 
 ##### **Venue**
