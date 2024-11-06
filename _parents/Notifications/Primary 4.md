@@ -42,7 +42,7 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |2 Oct|[P4 October Circular](/files/Notification%202024/P4/RGPS_N24_P4_025.pdf)|
-|6 Nov|[P4 November Circular](/files/Notification%202024/P4/RGPS_N24_P4_028.pdf)
+|6 Nov|[P4 November Circular](/files/Notification%202024/P4/RGPS_N24_P4_028.pdf)|
 
 
 ##### GEP Term 1 -3
