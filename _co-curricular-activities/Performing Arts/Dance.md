@@ -61,10 +61,10 @@ Mdm Sashikala
 ##### **Training Schedule**
 
 **CCA Team**<br>
-Thursday, 3pm -5pm
+Monday, 2pm -4pm
 
 **School Team**<br>
-Tuesday and Thursday, 3pm -5pm
+Tuesday and Thursday, 2pm -4pm
 
 ##### **Venue** 
 Pal Room 1&amp;2 (level 1)<br>
