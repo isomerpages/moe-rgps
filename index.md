@@ -27,7 +27,7 @@ sections:
       title: P1 Orientation Briefing Slides
       subtitle: To 2025 P1 RGPS Parents
       id: infopic
-      image: /images/P1_onboard.jpg
+      image: /images/p1orientation_briefing.jpg
       alt: Image alt text
       button: Click here
       url: /p1orientation/
