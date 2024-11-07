@@ -31,8 +31,8 @@ sections:
         be shared via this platform.
       image: /images/P1_onboard.jpg
       alt: Image alt text
-      button: How to Onboard Parents Gateway
-      url: /onboard-parents-gateway/
+      button: P1 Orientation Briefing Slides
+      url: /p1orientation/
   - infopic:
       title: GEP E-Open House
       subtitle: Welcome to RGPS
