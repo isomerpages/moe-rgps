@@ -4,6 +4,13 @@ permalink: /staff/executive-and-administrative-staff/
 description: ""
 variant: markdown
 ---
+### Admin Manager
+
+| |  |  | 
+| -------- | -------- | -------- |
+| **Ms Vicky Koh** |   | <a href="koh_hwee_khee@schools.gov.sg">koh_hwee_khee@schools.gov.sg</a> |
+
+
 ### Operations Manager
 
 | |  |  | 
