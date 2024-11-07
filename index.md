@@ -24,15 +24,13 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
-      title: Welcome to P1 Orientation Day
+      title: P1 Orientation Briefing Slides
       subtitle: To 2025 P1 RGPS Parents
       id: infopic
-      description: Please onboard Parents Gateway as our upcoming communications will
-        be shared via this platform.
-      image: /images/P1_onboard.jpg
+      image: /images/p1orientation_briefing.jpg
       alt: Image alt text
-      button: How to Onboard Parents Gateway
-      url: /onboard-parents-gateway/
+      button: Click here
+      url: /p1orientation/
   - infopic:
       title: GEP E-Open House
       subtitle: Welcome to RGPS
