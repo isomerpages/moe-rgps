@@ -32,6 +32,13 @@ completed hardcopy forms to the school.</p>
 <p>Parents Gateway (PG) is the main communication channel between the school
 and parents/guardian. Please download the application on your mobile devices
 as all school updates will be sent through PG. Click here for <a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs and instructions for downloading the application</a>.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Updating of parent's contact information through PG, click on:</p>
+<p>PROFILE &gt; Edit contact details &gt; Save</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -40,9 +47,9 @@ as all school updates will be sent through PG. Click here for <a href="https://p
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For change of address and contact numbers. Please submit the completed
-<a href="/files/Forms/Form%20C%20(Address%20Updates).pdf" rel="noopener noreferrer nofollow" target="_blank">address update form</a>together with a copy of the NRIC reflecting the
-updated address.</p>
+<p>Parents can apply for change of address on identity card through ICA
+<a href="https://www.ica.gov.sg/documents/ic/update_residential_address" rel="noopener nofollow" target="_blank">website.</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +83,7 @@ and application process.
 <br>
 <br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a>
 </p>
-<p><a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
 <br>
 <br>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
