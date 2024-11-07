@@ -3,6 +3,7 @@ title: P1 Registration
 permalink: /parents/Enrolling-in-RGPS/p1-registration/
 description: ""
 third_nav_title: Enrolling in RGPS
+variant: markdown
 ---
 ### *2022 Primary 1 Registration Exercise*
 
@@ -10,4 +11,4 @@ Parents may refer to Ministry of Education (MOE) [website](https://www.moe.gov.
  
 ### *Home-School Distance*
 
-Parents may check the home-school distance category from [OneMap](https://www.onemap.sg/index.html) School Query Service managed by the Singapore Land Authority (SLA).
+Parents may check the home-school distance category from [Onemap](https://www.onemap.gov.sg/) School Query Service managed by the Singapore Land Authority (SLA).
