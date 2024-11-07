@@ -109,7 +109,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Finance Assistance</a>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a>
 </p>
 </li>
 <li>
