@@ -34,8 +34,7 @@ have any query or clarification.</p>
 <br>
 <br>
 <br>
-<br>Online Sales for self-collection during other periods
-<br><strong>By 7 Dec 2024</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +42,8 @@ have any query or clarification.</p>
 <br>Parents/Guardian are encouraged to purchase the books online at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>.
 <br>
 </p>
-<p><strong>For year end school purchase:</strong>
+<h4><strong>For year end school purchase:</strong></h4>
+<p>
 <br>Please be informed that the website will be opened during the following
 dates:
 <br>(a) 27 October to 1 November 2024 (For 2025, P1 students only)
@@ -59,16 +59,21 @@ is recommended to bring along a trolley to carry the books if you are parking
 further away from the school. The books will be packed into boxes.
 <br>
 </p>
-<p>For purchase during term time:
+<h4><strong>For purchase during term time: </strong></h4>
+<p></p>
+<p><strong><em>Opening hours</em></strong>
+<br>Mon- Fri: 7.30 a.m. to 3.00 p.m. (during school term)
+<br>
+<br><em>Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.</em>
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3. Transportation <br><br>Car Decal</strong>
+<p><strong>Transportation <br><br>Car Decal</strong>
 <br>
-<br><strong>By 1 Nov 2024</strong>
+<br>
 </p>
 <p></p>
 </td>
@@ -86,8 +91,7 @@ the QR code below if you require one. If you have requested for your complimenta
 car decal, it will distributed to you during the Primary 1 Orientation.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
-Office after the orientation and before 15 December 2024. Payment is by
-cash or QR code at our <strong>General Office</strong>.</p>
+Office. Payment is by QR code at our <strong>General Office</strong>.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -100,7 +104,7 @@ cash or QR code at our <strong>General Office</strong>.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Bus</strong>
 <br>
-<br><strong>By 15 Dec 2024</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,27 +115,28 @@ cash or QR code at our <strong>General Office</strong>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4. Student Care Centre (SCC)</strong>
+<p><strong>Student Care Centre (SCC)</strong>
 <br>
-<br><strong>By 15 Nov 2024</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The school-based SCC provides support for students without after-school
 care arrangements. You are invited to register your child if you are keen
-via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2024, 5pm.</strong> The
+via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a>  <strong>.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
 <p></p>
 <p><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_19Oct2024.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
 <br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
 </p>
+<p>(Note: Subject to vacancy)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5.School Uniform</strong>
+<p><strong>School Uniform</strong>
 <br>
-<br><strong>By 15 Nov 2024</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,14 +162,13 @@ socks. Hair accessories are to be in black or navy blue.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6.Submission of Student Details Form</strong>
+<p><strong>Submission of Student Details Form</strong>
 <br>
-<br><strong>From 25 Nov to 31 Dec 2024</strong>
+<br><strong>(This is for P1 2025 students only)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. As your child/ward will be starting Primary 1 in January 2025, the
-Ministry of Education (MOE) would like to collect necessary information
+<p>1. The Ministry of Education (MOE) would like to collect necessary information
 about you and your child/ward to provide educational services for your
 child/ward in our schools.
 <br>
@@ -174,9 +178,9 @@ Details Form portal from<strong> 25 Nov 2024</strong>.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7.Finance &amp; Payment</strong>
+<p><strong>Finance &amp; Payment</strong>
 <br>
-<br><strong>By 31 Dec 24</strong>
+<br>For P1 2025 students, please submit <strong>by 31 Dec 24.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +201,7 @@ programmes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8. Consent for Health Promotion Board</strong>
+<p><strong>Consent for Health Promotion Board</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +217,7 @@ and dental services.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9. Financial Assistance</strong>
+<p><strong>Financial Assistance</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,7 +236,7 @@ for school-based FAS. You may contact the school at 6468 4377 or email
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>10.POSB Smart Buddy</strong>
+<p><strong>POSB Smart Buddy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,7 +249,7 @@ More information is available on the <a href="https://www.posb.com.sg/personal/s
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11.Parent Volunteer Group (PVG)</strong>
+<p><strong>Parent Volunteer Group (PVG)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +265,7 @@ daughter(s)/wards(s) in the school to join the PVG.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12.Alumni Association (AA)</strong>
+<p><strong>Alumni Association (AA)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
