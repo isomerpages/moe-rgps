@@ -41,14 +41,15 @@ have any query or clarification.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Online sales</strong>
 <br>Parents/Guardian are encouraged to purchase the books online at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>.
-Attached is the booklist for more information.
 <br>
+</p>
+<p><strong>For year end school purchase:</strong>
 <br>Please be informed that the website will be opened during the following
 dates:
 <br>(a) 27 October to 1 November 2024 (For 2025, P1 students only)
 <br>(b) 26 November to 27 December 2024 (For all students)
 <br>
-<br><strong>Walk-in purchase (Venue: School canteen)</strong>
+<br><strong>Walk-in purchase (Venue: CCA Room near basketball court)</strong>
 <br>Please refer to the booklist for the available walk-in dates and payment
 modes. To shorten the waiting time, parents/guardian are encouraged to
 purchase the books online and reserve a time slot for pick up at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com.</a>
@@ -57,8 +58,9 @@ purchase the books online and reserve a time slot for pick up at <a href="https:
 is recommended to bring along a trolley to carry the books if you are parking
 further away from the school. The books will be packed into boxes.
 <br>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_2_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_1_RGPS_Primary_PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Online Purchase Guide</a>
+</p>
+<p>For purchase during term time:
+<br>
 </p>
 </td>
 </tr>
