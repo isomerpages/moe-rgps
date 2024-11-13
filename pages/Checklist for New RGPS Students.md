@@ -4,7 +4,7 @@ permalink: /checklist-for-new-rgps-students/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Checklist for Parents/Guardian of P1 Student in 2025</strong></h4>
+<h4><strong>Checklist for Parents/Guardian of New RGPS Students</strong></h4>
 <p>A warm welcome to the Raffles Girls’ Primary School family! We would like
 to share the following information and instructions with you to facilitate
 your child’s/ward’s smooth transition to our school.</p>
@@ -26,43 +26,9 @@ have any query or clarification.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P1 Orientation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The P1 2025 Orientation will be held on <strong>6 November 2024</strong>,
-from 2.00pm to 4.00pm. Please report to the school hall with your child/ward
-by 1.40pm.
+<p><strong>School Books</strong>
 <br>
-<br>Please be informed that parking within school premises is strictly not
-allowed. If you are driving, you may park at Greenwood Avenue or along
-Watten Drive. We seek the cooperation of all parents/guardian to exercise
-due care and adhere to the traffic and parking rules so as not to cause
-obstruction and inconvenience to residents and other road users.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1. Communication</strong>
 <br>
-<br><strong>By 1 Nov 2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents Gateway (PG) is the main communication channel between the school
-and parents/guardian. Please download the app on your phone as all school
-updates will be sent through PG subsequently.
-<br>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/1__Annex_A___One_Time_Onboarding__for_parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - One-Time Onboarding (For Parents)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2. School Books</strong>
-<br>
-<br>Online Sales for self-collection during P1 orientation
-<br><strong>By 1 Nov 2024</strong> 
 <br>
 <br>
 <br>
