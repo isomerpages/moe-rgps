@@ -160,7 +160,7 @@ and dental services after your child has started school.
 <br><em>Parents are only allow to enter the school bookshop from 2.00 p.m. to 3.00 p.m.</em>
 <br>
 <br>Please click on the required level to open / download the booklist for
-2024.</p>
+2025.</p>
 </td>
 </tr>
 </tbody>
