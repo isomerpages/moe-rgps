@@ -15,7 +15,7 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 | **Ms Kong Su May** |   | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
-| **Mrs Ong Lay Khim** |   | <a href="ong_lay_khim@schools.gov.sg">ong_lay_khim@schools.gov.sg</a>     |
+| **Ms Sujatha** |   | <a href="sujatha_paramathayalan@schools.gov.sg">sujatha_paramathayalan@schools.gov.sg</a>     |
 
 ### Vice Principal Admin
 
@@ -56,7 +56,6 @@ variant: markdown
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Chau Soo Eng June** | Subject Head - Math   | <a href="chau_soo_eng_june@schools.gov.sg">chau_soo_eng_june@schools.gov.sg</a>     |
-| **Miss Shannalyn Ng Jia Yun** | Subject Head - Math   | <a href="shannalyn_ng@schools.gov.sg">shannalyn_ng@schools.gov.sg</a>     |
 
 
 ### Mother Tongue Department
@@ -107,7 +106,7 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mdm Cassandra Quek Sock Cheng** | Subject Head - CCE   | <a href="quek_sock_cheng@schools.gov.sg">quek_sock_cheng@schools.gov.sg</a>     |
+| **Mdm Cassandra Quek Sock Cheng** | HOD - CCE   | <a href="quek_sock_cheng@schools.gov.sg">quek_sock_cheng@schools.gov.sg</a>     |
 | **Ms Farhani Hanafi-Shuy** | Subject Head - Student Well-Being   | <a href="noor_farhani_hanafi@schools.gov.sg">noor_farhani_hanafi@schools.gov.sg</a>     |
 
 ### Discipline, Guidance and Student Leadership Department
