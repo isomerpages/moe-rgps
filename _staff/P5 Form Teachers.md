@@ -4,7 +4,7 @@ permalink: /staff/p5-form-teachers/
 description: ""
 variant: markdown
 ---
-### **2024**
+### **2025**
 <table>
     <tbody><tr style="width:100%">
         <th style="width:40%">Name</th>
@@ -13,24 +13,19 @@ variant: markdown
     </tr>
     <tr>
         <td>Mdm June Chau</td>
-        <td>5A</td>
+        <td>6A</td>
         <td>chau_soo_eng_june@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Mr Phan Wai Mun</td>
-        <td>5A</td>
+        <td>6A</td>
         <td>phan_wai_mun@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Lim Sheau Tyan Audrey</td>
-        <td>5A</td>
-        <td>lim_sheau_tyan@schools.gov.sg</td>
+        <td>Mdm Ang Lay Nga</td>
+        <td>6A</td>
+        <td>ang_lay_nga@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mr Iskandar</td>
-        <td>5B</td>
-        <td>syed_iskandar_hamzah_a@schools.gov.sg</td>
-			</tr>
     <tr>
         <td>Mdm Zairinah</td>
         <td>5B</td>
@@ -41,6 +36,12 @@ variant: markdown
         <td>5B</td>
         <td>guo_jiguang@schools.gov.sg</td>
     </tr>
+			<tr>
+        <td>Mr Guo Jiguang</td>
+        <td>5B</td>
+        <td>guo_jiguang@schools.gov.sg</td>
+    </tr>
+			
 <tr>
         <td>Mrs Christina Lim</td>
         <td>5C</td>
@@ -111,6 +112,12 @@ variant: markdown
         <td>5H</td>
         <td>lee_tee_kai_thomas@schools.gov.sg</td>
     </tr>
+			 <tr>
+        <td>Mdm Lim Sheau Tyan Audrey</td>
+        <td>5A</td>
+        <td>lim_sheau_tyan@schools.gov.sg</td>
+    </tr>
+			
  <tr>
         <td>Mdm Liu Chunyan</td>
         <td>5H</td>
