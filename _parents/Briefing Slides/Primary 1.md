@@ -30,7 +30,8 @@ third_nav_title: Briefing Slides
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Briefing Slides 2025/Pri 1/P1_EL_Curriculum_2025.pdf" rel="noopener nofollow" target="_blank">English</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -41,7 +42,8 @@ third_nav_title: Briefing Slides
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Briefing Slides 2025/Pri 1/P1_Math_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Math</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -52,7 +54,8 @@ third_nav_title: Briefing Slides
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Briefing Slides 2025/Pri 1/P1_MT_curriculum_briefing_2025.pdf" rel="noopener nofollow" target="_blank">Mother Tongue (MT)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
