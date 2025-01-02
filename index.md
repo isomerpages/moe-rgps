@@ -23,14 +23,6 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
-  - infopic:
-      title: P1 Orientation Briefing Slides
-      subtitle: To 2025 P1 RGPS Parents
-      id: infopic
-      image: /images/p1orientation_briefing.jpg
-      alt: Image alt text
-      button: Click here
-      url: /p1orientation/
   - infobar:
       title: Briefing Slides
       subtitle: "2025"
