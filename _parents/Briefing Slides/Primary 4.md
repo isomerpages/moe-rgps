@@ -53,7 +53,7 @@ third_nav_title: Briefing Slides
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2025/Pri 4/P4_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science5</a>
+<p><a href="/files/Briefing Slides 2025/Pri 4/P4_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science</a>
 </p>
 </td>
 </tr>
