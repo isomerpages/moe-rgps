@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Briefing Slides
 ---
-<h3><strong>2024</strong></h3>
+<h3><strong>2025</strong></h3>
 <h3><strong>Primary 4</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -53,7 +53,7 @@ third_nav_title: Briefing Slides
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2025/Pri 4/P4_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science</a>
+<p><a href="/files/Briefing Slides 2025/Pri 4/P4_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science5</a>
 </p>
 </td>
 </tr>
