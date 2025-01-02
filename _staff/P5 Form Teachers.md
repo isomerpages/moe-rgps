@@ -28,18 +28,18 @@ variant: markdown
     </tr>
     <tr>
         <td>Mdm Zairinah</td>
-        <td>5B</td>
+        <td>6B</td>
         <td>zairinah_faizal@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Mr Guo Jiguang</td>
-        <td>5B</td>
+        <td>6B</td>
         <td>guo_jiguang@schools.gov.sg</td>
     </tr>
 			<tr>
-        <td>Mr Guo Jiguang</td>
-        <td>5B</td>
-        <td>guo_jiguang@schools.gov.sg</td>
+        <td>Mdm Goh E-Lynn</td>
+        <td>6B</td>
+        <td>goh_e-lynn@schools.gov.sg</td>
     </tr>
 			
 <tr>
