@@ -31,17 +31,9 @@ sections:
       alt: Image alt text
       button: Click here
       url: /p1orientation/
-  - infopic:
-      title: GEP E-Open House
-      subtitle: Welcome to RGPS
-      id: infopic
-      button: for More Info
-      url: /gepoh/
-      image: /images/gepsite.png
-      alt: Image alt text
   - infobar:
       title: Briefing Slides
-      subtitle: "2024"
+      subtitle: "2025"
       id: infobar
       button: Click Here
       url: parents/briefing-slides/pri1/
