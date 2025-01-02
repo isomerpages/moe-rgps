@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Briefing Slides
 ---
-<h3><strong>2024</strong></h3>
+<h3><strong>2025</strong></h3>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -23,100 +23,37 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_Jan_2024_P_s_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address</a>
+<p><a href="/files/Briefing Slides 2025/Pri 5/P5_EL_Curriculum_2025.pdf" rel="noopener nofollow" target="_blank">English</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_Jan_2024_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Level Matters</a>
+<p><a href="/files/Briefing Slides 2025/Pri 5/P5_Math_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Math</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_Jan_2024_CCE_Sharing.pdf" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education (CCE)</a>
+<p><a href="/files/Briefing Slides 2025/Pri 5/P5_MT_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Mother Tongue (MT)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM__Jan_2024_Aesthetics.pdf" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_Jan_2024_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">Physical Education (PE)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_JAN_2024_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_Jan_2024_Math.pdf" rel="noopener noreferrer nofollow" target="_blank">Math</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_Jan_2024_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_PTM_Jan_2024_MTL.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Language</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/Parents_Briefing_RGPS_P5_2024_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing RGPS P5 Camp</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P5/P5_briefing_on_DSA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Briefing on DSA 2024</a>
+<p><a href="/files/Briefing Slides 2025/Pri 5/P5_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science</a>
 </p>
 </td>
 </tr>

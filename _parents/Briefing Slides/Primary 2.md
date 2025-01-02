@@ -5,4 +5,49 @@ description: ""
 variant: tiptap
 third_nav_title: Briefing Slides
 ---
-<h3><strong>2024</strong></h3><h4><strong>Primary 2</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>File</p></th></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing Slides 2024/P2/P2_PTM_Jan_2024_Principal_s_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Level Matters</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education (CCE)</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Aesthetics.pdf" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_PAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme of Active Learning (PAL)</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">Physical Education (PE)</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_English.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_Math.pdf" rel="noopener noreferrer nofollow" target="_blank">Math</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Jan</p></td><td rowspan="1" colspan="1"><p><a href="/files/Briefing%20Slides%202024/P2/P2_PTM_Jan_2024_MT.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue (MT)</a></p></td></tr></tbody></table><p></p>
+<h3><strong>2025</strong></h3>
+<h4><strong>Primary 2</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>File</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/P2_EL_Curriculum_2025.pdf" rel="noopener nofollow" target="_blank">English</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/P2_Math_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Math</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/P2_MT_curriculum_briefing_2025.pdf" rel="noopener nofollow" target="_blank">Mother Tongue (MT)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -5,9 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Briefing Slides
 ---
-<h3><strong>2024</strong></h3>
+<h3><strong>2025</strong></h3>
 <h4><strong>Primary 6</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,91 +23,37 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_P_s_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address</a>
+<p><a href="/files/Briefing Slides 2025/Pri 6/P6_EL_Curriculum_2025.pdf" rel="noopener nofollow" target="_blank">English</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Level Matters</a>
+<p><a href="/files/Briefing Slides 2025/Pri 6/P6_Math_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Math</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education (CCE)</a>
+<p><a href="/files/Briefing Slides 2025/Pri 6/P6_MT_curriculum_briefing_2025.pdf" rel="noopener nofollow" target="_blank">Mother Tongue (MT)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Jan</p>
+<p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_Aesthetics.pdf" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">Physical Education (PE)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_English.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_Math.pdf" rel="noopener noreferrer nofollow" target="_blank">Math</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2024/P6/P6_PTM_Jan_2024_MT.pdf" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Language</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides/P6/P6_PSLE_Briefing__6_March_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 PSLE Briefing (6 March)</a>
+<p><a href="/files/Briefing Slides 2025/Pri 6/P6_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science</a>
 </p>
 </td>
 </tr>

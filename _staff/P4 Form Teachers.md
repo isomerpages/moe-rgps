@@ -4,116 +4,107 @@ permalink: /staff/p4-form-teachers/
 description: ""
 variant: markdown
 ---
-### **2024**
+### **2025**
 <table>
     <tbody><tr style="width:100%">
         <th style="width:40%">Name</th>
         <th style="width:10%">Class</th>
         <th style="width:50%">Email</th>
     </tr>
-    <tr>
-        <td>Mdm Goh E-Lynn</td>
+<tr>
+        <td>Mr Ronald Lee</td>
         <td>4A</td>
-        <td>goh_e-lynn@schools.gov.sg</td>
+        <td>lee_joo_meng_ronald@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Ms Loo Ching Yee</td>
+   <tr>
+        <td>Mdm Janice Lim (Mrs Low)</td>
         <td>4A</td>
-        <td>loo_ching_yee@schools.gov.sg</td>
+        <td>lim_jan_yuen_janice@schools.gov.sg</td>
     </tr>
-				 <tr>
+<tr>
         <td>Ms Nasyitah</td>
-        <td>4A</td>
+        <td>4B</td>
         <td>nasyitah_razali@schools.gov.sg</td>
     </tr>
-    <tr>
-        <td>Mdm Rayhanah Mohd</td>
+<tr>
+        <td>Mr Seah Nam Sin</td>
         <td>4B</td>
-        <td>rayhanah_mohd@schools.gov.sg</td>
+        <td>seah_nam_sin@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Ms Fang Ping</td>
+        <td>Ms Lee Mei</td>
         <td>4B</td>
-        <td>fang_ping@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Mdm Grace Tan Yong Ying</td>
-        <td>4B</td>
-        <td>grace_tan_yong_ying@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Haslinda</td>
+        <td>lee_mei@schools.gov.sg</td>
+    </tr>		
+   <tr>
+        <td>Mdm Yue Siew Lee</td>
         <td>4C</td>
-        <td>haslinda_adaham@schools.gov.sg</td>
+        <td>yue_siew_lee@schools.gov.sg</td>
+</tr>
+   <tr>
+        <td>Ms Khoo Wai Ling</td>
+        <td>4C</td>
+        <td>khoo_wai_ling@schools.gov.sg</td>
     </tr>
-    <tr>
+<tr>
+        <td>Ms Elaine Mok</td>
+        <td>4D</td>
+        <td>elaine_mok_shun_cheng@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Thong Kar Fong</td>
+        <td>4D</td>
+        <td>thong_kar_fong@schools.gov.sg</td>
+    </tr>			
+ <tr>
+        <td>Mdm Guo Fengling</td>
+        <td>4E</td>
+        <td>guo_fengling@schools.gov.sg</td>
+    </tr>
+   <tr>
         <td>Mdm Lee Shiao Huai</td>
-        <td>4C</td>
+        <td>4E</td>
         <td>lee_shiao_huai@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Ms Gomes Alicia Bernice</td>
-        <td>4D</td>
-        <td>alicia_bernice_gomes@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mr Ronald Lee</td>
-        <td>4D</td>
-        <td>lee_joo_meng_ronald@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Ms Ho Shwu Huey</td>
-        <td>4E</td>
-        <td>ho_shwu_huey@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Mdm Toh Dea Beng</td>
-        <td>4E</td>
-        <td>toh_dea_beng@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Sashikala</td>
+        <td>Ms Haslinda</td>
         <td>4F</td>
-        <td>sashikala_shamugam@schools.gov.sg</td>
+        <td>haslinda_adaham@schools.gov.sg</td>
     </tr>
-			    <tr>
-        <td>Mdm Yue Siew Lee</td>
+  <tr>
+        <td>Ms Loo Ching Yee</td>
         <td>4F</td>
-        <td>yue_siew_lee@schools.gov.sg</td>
-			</tr>
-    <tr>
-        <td>Mdm Teng Mui Noi</td>
+        <td>loo_ching_yee@schools.gov.sg</td>
+    </tr>
+ <tr>
+        <td>Ms Tan Li Peng</td>
         <td>4G</td>
-        <td>teng_mui_noi@schools.gov.sg</td>
+        <td>tan_li_peng@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Mdm Tan Mei Fang</td>
+        <td>Mr Gerald Ang</td>
         <td>4G</td>
-        <td>tan_mei_fang_a@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mr Ho Kai Huat</td>
-        <td>4H</td>
-        <td>ho_kai_huat@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Ms Lim Chiat Hwee</td>
-        <td>4H</td>
-        <td>lim_chiat_hwee@schools.gov.sg</td>
-    </tr>
-    <tr>
-        <td>Mdm Tan Hwee Hoon</td>
-        <td>4I</td>
-        <td>tan_hwee_hoon_a@schools.gov.sg</td>
+        <td>ang_eu_jin_gerald_a@schools.gov.sg
+</td>
     </tr>
 <tr>
-        <td>Ms Shaheda Salim</td>
-        <td>4I</td>
-        <td>shaheda_salim@schools.gov.sg</td>
+        <td>Ms Wendy Ng Kim Noy</td>
+        <td>4H</td>
+        <td>ng_kim_noy_wendy_a@schools.gov.sg</td>
     </tr>
-			<tr>
-        <td>Mdm Tan Ah Suan Jean</td>
+<tr>
+        <td>Mdm Kavitha</td>
+        <td>4H</td>
+        <td>kavitha_selvananthan@schools.gov.sg</td>
+    </tr>   
+<tr>
+        <td>Mrs Tanabal</td>
         <td>4I</td>
-        <td>tan_ah_suan_a@schools.gov.sg</td>
+        <td>Kalaimani_Tanabal@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Grace Tan Yong Ying</td>
+        <td>4I</td>
+        <td>grace_tan_yong_ying@schools.gov.sg</td>
     </tr>
 </tbody></table>

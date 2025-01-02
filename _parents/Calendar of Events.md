@@ -2,9 +2,14 @@
 title: Calendar of Events
 permalink: /parents/COE/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **2024**
-
-![](/images/COE%202024/T3_2024.jpg)
-![](/images/COE%202024/T4_2024.jpg)
+<h3><strong>2025</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Term1_2025.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Term2_2025.png">
+</div>
+<p></p>
