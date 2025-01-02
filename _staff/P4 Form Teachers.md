@@ -11,20 +11,12 @@ variant: markdown
         <th style="width:10%">Class</th>
         <th style="width:50%">Email</th>
     </tr>
-    <tr>
-        <td>Mdm Goh E-Lynn</td>
-        <td>4A</td>
-        <td>goh_e-lynn@schools.gov.sg</td>
-    </tr>
+	
+ 
     <tr>
         <td>Ms Loo Ching Yee</td>
         <td>4A</td>
         <td>loo_ching_yee@schools.gov.sg</td>
-    </tr>
-				 <tr>
-        <td>Ms Nasyitah</td>
-        <td>4A</td>
-        <td>nasyitah_razali@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mdm Rayhanah Mohd</td>
