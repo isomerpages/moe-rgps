@@ -11,3 +11,4 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
+|30 Dec|[P6 Jan Circular](/files/Notification%202025/Pri%206/RGPS_N25_P6_001.pdf)|
