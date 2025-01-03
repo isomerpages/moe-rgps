@@ -29,4 +29,12 @@ sections:
       id: infobar
       button: Click Here
       url: parents/briefing-slides/pri1/
+  - infopic:
+      title: MS TEAMS
+      subtitle: Parents' Guide
+      id: infopic
+      button: Click here
+      url: /ms-teams
+      image: /images/Screenshot_2025_01_03_124441.png
+      alt: Image alt text
 ---
