@@ -23,12 +23,6 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
-  - infobar:
-      title: Briefing Slides
-      subtitle: "2025"
-      id: infobar
-      button: Click Here
-      url: parents/briefing-slides/pri1/
   - infopic:
       title: MS TEAMS
       subtitle: Parents' Guide
@@ -37,4 +31,10 @@ sections:
       url: /ms-teams
       image: /images/Screenshot_2025_01_03_124441.png
       alt: Image alt text
+  - infobar:
+      title: Briefing Slides
+      subtitle: "2025"
+      id: infobar
+      button: Click Here
+      url: parents/briefing-slides/pri1/
 ---
