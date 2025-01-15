@@ -32,10 +32,10 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan</p>
+<p>15 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2025/Pri 3/P3_Math_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Math</a>
+<p><a href="/files/Briefing Slides 2025/Pri 3/P3_Math.pdf" rel="noopener nofollow" target="_blank">Math (updated)</a>
 </p>
 </td>
 </tr>
@@ -53,8 +53,33 @@ third_nav_title: Briefing Slides
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2025/Pri 3/P3_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science5</a>
+<p><a href="/files/Briefing Slides 2025/Pri 3/P3_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 3/P3_Year_Head_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Level briefing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
