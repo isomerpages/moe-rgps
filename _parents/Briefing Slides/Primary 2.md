@@ -32,10 +32,10 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan</p>
+<p>15 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2025/Pri 2/P2_Math_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Math</a>
+<p><a href="/files/Briefing Slides 2025/Pri 2/P2_Math.pdf" rel="noopener nofollow" target="_blank">Math (updated)</a>
 </p>
 </td>
 </tr>
@@ -45,6 +45,60 @@ third_nav_title: Briefing Slides
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Briefing Slides 2025/Pri 2/P2_MT_curriculum_briefing_2025.pdf" rel="noopener nofollow" target="_blank">Mother Tongue (MT)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/P2_Level_Matters.pdf" rel="noopener nofollow" target="_blank">P2 Level Matters</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/P2_CCE.pdf" rel="noopener nofollow" target="_blank">CCE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/P2_Aesthetics_2025_updated.pdf" rel="noopener nofollow" target="_blank">Aesthetics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/4__P2_PE_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 2/5__P1_PAL.pdf" rel="noopener nofollow" target="_blank">PAL</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 3/PTM_P_s_Slides_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Principal's Slides</a>
 </p>
 </td>
 </tr>

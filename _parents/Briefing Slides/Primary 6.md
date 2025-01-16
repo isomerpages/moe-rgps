@@ -32,10 +32,10 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan</p>
+<p>15 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2025/Pri 6/P6_Math_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Math</a>
+<p><a href="/files/Briefing Slides 2025/Pri 6/P6_Math.pdf" rel="noopener nofollow" target="_blank">Math (updated)</a>
 </p>
 </td>
 </tr>
@@ -54,6 +54,51 @@ third_nav_title: Briefing Slides
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Briefing Slides 2025/Pri 6/P6_Science_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Science</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 6/P6_Parent_Teacher_Meeting__Level_Matters_.pdf" rel="noopener nofollow" target="_blank">P6 Level Matters</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 6/P6_PTM_Website_Jan_2025_CCE.pdf" rel="noopener nofollow" target="_blank">CCE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 6/6_P6_Aesthetics_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">Aesthetics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 6/5_P6_PE_Curriculum_Briefing_2025.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 3/PTM_P_s_Slides_Jan_2025.pdf" rel="noopener nofollow" target="_blank">Principal's Slides</a>
 </p>
 </td>
 </tr>
