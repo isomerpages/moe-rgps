@@ -44,7 +44,7 @@ variant: markdown
 <tr>
         <td>Ms Angie Loo</td>
         <td>5C</td>
-        <td> - </td>
+        <td>angie_loo@schools.gov.sg</td>
     </tr>
  <tr>
         <td>Mdm Teng Mui Noi</td>
