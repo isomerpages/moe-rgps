@@ -117,7 +117,7 @@ affected, even when one’s body is experiencing changes due to puberty.
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ own responses when they encounter pornography by applying the strategy<strong><e
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ and how to seek help for themselves and their friends.
 so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 4</p>
+<p>Term 4 Week 3</p>
 </td>
 </tr>
 </tbody>
@@ -197,7 +197,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Term 4 Week 4</p>
 </td>
 </tr>
 <tr>
