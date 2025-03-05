@@ -102,6 +102,15 @@ third_nav_title: Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 4/P4_Parents__Briefing_5_March_2025_SBB_v2.pdf" rel="noopener nofollow" target="_blank">P4 Parents Briefing for Subject-based Banding</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
