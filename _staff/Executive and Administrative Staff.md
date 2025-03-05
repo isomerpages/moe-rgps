@@ -9,7 +9,7 @@ variant: markdown
 | |  |  | 
 | -------- | -------- | -------- |
 | **Ms Vicky Koh** |   | <a href="koh_hwee_khee@schools.gov.sg">koh_hwee_khee@schools.gov.sg</a> |
-
+| **Ms Liu Shuli** |   | <a href="liu_shuli@schools.gov.sg">liu_shuli@schools.gov.sg</a> |
 
 ### Operations Manager
 
