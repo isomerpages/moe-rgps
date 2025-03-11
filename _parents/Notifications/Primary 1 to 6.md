@@ -8,4 +8,3 @@ variant: markdown
 ### **2025**
 
 ##### Term 1
-
