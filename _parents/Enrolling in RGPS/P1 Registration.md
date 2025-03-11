@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Enrolling in RGPS
 variant: markdown
 ---
-### *2022 Primary 1 Registration Exercise*
+### *Primary 1 Registration Exercise*
 
 Parents may refer to Ministry of Education (MOE) [website](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates) for information regarding Primary One Registration Exercise.
  
