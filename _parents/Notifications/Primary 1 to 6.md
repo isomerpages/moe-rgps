@@ -9,5 +9,3 @@ variant: markdown
 
 ##### Term 1
 
-| Date| Level|File | 
-| -------- | -------- | -------- | 
