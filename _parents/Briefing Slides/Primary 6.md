@@ -104,11 +104,10 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Briefing Slides 2025/Pri 6/2025_Briefing_for_P6_Parents__12_March_.pdf" rel="noopener nofollow" target="_blank">Briefing on PSLE Matter</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
