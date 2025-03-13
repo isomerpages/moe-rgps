@@ -15,7 +15,7 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 | **Ms Kong Su May** |   | <a href="kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
-| **Ms Sujatha** |   | <a href="sujatha_paramathayalan@schools.gov.sg">sujatha_paramathayalan@schools.gov.sg</a>     |
+| **Ms Sujatha Paramathayalan** |   | <a href="sujatha_paramathayalan@schools.gov.sg">sujatha_paramathayalan@schools.gov.sg</a>     |
 
 ### Vice Principal Admin
 
