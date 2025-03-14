@@ -17,3 +17,4 @@ variant: markdown
 |5 Feb|[P6 February Circular](/files/Notification%202025/Pri%206/P6.pdf)<br>[Triple P Program](/files/Notification%202025/Pri%201/Triple_P_PG_Notification_Indicate_Interest_2025_Flyer.pdf)<br>[Inspiring EL Award 2025](/files/Notification%202025/Pri%201/Inspiring_EL_Award_2025.pdf)|
 |5 Mar|[P6 March Circular](/files/Notification%202025/Pri%206/RGPS_N25_P6_012.pdf)|
 |10 Mar|[P6 Raffles Experience Day](/files/Notification%202025/Pri%206/P6_Raffles_Experience_Day_PG_2025_final___Consent_required_.pdf)|
+|12 Mar|[Briefing for P6 Parents on PSLE Scoring, Full Subject-based Banding &amp; Sec 1 Posting](/files/Briefing%20Slides%202025/Pri%206/2025_Briefing_for_P6_Parents__12_March__compressed.pdf) <br>[Video on Explore School Choices](https://www.rafflesgirlspri.moe.edu.sg/explore-school-choices-dsa-to-secondary-school/)|
