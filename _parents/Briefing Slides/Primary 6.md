@@ -104,10 +104,20 @@ third_nav_title: Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Briefing Slides 2025/Pri 6/2025_Briefing_for_P6_Parents__12_March__compressed.pdf" rel="noopener nofollow" target="_blank">PSLE Scoring, Full Subject-based Banding &amp; Sec 1 Posting</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.rafflesgirlspri.moe.edu.sg/explore-school-choices-dsa-to-secondary-school/" rel="noopener nofollow" target="_blank">Video on Explore School Choices </a>
+</p>
 </td>
 </tr>
 </tbody>
