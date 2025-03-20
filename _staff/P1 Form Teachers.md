@@ -14,17 +14,12 @@ variant: markdown
     <tr>
         <td>Mdm Lee Chi Loo</td>
         <td>1A</td>
-        <td> -</td>
+        <td>teo_chi_loo@schools.gov.sg</td>
     </tr>
     <tr>
         <td>Mdm Poh Weijing</td>
         <td>1A</td>
         <td>poh_weijing@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Mrs Kimberly Bell</td>
-        <td>1B</td>
-        <td>kimberly_bell@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Ang Qin Ying Cindy</td>
