@@ -2,6 +2,7 @@
 title: English
 permalink: /departments/english/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 To equip our students with literacy skills that enable them to be linguistically competent and confident users of the English Language.
@@ -85,10 +86,6 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Joyce Tan Choon Yee</td>
   </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mrs Kimberly Bell</td>
-  </tr>
 	  <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mrs Khoo Cheng Eng</td>
@@ -145,7 +142,7 @@ The programme aims to: <br>
 * sensitise students to global issues (social, environmental, cultural, humanitarian, economic, political etc);<br>
 * instil empathy in our students as they view global issues through multiple perspectives (countries which they represent);<br>
 * develop students’ critical thinking routines;<br>
-* enhance students’ information search & research skills; and<br>
+* enhance students’ information search &amp; research skills; and<br>
 * enhance students’ oracy and communication skills through debates of issues.
 
 **Programme Outline**<br>
@@ -156,7 +153,7 @@ JMUN is a multidisciplinary activity where participants take the roles of delega
 **Objectives**<br>
 This programme aims to teach students to: <br>
 * provide students the opportunity to write creatively outside of their usual composition format;<br>
-* nurture creative thinking when students are encouraged to exaggerate a particular incident to create a tall tale; <br>
+* nurture creative thinking when students are encouraged to exaggerate a particular incident to create a tall tale;&nbsp;<br>
 * develop critical thinking skills when students are asked to reflect on the contrast between life in the past and life today, and how it is likely to be in the future;<br>
 * encourage students to develop characters in stories by providing reasons for action and solving a problem;<br>
 * teach students to develop plots by describing actions and emotions of characters, using story elements.
@@ -219,7 +216,7 @@ Teachers will assess students using different modes of assessment both formally 
 There are **no weighted assessments, mid-year examination and end-of-year examination** for the students in the year.
 
 #### P3 – P6<br>
-**P3 & 5 Weighted Assessment**<br>
+**P3 &amp; 5 Weighted Assessment**<br>
 In line with MOE’s direction to reduce school-based assessment and nurture lifelong learners, the school will not hold any mid-year examination for **all levels**. Students’ learning will continue to be monitored and appropriate support will be provided. Current practices to gather information about students’ learning through class discussions, homework, topical tests remain to support students’ development and achievement in learning.
 
 Bite-sized forms of weighted assessments will be conducted in different terms. The table below shows an overview:
@@ -278,10 +275,10 @@ Bite-sized forms of weighted assessments will be conducted in different terms. T
 
 |  | Mid-Year Examination (MYE) | End-of-Year Examination (EYE) | 
 | ----------- | ---------- | ---------- |
-| Primary 3 | No MYE | * Composition Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
-| Primary 4 | No MYE | * Composition Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
-| Primary 5 | No MYE | * Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
-| Primary 6 | No MYE |* Situational & Continuous Writing<br>* Language Use & Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 3 | No MYE | * Composition Writing<br>* Language Use &amp; Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 4 | No MYE | * Composition Writing<br>* Language Use &amp; Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 5 | No MYE | * Situational &amp; Continuous Writing<br>* Language Use &amp; Comprehension<br>* Listening Comprehension<br>* Oral
+| Primary 6 | No MYE |* Situational &amp; Continuous Writing<br>* Language Use &amp; Comprehension<br>* Listening Comprehension<br>* Oral
 
 #### **Social Studies**
 
