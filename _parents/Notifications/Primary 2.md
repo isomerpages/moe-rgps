@@ -15,7 +15,7 @@ variant: markdown
 |3 Mar|[P2 March Circular](/files/Notification%202025/Pri%202/RGPS_N25_P2_005.pdf)|
 |10 Mar|[P2 Raffles Experience Day](/files/Notification%202025/Pri%202/P2_Raffles_Experience_Day_PG_2025_final__Consent_required_.pdf)|
 
-##### Term 1
+##### Term 2
 
 | Date| File | 
 | -------- | -------- |
