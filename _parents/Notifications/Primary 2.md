@@ -14,3 +14,9 @@ variant: markdown
 |5 Feb|[P2 February Circular](/files/Notification%202025/Pri%202/P2.pdf)<br>[Triple P Program](/files/Notification%202025/Pri%201/Triple_P_PG_Notification_Indicate_Interest_2025_Flyer.pdf)<br>[Inspiring EL Award 2025](/files/Notification%202025/Pri%201/Inspiring_EL_Award_2025.pdf)|
 |3 Mar|[P2 March Circular](/files/Notification%202025/Pri%202/RGPS_N25_P2_005.pdf)|
 |10 Mar|[P2 Raffles Experience Day](/files/Notification%202025/Pri%202/P2_Raffles_Experience_Day_PG_2025_final__Consent_required_.pdf)|
+
+##### Term 2
+
+| Date| File | 
+| -------- | -------- |
+|2 Apr|[P2 April Circular](/files/Notification%202025/Pri%202/RGPS_N25_P2_009.pdf)|

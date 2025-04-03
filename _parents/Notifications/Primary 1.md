@@ -17,3 +17,9 @@ variant: markdown
 |15 Jan|[Annex A For P1](/files/Notification%202025/Pri%201/Annex_A__For_P1_only_.pdf)|
 |5 Feb|[P1 February Circular](/files/Notification%202025/Pri%201/P1.pdf)<br>[Triple P Program](/files/Notification%202025/Pri%201/Triple_P_PG_Notification_Indicate_Interest_2025_Flyer.pdf)<br>[Inspiring EL Award 2025](/files/Notification%202025/Pri%201/Inspiring_EL_Award_2025.pdf)|
 |5 Mar|[P1 March Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_005.pdf)|
+
+##### Term 2
+
+| Date| File | 
+| -------- | -------- |
+|2 Apr|[P1 April Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_007.pdf)|
