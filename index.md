@@ -26,10 +26,10 @@ sections:
   - infopic:
       title: P5 Camp Briefing Slides
       id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/P5camp.jpg
+      button: Click Here
+      image: /images/P5camp_Small.jpg
       alt: Image alt text
+      url: /parents/briefing-slides/pri5/
   - infopic:
       title: MS TEAMS
       subtitle: Parents' Guide
