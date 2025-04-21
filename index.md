@@ -24,6 +24,13 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
+      title: P5 Camp Briefing Slides
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/P5camp.jpg
+      alt: Image alt text
+  - infopic:
       title: MS TEAMS
       subtitle: Parents' Guide
       id: infopic
