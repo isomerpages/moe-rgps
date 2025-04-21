@@ -102,6 +102,15 @@ third_nav_title: Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Briefing Slides 2025/Pri 5/RGPS_Briefing_Slides_P5_2025_LAC_Parents__edited__v2_compressed__1_.pdf" rel="noopener nofollow" target="_blank">P5 Camp Briefing Slides</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
