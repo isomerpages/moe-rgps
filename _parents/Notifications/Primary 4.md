@@ -22,3 +22,4 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |2 April|[P4 April Circular](/files/Notification%202025/Pri%204/RGPS_N25_P4_015.pdf)|
+|7 May|[P4 May Circulars](/files/Notification%202025/Pri%204/RGPS_N25_P4_019.pdf)|
