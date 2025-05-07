@@ -24,3 +24,4 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |2 April|[P6 April Circular](/files/Notification%202025/Pri%206/RGPS_N25_P6_014.pdf)|
+|7 May|[P6 May Circulars](/files/RGPS_N25_P6_017.pdf)<br>[P6 Parenting Talk](/files/Notification%202025/Pri%206/P5_P6_Parenting_Talk___Gear_Up_for_PSLE_Webinar_2025_Flyer.pdf)<br>[P6 Triple P](/files/Notification%202025/Pri%206/P1_P6_Triple_P_PG_Notification_Mid_Year_Indicate_Interest_Flyer.pdf)
