@@ -67,9 +67,9 @@ variant: markdown
         <td>eng_aik_boo@schools.gov.sg</td>
     </tr>
  <tr>
-        <td>Mr Ting Seng Eng</td>
+        <td>Ms Thivya</td>
         <td>3E</td>
-        <td>ting_seng_eng_a@schools.gov.sg</td>
+        <td>thivyadlo_gopalkrishnan@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Shaheda Salim</td>
