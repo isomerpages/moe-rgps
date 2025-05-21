@@ -26,6 +26,11 @@ variant: markdown
         <td>1B</td>
         <td>ang_qin_ying_cindy@schools.gov.sg</td>
     </tr>
+			<tr>
+        <td>Mdm Sheri Teoh Swee Phing</td>
+        <td>1B</td>
+        <td>sheri_teoh_swee_phing@schools.gov.sg</td>
+    </tr>
 <tr>
         <td>Ms Leong Oon Ho</td>
         <td>1C</td>
