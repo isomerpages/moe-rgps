@@ -145,7 +145,8 @@ school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" 
 <p>Pupils who are on LOA and returning to Singapore for a short period of
 time can join the school for an Immersion Programme.
 <br>
-<br>For such cases, please fill in the <a href="/files/Forms/Immersion%20Form%20for%20application.pdf" rel="noopener noreferrer nofollow" target="_blank">Immersion Programme Application Form</a>.</p>
+<br>For such cases, please fill in the <a href="https://go.gov.sg/rgps-loa" rel="noopener nofollow" target="_blank">Immersion Programme Application Form</a>
+</p>
 </td>
 </tr>
 <tr>
