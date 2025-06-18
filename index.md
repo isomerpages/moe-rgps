@@ -24,6 +24,14 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
+      title: Canteen Stall Vacancy
+      subtitle: Halal RICE/Noodle
+      id: infopic
+      button: More Information
+      url: /canteen-vendor/
+      alt: Image alt text
+      image: /images/halalstall.png
+  - infopic:
       title: MS TEAMS
       subtitle: Parents' Guide
       id: infopic
