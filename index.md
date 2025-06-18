@@ -30,7 +30,7 @@ sections:
       button: More Information
       url: /canteen-vendor/
       alt: Image alt text
-      image: /images/halalstall.png
+      image: /images/Malay_halal.png
   - infopic:
       title: MS TEAMS
       subtitle: Parents' Guide
