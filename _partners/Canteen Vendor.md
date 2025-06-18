@@ -4,15 +4,16 @@ permalink: /canteen-vendor/
 variant: tiptap
 description: ""
 ---
-<h4>Halal Rice/Noodle Stall </h4>
+<h4>Halal Rice/Noodle Stall</h4>
 <p>We would like to invite interested applicants to operate the stall from <strong><em>July 2025</em></strong>.</p>
 <p>If you are interested or know of anyone who is interested, please refer
 them to our school.</p>
 <p></p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
-<p>1. Download and complete the application form. You may also request for
-a hardcopy form from the School’s General Office from <strong><em>8am to 5pm</em></strong>.</p>
+<p>1. Download and complete the <a href="https://staging-lite.djf06u866wdve.amplifyapp.com/files/About/Canteen/application form for canteen stalls.pdf" rel="noopener nofollow" target="_blank">application form</a>.
+You may also request for a hardcopy form from the School’s General Office
+from <strong><em>8am to 5pm</em></strong>.</p>
 <p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
