@@ -26,5 +26,5 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
-|26 Jun|[P2 July Circular](/files/Notification%202025/Pri%202/RGPS_N25_P2_012.pdf)|
+|26 Jun|[P2 July Circular](/files/Notification%202025/Pri%202/RGPS_N25_P2_012.pdf)<br>[Advisory from PUB and LTA](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)<br>[NCADA World Drug Day 2025](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)|
 |2 Jul|
