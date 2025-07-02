@@ -30,5 +30,5 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
-|26 Jun|[P6 July Circular](/files/Notification%202025/Pri%206/RGPS_N25_P6_021.pdf)<br>[Advisory from PUB and LTA](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)<br>[NCADA World Drug Day 2025](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)|
-|2 Jul|
+|26 Jun|[P6 July Circular (Part 1)](/files/Notification%202025/Pri%206/RGPS_N25_P6_021.pdf)<br>[Advisory from PUB and LTA](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)<br>[NCADA World Drug Day 2025](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)|
+|2 Jul|[P6 July Circular (Part 2)](/files/Notification%202025/Pri%206/RGPS_N25_P6_023.pdf)<br>[P3 to P6 only_Parenting Webinar_Helping your Child Cope with Exam Stress](/files/Notification%202025/Pri%201%20to%206/P3_to_P6_only_Parenting_Webinar_Helping_your_Child_Cope_with_Exam_Stress.pdf)<br>[All Levels_Triple P Seminar for Grandparents](/files/Notification%202025/Pri%201%20to%206/All_Levels_Triple_P_Seminar_for_Grandparents.pdf)|
