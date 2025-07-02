@@ -97,7 +97,6 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Ms S Thivyaa Tharrshini** | HOD ICT &amp; Data Management   | <a href="S_thivyaa_tharrshini@schools.gov.sg">S_thivyaa_tharrshini@schools.gov.sg</a>     |
 | **Ms Ang Kai Mei** | Subject Head - ICT   | <a href="ang_kai_mei@schools.gov.sg">ang_kai_mei@schools.gov.sg</a>     |
 | **Mr Seah Nam Sin** | Subject Head - Data Management   | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
 
@@ -113,5 +112,4 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mdm Woon Wei Yien, Jane** | HOD - Discipline, Guidance and Leadership   | <a href="woon_wei_yien_jane@schools.gov.sg">woon_wei_yien_jane@schools.gov.sg</a>     |
 | **Mdm Goh E-Lynn** | Subject Head - Student Leadership   | <a href="goh_e-lynn@schools.gov.sg">goh_e-lynn@schools.gov.sg</a>     |
