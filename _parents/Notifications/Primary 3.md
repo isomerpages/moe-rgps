@@ -134,6 +134,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 3/Letter__9_July__and_Information_on__GEP.pdf" rel="noopener nofollow" target="_blank">Gifted Education Programme (GEP) Screening Exercise 2025 </a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
