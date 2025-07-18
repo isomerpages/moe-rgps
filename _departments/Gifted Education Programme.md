@@ -41,10 +41,6 @@ We are committed to nurturing gifted individuals to their fullest potential for 
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Dou Ping</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Ee Bee Yian</td>
   </tr>
   <tr>
@@ -62,10 +58,6 @@ We are committed to nurturing gifted individuals to their fullest potential for 
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Kavitha</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Kimie Sng</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
