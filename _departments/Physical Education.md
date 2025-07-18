@@ -2,11 +2,12 @@
 title: Physical Education
 permalink: /departments/physical-education/
 description: ""
+variant: markdown
 ---
 #### **Mission**
-RGPS PE Curriculum aims to develop students' knowledge, skills and disposition in sports. We aim to nurture physically fit students with healthy habits who will value the enjoyment of maintaining a healthy life-style.
+RGPS PE Curriculum aims&nbsp;to develop&nbsp;students' knowledge, skills and disposition in sports. We aim to nurture physically fit students with healthy habits who will value the enjoyment of maintaining a healthy life-style.
 
-The aim of the physical education (PE) programme is to develop Physical, intellectual,  social and emotional skills,  21st century competencies & core values like fair play, responsibility, sportsmanship and  resilience through the RGPS Girl Matrix
+The aim of the physical education (PE) programme is to develop&nbsp;Physical, intellectual,&nbsp;&nbsp;social and emotional skills,&nbsp;&nbsp;21st&nbsp;century competencies &amp; core values like fair play, responsibility, sportsmanship and&nbsp; resilience through the RGPS Girl Matrix
 
 **Guiding Philosophy of PE Dept is to :**
 
@@ -47,11 +48,23 @@ The aim of the physical education (PE) programme is to develop Physical, intell
   </tr>
   <tr>
     <td class="tg-dgl5">Teacher<br></td>
-    <td class="tg-ktyi">Mr Gerald Ang Eu Jin</td>
+    <td class="tg-ktyi">Mr Gerald Ang Eu Jin </td>
+  </tr>
+	 <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Miss Ang Qin Ying Cindy</td>
+  </tr>
+	 <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mr Lee Tee Kai Thomas</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Noor Farhani</td>
+  </tr>
+	  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Teo Hui Xin</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>

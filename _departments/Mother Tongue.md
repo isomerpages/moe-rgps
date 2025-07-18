@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 To develop our pupils to be proficient and pervasive users of the Language
@@ -43,7 +44,7 @@ To develop our pupils to be proficient and pervasive users of the Language
   </tr>
   <tr>
     <td class="tg-dgl5">TL Coordinator</td>
-    <td class="tg-ktyi">Mrs Kalamani Tanabal</td>
+    <td class="tg-ktyi">Mrs Kalamani&nbsp;Tanabal</td>
   </tr>
   <tr>
     <td class="tg-dgl5">ML Coordinator</td>
@@ -107,15 +108,7 @@ To develop our pupils to be proficient and pervasive users of the Language
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Lim Zi Hui</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Lui Keet Mun</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Ning Fanye</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -178,18 +171,18 @@ The Language and Cultural Camp provides an immersive environment for students to
 
 #### Cultural Performance Exposure Scheme (CPES)
 
-The Cultural Performance Exposure Scheme (CPES) is a MOE  initiative that aims to engage students in Chinese dramas and Chinese-Language related performances by local and overseas arts groups. Students can look forward to curated Chinese-Language related performances.
+The Cultural Performance Exposure Scheme (CPES) is a MOE&nbsp;&nbsp;initiative that aims to engage students in Chinese dramas and Chinese-Language related performances by local and overseas arts groups. Students can look forward to curated Chinese-Language related performances.
 
 #### Conversational Chinese and Malay (CCM) Programme
 
-Conversational Chinese and Malay Programme aims to strengthen Singapore's multi-racial compact and to enable students to have some grounding of the language so that they could more easily pick up the language should they need it for economic or other reasons in adult life. 
+Conversational Chinese and Malay Programme aims to strengthen Singapore's multi-racial compact and to enable students to have some grounding of the language so that they could more easily pick up the language should they need it for economic or other reasons in adult life.&nbsp;
 
 #### CL Oracy Enrichment Programme (Selected Students Only)
 
 **The objectives of the programme are to:**
 
 a) develop creative thinkers: the students are taught how to be creative in their oral presentation.  
-b) nurture confident communicators: the students are equipped with skills and given opportunities to grow their confidence in their written and oral communication.   
+b) nurture confident communicators: the students are equipped with skills and given opportunities to grow their confidence in their written and oral communication.&nbsp;  
 
 **The programme will cover:**
 
@@ -209,12 +202,12 @@ b) nurture confident communicators: the students are equipped with skills and gi
 
 Assessment is an on-going and iterative process of monitoring one's learning. It provides students with feedback that not only demonstrates understanding, but also affords opportunities for reflection that improves the inquiry process.
 
-#### P1 & P2
+#### P1 &amp; P2
 
 *   Assessments are non-weighted.
 *   Teachers use a variety of checklists and mini performance tasks to monitor students’ progress and learning. Subject-specific Learning Outcomes (LOs) are used for the purpose of reporting students’ learning progress.
 
-#### P3 & P6
+#### P3 &amp; P6
 
 Bite-sized forms of weighted assessments are conducted in Term 1, Term 2 and Term 3. End-of-year examination is conducted in Term 4. The table below shows an overview.
 

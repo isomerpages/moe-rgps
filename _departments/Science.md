@@ -2,6 +2,7 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 
@@ -50,10 +51,6 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
     <td class="tg-dgl5">Teacher</td>
     <td class="tg-ktyi">Mdm Ho Shwu Huey</td>
   </tr>
-	  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Jane Woon</td>
-  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Janice Yeo</td>
@@ -92,9 +89,9 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
 To develop lifelong learners with inquiring minds and spirit of inquiry through acquisition of scientific knowledge, conceptual understanding and inquiry skills, to help them explore and understand their natural and physical world, solve problems and make informed decisions in scientific and other real-life contexts.
 
 <table>
-    <tr style ="width:100%">
-        <th style ="width:20%">Level</th>
-        <th style ="width:80%">Programmes</th>
+    <tbody><tr style="width:100%">
+        <th style="width:20%">Level</th>
+        <th style="width:80%">Programmes</th>
     </tr>
     <tr>
         <td>Primary 3</td>
@@ -144,7 +141,7 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
     * Science Fair<br>
    * Weekly Remedial lessons</td>
     </tr>
-</table>
+</tbody></table>
 
 
 #### **Enrichment Programmes (for selected students)**
@@ -173,11 +170,11 @@ To develop lifelong learners with inquiring minds and spirit of inquiry through 
 
 #### **Assessment**
 
-Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments. Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
+Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments.&nbsp;Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
 
 In RGPS, our teachers will assess students using different modes of assessment both formally and informally. A meaningful range of assessment modes and tasks are used : class discussions, classroom discourse, performance tasks, use of checklists, use of rubrics with teachers’ comments and students’ reflections.
 
-#### P3 & P5
+#### P3 &amp; P5
 
 Bite-sized forms of weighted assessments are conducted in Term 2 and Term 3. The table below shows an overview.
 

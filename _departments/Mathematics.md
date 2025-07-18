@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 
@@ -26,25 +27,13 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-1wig">HOD Mathematics -Designate</td>
-    <td class="tg-0lax">Ms Chong Jieqi</td>
-  </tr>
 	  <tr>
     <td class="tg-1wig">Subject Head Mathematics</td>
     <td class="tg-0lax">Mdm Chau Soo Eng June</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Subject Head Mathematics</td>
-    <td class="tg-0lax">Mdm Shannalyn Ng</td>
-  </tr>
-  <tr>
     <td class="tg-1wig">Senior Teacher Mathematics</td>
     <td class="tg-0lax">Ms Yan Ying Ling</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Teacher</td>
-    <td class="tg-0lax">Ms Bettina Tan</td>
   </tr>
 	 <tr>
     <td class="tg-0lax"> </td>
@@ -88,15 +77,7 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Lee Suan Khim</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Low Woon Mei</td>
-  </tr>
-	  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms S Thivyaa</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
@@ -126,13 +107,6 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 </thead>
 <tbody>
 <tr>
-<td><strong>Funthematics</strong> <br>(Primary 3)</td>
-<td>
-<ul><li>Engage students in exploring the Mathematics around them and instil the spirit of learning through discovery.</li>
-<li>Equip students with the necessary higher order and non-routine problem solving skills and mathematical investigative knowledge. </li>
-<li>Build students’ logical reasoning and visual spatial skills.The programme covers problem-solving heuristics like patterns, simple probability, logical reasoning and mathematical proving.</li></ul></td>
-</tr>
-<tr>
 <td><strong>Math E2K</strong> <br>(Primary 4 – Primary 5)</td>
 	<td><ul><li>Foster independence in mathematical thinking skills.</li><li>Challenge students to think out of the box and develop resilience when face with challenges.</li><li>Generate a greater interest in Mathematics.</li><li>Reinforce their perception of self as an independent and mature learner and investigator. The programme does not prepare the children for the examinations in any way and is meant to stretch the students’ mathematical thinking and generate greater interest for the subject. The learning experiences allow the students to develop the habits, attitudes and dispositions that mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</li></ul></td>
 </tr>
@@ -147,15 +121,15 @@ To develop our pupils with mathematical concepts and skills for everyday life an
 
 #### Assessment Matters
 
-Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments. Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
+Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments.&nbsp;Assessment provides teachers with feedback to help the identify students’ strengths and weaknesses, monitor their progress and adjust instruction to meet their needs.
 
 In RGPS, our teachers assess students using different modes of assessment both formally and informally. A meaningful range of assessment modes and tasks includes: class discussions, classroom discourse, performance tasks, use of checklists, use of rubrics with teachers’ comments and students’ reflections.
 
 **P1 – P2**
 
-There are no weighted assessments, mid-year examination and end-of-year examination for the students in the year.  
+There are&nbsp;no weighted assessments, mid-year examination and end-of-year examination&nbsp;for the students in the year.  
 
-**P3 & P6**  
+**P3 &amp; P6**  
 
 Bite-sized forms of weighted assessments are conducted from Term 1 to Term 3. The table below shows an overview.
 
