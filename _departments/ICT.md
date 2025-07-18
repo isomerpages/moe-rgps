@@ -2,6 +2,7 @@
 title: ICT
 permalink: /departments/ICT/
 description: ""
+variant: markdown
 ---
 #### **Vision**
 
@@ -25,10 +26,7 @@ To develop the capability and build capacity of teachers and pupils in the use o
   </tr>
 </thead>
 <tbody>
-	 <tr>
-    <td class="tg-1wig">HOD ICT & Data Management</td>
-    <td class="tg-0lax">Ms S Thivyaa Tharrshini</td>
-  </tr>
+
   <tr>
     <td class="tg-1wig">Subject Head Data Management</td>
     <td class="tg-0lax">Mr Seah Nam Sin</td>
@@ -55,7 +53,7 @@ To develop the capability and build capacity of teachers and pupils in the use o
 #### **Programme**
 
 #### Information-Communications Technology Department
-The  ICT Department  aims to develop our students to be Creative Thinkers, Lifelong Learners and Value-based Leaders through facilitating and supporting the teachers in the effective use of technology in Teaching & Learning and the administrative staff in administrative  and operational processes.  
+The&nbsp; ICT Department &nbsp;aims to develop our students to be Creative Thinkers, Lifelong Learners and Value-based Leaders through facilitating and supporting the teachers in the effective use of technology in Teaching &amp; Learning and the administrative staff in administrative&nbsp; and operational processes. &nbsp;
 
 We want to equip our teachers with the relevant ICT skills through Professional Development sessions, workshops (virtual and face-to-face) and mentoring sessions to allow them to create new learning possibilities afforded by digital technologies. We will also create opportunities for our teachers to share their learning within the school community as well as beyond school level.
 
@@ -92,9 +90,9 @@ Our students go through training to acquire baseline ICT skills progressively fr
 
 #### Staff Development
 
-With the introduction of SkillsFuture for Educators: e-Pedagogy in 2019, the experience of Full Home-Based Learning and staff conversation on Blended Learning in 2020, the school has identified using technology for teaching and learning  as a key driver to achieve its desired student outcomes.
+With the introduction of SkillsFuture for Educators: e-Pedagogy in 2019, the experience of Full Home-Based Learning and staff conversation on Blended Learning in 2020, the school has identified using technology for teaching and learning&nbsp; as a key driver to achieve its desired student outcomes.
 
-The areas of development will focus on designing lessons with appropriate digital technologies using SLS Pedagogical Scaffold, with considerations of the different learning experiences with key applications of technology and learning interactions.  
+The areas of development will focus on designing lessons with appropriate digital technologies using SLS Pedagogical Scaffold, with considerations of the different learning experiences with key applications of technology and learning interactions.&nbsp;&nbsp;
 
 The school will use different learning platforms to build staff capacity in e-pedagogy:
 
