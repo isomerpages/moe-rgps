@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 
@@ -61,10 +62,6 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Lim Siew Hoon</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Ho Soo Peng</td>
   </tr>
 </tbody>
@@ -72,7 +69,7 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
 
 #### **Programmes**
 
-#### Special Art Programmes (within curriculum)
+#### Special Art Programmes&nbsp;(within curriculum)
 
 In addition to the MOE Art Syllabus, our students also enjoy the following art programmes:
 
@@ -126,7 +123,7 @@ In addition to the MOE Art Syllabus, our students also enjoy the following art p
 </table>
 
 
-#### Special Music Programmes (within curriculum)
+#### Special Music Programmes&nbsp;(within curriculum)
 
 <table style="width:100%">
 <thead>
