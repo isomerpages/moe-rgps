@@ -30,11 +30,7 @@ To develop leaders of character and service.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-dgl5">HOD DGL</td>
-    <td class="tg-ktyi">Mdm Jane Woon Wei Yien</td>
-  </tr>
-  <tr>
-    <td class="tg-dgl5">Subject Head (Student Leadership) - Designate</td>
+    <td class="tg-dgl5">Subject Head (Student Leadership) </td>
     <td class="tg-ktyi">Mdm Goh E-Lynn</td>
   </tr>
 </tbody>
