@@ -2,6 +2,7 @@
 title: Discipline, Guidance and Student Leadership
 permalink: /departments/discipline-guidance-and-student-leadership/
 description: ""
+variant: markdown
 ---
 #### **Mission**
 
@@ -44,19 +45,19 @@ To develop leaders of character and service.
 
 To nurture our pupils to become good and useful citizens.
 
-The Guidance Programme was set up with the purpose of meeting the emotional and mental needs of the pupils. The Form Teacher Guidance Programme (FTGP) consist of lessons conducted by either the Form or Co-Form teacher. In addition, there is also Teacher-Pupil Dialogue sessions for the Form and Co-Form teacher to get to know their pupils better.  
+The&nbsp;Guidance Programme&nbsp;was set up with the purpose of meeting the emotional and mental needs of the pupils. The&nbsp;Form Teacher Guidance Programme (FTGP) consist of lessons conducted by either the Form or Co-Form teacher. In addition, there is also Teacher-Pupil Dialogue sessions for the Form and Co-Form teacher to get to know their pupils better.&nbsp;&nbsp;
 
 #### Counselling Service in School
 
-There are teacher counsellors in our school for pupils who need assistance. Apart from them, most of the teachers in RGPS are also trained in counselling, thus pupils can also approach them for advice regarding their personal problems or learning difficulties. A school counsellor also helps to handle more complicated cases. 
+There are teacher counsellors in our school for pupils who need assistance. Apart from them, most of the teachers in RGPS are also trained in counselling, thus pupils can also approach them for advice regarding their personal problems or learning difficulties. A school counsellor also helps to handle more complicated cases.&nbsp;
 
 
 #### Special Needs Service in School
 
-There is a learning and behavioural needs specialist in the school to see to pupils with special needs. Pupils may be referred to MOE psychologists for assessment.
+There is a learning and behavioural needs specialist in the school to see to pupils with special needs.&nbsp;Pupils may be referred to MOE psychologists for assessment.
 
 #### **School Prefectorial Board**
 
-The prefects are selected at the end of the year by their teachers. The selection is based on a criteria set by Discipline, Guidance and Student Leadership Department.
+The prefects are selected at the end of the year by their teachers. The selection is based on a criteria set by&nbsp;Discipline, Guidance and Student Leadership Department.
 
 ![](/images/prefectboard.jpg)
