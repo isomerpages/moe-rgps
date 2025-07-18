@@ -48,11 +48,15 @@ The aim of the physical education (PE) programme is to develop&nbsp;Physical, in
   </tr>
   <tr>
     <td class="tg-dgl5">Teacher<br></td>
-    <td class="tg-ktyi">Mr Gerald Ang Eu Jin</td>
+    <td class="tg-ktyi">Mr Gerald Ang Eu Jin </td>
   </tr>
 	 <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Miss Ang Qin Ying Cindy</td>
+  </tr>
+	 <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mr Lee Tee Kai Thomas</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
