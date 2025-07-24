@@ -21,6 +21,11 @@ variant: markdown
         <td>5A</td>
         <td>chong_lay_khim@schools.gov.sg</td>
     </tr>
+			<tr>
+        <td>Ms Angie Loo Su Fern</td>
+        <td>5A</td>
+        <td>angie_loo@schools.gov.sg</td>
+    </tr>
 <tr>
         <td>Mdm Rayhanah Mohd</td>
         <td>5B</td>
@@ -42,9 +47,9 @@ variant: markdown
         <td>ho_win_nie@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Ms Angie Loo</td>
+        <td>Ms Yan Ying Ling</td>
         <td>5C</td>
-        <td>angie_loo@schools.gov.sg</td>
+        <td>yan_ying_ling@schools.gov.sg</td>
     </tr>
  <tr>
         <td>Mdm Teng Mui Noi</td>
@@ -107,9 +112,9 @@ variant: markdown
         <td>lim_sok_yen@schools.gov.sg</td>
     </tr>
  <tr>
-        <td>Mdm Goh Kaur Kheng (Mrs Lo)</td>
+        <td>Ms Serene Leong</td>
         <td>5I</td>
-        <td>goh_kaur_kheng@schools.gov.sg</td>
+        <td>leong_whye_ting_c@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Mdm Tan Hwee Hoon</td>
