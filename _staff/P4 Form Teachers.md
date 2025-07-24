@@ -32,9 +32,9 @@ variant: markdown
         <td>seah_nam_sin@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Ms Lee Mei</td>
+        <td>Ms Susanne Hee</td>
         <td>4B</td>
-        <td>lee_mei@schools.gov.sg</td>
+        <td>hee_seok_lan_a@schools.gov.sg</td>
     </tr>		
    <tr>
         <td>Mdm Yue Siew Lee</td>
