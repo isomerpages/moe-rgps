@@ -143,6 +143,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 4/RGPS_N25_P4_025.pdf" rel="noopener nofollow" target="_blank">P4 Aug Circular</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
