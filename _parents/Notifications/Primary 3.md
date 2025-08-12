@@ -1,9 +1,9 @@
 ---
 title: Primary 3
-permalink: /parents/Notifications/primary-3/
+permalink: /parents/notifications/primary-3/
 description: ""
 third_nav_title: Notifications
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>2025</strong></h3>
 <h5>Term 1</h5>
@@ -140,6 +140,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Notification 2025/Pri 3/Letter__9_July__and_Information_on__GEP.pdf" rel="noopener nofollow" target="_blank">Gifted Education Programme (GEP) Screening Exercise 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 3/RGPS_N25_P3_017.pdf" rel="noopener nofollow" target="_blank">P3 Aug Circular</a>
+<br><a href="/files/Notification 2025/Pri 1/Notification_from_LTA.pdf" rel="noopener nofollow" target="_blank">Letter from LTA</a>
+<br><a href="/files/Notification 2025/Pri 1/Caring_Teacher_Awards__CTA_2026_compress.pdf" rel="noopener nofollow" target="_blank">Caring Teacher Award 2026</a>
 </p>
 </td>
 </tr>

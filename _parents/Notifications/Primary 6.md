@@ -1,9 +1,9 @@
 ---
 title: Primary 6
-permalink: /parents/Notifications/primary-6/
+permalink: /parents/notifications/primary-6/
 description: ""
 third_nav_title: Notifications
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>2025</strong></h3>
 <h5>Term 1</h5>
@@ -161,6 +161,17 @@ variant: tiptap
 <p><a href="/files/Notification%202025/Pri%206/RGPS_N25_P6_023.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 July Circular (Part 2)</a>
 <br><a href="/files/Notification%202025/Pri%201%20to%206/P3_to_P6_only_Parenting_Webinar_Helping_your_Child_Cope_with_Exam_Stress.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 to P6 only_Parenting Webinar_Helping your Child Cope with Exam Stress</a>
 <br><a href="/files/Notification%202025/Pri%201%20to%206/All_Levels_Triple_P_Seminar_for_Grandparents.pdf" rel="noopener noreferrer nofollow" target="_blank">All Levels_Triple P Seminar for Grandparents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 6/RGPS_N25_P6_031.pdf" rel="noopener nofollow" target="_blank">P6 Aug Circular</a>
+<br><a href="/files/Notification 2025/Pri 1/Notification_from_LTA.pdf" rel="noopener nofollow" target="_blank">Letter from LTA</a>
+<br><a href="/files/Notification 2025/Pri 1/Caring_Teacher_Awards__CTA_2026_compress.pdf" rel="noopener nofollow" target="_blank">Caring Teacher Award 2026</a>
 </p>
 </td>
 </tr>

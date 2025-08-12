@@ -27,7 +27,7 @@ variant: markdown
         <td>ang_lay_nga@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Zairinah</td>
+        <td>Mdm Zairinah Faizal</td>
         <td>6B</td>
         <td>zairinah_faizal@schools.gov.sg</td>
     </tr>
@@ -93,7 +93,7 @@ variant: markdown
         <td>aishah_aris@schools.gov.sg</td>
     </tr>
  <tr>
-        <td>Ms Khoo Kim Kim</td>
+        <td>Mdm Khoo Kim Kim</td>
         <td>6F</td>
         <td>khoo_kim_kim_a@schools.gov.sg</td>
     </tr>

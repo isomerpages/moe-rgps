@@ -1,9 +1,9 @@
 ---
 title: Primary 2
-permalink: /parents/Notifications/primary-2/
+permalink: /parents/notifications/primary-2/
 description: ""
 third_nav_title: Notifications
-variant: tiptap
+variant: markdown
 ---
 <h5>Term 1</h5>
 <table style="minWidth: 50px">
@@ -139,6 +139,17 @@ variant: tiptap
 <p><a href="/files/Notification%202025/Pri%202/RGPS_N25_P2_013.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 July Circular (Part 2)</a>
 <br><a href="/files/Notification%202025/Pri%201%20to%206/P1___P2_Library_Week_Workshop.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 &amp; P2 Library Week Workshop</a>
 <br><a href="/files/Notification%202025/Pri%201%20to%206/All_Levels_Triple_P_Seminar_for_Grandparents.pdf" rel="noopener noreferrer nofollow" target="_blank">All Levels_Triple P Seminar for Grandparents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 2/RGPS_N25_P2_014.pdf" rel="noopener nofollow" target="_blank">P2 Aug Circular</a>
+<br><a href="/files/Notification 2025/Pri 1/Notification_from_LTA.pdf" rel="noopener nofollow" target="_blank">Letter from LTA</a>
+<br><a href="/files/Notification 2025/Pri 1/Caring_Teacher_Awards__CTA_2026_compress.pdf" rel="noopener nofollow" target="_blank">Caring Teacher Award 2026</a>
 </p>
 </td>
 </tr>

@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### **2025**
-<table>
+Ms Teo Hui Xin<table>
     <tbody><tr style="width:100%">
         <th style="width:40%">Name</th>
         <th style="width:10%">Class</th>
@@ -30,6 +30,11 @@ variant: markdown
         <td>Mdm Sheri Teoh Swee Phing</td>
         <td>1B</td>
         <td>sheri_teoh_swee_phing@schools.gov.sg</td>
+    </tr>
+				<tr>
+					<td>Ms Teo Hui Xin</td>
+        <td>1B</td>
+        <td>teo_hui_xin@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Leong Oon Ho</td>
@@ -72,9 +77,9 @@ variant: markdown
         <td>li_yixian@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Mdm Cassandra Quek Sock Cheng (Mrs Ng)</td>
+        <td>Mdm Karen Ang</td>
         <td>1G</td>
-        <td>quek_sock_cheng@schools.gov.sg&nbsp;</td>
+        <td>ang_suat_sian_karen_a@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Eng Lik Boon</td>
