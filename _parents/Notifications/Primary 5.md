@@ -150,10 +150,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Notification 2025/Pri 5/RGPS_N25_P5_027.pdf" rel="noopener nofollow" target="_blank">P5 Aug Circular</a>
-</p>
-<p><a href="/files/Notification 2025/Pri 1/Notification_from_LTA.pdf" rel="noopener nofollow" target="_blank">Letter from LTA</a>
-</p>
-<p><a href="/files/Notification 2025/Pri 1/Caring_Teacher_Awards__CTA_2026_compress.pdf" rel="noopener nofollow" target="_blank">Caring Teacher Award 2026</a>
+<br><a href="/files/Notification 2025/Pri 1/Notification_from_LTA.pdf" rel="noopener nofollow" target="_blank">Letter from LTA</a>
+<br><a href="/files/Notification 2025/Pri 1/Caring_Teacher_Awards__CTA_2026_compress.pdf" rel="noopener nofollow" target="_blank">Caring Teacher Award 2026</a>
 </p>
 </td>
 </tr>
