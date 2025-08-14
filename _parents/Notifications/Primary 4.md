@@ -166,3 +166,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p><a href="/files/Notification 2025/Pri 4/RGPS_EYE_P4_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 4 End-Year Examination 2025</a>
+</p>
