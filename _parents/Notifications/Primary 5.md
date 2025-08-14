@@ -155,6 +155,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 5/RGPS_EYE_P5_GEP_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 5 GEP End-Year Examination 2025</a>
+</p>
+<p><a href="/files/Notification 2025/Pri 5/RGPS_EYE_P5_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 5 End-Year Examination 2025</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
