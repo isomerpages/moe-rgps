@@ -159,10 +159,10 @@ variant: tiptap
 <p>15 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><a href="/files/Notification 2025/Pri 3/RGPS_EYE_P3_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 3 End-Year Examination 2025</a>
 </p>
 </td>
-</tr>	
+</tr>
 </tbody>
 </table>
 <p></p>
