@@ -154,6 +154,15 @@ variant: markdown
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 4/RGPS_EYE_P4_GEP_2025_V3.pdf" rel="noopener nofollow" target="_blank">Primary 4 GEP End-Year Examination 2025</a>
+<br><a href="/files/Notification 2025/Pri 4/RGPS_EYE_P4_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 4 End-Year Examination 2025</a>
+	</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
