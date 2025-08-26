@@ -24,6 +24,14 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
+      title: Teachers' Day Celebration
+      id: infopic
+      description: If you wish to visit your teachers, please come to the school
+        between 11am - 12.30pm on 4 Sept. Please contact your teachers and wait
+        for them at the canteen.
+      image: /images/ChatGPT_Image_Aug_26__2025__02_31_13_PM.png
+      alt: Image alt text
+  - infopic:
       title: Canteen Stall Vacancy
       subtitle: Halal RICE/Noodle
       id: infopic
