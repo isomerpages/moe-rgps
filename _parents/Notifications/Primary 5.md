@@ -3,7 +3,7 @@ title: Primary 5
 permalink: /parents/notifications/primary-5/
 description: ""
 third_nav_title: Notifications
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>2025</strong></h3>
 <h5>Term 1</h5>
@@ -162,6 +162,15 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="/files/Notification 2025/Pri 5/RGPS_EYE_P5_GEP_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 5 GEP End-Year Examination 2025</a>
 <br><a href="/files/Notification 2025/Pri 5/RGPS_EYE_P5_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 5 End-Year Examination 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 5/RGPS_N25_P5_030.pdf" rel="noopener nofollow" target="_blank">P5 September Circular</a>
 </p>
 </td>
 </tr>
