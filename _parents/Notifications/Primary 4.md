@@ -161,8 +161,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/Notification 2025/Pri 4/RGPS_EYE_P4_GEP_2025_V3.pdf" rel="noopener nofollow" target="_blank">Primary 4 GEP End-Year Examination 2025</a>
 <br><a href="/files/Notification 2025/Pri 4/RGPS_EYE_P4_2025_V2.pdf" rel="noopener nofollow" target="_blank">Primary 4 End-Year Examination 2025</a>
-	</p>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 4/RGPS_N25_P4_029.pdf" rel="noopener nofollow" target="_blank">P4 September Circular</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
