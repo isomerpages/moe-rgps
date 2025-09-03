@@ -27,6 +27,10 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-1wig">HOD Mathematics</td>
+    <td class="tg-0lax">Ms Celine Tan Hwee Suan</td>
+  </tr>
 	  <tr>
     <td class="tg-1wig">Subject Head Mathematics</td>
     <td class="tg-0lax">Mdm Chau Soo Eng June</td>
