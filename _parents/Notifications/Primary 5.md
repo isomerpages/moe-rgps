@@ -165,6 +165,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 5/RGPS_N25_P5_030.pdf" rel="noopener nofollow" target="_blank">P5 September Circular</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
