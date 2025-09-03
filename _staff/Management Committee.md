@@ -55,6 +55,7 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
+| **Ms Celine Tan Hwee Suan** | HOD - Math   | <a href="tan_hwee_suan@schools.gov.sg">tan_hwee_suan@schools.gov.sg</a>     |
 | **Mdm Chau Soo Eng June** | Subject Head - Math   | <a href="chau_soo_eng_june@schools.gov.sg">chau_soo_eng_june@schools.gov.sg</a>     |
 
 
