@@ -184,6 +184,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Notification 2025/Pri 6/RGPS_P6_LJ_2025_PG_to_Parents.pdf" rel="noopener nofollow" target="_blank">P6 Learn and Bond @ RGPS Learning Journeys (Oct/Nov 2025)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
