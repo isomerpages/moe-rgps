@@ -33,3 +33,9 @@ variant: markdown
 |2 Jul|[P1 July Circular (Part 2)](/files/Notification%202025/Pri%201/RGPS_N25_P1_012.pdf)<br>[P1 &amp; P2 Library Week Workshop](/files/Notification%202025/Pri%201%20to%206/P1___P2_Library_Week_Workshop.pdf)<br>[All Levels_Triple P Seminar for Grandparents](/files/Notification%202025/Pri%201%20to%206/All_Levels_Triple_P_Seminar_for_Grandparents.pdf)|
 |6 Aug|[P1 Aug Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_013.pdf)<br>[Letter from LTA](/files/Notification%202025/Pri%201/Notification_from_LTA.pdf)<br>[Caring Teacher Award 2026](/files/Notification%202025/Pri%201/Caring_Teacher_Awards__CTA_2026_compress.pdf)|
 |3 Sep|[P1 September Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_014.pdf)|
+
+##### Term 4
+
+| Date| File | 
+| -------- | -------- |
+|1 Oct|[P1 October Circular](/files/Notification%202025/RGPS_N25_P1_016.pdf)
