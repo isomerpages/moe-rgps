@@ -3,8 +3,9 @@ title: Character and Citizenship Education
 permalink: /departments/CCE/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-#### **Vision** 
+#### **Vision**&nbsp;
 
 A Vibrant Community of Value-based Thinkers, Learners and Leaders
 
@@ -32,7 +33,7 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
 </thead>
 <tbody>
    <tr>
-    <td class="tg-dgl5">Subject Head (CCE) </td>
+    <td class="tg-dgl5">HOD CCE </td>
     <td class="tg-ktyi">Mdm Cassandra Quek Sock Cheng</td>
   </tr>
   <tr>
@@ -51,7 +52,7 @@ Nurturing Women of Character Excellence, Leaders of Character and Service
 
 #### Objectives:
 
-1.      To inculcate the 6 core values (R3ICH)
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To inculcate the 6 core values (R3ICH)
 
 The goal of CCE is to inculcate values and build competencies in our pupils to develop them to be good individuals and useful citizens. The core values are:
 
@@ -62,4 +63,4 @@ d. Integrity<br>
 e. Care<br>
 f. Harmony
 
-2.      To equip our pupils with the ability to make responsible decisions and become more aware of their roles in the society.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To equip our pupils with the ability to make responsible decisions and become more aware of their roles in the society.
