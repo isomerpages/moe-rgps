@@ -4,7 +4,7 @@ permalink: /p1checklist/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Checklist for Parents/Guardian of P1 Student in 2025</strong></h4>
+<h4><strong>Checklist for Parents/Guardian of P1 Student in 2026</strong></h4>
 <p>A warm welcome to the Raffles Girls’ Primary School family! We would like
 to share the following information and instructions with you to facilitate
 your child’s/ward’s smooth transition to our school.</p>
@@ -30,7 +30,7 @@ have any query or clarification.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The P1 2025 Orientation will be held on <strong>6 November 2024</strong>,
+<p>The P1 2026 Orientation will be held on <strong>5 November 2025</strong>,
 from 2.00pm to 4.00pm. Please report to the school hall with your child/ward
 by 1.40pm.
 <br>
