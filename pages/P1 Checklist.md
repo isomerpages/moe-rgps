@@ -69,7 +69,7 @@ updates will be sent through PG subsequently.
 <br>
 <br>
 <br>Online Sales for self-collection during other periods
-<br><strong>By 7 Dec 2025</strong>
+<br><strong>By 13 Dec 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,8 +79,8 @@ Attached is the booklist for more information.
 <br>
 <br>Please be informed that the website will be opened during the following
 dates:
-<br>(a) 27 October to 1 November 2024 (For 2025, P1 students only)
-<br>(b) 26 November to 27 December 2024 (For all students)
+<br>(a) 27 October to 1 November 2025 (For 2026, P1 students only)
+<br>(b) 11 November to 13 December 2024 (For all students)
 <br>
 <br><strong>Walk-in purchase (Venue: School canteen)</strong>
 <br>Please refer to the booklist for the available walk-in dates and payment
@@ -91,8 +91,10 @@ purchase the books online and reserve a time slot for pick up at <a href="https:
 is recommended to bring along a trolley to carry the books if you are parking
 further away from the school. The books will be packed into boxes.
 <br>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_2_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_1_RGPS_Primary_PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Online Purchase Guide</a>
+</p>
+<p><a href="/files/2026 Booklist/RGPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+</p>
+<p><a href="/files/2026 Booklist/RGPS_PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2025.pdf" rel="noopener nofollow" target="_blank">P1 Online Purchase Guide</a>
 </p>
 </td>
 </tr>
@@ -100,7 +102,7 @@ further away from the school. The books will be packed into boxes.
 <td rowspan="1" colspan="1">
 <p><strong>3. Transportation <br><br>Car Decal</strong>
 <br>
-<br><strong>By 1 Nov 2024</strong>
+<br><strong>By 5 Nov 2025</strong>
 </p>
 <p></p>
 </td>
@@ -118,7 +120,7 @@ the QR code below if you require one. If you have requested for your complimenta
 car decal, it will distributed to you during the Primary 1 Orientation.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
-Office after the orientation and before 15 December 2024. Payment is by
+Office after the orientation and before 15 December 2025. Payment is by
 cash or QR code at our <strong>General Office</strong>.</p>
 <p></p>
 <p></p>
