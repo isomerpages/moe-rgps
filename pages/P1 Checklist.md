@@ -45,7 +45,7 @@ obstruction and inconvenience to residents and other road users.</p>
 <td rowspan="1" colspan="1">
 <p><strong>1. Communication</strong>
 <br>
-<br><strong>By 1 Nov 2025</strong>
+<br><strong>By 29 Oct 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,14 +62,14 @@ updates will be sent through PG subsequently.
 <p><strong>2. School Books</strong>
 <br>
 <br>Online Sales for self-collection during P1 orientation
-<br><strong>By 1 Nov 2024</strong> 
+<br><strong>By 1 Nov 2025</strong> 
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>Online Sales for self-collection during other periods
-<br><strong>By 7 Dec 2024</strong>
+<br><strong>By 7 Dec 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
