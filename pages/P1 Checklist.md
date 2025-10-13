@@ -156,7 +156,7 @@ care arrangements. You are invited to register your child if you are keen
 via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2024, 5pm.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
 <p></p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_19Oct2024.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
+<p>
 <br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
 </p>
 </td>
