@@ -45,7 +45,7 @@ obstruction and inconvenience to residents and other road users.</p>
 <td rowspan="1" colspan="1">
 <p><strong>1. Communication</strong>
 <br>
-<br><strong>By 1 Nov 2024</strong>
+<br><strong>By 1 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -389,7 +389,7 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 <br>
 <br><strong><em>Contact person: Ms Sylvia Lim</em></strong> 
 <br>Tel : 9816 1671 / 9638 6393
-<br>For enquiries, please write to <a href="mailto:rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a>
+<br>For enquiries, please write to <a href="mailto:rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg5</a>
 </p>
 </td>
 </tr>
