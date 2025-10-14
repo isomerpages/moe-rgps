@@ -110,8 +110,7 @@ further away from the school. The books will be packed into boxes.
 to display a "Drive-through" car decal.</p>
 <p></p>
 <p>Each household is given a complimentary car decal in their orientation
-package. Parents/Guardian who have older children in the school and have
-received a complimentary car decal before will not be issued another one.
+package.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
 Office during the school term. No sales of car decal on the orientation
