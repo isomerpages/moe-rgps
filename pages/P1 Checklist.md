@@ -81,7 +81,6 @@ Attached is the booklist for more information.
 dates:
 <br>(a) 27 October to 1 November 2025 (For 2026, P1 students only)
 <br>
-<br>
 <br><strong>Walk-in purchase (Venue: CCA Room)</strong>
 <br>Please refer to the booklist for the available walk-in dates and payment
 modes. To shorten the waiting time, parents/guardian are encouraged to
@@ -115,7 +114,8 @@ package. Parents/Guardian who have older children in the school and have
 received a complimentary car decal before will not be issued another one.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
-Office during the school term. Payment is by cash or QR code at our <strong>General Office</strong>.</p>
+Office during the school term. No sales of car decal on the orientation
+day. Payment is by cash or QR code at our <strong>General Office</strong>.</p>
 <p></p>
 </td>
 </tr>
@@ -129,7 +129,7 @@ Office during the school term. Payment is by cash or QR code at our <strong>Gene
 <td rowspan="1" colspan="1">
 <p>Please refer to the document below for more information.</p>
 <p>
-<br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Form B - Request for School Bus Services</a>
+<br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
 </p>
 </td>
 </tr>
@@ -145,7 +145,6 @@ Office during the school term. Payment is by cash or QR code at our <strong>Gene
 care arrangements. You are invited to register your child if you are keen
 via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>14 November 2025, 5pm.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
-<p></p>
 <p>
 <br><a href="/files/P1 Checklist/2026 Pupils/SCC_Cover_Letter_Registration_2026_RGPS_Vetted_docx__1_.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
 </p>
@@ -174,10 +173,7 @@ lessons, students are allowed to wear their PE attire under their pinafores.
 P1 &amp; P2 students are to be in their PE attire during PAL lessons as
 well, which take place <strong>once a week</strong>. Students must come
 in the prescribed school uniform with white shoes and plain white or RGPS
-socks. Hair accessories are to be in black or navy blue.
-<br>
-<br>
-</p>
+socks. Hair accessories are to be in black or navy blue.</p>
 </td>
 </tr>
 <tr>
@@ -194,9 +190,7 @@ about you and your child/ward to provide educational services for your
 child/ward in our schools.
 <br>
 <br>2. Please check the PG notification for submission of the online Student
-Details Form portal from<strong> 1 Dec 2025</strong>.
-<br>
-</p>
+Details Form portal from<strong> 1 Dec 2025</strong>.</p>
 </td>
 </tr>
 <tr>
