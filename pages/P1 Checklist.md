@@ -286,7 +286,7 @@ to support students’ development. We encourage all parents/guardian with
 daughter(s)/wards(s) in the school to join the PVG.
 <br>
 </p>
-<p><a href="/files/P1 Checklist/2026 Pupils/Letter_from_RGPS_PVG_to_P1_Parents.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Group (PVG) </a>
+<p><a href="/files/P1 Checklist/2026 Pupils/Letter_from_RGPS_PVG_to_P1_Parents.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Group (PVG)</a>
 </p>
 </td>
 </tr>
