@@ -342,7 +342,9 @@ start primary school the next year. Please see the attached for more information
 <br>Singapore (238882)
 <br>Tel : 6732 7022
 <br>
-<br>There is no sale of uniforms in the school.
+<br>There is no sale of uniforms in the school.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/5__2025_6_Year_End_Sales_Opening_Hours__.pdf" rel="noopener nofollow" target="_blank">BIBI&amp;BABA Operating Hours</a>
 <br>
 <br>Parents may purchase them at <strong><em>Bibi&amp;Baba Private Limited</em></strong> outlet
 or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
