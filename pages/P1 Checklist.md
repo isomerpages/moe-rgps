@@ -4,7 +4,7 @@ permalink: /p1checklist/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Checklist for Parents/Guardian of P1 Student in 2025</strong></h4>
+<h4><strong>Checklist for Parents/Guardian of P1 Student in 2026</strong></h4>
 <p>A warm welcome to the Raffles Girls’ Primary School family! We would like
 to share the following information and instructions with you to facilitate
 your child’s/ward’s smooth transition to our school.</p>
@@ -30,7 +30,7 @@ have any query or clarification.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The P1 2025 Orientation will be held on <strong>6 November 2024</strong>,
+<p>The P1 2026 Orientation will be held on <strong>5 November 2025</strong>,
 from 2.00pm to 4.00pm. Please report to the school hall with your child/ward
 by 1.40pm.
 <br>
@@ -45,7 +45,7 @@ obstruction and inconvenience to residents and other road users.</p>
 <td rowspan="1" colspan="1">
 <p><strong>1. Communication</strong>
 <br>
-<br><strong>By 1 Nov 2024</strong>
+<br><strong>By 29 Oct 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,14 +62,14 @@ updates will be sent through PG subsequently.
 <p><strong>2. School Books</strong>
 <br>
 <br>Online Sales for self-collection during P1 orientation
-<br><strong>By 1 Nov 2024</strong> 
+<br><strong>By 1 Nov 2025</strong> 
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>Online Sales for self-collection during other periods
-<br><strong>By 7 Dec 2024</strong>
+<br><strong>By 13 Dec 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,10 +79,10 @@ Attached is the booklist for more information.
 <br>
 <br>Please be informed that the website will be opened during the following
 dates:
-<br>(a) 27 October to 1 November 2024 (For 2025, P1 students only)
-<br>(b) 26 November to 27 December 2024 (For all students)
+<br>(a) 27 October to 1 November 2025 (For 2026, P1 students only)
 <br>
-<br><strong>Walk-in purchase (Venue: School canteen)</strong>
+<br>
+<br><strong>Walk-in purchase (Venue: CCA Room)</strong>
 <br>Please refer to the booklist for the available walk-in dates and payment
 modes. To shorten the waiting time, parents/guardian are encouraged to
 purchase the books online and reserve a time slot for pick up at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com.</a>
@@ -91,8 +91,10 @@ purchase the books online and reserve a time slot for pick up at <a href="https:
 is recommended to bring along a trolley to carry the books if you are parking
 further away from the school. The books will be packed into boxes.
 <br>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_2_P1_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist 2025</a>
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/2_1_RGPS_Primary_PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Online Purchase Guide</a>
+</p>
+<p><a href="/files/2026 Booklist/RGPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+</p>
+<p><a href="/files/2026 Booklist/RGPS_PACIFIC_BOOKSTORES_ONLINE_PURCHASE_GUIDE_2025.pdf" rel="noopener nofollow" target="_blank">P1 Online Purchase Guide</a>
 </p>
 </td>
 </tr>
@@ -100,26 +102,20 @@ further away from the school. The books will be packed into boxes.
 <td rowspan="1" colspan="1">
 <p><strong>3. Transportation <br><br>Car Decal</strong>
 <br>
-<br><strong>By 1 Nov 2024</strong>
+<br>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>“Drive-through” Car Decal</strong>
-<br>Vehicles entering the school to drop off or pick up students are required
-to display a “Drive-through” car decal.
-<br>
-<br>Each household is given a 1st time complimentary car decal. Parents/Guardian
-who have older children in the school and have received a complimentary
-car decal before will not be issued another one.
-<br>
-<br>Please register for your 1st time complimentary car decal by scanning
-the QR code below if you require one. If you have requested for your complimentary
-car decal, it will distributed to you during the Primary 1 Orientation.
+<p>Vehicles entering the school to drop off or pick up students are required
+to display a "Drive-through" car decal.</p>
+<p></p>
+<p>Each household is given a complimentary car decal in their orientation
+package. Parents/Guardian who have older children in the school and have
+received a complimentary car decal before will not be issued another one.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
-Office after the orientation and before 15 December 2024. Payment is by
-cash or QR code at our <strong>General Office</strong>.</p>
+Office. Payment is by cash or QR code at our <strong>General Office</strong>.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -132,12 +128,13 @@ cash or QR code at our <strong>General Office</strong>.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Bus</strong>
 <br>
-<br><strong>By 15 Dec 2024</strong>
+<br><strong>By 15 Dec 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please refer to the document below for more information.
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/3__2025_RGPS_Bus_Request_for_Service_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Form B - Request for School Bus Services</a>
+<p>Please refer to the document below for more information.</p>
+<p>
+<br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Form B - Request for School Bus Services</a>
 </p>
 </td>
 </tr>
@@ -145,17 +142,19 @@ cash or QR code at our <strong>General Office</strong>.</p>
 <td rowspan="1" colspan="1">
 <p><strong>4. Student Care Centre (SCC)</strong>
 <br>
-<br><strong>By 15 Nov 2024</strong>
+<br><strong>By 14 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The school-based SCC provides support for students without after-school
 care arrangements. You are invited to register your child if you are keen
-via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2024, 5pm.</strong> The
+via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>14 November 2025, 5pm.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
 <p></p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_19Oct2024.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
+<p>
+<br><a href="/files/P1 Checklist/2026 Pupils/SCC_Cover_Letter_Registration_2026_RGPS_Vetted_docx__1_.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/SCC_Brochure_2026___Vetted_docx.pdf" rel="noopener nofollow" target="_blank">SCC Brochure for 2026</a>
 </p>
 </td>
 </tr>
@@ -163,7 +162,7 @@ SCC will inform the applicants of the outcome directly.</p>
 <td rowspan="1" colspan="1">
 <p><strong>5.School Uniform</strong>
 <br>
-<br><strong>By 15 Nov 2024</strong>
+<br><strong>By 15 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,8 +181,7 @@ well, which take place <strong>once a week</strong>. Students must come
 in the prescribed school uniform with white shoes and plain white or RGPS
 socks. Hair accessories are to be in black or navy blue.
 <br>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/5_2_RGPS_Uniform__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Uniform</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/5_1_RGPS_NameTag__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Nametag</a>
+<br>
 </p>
 </td>
 </tr>
@@ -191,17 +189,17 @@ socks. Hair accessories are to be in black or navy blue.
 <td rowspan="1" colspan="1">
 <p><strong>6.Submission of Student Details Form</strong>
 <br>
-<br><strong>From 25 Nov to 31 Dec 2024</strong>
+<br><strong>From 1 Dec to 31 Dec 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. As your child/ward will be starting Primary 1 in January 2025, the
+<p>1. As your child/ward will be starting Primary 1 in January 2026, the
 Ministry of Education (MOE) would like to collect necessary information
 about you and your child/ward to provide educational services for your
 child/ward in our schools.
 <br>
 <br>2. Please check the PG notification for submission of the online Student
-Details Form portal from<strong> 25 Nov 2024</strong>.
+Details Form portal from<strong> 1 Dec 2025</strong>.
 <br>
 </p>
 </td>
@@ -210,7 +208,7 @@ Details Form portal from<strong> 25 Nov 2024</strong>.
 <td rowspan="1" colspan="1">
 <p><strong>7.Finance &amp; Payment</strong>
 <br>
-<br><strong>By 31 Dec 24</strong>
+<br><strong>By 31 Dec 25</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +222,7 @@ available at the MOE website.
 <br>
 <br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong>
 <br>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
-Services tab) or the online <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
+Services tab) or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
 for the payment of 2nd-tier miscellaneous fees and school organised enrichment
 programmes.</p>
 </td>
@@ -287,9 +285,8 @@ More information is available on the <a href="https://www.posb.com.sg/personal/s
 to support students’ development. We encourage all parents/guardian with
 daughter(s)/wards(s) in the school to join the PVG.
 <br>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/11_1_2024_PVG_P1_Welcome_Letter__revised_10_Oct_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Group (PVG) </a>
-<br><a href="/files/P1%20Checklist/2023/pvg%20membership%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Brochure</a>
-<br><a href="/files/P1%20Checklist/2023/pvg%20merchandise%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Merchandise Brochure</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/Letter_from_RGPS_PVG_to_P1_Parents.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Group (PVG)</a>
 </p>
 </td>
 </tr>
@@ -303,14 +300,14 @@ daughter(s)/wards(s) in the school to join the PVG.
 to encourage ex-students to connect with each other and create memories
 for the next generations of RGPS Girls. Every year, a pre-P1 gathering
 is hosted for the K2s to get to know each other through play before they
-start primary school the next year. Please see the attached for more information.
+start primary school the next year. Please see the attached for more information.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/AA_Welcome_Letter_P1_2026_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/RGPS_2025_Pre_P1_Welcome_Party_Sign_Up_Poster.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
 <br>
 </p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/12_2_AA_Pre_P1_Welcome_Party_Flyer_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
-</p>
-<p></p>
-<p><a href="https://www.agora-colearning.space/courses/rgps-pre-p1-welcome-party" rel="noopener nofollow" target="_blank">To signup for RGPS Pre-P1 Welcome Party</a>
+<p><a href="https://www.agora-colearning.space/courses/rgps-pre-p1-welcome-party/cr-lzvtvy-07" rel="noopener nofollow" target="_blank">To signup for RGPS Pre-P1 Welcome Party</a>
 </p>
 <p></p>
 <p></p>
@@ -345,7 +342,9 @@ start primary school the next year. Please see the attached for more information
 <br>Singapore (238882)
 <br>Tel : 6732 7022
 <br>
-<br>There is no sale of uniforms in the school.
+<br>There is no sale of uniforms in the school.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/5__2025_6_Year_End_Sales_Opening_Hours__.pdf" rel="noopener nofollow" target="_blank">BIBI&amp;BABA Operating Hours</a>
 <br>
 <br>Parents may purchase them at <strong><em>Bibi&amp;Baba Private Limited</em></strong> outlet
 or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
