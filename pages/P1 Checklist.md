@@ -162,7 +162,7 @@ SCC will inform the applicants of the outcome directly.</p>
 <td rowspan="1" colspan="1">
 <p><strong>5.School Uniform</strong>
 <br>
-<br><strong>By 15 Nov 2024</strong>
+<br><strong>By 15 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,8 +181,7 @@ well, which take place <strong>once a week</strong>. Students must come
 in the prescribed school uniform with white shoes and plain white or RGPS
 socks. Hair accessories are to be in black or navy blue.
 <br>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/5_2_RGPS_Uniform__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Uniform</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/5_1_RGPS_NameTag__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Nametag</a>
+<br>
 </p>
 </td>
 </tr>
@@ -190,17 +189,17 @@ socks. Hair accessories are to be in black or navy blue.
 <td rowspan="1" colspan="1">
 <p><strong>6.Submission of Student Details Form</strong>
 <br>
-<br><strong>From 25 Nov to 31 Dec 2024</strong>
+<br><strong>From 1 Dec to 31 Dec 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. As your child/ward will be starting Primary 1 in January 2025, the
+<p>1. As your child/ward will be starting Primary 1 in January 2026, the
 Ministry of Education (MOE) would like to collect necessary information
 about you and your child/ward to provide educational services for your
 child/ward in our schools.
 <br>
 <br>2. Please check the PG notification for submission of the online Student
-Details Form portal from<strong> 25 Nov 2024</strong>.
+Details Form portal from<strong> 1 Dec 2025</strong>.
 <br>
 </p>
 </td>
