@@ -285,9 +285,8 @@ More information is available on the <a href="https://www.posb.com.sg/personal/s
 to support students’ development. We encourage all parents/guardian with
 daughter(s)/wards(s) in the school to join the PVG.
 <br>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/11_1_2024_PVG_P1_Welcome_Letter__revised_10_Oct_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Group (PVG) </a>
-<br><a href="/files/P1%20Checklist/2023/pvg%20membership%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Brochure</a>
-<br><a href="/files/P1%20Checklist/2023/pvg%20merchandise%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Merchandise Brochure</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/Letter_from_RGPS_PVG_to_P1_Parents.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Group (PVG) </a>
 </p>
 </td>
 </tr>
@@ -301,14 +300,14 @@ daughter(s)/wards(s) in the school to join the PVG.
 to encourage ex-students to connect with each other and create memories
 for the next generations of RGPS Girls. Every year, a pre-P1 gathering
 is hosted for the K2s to get to know each other through play before they
-start primary school the next year. Please see the attached for more information.
+start primary school the next year. Please see the attached for more information.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/AA_Welcome_Letter_P1_2026_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/RGPS_2025_Pre_P1_Welcome_Party_Sign_Up_Poster.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
 <br>
 </p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/12_2_AA_Pre_P1_Welcome_Party_Flyer_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
-</p>
-<p></p>
-<p><a href="https://www.agora-colearning.space/courses/rgps-pre-p1-welcome-party" rel="noopener nofollow" target="_blank">To signup for RGPS Pre-P1 Welcome Party</a>
+<p><a href="https://www.agora-colearning.space/courses/rgps-pre-p1-welcome-party/cr-lzvtvy-07" rel="noopener nofollow" target="_blank">To signup for RGPS Pre-P1 Welcome Party</a>
 </p>
 <p></p>
 <p></p>
