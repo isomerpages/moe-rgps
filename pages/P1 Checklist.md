@@ -173,6 +173,11 @@ P1 &amp; P2 students are to be in their PE attire during PAL lessons as
 well, which take place <strong>once a week</strong>. Students must come
 in the prescribed school uniform with white shoes and plain white or RGPS
 socks. Hair accessories are to be in black or navy blue.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/RGPS_2026_w_Spec__9__.pdf" rel="noopener nofollow" target="_blank">RGPS Uniform Order Form</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/RGPS_Name_Tag__P1__2026_.pdf" rel="noopener nofollow" target="_blank">RGPS Name Tag Form</a>
+</p>
 </td>
 </tr>
 <tr>
