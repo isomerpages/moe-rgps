@@ -247,8 +247,6 @@ login.</p>
 <p>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
 <a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/9_1_MOE_FAS_pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE FAS</a>
-</p>
 </td>
 </tr>
 <tr>
