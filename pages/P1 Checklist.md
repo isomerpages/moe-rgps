@@ -208,7 +208,7 @@ Details Form portal from<strong> 1 Dec 2025</strong>.
 <td rowspan="1" colspan="1">
 <p><strong>7.Finance &amp; Payment</strong>
 <br>
-<br><strong>By 31 Dec 24</strong>
+<br><strong>By 31 Dec 25</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,7 +222,7 @@ available at the MOE website.
 <br>
 <br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong>
 <br>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
-Services tab) or the online <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
+Services tab) or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
 for the payment of 2nd-tier miscellaneous fees and school organised enrichment
 programmes.</p>
 </td>
@@ -387,7 +387,7 @@ or via <a href="https://www.schooluniforms.sg/raffles-girls-primary-school" rel=
 <br>
 <br><strong><em>Contact person: Ms Sylvia Lim</em></strong> 
 <br>Tel : 9816 1671 / 9638 6393
-<br>For enquiries, please write to <a href="mailto:rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg5</a>
+<br>For enquiries, please write to <a href="mailto:rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a>
 </p>
 </td>
 </tr>
