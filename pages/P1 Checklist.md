@@ -115,12 +115,7 @@ package. Parents/Guardian who have older children in the school and have
 received a complimentary car decal before will not be issued another one.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
-Office. Payment is by cash or QR code at our <strong>General Office</strong>.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_rgpscardecal.png">
-</div>
+Office during the school term. Payment is by cash or QR code at our <strong>General Office</strong>.</p>
 <p></p>
 </td>
 </tr>
