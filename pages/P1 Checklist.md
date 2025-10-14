@@ -80,9 +80,9 @@ Attached is the booklist for more information.
 <br>Please be informed that the website will be opened during the following
 dates:
 <br>(a) 27 October to 1 November 2025 (For 2026, P1 students only)
-<br>(b) 11 November to 13 December 2024 (For all students)
 <br>
-<br><strong>Walk-in purchase (Venue: School canteen)</strong>
+<br>
+<br><strong>Walk-in purchase (Venue: CCA Room)</strong>
 <br>Please refer to the booklist for the available walk-in dates and payment
 modes. To shorten the waiting time, parents/guardian are encouraged to
 purchase the books online and reserve a time slot for pick up at <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com.</a>
@@ -102,26 +102,20 @@ further away from the school. The books will be packed into boxes.
 <td rowspan="1" colspan="1">
 <p><strong>3. Transportation <br><br>Car Decal</strong>
 <br>
-<br><strong>By 5 Nov 2025</strong>
+<br>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>“Drive-through” Car Decal</strong>
-<br>Vehicles entering the school to drop off or pick up students are required
-to display a “Drive-through” car decal.
-<br>
-<br>Each household is given a 1st time complimentary car decal. Parents/Guardian
-who have older children in the school and have received a complimentary
-car decal before will not be issued another one.
-<br>
-<br>Please register for your 1st time complimentary car decal by scanning
-the QR code below if you require one. If you have requested for your complimentary
-car decal, it will distributed to you during the Primary 1 Orientation.
+<p>Vehicles entering the school to drop off or pick up students are required
+to display a "Drive-through" car decal.</p>
+<p></p>
+<p>Each household is given a complimentary car decal in their orientation
+package. Parents/Guardian who have older children in the school and have
+received a complimentary car decal before will not be issued another one.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
-Office after the orientation and before 15 December 2025. Payment is by
-cash or QR code at our <strong>General Office</strong>.</p>
+Office. Payment is by cash or QR code at our <strong>General Office</strong>.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -134,12 +128,13 @@ cash or QR code at our <strong>General Office</strong>.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Bus</strong>
 <br>
-<br><strong>By 15 Dec 2024</strong>
+<br><strong>By 15 Dec 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please refer to the document below for more information.
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/3__2025_RGPS_Bus_Request_for_Service_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Form B - Request for School Bus Services</a>
+<p>Please refer to the document below for more information.</p>
+<p>
+<br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Form B - Request for School Bus Services</a>
 </p>
 </td>
 </tr>
@@ -147,17 +142,19 @@ cash or QR code at our <strong>General Office</strong>.</p>
 <td rowspan="1" colspan="1">
 <p><strong>4. Student Care Centre (SCC)</strong>
 <br>
-<br><strong>By 15 Nov 2024</strong>
+<br><strong>By 14 Nov 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The school-based SCC provides support for students without after-school
 care arrangements. You are invited to register your child if you are keen
-via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>15 November 2024, 5pm.</strong> The
+via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a> by <strong>14 November 2025, 5pm.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
 <p></p>
 <p>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
+<br><a href="/files/P1 Checklist/2026 Pupils/SCC_Cover_Letter_Registration_2026_RGPS_Vetted_docx__1_.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/SCC_Brochure_2026___Vetted_docx.pdf" rel="noopener nofollow" target="_blank">SCC Brochure for 2026</a>
 </p>
 </td>
 </tr>
