@@ -110,8 +110,7 @@ further away from the school. The books will be packed into boxes.
 to display a "Drive-through" car decal.</p>
 <p></p>
 <p>Each household is given a complimentary car decal in their orientation
-package. Parents/Guardian who have older children in the school and have
-received a complimentary car decal before will not be issued another one.
+package.
 <br>
 <br>Purchase of additional car decal at $10 each, can be done at the General
 Office during the school term. No sales of car decal on the orientation
@@ -174,6 +173,11 @@ P1 &amp; P2 students are to be in their PE attire during PAL lessons as
 well, which take place <strong>once a week</strong>. Students must come
 in the prescribed school uniform with white shoes and plain white or RGPS
 socks. Hair accessories are to be in black or navy blue.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/RGPS_2026_w_Spec__9__.pdf" rel="noopener nofollow" target="_blank">RGPS Uniform Order Form</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/RGPS_Name_Tag__P1__2026_.pdf" rel="noopener nofollow" target="_blank">RGPS Name Tag Form</a>
+</p>
 </td>
 </tr>
 <tr>
