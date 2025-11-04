@@ -45,4 +45,11 @@ sections:
       id: infobar
       button: Click Here
       url: parents/briefing-slides/pri1/
+  - infopic:
+      title: GEP E-Open House
+      id: infopic
+      button: Find out more
+      url: /gepoh/
+      image: /images/gepsite.png
+      alt: Image alt text
 ---
