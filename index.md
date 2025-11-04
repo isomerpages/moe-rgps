@@ -24,6 +24,13 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
+      title: GEP E-Open House
+      id: infopic
+      button: Find out more
+      url: /gepoh/
+      image: /images/gepsite.png
+      alt: Image alt text
+  - infopic:
       title: Canteen Stall Vacancy
       subtitle: Halal RICE/Noodle
       id: infopic
