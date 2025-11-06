@@ -38,4 +38,5 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
-|1 Oct|[P1 October Circular](/files/Notification%202025/RGPS_N25_P1_016.pdf)
+|1 Oct|[P1 October Circular](/files/Notification%202025/RGPS_N25_P1_016.pdf)|
+|6 Nov|[P1 November Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_017.pdf)<br>[Parent User Guide PG Mobile App](/files/Notification%202025/Pri%201/Parent_User_Guide_PG_Mobile_App.pdf)<br>[FAQs for Parents Notify Absence](/files/Notification%202025/Pri%201/FAQs_for_Parents__Notify_absence_.pdf)|
