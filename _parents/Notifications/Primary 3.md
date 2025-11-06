@@ -3,7 +3,7 @@ title: Primary 3
 permalink: /parents/notifications/primary-3/
 description: ""
 third_nav_title: Notifications
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>2025</strong></h3>
 <h5>Term 1</h5>
@@ -200,10 +200,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notification 2025/Pri 3/RGPS_N25_P3_031.pdf" rel="noopener nofollow" target="_blank">P3 November Circular</a><br><a href="/files/Notification 2025/Pri 1/Parent_User_Guide_PG_Mobile_App.pdf" rel="noopener nofollow" target="_blank">Parent User Guide PG Mobile App</a>
+<br><a href="/files/Notification 2025/Pri 1/FAQs_for_Parents__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">FAQs for Parents Notify Absence</a>
+</p>
 </td>
 </tr>
 </tbody>
