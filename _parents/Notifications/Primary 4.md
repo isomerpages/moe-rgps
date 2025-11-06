@@ -204,7 +204,8 @@ variant: markdown
 <p>6 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Notification 2025/Pri 4/RGPS_N25_P4_031.pdf" rel="noopener nofollow" target="_blank">P4 November Circular</a>
+<p><a href="/files/Notification 2025/Pri 4/RGPS_N25_P4_031.pdf" rel="noopener nofollow" target="_blank">P4 November Circular</a><br><a href="/files/Notification 2025/Pri 1/Parent_User_Guide_PG_Mobile_App.pdf" rel="noopener nofollow" target="_blank">Parent User Guide PG Mobile App</a>
+<br><a href="/files/Notification 2025/Pri 1/FAQs_for_Parents__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">FAQs for Parents Notify Absence</a>
 </p>
 </td>
 </tr>
