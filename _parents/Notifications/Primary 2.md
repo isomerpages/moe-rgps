@@ -193,12 +193,9 @@ variant: markdown
 <p>6 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Notification 2025/Pri 2/RGPS_N25_P2_020.pdf" rel="noopener nofollow" target="_blank">P2 November Circular</a>
-</p>
-<p><a href="/files/Notification 2025/Pri 1/Parent_User_Guide_PG_Mobile_App.pdf" rel="noopener nofollow" target="_blank">Parent User Guide PG Mobile App</a>
-</p>
-<p><a href="/files/Notification 2025/Pri 1/FAQs_for_Parents__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">FAQs for Parents Notify Absence</a>
-</p>
+<a href="/files/Notification 2025/Pri 2/RGPS_N25_P2_020.pdf" rel="noopener nofollow" target="_blank">P2 November Circular</a>
+<br><a href="/files/Notification 2025/Pri 1/Parent_User_Guide_PG_Mobile_App.pdf" rel="noopener nofollow" target="_blank">Parent User Guide PG Mobile App</a>
+<br><a href="/files/Notification 2025/Pri 1/FAQs_for_Parents__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">FAQs for Parents Notify Absence</a>
 </td>
 </tr>
 <tr>
