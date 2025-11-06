@@ -202,10 +202,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Notification 2025/Pri 5/RGPS_N25_P5_033.pdf" rel="noopener nofollow" target="_blank">P5 November Circular</a>
+</p>
 </td>
 </tr>
 </tbody>
