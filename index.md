@@ -24,6 +24,13 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
+      title: P1 Orientation
+      id: infopic
+      button: Find out More
+      url: /p1orientation/
+      image: /images/p1orientation.jpg
+      alt: Image alt text
+  - infopic:
       title: GEP E-Open House
       id: infopic
       button: Find out more
