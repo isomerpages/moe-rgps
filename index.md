@@ -26,8 +26,7 @@ sections:
   - infopic:
       title: P1 Orientation
       id: infopic
-      description: Infopic description
-      button: Find out Mor
+      button: Find out More
       url: /p1orientation/
       image: /images/p1orientation.jpg
       alt: Image alt text
