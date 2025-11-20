@@ -24,6 +24,13 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
+      title: Booklist for 2026
+      id: infopic
+      button: Click here
+      url: /parents/Engaging-Our-Parents/sch-partners/
+      image: /images/bookstore.png
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation
       id: infopic
       button: Find out More
