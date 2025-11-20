@@ -197,7 +197,7 @@ and dental services after your child has started school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P1.pdf" rel="noopener nofollow" target="_blank">P1</a>
+<p><a href="/files/Booklist/P1.pdf" rel="noopener nofollow" target="_blank">P1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +213,7 @@ and dental services after your child has started school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P2.pdf" rel="noopener nofollow" target="_blank">P2</a>
+<p><a href="/files/Booklist/P2.pdf" rel="noopener nofollow" target="_blank">P2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,7 +229,7 @@ and dental services after your child has started school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P3.pdf" rel="noopener nofollow" target="_blank">P3</a>
+<p><a href="/files/Booklist/P3.pdf" rel="noopener nofollow" target="_blank">P3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,11 +245,11 @@ and dental services after your child has started school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P4.pdf" rel="noopener nofollow" target="_blank">P4</a>
+<p><a href="/files/Booklist/P4.pdf" rel="noopener nofollow" target="_blank">P4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P4_GEP.pdf" rel="noopener nofollow" target="_blank">P4 GEP</a>
+<p><a href="/files/Booklist/P4_GEP.pdf" rel="noopener nofollow" target="_blank">P4 GEP</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -262,15 +262,15 @@ and dental services after your child has started school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P5.pdf" rel="noopener nofollow" target="_blank">P5</a>
+<p><a href="/files/Booklist/P5.pdf" rel="noopener nofollow" target="_blank">P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P5_GEP.pdf" rel="noopener nofollow" target="_blank">P5 GEP</a>
+<p><a href="/files/Booklist/P5_GEP.pdf" rel="noopener nofollow" target="_blank">P5 GEP</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P5_FDN.pdf" rel="noopener nofollow" target="_blank">P5 FDN</a>
+<p><a href="/files/Booklist/P5_FDN.pdf" rel="noopener nofollow" target="_blank">P5 FDN</a>
 </p>
 </td>
 </tr>
@@ -280,15 +280,15 @@ and dental services after your child has started school.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P6.pdf" rel="noopener nofollow" target="_blank">P6</a>
+<p><a href="/files/Booklist/P6.pdf" rel="noopener nofollow" target="_blank">P6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P6_GEP.pdf" rel="noopener nofollow" target="_blank">P6 GEP</a>
+<p><a href="/files/Booklist/P6_GEP.pdf" rel="noopener nofollow" target="_blank">P6 GEP</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklist/P6_FDN.pdf" rel="noopener nofollow" target="_blank">P6 FDN</a>
+<p><a href="/files/Booklist/P6_FDN.pdf" rel="noopener nofollow" target="_blank">P6 FDN</a>
 </p>
 </td>
 </tr>
