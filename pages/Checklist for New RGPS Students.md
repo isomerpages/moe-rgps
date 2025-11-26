@@ -186,7 +186,7 @@ available at the MOE website.
 <br>
 <br><strong>2) Edusave Standing Order Signup <br>(For students who are Singapore citizens only)</strong>
 <br>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
-Services tab) or the online <a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
+Services tab) or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
 for the payment of 2nd-tier miscellaneous fees and school organised enrichment
 programmes.</p>
 </td>
@@ -222,8 +222,6 @@ login.</p>
 <p>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
 <a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/9_1_MOE_FAS_pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE FAS</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +247,6 @@ More information is available on the <a href="https://www.posb.com.sg/personal/s
 to support students’ development. We encourage all parents/guardian with
 daughter(s)/wards(s) in the school to join the PVG.
 <br>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/11_1_2024_PVG_P1_Welcome_Letter__revised_10_Oct_24_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Group (PVG) </a>
 <br><a href="/files/P1%20Checklist/2023/pvg%20membership%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Brochure</a>
 <br><a href="/files/P1%20Checklist/2023/pvg%20merchandise%20brochure%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Merchandise Brochure</a>
 </p>
@@ -266,14 +263,9 @@ to encourage ex-students to connect with each other and create memories
 for the next generations of RGPS Girls. Every year, a pre-P1 gathering
 is hosted for the K2s to get to know each other through play before they
 start primary school the next year. Please see the attached for more information.</p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/12_1_AA_Welcome_Letter_P1_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Letter</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/12_2_AA_Pre_P1_Welcome_Party_Flyer_2025_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Pre-P1 Welcome Party Flyer</a>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/AA_Welcome_Letter_P1_2026_pdf.pdf" rel="noopener nofollow" target="_blank">RGPS Welcome Letter</a>
 </p>
-<p></p>
-<p><a href="https://www.agora-colearning.space/courses/rgps-pre-p1-welcome-party" rel="noopener nofollow" target="_blank">To signup for RGPS Pre-P1 Welcome Party</a>
-</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
