@@ -99,7 +99,7 @@ the school term. (1 complimentary car decal for new students only.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please refer to the document below for more information.
-<br><a href="/files/P1%20Checklist/2025%20P1%20pupils/3__2025_RGPS_Bus_Request_for_Service_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Form B - Request for School Bus Services</a>
+<br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
 </p>
 </td>
 </tr>
@@ -116,8 +116,9 @@ care arrangements. You are invited to register your child if you are keen
 via the website at: <a href="http://www.knowledgepark.com.sg/rafflesgirlsscc" rel="noopener noreferrer nofollow" target="_blank">http://www.knowledgepark.com.sg/rafflesgirlsscc</a>  <strong>.</strong> The
 SCC will inform the applicants of the outcome directly.</p>
 <p></p>
-<p><a href="/files/P1 Checklist/2025 P1 pupils/4_1_SCC_CoverLetterRegistration2025_RGPS_19Oct2024.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/4_2_SCC_Brochure_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure for 2025</a>
+<p><a href="/files/P1 Checklist/2026 Pupils/SCC_Cover_Letter_Registration_2026_RGPS_Vetted_docx__1_.pdf" rel="noopener nofollow" target="_blank">SCC Cover Letter</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/SCC_Brochure_2026___Vetted_docx.pdf" rel="noopener nofollow" target="_blank">SCC Brochure for 2026</a>
 </p>
 <p>(Note: Subject to vacancy)</p>
 </td>
@@ -145,8 +146,9 @@ well, which take place <strong>once a week</strong>. Students must come
 in the prescribed school uniform with white shoes and plain white or RGPS
 socks. Hair accessories are to be in black or navy blue.
 <br>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/5_2_RGPS_Uniform__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Uniform</a>
-<br><a href="/files/P1 Checklist/2025 P1 pupils/5_1_RGPS_NameTag__P1_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">RGPS 2025 Nametag</a>
+<br><a href="/files/P1 Checklist/2026 Pupils/RGPS_2026_w_Spec__9__.pdf" rel="noopener nofollow" target="_blank">RGPS 2026 Order Form</a>
+</p>
+<p><a href="/files/P1 Checklist/2026 Pupils/RGPS_Name_Tag__P1__2026_.pdf" rel="noopener nofollow" target="_blank">RGPS Name Tag Form</a>
 </p>
 </td>
 </tr>
@@ -154,7 +156,7 @@ socks. Hair accessories are to be in black or navy blue.
 <td rowspan="1" colspan="1">
 <p><strong>Submission of Student Details Form</strong>
 <br>
-<br><strong>(This is for P1 2025 students only)</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,14 +165,14 @@ about you and your child/ward to provide educational services for your
 child/ward in our schools.
 <br>
 <br>2. Please check the PG notification for submission of the online Student
-Details Form portal from<strong> 25 Nov 2024</strong>.</p>
+Details Form portal from<strong> 1 Dec 2025</strong>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Finance &amp; Payment</strong>
 <br>
-<br>For P1 2025 students, please submit <strong>by 31 Dec 24.</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
