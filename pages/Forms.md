@@ -39,9 +39,7 @@ as all school updates will be sent through PG. Click here for <a href="https://p
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For change of address and contact numbers. Please submit the completed
-<a href="/files/Forms/Form%20C%20(Address%20Updates).pdf" rel="noopener noreferrer nofollow" target="_blank">address update form</a>together with a copy of the NRIC reflecting the
-updated address.</p>
+<p>Parents can apply for change of address on identity card through <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" rel="noopener nofollow" target="_blank">ICA website</a>.</p>
 </td>
 </tr>
 <tr>
