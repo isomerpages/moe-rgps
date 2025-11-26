@@ -59,10 +59,6 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Kandoth Shaheena</td>
   </tr>
-	<tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Pamela Zheng YiQuan</td>
-  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Roziyana Rahmat</td>
