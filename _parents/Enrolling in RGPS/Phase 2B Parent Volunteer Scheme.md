@@ -17,4 +17,4 @@ Parents are to note that this scheme accords an eligibility to register in Raffl
   
 Shortlisted parents will be invited for an interview and selected parents will have to serve and complete 50 hours of voluntary service if they wish to be eligible for Phase 2B of the primary one registration exercise. Please note that only shortlisted parents would be notified.  
   
-For PV Application Form (DOB 2 Jan 2021 and 1 Jan 2022) - [Click Here](https://go.gov.sg/rgpspvapplication2024)
+For PV Application Form (DOB 2 Jan 2021 and 1 Jan 2022) - [Click Here](https://go.gov.sg/rgpsphase2bpv)
