@@ -46,8 +46,7 @@ have any query or clarification.</p>
 <p>
 <br>Please be informed that the website will be opened during the following
 dates:
-<br>(a) 27 October to 1 November 2024 (For 2025, P1 students only)
-<br>(b) 26 November to 27 December 2024 (For all students)
+<br>(a) 11 November to 13 December 2025 (For all students)
 <br>
 <br><strong>Walk-in purchase (Venue: CCA Room near basketball court)</strong>
 <br>Please refer to the booklist for the available walk-in dates and payment
@@ -59,7 +58,7 @@ is recommended to bring along a trolley to carry the books if you are parking
 further away from the school. The books will be packed into boxes.
 <br>
 </p>
-<h4><strong>For purchase during term time: </strong></h4>
+<h4><strong>For purchase during term time:</strong></h4>
 <p></p>
 <p><strong><em>Opening hours</em></strong>
 <br>Mon- Fri: 7.30 a.m. to 3.00 p.m. (during school term)
@@ -78,21 +77,12 @@ further away from the school. The books will be packed into boxes.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>“Drive-through” Car Decal</strong>
-<br>Vehicles entering the school to drop off or pick up students are required
-to display a “Drive-through” car decal.
-<br>
-<br>Each household is given a 1st time complimentary car decal. Parents/Guardian
-who have older children in the school and have received a complimentary
-car decal before will not be issued another one.
-<br>
-<br>Please register for your 1st time complimentary car decal by scanning
-the QR code below if you require one. If you have requested for your complimentary
-car decal, it will distributed to you during the Primary 1 Orientation.
-<br>
-<br>Purchase of additional car decal at $10 each, can be done at the General
-Office. Payment is by QR code at our <strong>General Office</strong>.</p>
+<p>Vehicles entering the school to drop off or pick up students are required
+to display a "Drive-through" car decal.</p>
 <p></p>
+<p>Purchase of car decal at $10 each, can be done at the General Office during
+the school term. (1 complimentary car decal for new students only.)</p>
+<p>Payment is by cash or QR code at our General Office.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_rgpscardecal.png">
