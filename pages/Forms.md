@@ -304,8 +304,8 @@ your child's/ward’s medical information and provide consent for immunisation
 and dental services after your child has started school.
 <br>
 <br>Please access the following websites for more information on:
-<br>* Immunisations offered to primary school students - <a href="https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Primary_School" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
-<br>* Screening services offered to primary school students - <a href="https://www.healthhub.sg/live-healthy/365/health_screening_for_primary_school" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<br>• Immunisations offered to primary school students - <a href="https://www.healthhub.sg/programmes/parent-hub/student_immunisation_and_screening#:~:text=During%20the%20school%20visit%2C%20the,)%5D%20as%20recommended%20under%20the" rel="noopener noreferrer nofollow" target="_blank">Student Immunisation</a>
+<br>• Screening services offered to primary school students - <a href="https://www.healthhub.sg/live-healthy/health_screening_for_primary_school" rel="noopener noreferrer nofollow" target="_blank">Health Screening for Primary School Students</a>
 </p>
 </td>
 </tr>
