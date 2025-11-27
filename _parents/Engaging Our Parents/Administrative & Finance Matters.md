@@ -184,35 +184,26 @@ purchases/registrations:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GIRO</strong>
+<p><strong>eGIRO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are encouraged to sign up for eGIRO online, for payment
-of standard miscellaneous fees and school charges. The eGIRO application
-can be found via <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>
-<br>You may refer to the eGIRO application <a href="/files/Forms/eGIRO%20Userguide.pdf" rel="noopener noreferrer nofollow" target="_blank">user guide</a> for assistance.
-<br>
-<br>This new digital service is available to account holders from BOC, DBS/POSB,
-MAY, OCBC, SCB, HSBC and UOB for a start. All other bank account holders
-will need to complete the <a href="/files/Forms/GIRO_application_form_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">hardcopy GIRO application form</a> and
-submit the original signed form to the school.
-<br>
-<br>You may refer to the <a href="https://go.gov.sg/moe-egiro-faq" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> for any GIRO-related questions.</p>
+<p>Parents/Guardian will be able to sign up for eGIRO online, for payment
+of standard miscellaneous fees and school charges. The detailed <a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">eGIRO user guide</a> is
+available at the MOE website.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Edusave Standing Order</strong> (for Students who are Singapore
-Citizens only)</p>
+<p><strong>Edusave Standing Order</strong> 
+</p>
+<p>(Students who are Singapore Citizens only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are encouraged to use Edusave funds for the payment of
-2nd-tier miscellaneous fees and school-organised enrichment programmes.
-<br>
-<br>Parents/Guardian can apply to use the Edusave funds via Parents Gateway
-(under Services tab) or the online <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>.</p>
+<p>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
+Services tab) or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
+for the payment of 2nd-tier miscellaneous fees and school organised enrichment
+programmes.</p>
 </td>
 </tr>
 </tbody>
