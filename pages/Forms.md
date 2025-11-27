@@ -155,7 +155,7 @@ time can join the school for an Immersion Programme.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GIRO</strong>
+<p><strong>eGIRO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,8 +175,9 @@ submit the original signed form to the school.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Edusave Standing Order</strong> (for Students who are Singapore
-Citizens only)</p>
+<p><strong>Edusave Standing Order</strong> 
+</p>
+<p>(For students who are Singapore Citizens only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/Guardian are encouraged to use Edusave funds for the payment of
