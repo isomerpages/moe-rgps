@@ -125,8 +125,8 @@ daily allowance and monitor her expenditure via a mobile app.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are to access the <a href="https://childconsent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Child Consent Portal</a> to update
-your child's/ward’s medical information and provide consent for immunisation
+<p>Parents/Guardian are to access the <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Child Consent Portal</a> to update your
+child's/ward’s medical information and provide consent for immunisation
 and dental services after your child has started school.
 <br>
 <br>Please access the following websites for more information on:
