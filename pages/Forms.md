@@ -120,9 +120,7 @@ Application must reach the school by 15 Dec for renewal to be effective
 the following year.
 <br>
 <br>Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
-school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">LOA Application Form</a>.
-<br>
-</p>
+school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">LOA Application Form</a>.</p>
 </td>
 </tr>
 <tr>
