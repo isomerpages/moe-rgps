@@ -125,8 +125,8 @@ daily allowance and monitor her expenditure via a mobile app.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are to access the <a href="https://childconsent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Child Consent Portal</a> to update
-your child's/ward’s medical information and provide consent for immunisation
+<p>Parents/Guardian are to access the <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Child Consent Portal</a> to update your
+child's/ward’s medical information and provide consent for immunisation
 and dental services after your child has started school.
 <br>
 <br>Please access the following websites for more information on:
@@ -143,7 +143,7 @@ and dental services after your child has started school.
 <td rowspan="1" colspan="1">
 <p><strong><em>Pacific Bookstores Pte Ltd</em></strong> 
 <br>
-<br>Website: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> 
+<br>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 <br>Tel: 6467 1692
 <br>
 <br><strong><em>Opening hours</em></strong> 
