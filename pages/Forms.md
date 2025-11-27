@@ -201,14 +201,10 @@ programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The RGPS PVG is a registered society and works closely with the school
-to support students’ development.
-<br>
-<br>We encourage all parents/guardian with daughter(s)/wards(s) in the school
-to join the PVG.
-<br>
-<br><a href="/files/Forms/PVG%20P1%20letter.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Letter</a> 
-<br><a href="/files/Forms/PVG%20membership%20brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">PVG Membership Brochure</a> 
-<br>
+to support students’ development. We encourage all parents/guardian with
+daughter(s)/wards(s) in the school to join the PVG.</p>
+<p></p>
+<p><a href="/files/P1 Checklist/2026 Pupils/Letter_from_RGPS_PVG_to_P1_Parents.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Group (PVG)</a>
 </p>
 </td>
 </tr>
@@ -237,12 +233,7 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 <br>For enquiries, please write to <a href="rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a> 
 <br>
 <br><strong><em>Opening hours</em></strong> 
-<br>Mon-Fri: 1.30 p.m. to 7.00 p.m.
-<br>
-<br><a href="/files/Forms/SCC%20Cover%20Letter%202023%20RGPS.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Cover Letter</a> 
-<br><a href="/files/Forms/SCC%20Brochure%202023RGPS%20-%20Final.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Brochure</a> 
-<br><a href="/files/Forms/Student%20Care%20Centre%20(SCC)%20-%20Student%20Care%20Centre%20(SCC)%20letter%20for%20enrollment.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Letter for enrollment</a>
-</p>
+<br>Mon-Fri: 1.30 p.m. to 7.00 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -255,12 +246,11 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 <br>
 <br>For further enquiries to register your child for school bus services.
 <br>
-<br><strong><em>Contact Person: Mr Ong Chai Heng</em></strong> 
+<br><strong><em>Contact Person: Mr Lawrence Chew</em></strong>
 <br>Tel : 6747 7246 / Fax : 6743 8243
-<br>Email: <a href="enquiry@ssta.com.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@ssta.com.sg</a> 
+<br>Email: <a href="schoolbusops@ssta.com.sg" rel="noopener nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
 <br>
-<br><a href="/files/Forms/2024%20rgps%20school%20bus%20operator.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Bus Service Info</a> 
-<br><a href="/files/Forms/2024%20request%20for%20school%20bus%20services.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Request for Bus Services</a>
+<br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Request for Bus Services</a>
 </p>
 </td>
 </tr>
