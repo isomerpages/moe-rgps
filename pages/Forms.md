@@ -44,6 +44,17 @@ as all school updates will be sent through PG. Click here for <a href="https://p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Smart Phone/Watch Application</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Should there be a need to bring a smart phone/watch to school, parents/guardian
+are required to register the device with the <a href="/files/Forms/HP &amp; SW Registration Form.pdf" rel="noopener nofollow" target="_blank">HP &amp; Smart Watch Application Form</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Student Insurance</strong>
 </p>
 </td>
