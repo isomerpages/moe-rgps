@@ -334,5 +334,5 @@ and dental services after your child has started school.
 should a vacancy become available.</p>
 <p>Please note that the application for the wait list is on a year to year
 basis and you will need to submit another one for the next academic year
-(<strong>2025</strong>) if your application for <strong>2024</strong> is
+(<strong>2026</strong>) if your application for <strong>2025</strong> is
 unsuccessful.</p>
