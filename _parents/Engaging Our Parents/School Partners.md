@@ -143,7 +143,7 @@ and dental services after your child has started school.
 <td rowspan="1" colspan="1">
 <p><strong><em>Pacific Bookstores Pte Ltd</em></strong> 
 <br>
-<br>Website: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> 
+<br>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 <br>Tel: 6467 1692
 <br>
 <br><strong><em>Opening hours</em></strong> 
