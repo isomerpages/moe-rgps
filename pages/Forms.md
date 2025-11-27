@@ -68,17 +68,16 @@ are required to register the device with the <a href="/files/Forms/HP &amp; SW R
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2023 is
-now open. Please read the attached MOE FAS letter for the eligibility criteria
-and application process.
+<p>The MOE Financial Assistance Scheme (MOE FAS) eligibility criteria and
+application process can be found at the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.
 <br>
-<br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a> 
-<br><a href="https://form.gov.sg/632432ba67747a0011d4a0cc" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form (Online)</a> 
-<br><a href="/files/Forms/FAS%20Application%20Form_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
-<br>
-<br>Students who do not meet the criteria for MOE FAS may consider applying
+<br>Parents can apply for MOE FAS using the e-FAS form which is available
+on Parents Gateway (under Services tab – Financial Assistance) via Singpass
+login.</p>
+<p></p>
+<p>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
-<a href="mailto:rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
+<a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
 </td>
 </tr>
 <tr>
