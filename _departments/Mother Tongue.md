@@ -90,10 +90,6 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Khoo Wai Ling</td>
   </tr>
-	  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Ms Lau Lu Ying</td>
-  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Lee Mei Lup</td>

@@ -32,13 +32,6 @@ completed hardcopy forms to the school.</p>
 <p>Parents Gateway (PG) is the main communication channel between the school
 and parents/guardian. Please download the application on your mobile devices
 as all school updates will be sent through PG. Click here for <a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs and instructions for downloading the application</a>.</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Updating of parent's contact information through PG, click on:</p>
-<p>PROFILE &gt; Edit contact details &gt; Save</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -47,9 +40,7 @@ as all school updates will be sent through PG. Click here for <a href="https://p
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents can apply for change of address on identity card through ICA
-<a href="https://www.ica.gov.sg/documents/ic/update_residential_address" rel="noopener nofollow" target="_blank">website.</a>
-</p>
+<p>Parents can apply for change of address on identity card through <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" rel="noopener nofollow" target="_blank">ICA website</a>.</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +50,8 @@ as all school updates will be sent through PG. Click here for <a href="https://p
 </td>
 <td rowspan="1" colspan="1">
 <p>Should there be a need to bring a smart phone/watch to school, parents/guardian
-are required to register the device with the <a href="/files/Forms/HP%20&amp;%20SW%20Registration%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">HP &amp; Smart Watch Application Form</a>.</p>
+are required to register the device with the <a href="/files/Forms/HP &amp; SW Registration Form.pdf" rel="noopener nofollow" target="_blank">HP &amp; Smart Watch Application Form</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,17 +69,16 @@ are required to register the device with the <a href="/files/Forms/HP%20&amp;%20
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2024 is
-now open. Please read the attached MOE FAS letter for the eligibility criteria
-and application process.
+<p>The MOE Financial Assistance Scheme (MOE FAS) eligibility criteria and
+application process can be found at the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.
 <br>
-<br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a>
-</p>
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
-<br>
-<br>Students who do not meet the criteria for MOE FAS may consider applying
+<br>Parents can apply for MOE FAS using the e-FAS form which is available
+on Parents Gateway (under Services tab – Financial Assistance) via Singpass
+login.</p>
+<p></p>
+<p>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
-<a href="mailto:rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
+<a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
 </td>
 </tr>
 <tr>
@@ -130,10 +121,7 @@ Application must reach the school by 15 Dec for renewal to be effective
 the following year.
 <br>
 <br>Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
-school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">LOA Application Form</a>.
-<br>
-<br>
-</p>
+school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">LOA Application Form</a>.</p>
 </td>
 </tr>
 <tr>
@@ -147,26 +135,6 @@ time can join the school for an Immersion Programme.
 <br>
 <br>For such cases, please fill in the <a href="https://go.gov.sg/rgps-loa" rel="noopener nofollow" target="_blank">Immersion Programme Application Form</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Partners</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Please visit this <a href="https://www.rafflesgirlspri.moe.edu.sg/parents/Engaging-Our-Parents/sch-partners/" rel="noopener noreferrer nofollow" target="_blank">link</a> for
-information on the following school partners, and to make the necessary
-purchases/registrations:
-<br>
-<br>Parent Volunteer Group
-<br>Alumni Association
-<br>Student Care Centre
-<br>School Bus Operator
-<br>School Uniform Supplier
-<br>POSB Smart Buddy Watch
-<br>Health Promotion Board
-<br>School Textbooks Supplier</p>
 </td>
 </tr>
 </tbody>
@@ -188,37 +156,34 @@ purchases/registrations:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>GIRO</strong>
+<p><strong>eGIRO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are encouraged to sign up for eGIRO online, for payment
-of standard miscellaneous fees and school charges. The eGIRO application
-can be found via <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>
-<br>You may refer to the eGIRO application <a href="/files/Forms/eGIRO%20Userguide.pdf" rel="noopener noreferrer nofollow" target="_blank">user guide</a> for assistance.
-<br>
-<br>This new digital service is available to account holders from BOC, DBS/POSB,
-MAY, OCBC, SCB, HSBC and UOB for a start. All other bank account holders
-will need to complete the <a href="/files/Forms/GIRO_application_form_Nov2022.pdf" rel="noopener noreferrer nofollow" target="_blank">hardcopy GIRO application form</a> and
-submit the original signed form to the school.
-<br>
-<br>You may refer to the <a href="https://go.gov.sg/moe-egiro-faq" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> for any GIRO-related questions.</p>
+<p>Parents/Guardian will be able to sign up for eGIRO online, for payment
+of standard miscellaneous fees and school charges. The detailed <a href="https://file.go.gov.sg/moeegirouserguide.pdf" rel="noopener noreferrer nofollow" target="_blank">eGIRO user guide</a> is
+available at the MOE website.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Edusave Standing Order</strong> (for Students who are Singapore
-Citizens only)</p>
+<p><strong>Edusave Standing Order</strong>
+</p>
+<p>(For students who are Singapore Citizens only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardian are encouraged to use Edusave funds for the payment of
-2nd-tier miscellaneous fees and school-organised enrichment programmes.
-<br>
-<br>Parents/Guardian can apply to use the Edusave funds via Parents Gateway
-(under Services tab) or the online <a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>.</p>
+<p>Parents/Guardian can apply to use Edusave funds via Parents Gateway (under
+Services tab) or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>,
+for the payment of 2nd-tier miscellaneous fees and school organised enrichment
+programmes.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Transfer/Waitlist for Pupils</strong></h4>
+<p>You may fill in the school's waitlist application <a href="https://go.gov.sg/rgpswaitlist" rel="noopener noreferrer nofollow" target="_blank">here</a>, and we will contact you,
+should a vacancy become available.</p>
+<p>Please note that the application for the wait list is on a year to year
+basis and you will need to submit another one for the next academic year
+(<strong>2026</strong>) if your application for <strong>2025</strong> is
+unsuccessful.</p>

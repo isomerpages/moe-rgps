@@ -12,8 +12,8 @@ sections:
         - title: Notifications
           description: Important Updates for Pri 1-6
           url: /parents/Notifications/primary-1-6/
-        - title: Quick Links & Forms
-          description: To Access Useful Links & Forms
+        - title: Quick Links
+          description: To Access Useful Links
           url: /quick-links-forms
         - title: Calendar of Events
           description: School Events & Activities
