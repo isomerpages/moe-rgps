@@ -77,17 +77,16 @@ are required to register the device with the <a href="/files/Forms/HP%20&amp;%20
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The MOE Financial Assistance Scheme (MOE FAS) application for 2024 is
-now open. Please read the attached MOE FAS letter for the eligibility criteria
-and application process.
+<p>The MOE Financial Assistance Scheme (MOE FAS) eligibility criteria and
+application process can be found at the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.
 <br>
-<br><a href="/files/Forms/MOE%20FAS%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Letter</a>
-</p>
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> 
-<br>
-<br>Students who do not meet the criteria for MOE FAS may consider applying
+<br>Parents can apply for MOE FAS using the e-FAS form which is available
+on Parents Gateway (under Services tab – Financial Assistance) via Singpass
+login.</p>
+<p></p>
+<p>Students who do not meet the criteria for MOE FAS may consider applying
 for school-based FAS. You may contact the school at 6468 4377 or email
-<a href="mailto:rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
+<a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">rgps@moe.edu.sg</a>if you have any further queries.</p>
 </td>
 </tr>
 <tr>
@@ -130,10 +129,7 @@ Application must reach the school by 15 Dec for renewal to be effective
 the following year.
 <br>
 <br>Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
-school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">LOA Application Form</a>.
-<br>
-<br>
-</p>
+school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">LOA Application Form</a>.</p>
 </td>
 </tr>
 <tr>
