@@ -6,7 +6,7 @@ description: ""
 ---
 <h4><strong>Administrative Matters</strong></h4>
 <p>Below is a list of administrative application forms that may be required.
-Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
+Please <a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">email</a> the
 completed hardcopy forms to the school.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -230,7 +230,7 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 <br>
 <br><strong><em>Contact person: Ms Sylvia Lim</em></strong> 
 <br>Tel : 9816 1671 / 9638 6393
-<br>For enquiries, please write to <a href="rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a> 
+<br>For enquiries, please write to <a href="mailto:&quot;rafflesgirlsscc@knowledgepark.com.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a> 
 <br>
 <br><strong><em>Opening hours</em></strong> 
 <br>Mon-Fri: 1.30 p.m. to 7.00 p.m.</p>
@@ -248,7 +248,7 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 <br>
 <br><strong><em>Contact Person: Mr Lawrence Chew</em></strong>
 <br>Tel : 6747 7246 / Fax : 6743 8243
-<br>Email: <a href="schoolbusops@ssta.com.sg" rel="noopener nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
+<br>Email: <a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
 <br>
 <br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Request for Bus Services</a>
 </p>
