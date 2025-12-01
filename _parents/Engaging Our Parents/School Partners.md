@@ -68,15 +68,20 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><em>Singapore School Transport Association (SSTA)</em></strong> 
+<p><strong><em><a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">Singapore School Transport Association (SSTA)</a></em></strong>
+<a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">
 <br>
 <br>For further enquiries to register your child for school bus services.
 <br>
-<br><strong><em>Contact Person: Mr Lawrence Chew</em></strong>
-<br>Tel : 6747 7246 / Fax : 6743 8243
-<br>Email: <a href="schoolbusops@ssta.com.sg" rel="noopener nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
 <br>
-<br><a href="/files/P1 Checklist/2026 Pupils/3__Transportation___School_Bus___Pri_1_Registration_form.pdf" rel="noopener nofollow" target="_blank">Request for Bus Services</a>
+</a><strong><em><a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">Contact Person: Mr Lawrence Chew</a></em></strong>
+<a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">
+<br>Tel : 6747 7246 / Fax : 6743 8243
+<br>Email:</a><a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener nofollow" target="_blank">schoolbusops@ssta.com.sg</a>
+<a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+</a><a href="mailto:&quot;schoolbusops@ssta.com.sg&quot;" rel="noopener nofollow" target="_blank">Request for Bus Services</a>
 </p>
 </td>
 </tr>
