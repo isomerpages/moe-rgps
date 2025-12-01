@@ -30,7 +30,7 @@ variant: tiptap
 to support students’ development. We encourage all parents/guardian with
 daughter(s)/wards(s) in the school to join the PVG.</p>
 <p></p>
-<p><a href="/files/P1 Checklist/2026 Pupils/Letter_from_RGPS_PVG_to_P1_Parents.pdf" rel="noopener nofollow" target="_blank">Parent Volunteer Group (PVG)</a>
+<p><a href="https://rgpspvg.org/" rel="noopener nofollow" target="_blank">Parent Volunteer Group (PVG)</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ of the RGPS AA <a href="https://rafflesgirlspri.moe.edu.sg/partners/alumni/" rel
 <br>
 <br><strong><em>Contact person: Ms Sylvia Lim</em></strong> 
 <br>Tel : 9816 1671 / 9638 6393
-<br>For enquiries, please write to <a href="rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a> 
+<br>For enquiries, please write to <strong><em><a href="mailto:rafflesgirlsscc@knowledgepark.com.sg" rel="noopener noreferrer nofollow" target="_blank">rafflesgirlsscc@knowledgepark.com.sg</a></em></strong>
 <br>
 <br><strong><em>Opening hours</em></strong> 
 <br>Mon-Fri: 1.30 p.m. to 7.00 p.m.</p>
