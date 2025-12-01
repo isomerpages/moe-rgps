@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>Administrative Matters</strong></h4>
 <p>Below is a list of administrative application forms that may be required.
-Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
+Please <a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">email</a> the
 completed hardcopy forms to the school.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -120,7 +120,7 @@ to retain a place in the school. The application has to be renewed yearly.
 Application must reach the school by 15 Dec for renewal to be effective
 the following year.
 <br>
-<br>Please <a href="rgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a> the
+<br>Please <a href="mailto:&quot;rgps@moe.edu.sg&quot;" rel="noopener noreferrer nofollow" target="_blank">email</a> the
 school after you have submitted the online <a href="https://go.gov.sg/rgps-loa" rel="noopener noreferrer nofollow" target="_blank">LOA Application Form</a>.</p>
 </td>
 </tr>
