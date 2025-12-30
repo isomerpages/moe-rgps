@@ -50,12 +50,8 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-1wig">Senior Teacher English</td>
     <td class="tg-0lax">Mdm Tan Hwee Hoon</td>
   </tr>
-  <tr>
-    <td class="tg-1wig">Teacher</td>
-    <td class="tg-0lax">Ms Ang Kai Mei</td>
-  </tr>
 	<tr>
-    <td class="tg-0lax"> </td>
+        <td class="tg-1wig">Teacher</td>
     <td class="tg-0lax">Mrs Catherine Lin</td>
   </tr>
 		 <tr>
