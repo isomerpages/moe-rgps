@@ -39,6 +39,14 @@ To develop our pupils with mathematical concepts and skills for everyday life an
     <td class="tg-1wig">Senior Teacher Mathematics</td>
     <td class="tg-0lax">Ms Yan Ying Ling</td>
   </tr>
+	<tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Ms Ang Kai Mei</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Ms Angie Loo</td>
+  </tr>
 	 <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Celia Lee</td>
@@ -58,6 +66,10 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mrs Jacequeline Seto</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mdm Janice Yeo</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
