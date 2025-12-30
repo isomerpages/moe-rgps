@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum Briefing Slides
 ---
-<h3><strong>2025</strong></h3>
+<h3><strong>2026</strong></h3>
 <h4><strong>Primary 6</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -116,7 +116,7 @@ third_nav_title: Curriculum Briefing Slides
 <p>12 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.rafflesgirlspri.moe.edu.sg/explore-school-choices-dsa-to-secondary-school/" rel="noopener nofollow" target="_blank">Video on Explore School Choices </a>
+<p><a href="https://www.rafflesgirlspri.moe.edu.sg/explore-school-choices-dsa-to-secondary-school/" rel="noopener nofollow" target="_blank">Video on Explore School Choices</a>
 </p>
 </td>
 </tr>
