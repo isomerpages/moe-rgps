@@ -64,6 +64,10 @@ To nurture creativity and inculcate a lifelong appreciation and participation in
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Ho Soo Peng</td>
   </tr>
+	 <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Nasyitah Binte Razli</td>
+  </tr>
 </tbody>
 </table>
 
