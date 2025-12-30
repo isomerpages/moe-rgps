@@ -7,7 +7,3 @@ variant: markdown
 ---
 ### **2026**
 
-##### Term 1
-
-| Date| File | 
-| -------- | -------- |
