@@ -49,10 +49,6 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mdm Claudia Tan (Mrs Lee)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Elicia Lim</td>
   </tr>
   <tr>
@@ -70,10 +66,6 @@ To develop our pupils with mathematical concepts and skills for everyday life an
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Junaidah</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Ms Khoo Kim Kim (Mrs Hoon)</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
