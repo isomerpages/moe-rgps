@@ -24,25 +24,12 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infopic:
-      title: Booklist for 2026
+      title: MS TEAMS
+      subtitle: Parents' Guide
       id: infopic
       button: Click here
-      url: /parents/Engaging-Our-Parents/sch-partners/
-      image: /images/bookstore.png
-      alt: Image alt text
-  - infopic:
-      title: P1 Orientation
-      id: infopic
-      button: Find out More
-      url: /p1orientation/
-      image: /images/p1orientation.jpg
-      alt: Image alt text
-  - infopic:
-      title: GEP E-Open House
-      id: infopic
-      button: Find out more
-      url: /gepoh/
-      image: /images/gepsite.png
+      url: /ms-teams
+      image: /images/Screenshot_2025_01_03_124441.png
       alt: Image alt text
   - infopic:
       title: Canteen Stall Vacancy
@@ -52,18 +39,4 @@ sections:
       url: /canteen-vendor/
       alt: Image alt text
       image: /images/Malay_halal.png
-  - infopic:
-      title: MS TEAMS
-      subtitle: Parents' Guide
-      id: infopic
-      button: Click here
-      url: /ms-teams
-      image: /images/Screenshot_2025_01_03_124441.png
-      alt: Image alt text
-  - infobar:
-      title: Briefing Slides
-      subtitle: "2025"
-      id: infobar
-      button: Click Here
-      url: parents/briefing-slides/pri1/
 ---
