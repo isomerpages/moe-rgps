@@ -34,6 +34,10 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-dgl5">Subject Head Chinese Language</td>
     <td class="tg-ktyi">Mr Guo Jiguang</td>
   </tr>
+	<tr>
+    <td class="tg-dgl5">Subject Head Chinese Language</td>
+    <td class="tg-ktyi">Mr Wang Jianbo</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Senior Teacher Chinese Language</td>
     <td class="tg-ktyi">Mrs Heng Meng Tee</td>
@@ -55,6 +59,10 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-ktyi">Mdm Ang Geok Peng</td>
   </tr>
   <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Azizah Sarnon</td>
+  </tr>
+	<tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Azizah</td>
   </tr>
