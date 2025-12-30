@@ -5,38 +5,12 @@ description: ""
 third_nav_title: Notifications
 variant: markdown
 ---
-### **2025**
+### **2026**
 
 ##### Term 1
 
 | Date| File | 
 | -------- | -------- |
-|30 Dec 2024|[P1 January Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_001.pdf)|
-|30 Dec 2024|[Welcome to RGPS Info for P1 Parents](/files/Notification%202025/Pri%201/Welcome_to_RGPS_Information_for_P1_parents.pdf)|
-|15 Jan|[P1 January Circular (Part 2)](/files/Notification%202025/Pri%201/RGPS_N25_P1_003.pdf)|
-|15 Jan|[Annex A For P1](/files/Notification%202025/Pri%201/Annex_A__For_P1_only_.pdf)|
-|5 Feb|[P1 February Circular](/files/Notification%202025/Pri%201/P1.pdf)<br>[Triple P Program](/files/Notification%202025/Pri%201/Triple_P_PG_Notification_Indicate_Interest_2025_Flyer.pdf)<br>[Inspiring EL Award 2025](/files/Notification%202025/Pri%201/Inspiring_EL_Award_2025.pdf)|
-|5 Mar|[P1 March Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_005.pdf)|
+|30 Dec 2025|[2026 P1 Jan circular (Part 1)](/files/Notification%202026/Pri%201/RGPS_N26_P1_001.pdf)<br>[Smart Buddy Registration Letter](/files/Notification%202026/All%20levels/Smart_Buddy_Registration_Letter__Digital__Matched_Savings_.pdf)<br>[Parent User Guide PG](/files/Notification%202026/All%20levels/Parent_User_Guide_PG_Mobile_App.pdf)|
 
-##### Term 2
 
-| Date| File | 
-| -------- | -------- |
-|2 Apr|[P1 April Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_007.pdf)|
-|7 May|[P1 May Circulars](/files/Notification%202025/Pri%201/RGPS_N25_P1_008.pdf)<br>[Triple P](/files/Notification%202025/Pri%206/P1_P6_Triple_P_PG_Notification_Mid_Year_Indicate_Interest_Flyer.pdf)|
-
-##### Term 3
-
-| Date| File | 
-| -------- | -------- |
-|26 Jun|[P1 July Circular (Part 1)](/files/Notification%202025/Pri%201/RGPS_N25_P1_011.pdf)<br>[Advisory from PUB and LTA](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)<br>[NCADA World Drug Day 2025](/files/Notification%202025/Pri%201%20to%206/NCADA_World_Drug_Day_2025_Message.pdf)|
-|2 Jul|[P1 July Circular (Part 2)](/files/Notification%202025/Pri%201/RGPS_N25_P1_012.pdf)<br>[P1 &amp; P2 Library Week Workshop](/files/Notification%202025/Pri%201%20to%206/P1___P2_Library_Week_Workshop.pdf)<br>[All Levels_Triple P Seminar for Grandparents](/files/Notification%202025/Pri%201%20to%206/All_Levels_Triple_P_Seminar_for_Grandparents.pdf)|
-|6 Aug|[P1 Aug Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_013.pdf)<br>[Letter from LTA](/files/Notification%202025/Pri%201/Notification_from_LTA.pdf)<br>[Caring Teacher Award 2026](/files/Notification%202025/Pri%201/Caring_Teacher_Awards__CTA_2026_compress.pdf)|
-|3 Sep|[P1 September Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_014.pdf)|
-
-##### Term 4
-
-| Date| File | 
-| -------- | -------- |
-|1 Oct|[P1 October Circular](/files/Notification%202025/RGPS_N25_P1_016.pdf)|
-|6 Nov|[P1 November Circular](/files/Notification%202025/Pri%201/RGPS_N25_P1_017.pdf)<br>[Parent User Guide PG Mobile App](/files/Notification%202025/Pri%201/Parent_User_Guide_PG_Mobile_App.pdf)<br>[FAQs for Parents Notify Absence](/files/Notification%202025/Pri%201/FAQs_for_Parents__Notify_absence_.pdf)|
