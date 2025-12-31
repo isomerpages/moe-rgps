@@ -108,7 +108,7 @@ To develop our pupils to be proficient and pervasive users of the Language
   </tr>
 	 <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Lim Hui Khooh</td>
+    <td class="tg-ktyi">Ms Lim Hui Khooh</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
