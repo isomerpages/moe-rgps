@@ -115,3 +115,4 @@ variant: markdown
 | |  |  | 
 | -------- | -------- | -------- |
 | **Mdm Goh E-Lynn** | Subject Head - Student Leadership   | <a href="goh_e-lynn@schools.gov.sg">goh_e-lynn@schools.gov.sg</a>     |
+| **Mdm Teo Siew Huai** | Subject Head - Student Leadership   | <a href="teo_siew_huai@schools.gov.sg">teo_siew_huai@schools.gov.sg</a>     |
