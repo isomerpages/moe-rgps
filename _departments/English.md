@@ -52,7 +52,7 @@ To equip our students with literacy skills that enable them to be linguistically
   </tr>
 	<tr>
         <td class="tg-1wig">Teacher</td>
-    <td class="tg-0lax">Mrs Catherine Lin</td>
+    <td class="tg-0lax">Mdm Catherine Lin</td>
   </tr>
 		 <tr>
     <td class="tg-0lax"> </td>
@@ -96,7 +96,7 @@ To equip our students with literacy skills that enable them to be linguistically
   </tr>
 	<tr>
     <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mrs Serene Leong</td>
+    <td class="tg-0lax">Mdm Serene Leong</td>
   </tr>
 	  <tr>
     <td class="tg-0lax"> </td>
