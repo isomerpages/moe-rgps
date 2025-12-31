@@ -65,6 +65,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | **Mdm Yap Fang Ying** | HOD - Mother Tongue   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
 | **Mr Guo Jiguang** | Subject Head - Chinese Language   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
+| **Mr Wang Jianbo** | Subject Head - Chinese Language   | <a href="wang_jianbo@schools.gov.sg">wang_jianbo@schools.gov.sg</a>     |
 
 ### Science Department
 
