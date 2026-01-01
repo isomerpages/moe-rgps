@@ -79,10 +79,32 @@ third_nav_title: Curriculum Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>2 Jan</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Curriculum Slides 2026/PE/P1_PE_Curriculum_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">PE</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Curriculum Slides 2026/PE/PAL_Curriculum_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">PAL</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
