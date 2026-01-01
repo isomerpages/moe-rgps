@@ -79,11 +79,7 @@ third_nav_title: Curriculum Briefing Slides
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>2 Jan</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
