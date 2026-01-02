@@ -34,6 +34,10 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-dgl5">Subject Head Chinese Language</td>
     <td class="tg-ktyi">Mr Guo Jiguang</td>
   </tr>
+	<tr>
+    <td class="tg-dgl5">Subject Head Chinese Language</td>
+    <td class="tg-ktyi">Mr Wang Jianbo</td>
+  </tr>
   <tr>
     <td class="tg-dgl5">Senior Teacher Chinese Language</td>
     <td class="tg-ktyi">Mrs Heng Meng Tee</td>
@@ -56,15 +60,15 @@ To develop our pupils to be proficient and pervasive users of the Language
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Azizah Sarnon</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Azizah</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Chew Sok Tien</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Chong Suh In</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -102,17 +106,21 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Li Yixian</td>
   </tr>
+	 <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Ms Lim Hui Khooh</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Lui Keet Mun</td>
   </tr>
-  <tr>
+	<tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Poh Weijing</td>
+    <td class="tg-ktyi">Mdm Peh Hwee Boon</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Roslinda</td>
+    <td class="tg-ktyi">Mdm Poh Weijing</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -130,6 +138,10 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Tan Hui Li</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Tan Lay Lian</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Tang Jingwen</td>
@@ -145,6 +157,10 @@ To develop our pupils to be proficient and pervasive users of the Language
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Yap Ying Tong</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Yuan Xiao Lei</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>

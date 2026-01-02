@@ -65,6 +65,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | **Mdm Yap Fang Ying** | HOD - Mother Tongue   | <a href="yap_fang_ying@schools.gov.sg">yap_fang_ying@schools.gov.sg</a>     |
 | **Mr Guo Jiguang** | Subject Head - Chinese Language   | <a href="guo_jiguang@schools.gov.sg">guo_jiguang@schools.gov.sg</a>     |
+| **Mr Wang Jianbo** | Subject Head - Chinese Language   | <a href="wang_jianbo@schools.gov.sg">wang_jianbo@schools.gov.sg</a>     |
 
 ### Science Department
 
@@ -98,8 +99,9 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
+| **Mr Seah Nam Sin** | HOD - Data Management (Covering duty) | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
 | **Ms Ang Kai Mei** | Subject Head - ICT   | <a href="ang_kai_mei@schools.gov.sg">ang_kai_mei@schools.gov.sg</a>     |
-| **Mr Seah Nam Sin** | Subject Head - Data Management   | <a href="seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
+
 
 
 ### CCE Department
@@ -113,4 +115,5 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mdm Goh E-Lynn** | Subject Head - Student Leadership   | <a href="goh_e-lynn@schools.gov.sg">goh_e-lynn@schools.gov.sg</a>     |
+| **Mdm Goh E-Lynn** | HOD - Student Leadership (Covering duty)  | <a href="goh_e-lynn@schools.gov.sg">goh_e-lynn@schools.gov.sg</a>     |
+| **Mdm Teo Siew Huai** | Subject Head - Student Leadership   | <a href="teo_siew_huai@schools.gov.sg">teo_siew_huai@schools.gov.sg</a>     |

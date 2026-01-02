@@ -23,6 +23,13 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
+  - infobar:
+      title: Curriculum Briefing Sildes
+      subtitle: "2026"
+      id: infobar
+      description: Primary 1 to 6
+      button: Click Here
+      url: /parents/briefing-slides/pri1/
   - infopic:
       title: MS TEAMS
       subtitle: Parents' Guide

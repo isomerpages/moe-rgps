@@ -53,19 +53,23 @@ To equip the pupils with an inquiring mind, science process skills and knowledge
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Janice Yeo</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Kandoth Shaheena</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Roziyana Rahmat</td>
   </tr>
+	  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mrs Martha John</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Tan Li Peng</td>
+  </tr>
+	 <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mdm Tan Mei Fang</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>

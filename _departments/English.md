@@ -50,9 +50,9 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-1wig">Senior Teacher English</td>
     <td class="tg-0lax">Mdm Tan Hwee Hoon</td>
   </tr>
-  <tr>
-    <td class="tg-1wig">Teacher</td>
-    <td class="tg-0lax">Ms Ang Kai Mei</td>
+	<tr>
+        <td class="tg-1wig">Teacher</td>
+    <td class="tg-0lax">Mdm Catherine Lin</td>
   </tr>
 		 <tr>
     <td class="tg-0lax"> </td>
@@ -61,10 +61,6 @@ To equip our students with literacy skills that enable them to be linguistically
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Elaine Mok</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mrs Lorna Eng </td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
@@ -98,21 +94,25 @@ To equip our students with literacy skills that enable them to be linguistically
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Norshahedah</td>
   </tr>
+	<tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mdm Serene Leong</td>
+  </tr>
 	  <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Ms Thavaselvi</td>
   </tr>
-  <tr>
+    <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mr Ulysses Wong</td>
+  </tr>
+	<tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mr Vincent Chia Chee Sheong</td>
   </tr>
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Wong Liang Min</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> </td>
-    <td class="tg-0lax">Mr Ulysses Wong</td>
   </tr>
 </tbody>
 </table>
