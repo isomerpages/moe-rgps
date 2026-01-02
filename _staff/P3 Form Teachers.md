@@ -36,6 +36,11 @@ variant: markdown
         <td>3C</td>
         <td>teng_mui_noi@schools.gov.sg</td>
     </tr>
+			<tr>
+        <td>Ms Celine Tan</td>
+        <td>3C</td>
+        <td>tan_hwee_suan@schools.gov.sg</td>
+    </tr>
 <tr>
         <td>Ms Serene Leong</td>
         <td>3D</td>
