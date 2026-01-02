@@ -66,6 +66,11 @@ variant: markdown
         <td>4F</td>
         <td>foo_hwa_ming@schools.gov.sg</td>
     </tr>
+			<tr>
+        <td>Ms De Silva Julie Ann</td>
+        <td>4F</td>
+        <td>de_silva_julie_ann@schools.gov.sg</td>
+    </tr>
 <tr>
         <td>Mdm Wong Wei Yuan</td>
         <td>4G</td>
