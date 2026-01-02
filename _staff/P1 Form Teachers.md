@@ -4,106 +4,102 @@ permalink: /staff/p1-form-teachers/
 description: ""
 variant: markdown
 ---
-### **2025**
+### **2026**
 <table>
     <tbody><tr style="width:100%">
         <th style="width:40%">Name</th>
         <th style="width:10%">Class</th>
         <th style="width:50%">Email</th>
     </tr>
-    <tr>
-        <td>Mdm Lee Chi Loo</td>
+<tr>
+        <td>Mrs Claresta Chee</td>
         <td>1A</td>
-        <td>teo_chi_loo@schools.gov.sg</td>
+        <td>claresta_wong@schools.gov.sg</td>
     </tr>
     <tr>
-        <td>Mdm Poh Weijing</td>
+        <td>Ms Chew Sok Tien</td>
         <td>1A</td>
-        <td>poh_weijing@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Ms Ang Qin Ying Cindy</td>
-        <td>1B</td>
-        <td>ang_qin_ying_cindy@schools.gov.sg</td>
-    </tr>
-			<tr>
-        <td>Mdm Sheri Teoh Swee Phing</td>
-        <td>1B</td>
-        <td>sheri_teoh_swee_phing@schools.gov.sg</td>
-    </tr>
-				<tr>
-					<td>Ms Teo Hui Xin</td>
-        <td>1B</td>
-        <td>teo_hui_xin@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Ms Leong Oon Ho</td>
-        <td>1C</td>
-        <td>leong_oon_ho@schools.gov.sg</td>
-    </tr>
-     <tr>
-        <td>Ms Yap Ying Tong</td>
-        <td>1C</td>
-        <td>yap_ying_tong@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Ms Low Woon Mei</td>
-        <td>1D</td>
-        <td>low_woon_mei@schools.gov.sg</td>
+        <td>chew_sok_tien@schools.gov.sg</td>
     </tr>
  <tr>
-        <td>Ms Cheng Sok Mung</td>
-        <td>1D</td>
-        <td>cheng_sok_mung_a@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Mdm Junaidah</td>
-        <td>1E</td>
-        <td>junaidah_m_yusof@schools.gov.sg</td>
-    </tr>
- <tr>
-        <td>Mdm Chua Huiyi</td>
-        <td>1E</td>
-        <td>chua_huiyi@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Ms Lim Hoa Lin</td>
-        <td>1F</td>
-        <td>lim_hoa_lin_A@schools.gov.sg</td>
+        <td>Ms Celia Lee</td>
+        <td>1B</td>
+        <td>lee_hui_ming_celia@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Ms Li Yixian</td>
-        <td>1F</td>
+        <td>1B</td>
         <td>li_yixian@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Mdm Karen Ang</td>
-        <td>1G</td>
-        <td>ang_suat_sian_karen_a@schools.gov.sg</td>
-    </tr>
-<tr>
-        <td>Ms Eng Lik Boon</td>
-        <td>1G</td>
-        <td>eng_lik_boon@schools.gov.sg</td>
-    </tr>
- 	<tr>
         <td>Mdm Teo Siew Huai</td>
-        <td>1H</td>
+        <td>1C</td>
         <td>teo_siew_huai@schools.gov.sg</td>
     </tr>
- <tr>
-        <td>Ms Ho Soo Peng</td>
-        <td>1H</td>
-        <td>ho_soo_peng@schools.gov.sg</td>
+    <tr>
+        <td>Mrs Catherine Chen</td>
+        <td>1C</td>
+        <td>lin_qiuhan_catherine@schools.gov.sg</td>
     </tr>
- <tr>
-        <td>Mr Ulysses Wong</td>
-        <td>1I</td>
-        <td>wong_xun_li_ulysses@schools.gov.sg</td>
+	<tr>
+        <td>Mdm Low Qiu Hong</td>
+        <td>1D</td>
+        <td>low_qiuhong@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Ms Azizah</td>
-        <td>1I</td>
-        <td>azizah_sarnon_yarmo@schools.gov.sg</td>
+        <td>Mdm Lui Keet Mun</td>
+        <td>1D</td>
+        <td>lui_keet_mun@schools.gov.sg</td>
     </tr>
-	</tbody></table>
+ <tr>
+        <td>Ms Elicia Lim</td>
+        <td>1E</td>
+        <td>lim_pheh_fuen@schools.gov.sg</td>
+    </tr>
+<tr>
+	<td>Mdm Peh Hwee Boon</td>
+        <td>1E</td>
+        <td>peh_hwee_boon@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Lim See Peng</td>
+        <td>1F</td>
+        <td>lim_see_peng@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mr Gerald Ang</td>
+        <td>1F</td>
+        <td>ang_eu_jin_gerald_a@schools.gov.sg
+</td>
+    </tr>
+			 <tr>
+        <td>Mdm Norshahedah</td>
+        <td>1G</td>
+        <td>norshahedah_aslam_khan@schools.gov.sg</td>
+    </tr>
+  <tr>
+        <td>Mrs Heng Meng Tee</td>
+        <td>1G</td>
+        <td>heng_meng_tee@schools.gov.sg</td>
+    </tr>
+    <tr>
+        <td>Mdm Clara Chin Mee Nyuk</td>
+        <td>1H</td>
+        <td>clara_mee_nyuk_chin@schools.gov.sg</td>
+    </tr>
+	<tr>
+	<td>Ms Teo Hui Xin</td>
+        <td>1H</td>
+        <td>teo_hui_xin@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Ms Joyce Tan Choon Yee</td>
+        <td>1I</td>
+        <td>tan_choon_yee@schools.gov.sg</td>
+    </tr>
+<tr>
+        <td>Mdm Tan Chiew Nooi</td>
+        <td>1I</td>
+        <td>tan_chiew_nooi@schools.gov.sg</td>
+    </tr>
+</tbody></table>
