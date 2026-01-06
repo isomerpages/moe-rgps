@@ -44,7 +44,8 @@ third_nav_title: Curriculum Briefing Slides
 <p>2 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Curriculum Slides 2026/MT/P5_MT_Curriculum_slides_2026.pdf" rel="noopener nofollow" target="_blank">Mother Tongue (MT)</a>
+</p>
 </td>
 </tr>
 <tr>
