@@ -75,6 +75,15 @@ third_nav_title: Curriculum Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Curriculum Slides 2026/Combined by Level/P3_Briefing_2026___Combined__V1__compressed.pdf" rel="noopener nofollow" target="_blank">P3 Briefing on 6 Jan</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
