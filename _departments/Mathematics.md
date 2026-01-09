@@ -79,6 +79,10 @@ To develop our pupils with mathematical concepts and skills for everyday life an
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mdm Junaidah</td>
   </tr>
+	<tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax">Mdm Khoo Kim Kim</td>
+  </tr>
   <tr>
     <td class="tg-0lax"> </td>
     <td class="tg-0lax">Mr Ronald Lee</td>
