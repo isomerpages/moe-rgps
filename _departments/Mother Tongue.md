@@ -48,7 +48,7 @@ To develop our pupils to be proficient and pervasive users of the Language
   </tr>
   <tr>
     <td class="tg-dgl5">TL Coordinator</td>
-    <td class="tg-ktyi">Mrs Kalamani&nbsp;Tanabal</td>
+    <td class="tg-ktyi">Mdm Sashikala</td>
   </tr>
   <tr>
     <td class="tg-dgl5">ML Coordinator</td>
@@ -90,6 +90,10 @@ To develop our pupils to be proficient and pervasive users of the Language
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Gao Jingru</td>
   </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">Mrs Kalamani&nbsp;Tanabal</td>
+  </tr>
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Ms Khoo Wai Ling</td>
@@ -121,10 +125,6 @@ To develop our pupils to be proficient and pervasive users of the Language
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-ktyi">Mdm Poh Weijing</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"> </td>
-    <td class="tg-ktyi">Mdm Sashikala</td>
   </tr>
 	  <tr>
     <td class="tg-ktyi"> </td>
