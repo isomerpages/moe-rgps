@@ -2,6 +2,7 @@
 title: Contact Information
 permalink: /contact-us/contactinfo/
 description: ""
+variant: markdown
 ---
 | **General Office** |  | 
 | -------- | -------- | 
