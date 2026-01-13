@@ -110,7 +110,7 @@ third_nav_title: Curriculum Briefing Slides
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Curriculum Slides 2026/Combined by Level/PTM_Slides_Jan_2026_Combined_compressed.pdf" rel="noopener nofollow" target="_blank">P1 Briefing on 12 Jan</a>
+<p><a href="/files/Curriculum Slides 2026/Combined by Level/P1_Slides_Jan_2026_Combined_compressed.pdf" rel="noopener nofollow" target="_blank">P1 Briefing on 12 Jan</a>
 </p>
 </li>
 </ul>
