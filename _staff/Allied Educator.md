@@ -4,11 +4,7 @@ permalink: /staff/allied-educator/
 description: ""
 variant: markdown
 ---
-### School Counsellor
 
-| |  |  | 
-| -------- | -------- | -------- |
-| **Ms Audrey Leong Yoke Leng** |    | <a href="mailto:Audrey_Leong_Yoke_Leng_A@schools.gov.sg">Audrey_Leong_Yoke_Leng_A@schools.gov.sg</a>     |
 
 ### SEN Officer
 
