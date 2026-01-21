@@ -86,16 +86,16 @@ variant: markdown
         <td>2G</td>
         <td>tan_mei_fang_a@schools.gov.sg</td>
     </tr>
+			<tr>
+        <td>Ms Nasyitah</td>
+        <td>2H</td>
+        <td>nasyitah_razali@schools.gov.sg</td>
+    </tr>
  <tr>
         <td>Ms Ho Soo Peng</td>
         <td>2H</td>
         <td>ho_soo_peng@schools.gov.sg</td>
     </tr>
-<tr>
-        <td>Ms Farhani Hanafi-Shuy</td>
-        <td>2H</td>
-        <td>noor_farhani_hanafi@schools.gov.sg</td>
-	</tr>
  <tr>
         <td>Mr Ulysses Wong</td>
         <td>2I</td>

@@ -86,16 +86,16 @@ variant: markdown
         <td>4G</td>
         <td>thong_kar_fong@schools.gov.sg</td>
     </tr>
-<tr>
-        <td>Ms Nasyitah</td>
-        <td>4H</td>
-        <td>nasyitah_razali@schools.gov.sg</td>
-    </tr>
 	<tr>
         <td>Mdm Kavitha</td>
         <td>4H</td>
         <td>kavitha_selvananthan@schools.gov.sg</td>
-    </tr>  		
+    </tr>
+			<tr>
+        <td>Mrs Happy Wong</td>
+        <td>4H</td>
+        <td>Wong_Kim_Bee_Happy_A@schools.gov.sg</td>
+    </tr>
 <tr>
         <td>Mdm Tan Hwee Hoon</td>
         <td>4I</td>
