@@ -45,7 +45,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Raffles Girls’ Primary School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Raffles Girls’ Primary School’s Sexuality Education Programme for 2026</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -77,8 +77,8 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<h5><strong>At Raffles Girls’ Primary School, the following Sexuality Education lessons will be taught in 2025:</strong></h5>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<h5><strong>At Raffles Girls’ Primary School, the following Sexuality Education lessons will be taught in 2026:</strong></h5>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <h5><strong>Primary 5</strong></h5>
 <h5><strong>CCE(FTGP) THEME : Growing Years</strong><br></h5>
@@ -229,7 +229,7 @@ Education programmes by MOE-approved external providers.
 <br>
 <br>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form using the following link <a href="https://go.gov.sg/rgps-sed-optout2025" rel="noopener noreferrer nofollow" target="_blank">here</a> by 14 February 2025.
+an opt-out form using the following link <a href="https://go.gov.sg/rgps-sed-opt-out-2026" rel="noopener noreferrer nofollow" target="_blank">here</a> by 14 February 2026.
 <br>
 <br>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact
 the school at 6468 4377 for discussion or to seek clarification about the
