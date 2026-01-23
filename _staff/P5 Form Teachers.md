@@ -88,11 +88,6 @@ variant: markdown
         <td>Azizah_Shaik_Abdul_Kadir_A@schools.gov.sg</td>
     </tr>
 <tr>
-        <td>Mdm Guo Fengling</td>
-        <td>5G</td>
-        <td>guo_fengling@schools.gov.sg</td>
-    </tr>
-<tr>
         <td>Ms Pek Xueyan</td>
         <td>5G</td>
         <td>pek_xueyan@schools.gov.sg</td>
