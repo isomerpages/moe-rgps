@@ -92,6 +92,11 @@ variant: markdown
         <td>kavitha_selvananthan@schools.gov.sg</td>
     </tr>
 			<tr>
+        <td>Mdm Guo Fengling</td>
+        <td>4H</td>
+        <td>guo_fengling@schools.gov.sg</td>
+    </tr>
+			<tr>
         <td>Mrs Happy Wong</td>
         <td>4H</td>
         <td>Wong_Kim_Bee_Happy_A@schools.gov.sg</td>
