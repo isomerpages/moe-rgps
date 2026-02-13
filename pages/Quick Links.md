@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://schools.gov.sg/owa" rel="noopener noreferrer nofollow" target="_blank">Outlook</a>
+<p><a href="https://outlook.office365.com/owa" rel="noopener noreferrer nofollow" target="_blank">Outlook</a>
 </p>
 </li>
 <li>
