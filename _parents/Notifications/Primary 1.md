@@ -15,3 +15,4 @@ variant: markdown
 |14 Jan|[2026 P1 January Circulars (Part 2)](/files/Notification%202026/Pri%201/RGPS_N26_P1_002.pdf)|
 |21 Jan|[2026 P1 January Circulars (Part 3)](/files/Notification%202026/Pri%201/RGPS_N26_P1_003.pdf)|
 |4 Feb|[2026 P1 February Circulars ](/files/Notification%202026/Pri%201/RGPS_N26_P1_004_Feb.pdf)|
+|20 Feb|[Consent to use MOE Centrally Provisioned Digital Tools](/files/Notification%202026/Pri%201/RGPS_N26_P1_005___MOE_Centrally_Provisioned_Digital_Tools.pdf)
