@@ -8,7 +8,7 @@ variant: markdown
 Nurturing Women of Excellence, Leaders of Character and Service
 
 #### **Vision**
-A Vibrant Community of Creative Thinkers, Lifelong Learners and Value-based Leaders
+A Vibrant Community of Creative Thinkers, Lifelong Learners and Values-based Leaders
 
 #### **Values**
 Graciousness, Gratitude, Integrity, Responsibility, Resilience
