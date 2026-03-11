@@ -84,6 +84,15 @@ third_nav_title: Curriculum Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Curriculum Slides 2026/Combined by Level/2026_P6_Parents__Briefing__Parent_Version_.pdf" rel="noopener nofollow" target="_blank">PSLE Scoring, Full Subject-based Banding (SBB) &amp; Sec 1 Posting</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
