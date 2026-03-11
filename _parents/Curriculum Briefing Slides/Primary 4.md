@@ -84,6 +84,15 @@ third_nav_title: Curriculum Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Curriculum Slides 2026/Combined by Level/P4_Parents__Briefing_4_March_2026_SBB_.pdf" rel="noopener nofollow" target="_blank">P4 Subject-based Banding Briefing</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
