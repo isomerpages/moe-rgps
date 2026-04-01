@@ -17,3 +17,9 @@ variant: markdown
 |4 Feb|[2026 P1 February Circulars ](/files/Notification%202026/Pri%201/RGPS_N26_P1_004_Feb.pdf)|
 |20 Feb|[Consent to use MOE Centrally Provisioned Digital Tools](/files/Notification%202026/Pri%201/RGPS_N26_P1_005___MOE_Centrally_Provisioned_Digital_Tools.pdf)|
 |4 Mar|[2026 P1 March Circulars](/files/Notification%202026/Pri%201/RGPS_N26_P1_005.pdf)<br>[Parenting Webinar](/files/Notification%202026/Pri%201/Parenting_Webinar_on_11_Apr_2026_Webinar__Pri__poster.pdf)<br>[Join Circular (Traffic Advisory)](/files/Notification%202026/Pri%201/Joint_Circular.pdf)|
+
+##### Term 2
+
+| Date| File | 
+| -------- | -------- |
+|1 April|[2026 P1 April Circulars](/files/Notification%202026/Pri%201/RGPS_N26_P1_007.pdf)|
