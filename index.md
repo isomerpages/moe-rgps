@@ -46,4 +46,11 @@ sections:
       url: /canteen-vendor/
       alt: Image alt text
       image: /images/Malay_halal.png
+  - infopic:
+      title: P5 Adventure Camp 2026
+      id: infopic
+      button: Click Here
+      url: /p5-camp/
+      image: /images/Screenshot_2026_04_16_161047.png
+      alt: Image alt text
 ---
