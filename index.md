@@ -23,6 +23,13 @@ sections:
           url: /parents/student-icon/
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
+  - infopic:
+      title: P5 Adventure Camp 2026
+      id: infopic
+      button: Click Here
+      url: /p5-camp/
+      image: /images/Screenshot_2026_04_16_161047.png
+      alt: Image alt text
   - infobar:
       title: Curriculum Briefing Sildes
       subtitle: "2026"
@@ -46,11 +53,4 @@ sections:
       url: /canteen-vendor/
       alt: Image alt text
       image: /images/Malay_halal.png
-  - infopic:
-      title: P5 Adventure Camp 2026
-      id: infopic
-      button: Click Here
-      url: /p5-camp/
-      image: /images/Screenshot_2026_04_16_161047.png
-      alt: Image alt text
 ---
