@@ -22,3 +22,4 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |1 April|[2026 P4 April Circulars](/files/Notification%202026/Pri%204/RGPS_N26_P4_018.pdf)|
+|6 May|[2026 P4 May Circulars](/files/Notification%202026/Pri%204/RGPS_N26_P4_022.pdf)<br>[Drug Victims Remembrance Day (Parents Guide)](/files/Notification%202026/Pri%205/Drug_Victims_Remembrance_Day_Parents_Guide.pdf)|

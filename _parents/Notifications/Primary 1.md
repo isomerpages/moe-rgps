@@ -23,3 +23,4 @@ variant: markdown
 | Date| File | 
 | -------- | -------- |
 |1 April|[2026 P1 April Circulars](/files/Notification%202026/Pri%201/RGPS_N26_P1_007.pdf)|
+|6 May|[2026 P1 May Circulars](/files/Notification%202026/Pri%201/RGPS_N26_P1_008.pdf)|
