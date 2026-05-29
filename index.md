@@ -24,7 +24,7 @@ sections:
       title: RAFFLES GIRLS' PRIMARY SCHOOL
       subtitle: Nurturing Women of Excellence, Leaders of Character and Service
   - infobar:
-      title: Curriculum Briefing Sildes
+      title: Briefing Sildes
       subtitle: "2026"
       id: infobar
       description: Primary 1 to 6
