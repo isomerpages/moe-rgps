@@ -84,6 +84,15 @@ third_nav_title: Curriculum Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026_P5_briefing_on_DSA.pdf" rel="noopener nofollow" target="_blank">P5 Briefing on DSA</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
