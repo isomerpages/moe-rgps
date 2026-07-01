@@ -23,3 +23,9 @@ variant: markdown
 | -------- | -------- |
 |1 April|[2026 P5 April Circulars](/files/Notification%202026/Pri%205/RGPS_N26_P5_018.pdf)|
 |6 May|[2026 P5 May Circulars](/files/Notification%202026/Pri%205/RGPS_N26_P5_022.pdf)<br>[Drug Victims Remembrance Day (Parents Guide)](/files/Notification%202026/Pri%205/Drug_Victims_Remembrance_Day_Parents_Guide.pdf)|
+
+##### Term 3
+
+| Date| File | 
+| -------- | -------- |
+|1 Jul|[2026 P5 Jul Circulars (Part 2)](/files/Notification%202026/Pri%205/RGPS_N26_P5_025.pdf)<br>[Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_Green_Commutes_Challenge_RGPS.pdf)<br>[Traffic Surveillance Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_for_traffic_surveillance_Green_Commutes_Challenge_2026_RGPS.pdf)|
