@@ -28,4 +28,5 @@ variant: markdown
 
 | Date| File | 
 | -------- | -------- |
+|24 Jun|[2026 P3 Jul Circulars (Part 1)](/files/Notification%202026/Pri%203/RGPS_N26_P3_015.pdf)|
 |1 Jul|[2026 P3 Jul Circulars (Part 2)](/files/Notification%202026/Pri%203/RGPS_N26_P3_017.pdf)<br>[Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_Green_Commutes_Challenge_RGPS.pdf)<br>[Traffic Surveillance Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_for_traffic_surveillance_Green_Commutes_Challenge_2026_RGPS.pdf)|
