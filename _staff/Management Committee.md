@@ -17,11 +17,6 @@ variant: markdown
 | **Ms Kong Su May** |   | <a href="mailto:kong_su_may@schools.gov.sg">kong_su_may@schools.gov.sg</a>     |
 | **Ms Sujatha Paramathayalan** |   | <a href="mailto:sujatha_paramathayalan@schools.gov.sg">sujatha_paramathayalan@schools.gov.sg</a>     |
 
-### Vice Principal Admin
-
-|  |  |  |
-| -------- | -------- | -------- |
-| **Mr Loh Yuh Por** |    | <a href="mailto:loh_yuh_por@schools.gov.sg">loh_yuh_por@schools.gov.sg</a>     |
 
 ### School Staff Developer
 
@@ -98,7 +93,7 @@ variant: markdown
 
 | |  |  | 
 | -------- | -------- | -------- |
-| **Mr Seah Nam Sin** | HOD - Data Management (Covering duty) | <a href="mailto:seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
+| **Mr Seah Nam Sin** | HOD - Data Management | <a href="mailto:seah_nam_sin@schools.gov.sg">seah_nam_sin@schools.gov.sg</a>     |
 | **Ms Ang Kai Mei** | Subject Head - ICT   | <a href="mailto:ang_kai_mei@schools.gov.sg">ang_kai_mei@schools.gov.sg</a>     |
 
 
