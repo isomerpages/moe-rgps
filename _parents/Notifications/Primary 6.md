@@ -30,3 +30,4 @@ variant: markdown
 | -------- | -------- |
 |24 Jun|[2026 P6 Jul Circulars (Part 1)](/files/Notification%202026/Pri%206/RGPS_N26_P6_020.pdf)|
 |1 Jul|[2026 P6 Jul Circulars (Part 2)](/files/Notification%202026/Pri%206/RGPS_N26_P6_021.pdf)<br>[Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_Green_Commutes_Challenge_RGPS.pdf)<br>[Traffic Surveillance Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_for_traffic_surveillance_Green_Commutes_Challenge_2026_RGPS.pdf)|
+|3 Jul|[RGPS P6 Prelim Schedule 2026](/files/Notification%202026/Pri%206/RGPS_N26_P6_022_RGPS_P6_Prelim_Schedule_2026.pdf)|
