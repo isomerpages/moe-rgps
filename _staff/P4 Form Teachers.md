@@ -71,11 +71,6 @@ variant: markdown
         <td>4F</td>
         <td>Martha_Krishnakumari_Ramdas_C@schools.gov.sg</td>
     </tr>
-			<tr>
-        <td>Ms De Silva Julie Ann</td>
-        <td>4F</td>
-        <td>de_silva_julie_ann@schools.gov.sg</td>
-    </tr>
 <tr>
         <td>Mdm Wong Wei Yuan</td>
         <td>4G</td>
@@ -95,11 +90,6 @@ variant: markdown
         <td>Mdm Guo Fengling</td>
         <td>4H</td>
         <td>guo_fengling@schools.gov.sg</td>
-    </tr>
-			<tr>
-        <td>Mrs Happy Wong</td>
-        <td>4H</td>
-        <td>Wong_Kim_Bee_Happy_A@schools.gov.sg</td>
     </tr>
 <tr>
         <td>Mdm Tan Hwee Hoon</td>
