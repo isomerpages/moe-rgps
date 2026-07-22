@@ -84,6 +84,15 @@ third_nav_title: Curriculum Briefing Slides
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Curriculum Slides 2026/The_Refreshed_Approach_Parent_Engagement_2026_20_July_updated.pdf" rel="noopener nofollow" target="_blank">Refreshed Approach (Parent Engagement)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
