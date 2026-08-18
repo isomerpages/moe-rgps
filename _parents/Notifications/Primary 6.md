@@ -30,6 +30,6 @@ variant: markdown
 | -------- | -------- |
 |24 Jun|[2026 P6 Jul Circulars (Part 1)](/files/Notification%202026/Pri%206/RGPS_N26_P6_020.pdf)|
 |1 Jul|[2026 P6 Jul Circulars (Part 2)](/files/Notification%202026/Pri%206/RGPS_N26_P6_021.pdf)<br>[Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_Green_Commutes_Challenge_RGPS.pdf)<br>[Traffic Surveillance Green Commutes Challenge](/files/Notification%202026/Pri%201/Letter_to_Parents_for_traffic_surveillance_Green_Commutes_Challenge_2026_RGPS.pdf)|
-|3 Jul|[RGPS P6 Prelim Schedule 2026(Updated)](/files/Notification%202026/Pri%206/RGPS_N26_P6_022_RGPS_P6_Prelim_Schedule_2026_amended.pdf)|
+|3 Jul|[RGPS P6 Prelim Schedule 2026(Updated)](/files/Notification%202026/Pri%206/RGPS_N26_P6_022_RGPS_P6_Prelim_Schedule_2026_amended.pdf)
 |5 Aug|[P6 August Circulars](/files/Notification%202026/Pri%206/RGPS_N26_P6_024.pdf)<br>[Traffic Advisory](/files/Notification%202026/Pri%201/Annex_A_RGPS_Traffic_Advisory.pdf)|
 |14 Aug|[Errata Prelim Exam PG - Math Paper Duration](/files/Notification%202026/Pri%206/Errata_Prelim_Exam_PG___Math_Paper_Duration_updated.pdf)
